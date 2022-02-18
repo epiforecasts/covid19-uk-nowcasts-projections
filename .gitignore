@@ -4,10 +4,5 @@
 .Ruserdata
 .cache
 .DS_Store
-Rplots.pdf
-nohup.out
-logs
+logs/
 **/regional
-format-forecast/samples
-plot.png
-remote/
