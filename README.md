@@ -27,12 +27,11 @@ bash bin/update-forecasts.sh
 
 A summary report is available [here](https://epiforecasts.io/covid19-uk-nowcasts-projections/nowcast-and-projections.html) and in its raw form in `reports/nowcast-and-projections/report.Rmd`.
 
-Individual data files are available in the following locations:
+Individual data files and figures are available in the following locations:
 
-* Rt estimates can be found in `forecast/<data-source>/summary`.
-* Summarised forecasts can be found in `format-forecast/data/all` with plots available in `format-forecast/figures/snapshot/<target>/<date>/<target>-using-<predictor>.png`. Other plots summarising fitting and forecasting are available in the `format-forecast/figures`.
+* Formatted nowcasts (Rt, growth rate, etc) can be found in `format-rt/data/all` with plots available in `format-rt/figures`.
+* Formatted forecasts can be found in `format-forecast/data/all` with plots available in `format-forecast/figures/snapshot/<target>/<date>/<target>-using-<predictor>.png`. Other plots summarising fitting and forecasting are available in the `format-forecast/figures`.
 * Plots summarising convolution parameter values over time are available in the `format-forecast/figures/parameters` folder though these require careful interpretation.
-* Nowcast (Rt, growth rate, incidence etc) can be found formatted for submission in `format-rt/data/all` with plots available in `format-rt/figures`.
 
 ## Making changes
 
