@@ -1,0 +1,170 @@
+---
+title: "Summary of current nowcasts and projections"
+author: Sam Abbott, and Sebastian Funk 
+csl: https://raw.githubusercontent.com/citation-style-language/styles/master/apa-numeric-superscript-brackets.csl
+date: "`r format(Sys.Date(), format = '%B %d, %Y')`"
+output:
+  html_document:
+    theme: cosmo
+    toc: true
+    toc_float: true
+    toc_depth: 4
+---
+
+```{r setup, echo = FALSE, cache = FALSE, include = FALSE}
+require(knitr, quietly = TRUE)
+suppressMessages(require(here, quietly = TRUE))
+date <- lubridate::floor_date(Sys.Date(), "week", week_start = 2)
+knitr::opts_chunk$set(echo = FALSE, message = FALSE)
+```
+
+# Reproduction number estimates
+
+## Latest
+
+```{r}
+include_graphics(here("format-rt", "figures", "latest.png"))
+```
+
+## Nation
+
+```{r}
+include_graphics(here("format-rt", "figures", "national-time-series.png"))
+```
+
+## NHS region
+
+```{r}
+include_graphics(here("format-rt", "figures", "regional-time-series.png"))
+```
+
+# Estimates of the relationship between notifications
+
+## Notification ratios
+
+### Case to admission
+```{r}
+include_graphics(here(
+    "format-forecast", "figures", "parameters", "scaling-admissions.png"
+))
+```
+
+### Admisson to MV bed occupancy
+
+```{r}
+include_graphics(here(
+    "format-forecast", "figures", "parameters", "scaling-mv.png"
+))
+```
+
+### Admission to death
+
+```{r}
+include_graphics(here(
+    "format-forecast", "figures", "parameters", "scaling-deaths.png"
+))
+```
+
+## Log mean transition delays
+
+### Case to admission
+```{r}
+include_graphics(here(
+    "format-forecast", "figures", "parameters", "delay-mean-admissions.png"
+))
+```
+
+### Bed occupancy
+
+```{r}
+include_graphics(here(
+    "format-forecast", "figures", "parameters", "delay-mean-occupancy.png"
+))
+```
+
+### MV bed occupancy
+
+```{r}
+include_graphics(here(
+    "format-forecast", "figures", "parameters", "delay-mean-mv.png"
+))
+```
+
+### Admission to death
+
+```{r}
+include_graphics(here(
+    "format-forecast", "figures", "parameters", "delay-mean-deaths.png"
+))
+```
+
+
+##  Log standard deviation of transitions 
+
+### Case to admission
+```{r}
+include_graphics(here(
+    "format-forecast", "figures", "parameters", "delay-sd-admissions.png"
+))
+```
+
+### Bed occupancy
+
+```{r}
+include_graphics(here(
+    "format-forecast", "figures", "parameters", "delay-sd-occupancy.png"
+))
+```
+
+### MV bed occupancy
+
+```{r}
+include_graphics(here(
+    "format-forecast", "figures", "parameters", "delay-sd-mv.png"
+))
+```
+
+### Admission to death
+
+```{r}
+include_graphics(here(
+    "format-forecast", "figures", "parameters", "delay-sd-deaths.png"
+))
+```
+
+#  Projections
+
+##  Hospital admission
+
+```{r}
+include_graphics(here(
+    "format-forecast", "figures", "admissions.png"
+))
+```
+
+## Hospital occupancy
+
+```{r}
+include_graphics(here(
+    "format-forecast", "figures", "snapshot", "occupancy", date,
+    "occupancy-using-admissions.png"
+))
+```
+
+## MV bed occupancy
+
+```{r}
+include_graphics(here(
+    "format-forecast", "figures", "snapshot", "mv", date,
+    "mv-using-admissions.png"
+))
+```
+
+## Mortality
+
+```{r}
+include_graphics(here(
+    "format-forecast", "figures", "snapshot", "deaths", date,
+    "deaths-using-admissions.png"
+))
+```
