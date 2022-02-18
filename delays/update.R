@@ -1,8 +1,8 @@
 # Packages ----------------------------------------------------------------
-library(EpiNow2)
-library(data.table)
-library(future)
-library(here)
+require(EpiNow2, quietly = TRUE)
+require(data.table, quietly = TRUE)
+require(future, quietly = TRUE)
+require(here, quietly = TRUE)
 
 # Save incubation period and generation time ------------------------------
 generation_time <- get_generation_time(
