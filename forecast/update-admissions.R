@@ -2,7 +2,7 @@
 library(EpiNow2, quietly = TRUE)
 library(data.table, quietly = TRUE)
 suppressMessages(library(here, quietly = TRUE))
-suppressMessages(library(purrr, quietly = TRUE))
+library(purrr, quietly = TRUE, warn.conflicts = FALSE)
 
 # Define a target date ----------------------------------------------------
 target_date <- as.character(readRDS(here::here("data", "forecast_date.rds")))

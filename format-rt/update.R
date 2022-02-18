@@ -1,9 +1,9 @@
 # Packages ----------------------------------------------------------------
 require(data.table, quietly = TRUE)
 require(EpiNow2, quietly = TRUE)
-suppressMessages(require(purrr, quietly = TRUE))
+require(purrr, quietly = TRUE, warn.conflicts = FALSE)
 require(ggplot2, quietly = TRUE)
-suppressMessages(require(lubridate, quietly = TRUE))
+require(lubridate, quietly = TRUE, warn.conflicts = FALSE)
 
 # Target date -------------------------------------------------------------
 creation_date <- readRDS(here::here("data", "forecast_date.rds"))

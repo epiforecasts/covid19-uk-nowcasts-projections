@@ -1,10 +1,10 @@
 # Packages ----------------------------------------------------------------
 require(EpiNow2, quietly = TRUE)
 suppressMessages(require(here, quietly = TRUE))
-suppressMessages(require(dplyr, quietly = TRUE))
-suppressMessages(require(purrr, quietly = TRUE))
-require(ggplot2, quietly = TRUE)
-suppressMessages(library(data.table, quietly = TRUE))
+require(dplyr, quietly = TRUE, warn.conflicts = FALSE)
+require(purrr, quietly = TRUE, warn.conflicts = FALSE)
+require(ggplot2, quietly = TRUE, warn.conflicts = FALSE)
+library(data.table, quietly = TRUE, warn.conflicts = FALSE)
 
 # Control parameters ------------------------------------------------------
 forecast_date <- readRDS(here::here("data", "forecast_date.rds"))

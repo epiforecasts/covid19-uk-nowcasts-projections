@@ -1,6 +1,6 @@
 require(data.table, quietly = TRUE)
 require(ggplot2, quietly = TRUE)
-suppressMessages(require(lubridate, quietly = TRUE))
+require(lubridate, quietly = TRUE, warn.conflicts = FALSE)
 suppressMessages(require(here, quietly = TRUE))
 
 # load data
