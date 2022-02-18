@@ -1,0 +1,47 @@
+Type: Package
+Package: Covid19UKNowcastsProjections
+Title: Nowcasts and Projections for Covid-19 in the UK
+Version: 0.1.0
+Authors@R: c(
+    person("Sam Abbott", , , "sam.abbott@lshtm.ac.uk", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0001-8057-8037")),
+    person("Joel", "Hellewell", , "joel.hellewell@lshtm.ac.uk", role = "aut",
+           comment = c(ORCID = "0000-0003-2683-0849")),
+    person("Nikos", "Bosse", , "nikosbosse@gmail.com", role = "aut"),
+    person("Katharine", "Sherratt", , "katharine.sherratt@lshtm.ac.uk", role = "aut",
+           comment = c(ORCID = "0000-0003-4413-453X")),
+    person("Sebastian", "Funk", , "sebastian.funk@lshtm.ac.uk", role = "aut")
+  )
+Description: Nowcasts and Projections for Covid-19 in the UK
+License: MIT + file LICENSE
+Depends: 
+    R (>= 3.4.0)
+Imports:
+    cowplot,
+    data.table,
+    dplyr,
+    EpiNow2,
+    future,
+    future.apply,
+    ggplot2,
+    here,
+    kableExtra,
+    knitr,
+    lubridate,
+    magrittr,
+    openxlsx,
+    patchwork,
+    purrr,
+    readr,
+    rmarkdown,
+    stringr,
+    stringr,
+    tibble,
+    tidyr
+Remotes:
+    epiforecasts/EpiNow2@ca818edfe80c05f873ef9255e12158e2ce60430d
+Biarch: true
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0

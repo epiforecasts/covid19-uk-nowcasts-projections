@@ -1,0 +1,44 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the README at:
+// https://github.com/microsoft/vscode-dev-containers/tree/v0.205.2/containers/r
+{
+	"name": "ct-modelling",
+	"build": {
+		"dockerfile": "Dockerfile",
+		// Update VARIANT to pick a specific R version: latest, ... ,4.0.1 , 4.0.0
+		"args": { "VARIANT": "latest" },
+		"context": ".."
+	},
+	"shutdownAction": "none",
+	// Set *default* container specific settings.json values on container create.
+	"settings": {
+		"r.rterm.linux": "/usr/local/bin/radian",
+		"r.bracketedPaste": true,
+		"r.plot.useHttpgd": true,
+		"[r]": {
+			"editor.wordSeparators": "`~!@#%$^&*()-=+[{]}\\|;:'\",<>/?"
+		},
+		"terminal.integrated.profiles.linux": {
+			"radian": {
+	dock			"path": "/usr/local/bin/radian",
+				"overrideName": true
+			}
+		}
+	},
+
+	// Add the IDs of extensions you want installed when the container is created.
+	"extensions": [
+		"ikuyadeu.r",
+		"tomoki1207.pdf",
+		"ivan-bocharov.stan-vscode",
+		"github.vscode-pull-request-github",
+		"formulahendry.code-runner",
+		"mutantdino.resourcemonitor",
+		"searking.preview-vscode"
+	],
+
+	// Use 'forwardPorts' to make a list of ports inside the container available locally.
+	// "forwardPorts": [],
+
+	// Use 'postCreateCommand' to run commands after the container is created.
+	"postCreateCommand": "Rscript -e 'cmdstanr::set_cmdstan_path();"
+}
