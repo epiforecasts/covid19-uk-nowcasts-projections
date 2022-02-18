@@ -35,7 +35,7 @@ ltla_nhser <- readRDS(here::here("data", "ltla_nhser.rds"))
 # test positive cases -----------------------------------------------------
 cases_deaths <- cases_deaths_local %>%
   dplyr::rename(ltla_name = areaName) %>%
-  dplyr::left_join(ltla_nhser, by = "ltla_name") %>%
+  dplyr::inner_join(ltla_nhser, by = "ltla_name") %>%
   dplyr::group_by(date, nhse_region) %>%
   dplyr::summarise_if(is.numeric, sum) %>%
   dplyr::ungroup() %>%
