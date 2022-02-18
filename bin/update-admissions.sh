@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ##Run national/regional nowcast/forecast
-printf "Estimating Rt from admissions data\n"
+printf "Estimating Rt from admissions data and projecting\n"
 Rscript forecast/update-admissions.R
 
 ## Format the forecast for reporting
