@@ -1,7 +1,6 @@
 # Packages ----------------------------------------------------------------
 require(EpiNow2, quietly = TRUE)
 suppressMessages(require(here, quietly = TRUE))
-require(stringr, quietly = TRUE)
 suppressMessages(require(dplyr, quietly = TRUE))
 suppressMessages(require(purrr, quietly = TRUE))
 require(ggplot2, quietly = TRUE)
