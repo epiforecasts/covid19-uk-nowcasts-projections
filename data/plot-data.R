@@ -1,7 +1,7 @@
-library(data.table)
-library(ggplot2)
-library(lubridate)
-library(here)
+require(data.table, quietly = TRUE)
+require(ggplot2, quietly = TRUE)
+suppressMessages(require(lubridate, quietly = TRUE))
+suppressMessages(require(here, quietly = TRUE))
 
 # load data
 cases <- data.table::as.data.table(

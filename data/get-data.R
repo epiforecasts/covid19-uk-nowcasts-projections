@@ -1,7 +1,5 @@
-suppressMessages(
-  require(dplyr, quietly = TRUE)
-)
-require(here, quietly = TRUE)
+suppressMessages(require(dplyr, quietly = TRUE))
+suppressMessages(require(here, quietly = TRUE))
 require(readr, quietly = TRUE)
 
 cases_deaths_local <-
