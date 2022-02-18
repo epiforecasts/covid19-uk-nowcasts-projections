@@ -14,7 +14,6 @@ output:
 ```{r setup, echo = FALSE, cache = FALSE, include = FALSE}
 require(knitr, quietly = TRUE)
 suppressMessages(require(here, quietly = TRUE))
-date <- lubridate::floor_date(Sys.Date(), "week", week_start = 2)
 knitr::opts_chunk$set(echo = FALSE, message = FALSE)
 ```
 
@@ -145,26 +144,35 @@ include_graphics(here(
 ## Hospital occupancy
 
 ```{r}
-include_graphics(here(
-    "format-forecast", "figures", "snapshot", "occupancy", date,
-    "occupancy-using-admissions.png"
+dir <- here::here("format-forecast", "figures", "snapshot", "occupancy")
+date <- tail(list.files(
+  dir, pattern = "^\\d{4}-\\d{2}-\\d{2}$", include.dirs = TRUE
+), 1)
+include_graphics(file.path(
+    dir, date, "occupancy-using-admissions.png"
 ))
 ```
 
 ## MV bed occupancy
 
 ```{r}
-include_graphics(here(
-    "format-forecast", "figures", "snapshot", "mv", date,
-    "mv-using-admissions.png"
+dir <- here::here("format-forecast", "figures", "snapshot", "mv")
+date <- tail(list.files(
+  dir, pattern = "^\\d{4}-\\d{2}-\\d{2}$", include.dirs = TRUE
+), 1)
+include_graphics(file.path(
+    dir, date, "mv-using-admissions.png"
 ))
 ```
 
 ## Mortality
 
 ```{r}
-include_graphics(here(
-    "format-forecast", "figures", "snapshot", "deaths", date,
-    "deaths-using-admissions.png"
+dir <- here::here("format-forecast", "figures", "snapshot", "deaths")
+date <- tail(list.files(
+  dir, pattern = "^\\d{4}-\\d{2}-\\d{2}$", include.dirs = TRUE
+), 1)
+include_graphics(file.path(
+    dir, date, "deaths-using-admissions.png"
 ))
 ```
