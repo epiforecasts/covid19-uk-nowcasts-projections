@@ -1,13 +1,8 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the README at:
 // https://github.com/microsoft/vscode-dev-containers/tree/v0.205.2/containers/r
 {
-	"name": "ct-modelling",
-	"build": {
-		"dockerfile": "Dockerfile",
-		// Update VARIANT to pick a specific R version: latest, ... ,4.0.1 , 4.0.0
-		"args": { "VARIANT": "latest" },
-		"context": ".."
-	},
+	"name": "covid19-uk-nowcasts-projections",
+	"image": "ghcr.io/epiforecasts/covid19-uk-nowcasts-projections:main",
 	"shutdownAction": "none",
 	// Set *default* container specific settings.json values on container create.
 	"settings": {
