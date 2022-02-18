@@ -1,7 +1,7 @@
 Type: Package
 Package: Covid19UKNowcastsProjections
 Title: Nowcasts and Projections for Covid-19 in the UK
-Version: 0.1.0
+Version: 1.0.0
 Authors@R: c(
     person("Sam Abbott", , , "sam.abbott@lshtm.ac.uk", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0001-8057-8037")),
