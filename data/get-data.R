@@ -2,26 +2,35 @@ suppressMessages(
   require(dplyr, quietly = TRUE)
 )
 require(here, quietly = TRUE)
+require(readr, quietly = TRUE)
 
 cases_deaths_local <-
-  fread(paste0("https://api.coronavirus.data.gov.uk/v2/data?",
-               "areaType=ltla&metric=newCasesBySpecimenDate&",
-               "metric=newDeaths28DaysByDeathDate&format=csv"))
+  suppressMessages(read_csv(paste0(
+    "https://api.coronavirus.data.gov.uk/v2/data?areaType=ltla&",
+    "metric=newCasesBySpecimenDate&metric=newDeaths28DaysByDeathDate&",
+    "format=csv"
+  )))
 
 cases_deaths_national <-
-  fread(paste0("https://api.coronavirus.data.gov.uk/v2/data?",
-               "areaType=nation&metric=newCasesBySpecimenDate&",
-               "metric=newDeaths28DaysByDeathDate&format=csv"))
+  suppressMessages(read_csv(paste0(
+    "https://api.coronavirus.data.gov.uk/v2/data?areaType=nation&",
+    "metric=newCasesBySpecimenDate&metric=newDeaths28DaysByDeathDate&",
+    "format=csv"
+  )))
 
 hospital_cases_regional <-
-  fread(paste0("https://api.coronavirus.data.gov.uk/v2/data?",
-               "areaType=nhsRegion&metric=covidOccupiedMVBeds&",
-               "metric=newAdmissions&metric=hospitalCases&format=csv"))
+  suppressMessages(read_csv(paste0(
+    "https://api.coronavirus.data.gov.uk/v2/data?areaType=nhsRegion&",
+    "metric=covidOccupiedMVBeds&metric=newAdmissions&metric=hospitalCases&",
+    "format=csv"
+  )))
 
 hospital_cases_national <-
-  fread(paste0("https://api.coronavirus.data.gov.uk/v2/data?",
-               "areaType=nation&metric=covidOccupiedMVBeds&",
-               "metric=newAdmissions&metric=hospitalCases&format=csv"))
+  suppressMessages(read_csv(paste0(
+    "https://api.coronavirus.data.gov.uk/v2/data?areaType=nation&",
+    "metric=covidOccupiedMVBeds&metric=newAdmissions&metric=hospitalCases&",
+    "format=csv"
+  )))
 
 ltla_nhser <- readRDS(here::here("data", "ltla_nhser.rds"))
 
