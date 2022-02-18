@@ -17,7 +17,6 @@ License: MIT + file LICENSE
 Depends: 
     R (>= 3.4.0)
 Imports:
-    cowplot,
     data.table,
     dplyr,
     EpiNow2,
@@ -25,21 +24,18 @@ Imports:
     future.apply,
     ggplot2,
     here,
-    kableExtra,
     knitr,
     lubridate,
     magrittr,
-    openxlsx,
     patchwork,
     purrr,
     readr,
     rmarkdown,
     stringr,
-    stringr,
     tibble,
     tidyr
 Remotes:
-    epiforecasts/EpiNow2@ca818edfe80c05f873ef9255e12158e2ce60430d
+    epiforecasts/EpiNow2
 Biarch: true
 Encoding: UTF-8
 LazyData: true
