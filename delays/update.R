@@ -2,7 +2,7 @@
 require(EpiNow2, quietly = TRUE)
 require(data.table, quietly = TRUE)
 require(future, quietly = TRUE)
-require(here, quietly = TRUE)
+suppressMessages(require(here, quietly = TRUE))
 
 # Save incubation period and generation time ------------------------------
 generation_time <- get_generation_time(
@@ -25,7 +25,7 @@ if (!interactive()) {
   ## If running as a script enable this
   options(future.fork.enable = TRUE)
 }
-future::plan(multiprocess)
+future::plan(multicore)
 
 # Fit delay from onset to admission ---------------------------------------
 linelist <- readRDS(here::here("delays", "data", "pseudo_linelist.rds"))
