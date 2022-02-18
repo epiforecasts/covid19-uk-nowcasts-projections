@@ -1,7 +1,7 @@
 # Packages ----------------------------------------------------------------
-suppressMessages(library(here, quietly = TRUE))
-library(future, quietly = TRUE)
-library(data.table, quietly = TRUE, warn.conflicts = FALSE)
+suppressMessages(require(here, quietly = TRUE))
+require(future, quietly = TRUE)
+require(data.table, quietly = TRUE, warn.conflicts = FALSE)
 
 # Load observations -------------------------------------------------------
 cases <- as.data.table(readRDS(here::here("data/hospital_admissions.rds")))

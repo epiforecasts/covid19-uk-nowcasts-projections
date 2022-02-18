@@ -1,6 +1,6 @@
-library(here, quietly = TRUE)
-library(future, quietly = TRUE)
-library(data.table, quietly = TRUE, warn.conflicts = FALSE)
+suppressWarnings(require(here, quietly = TRUE))
+require(future, quietly = TRUE)
+require(data.table, quietly = TRUE, warn.conflicts = FALSE)
 
 # Load observations -------------------------------------------------------
 cases <- as.data.table(readRDS(here::here("data/hospital_admissions.rds")))
@@ -28,7 +28,7 @@ args <- list(
   primary = cases, secondary = beds,
   forecast_dir = here("forecast/admissions"),
   forecast_value = "mv_prev",
-  forecast_name = "icu-using-admissions",
+  forecast_name = "mv-using-admissions",
   return_output = FALSE,
   fit_args = list(
     delays = delay_opts(list(
@@ -47,7 +47,7 @@ args <- list(
 convolution_pipeline_informed_prior(
   args,
   forecast_date = forecast_date,
-  forecast_target = "icu",
+  forecast_target = "mv",
   forecast_start = forecast_date - 12 * 7,
   overall_date = forecast_date,
   prior_weeks = 12,
