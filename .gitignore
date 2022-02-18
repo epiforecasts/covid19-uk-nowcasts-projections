@@ -6,5 +6,7 @@
 .DS_Store
 logs/
 **/regional
+**/summary
 *.rds
 *.png
+*.csv
