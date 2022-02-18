@@ -4,13 +4,13 @@
 bash bin/update-data.sh
 
 # Update delays if data has changed
-ash bin/update-delays.sh
+bash bin/update-delays.sh
 
 # Run national/regional case nowcast/forecast 
 bash bin/update-admissions.sh
 
 # Update linelist based case estimates
-bash  bin/update-cases.sh
+bash bin/update-cases.sh
 
 # Report latest R estimate
 Rscript format-rt/update.R
