@@ -1,0 +1,33 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the README at:
+// https://github.com/microsoft/vscode-dev-containers/tree/v0.205.2/containers/r
+{
+	"name": "covid19-uk-nowcasts-projections",
+	"image": "ghcr.io/epiforecasts/covid19-uk-nowcasts-projections:main",
+	"shutdownAction": "none",
+	// Set *default* container specific settings.json values on container create.
+	"settings": {
+		"r.rterm.linux": "/usr/local/bin/radian",
+		"r.bracketedPaste": true,
+		"r.plot.useHttpgd": true,
+		"[r]": {
+			"editor.wordSeparators": "`~!@#%$^&*()-=+[{]}\\|;:'\",<>/?"
+		},
+		"terminal.integrated.profiles.linux": {
+			"radian": {
+	dock			"path": "/usr/local/bin/radian",
+				"overrideName": true
+			}
+		}
+	},
+
+	// Add the IDs of extensions you want installed when the container is created.
+	"extensions": [
+		"ikuyadeu.r",
+		"tomoki1207.pdf",
+		"ivan-bocharov.stan-vscode",
+		"github.vscode-pull-request-github",
+		"formulahendry.code-runner",
+		"mutantdino.resourcemonitor",
+		"searking.preview-vscode"
+	]
+}
