@@ -23,17 +23,13 @@ Imports:
     future,
     future.apply,
     ggplot2,
+    scales,
     here,
     knitr,
     lubridate,
-    magrittr,
-    patchwork,
     purrr,
     readr,
-    rmarkdown,
-    stringr,
     tibble,
-    tidyr
 Remotes:
     epiforecasts/EpiNow2
 Biarch: true
