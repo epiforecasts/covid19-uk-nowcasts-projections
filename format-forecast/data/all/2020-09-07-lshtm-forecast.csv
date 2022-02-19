@@ -1,0 +1,1198 @@
+Group,Creation Day,Creation Month,Creation Year,Day of Value,Month of Value,Year of Value,Geography,ValueType,Model,ModelType,Version,Value,AgeBand,Quantile 0.05,Quantile 0.1,Quantile 0.15,Quantile 0.2,Quantile 0.25,Quantile 0.3,Quantile 0.35,Quantile 0.4,Quantile 0.45,Quantile 0.5,Quantile 0.55,Quantile 0.6,Quantile 0.65,Quantile 0.7,Quantile 0.75,Quantile 0.8,Quantile 0.85,Quantile 0.9,Quantile 0.95
+LSHTM,7,9,2020,7,9,2020,East of England,hospital_inc,EpiSoon,Deaths,2,2,All,0,0,0,1,1,1,1,2,2,2,3,3,3,4,4,5,5,6,7
+LSHTM,7,9,2020,8,9,2020,East of England,hospital_inc,EpiSoon,Deaths,2,2,All,0,0,0,1,1,1,1,1,2,2,2,2,3,3,3,4,4,5,7
+LSHTM,7,9,2020,9,9,2020,East of England,hospital_inc,EpiSoon,Deaths,2,2,All,0,0,0,1,1,1,1,2,2,2,2,3,3,3,4,4,5,6,8
+LSHTM,7,9,2020,10,9,2020,East of England,hospital_inc,EpiSoon,Deaths,2,2,All,0,0,0,1,1,1,1,2,2,2,2,3,3,3,4,4,5,6,7
+LSHTM,7,9,2020,11,9,2020,East of England,hospital_inc,EpiSoon,Deaths,2,2,All,0,0,1,1,1,1,2,2,2,2,3,3,3,4,4,5,5,6,7
+LSHTM,7,9,2020,12,9,2020,East of England,hospital_inc,EpiSoon,Deaths,2,2,All,0,0,0,1,1,1,1,2,2,2,2,3,3,3,4,4,5,6,8
+LSHTM,7,9,2020,13,9,2020,East of England,hospital_inc,EpiSoon,Deaths,2,2,All,0,0,0,1,1,1,1,1,2,2,2,2,3,3,4,4,5,6,7
+LSHTM,7,9,2020,14,9,2020,East of England,hospital_inc,EpiSoon,Deaths,2,2,All,0,0,0,1,1,1,1,2,2,2,2,2,3,3,4,4,5,5,7
+LSHTM,7,9,2020,15,9,2020,East of England,hospital_inc,EpiSoon,Deaths,2,2,All,0,0,0,0,1,1,1,1,1,2,2,2,2,3,3,3,4,5,6
+LSHTM,7,9,2020,16,9,2020,East of England,hospital_inc,EpiSoon,Deaths,2,2,All,0,0,0,1,1,1,1,2,2,2,2,3,3,3,4,4,5,6,7
+LSHTM,7,9,2020,17,9,2020,East of England,hospital_inc,EpiSoon,Deaths,2,2,All,0,0,0,0,1,1,1,1,2,2,2,2,3,3,3,4,4,5,7
+LSHTM,7,9,2020,18,9,2020,East of England,hospital_inc,EpiSoon,Deaths,2,2,All,0,0,0,1,1,1,1,2,2,2,2,3,3,3,4,4,5,6,8
+LSHTM,7,9,2020,19,9,2020,East of England,hospital_inc,EpiSoon,Deaths,2,2,All,0,0,0,0,1,1,1,1,2,2,2,2,3,3,3,4,4,5,7
+LSHTM,7,9,2020,20,9,2020,East of England,hospital_inc,EpiSoon,Deaths,2,2,All,0,0,0,0,1,1,1,1,1,2,2,2,2,3,3,4,4,5,7
+LSHTM,7,9,2020,21,9,2020,East of England,hospital_inc,EpiSoon,Deaths,2,2,All,0,0,0,0,1,1,1,1,1,2,2,2,3,3,3,4,4,5,7
+LSHTM,7,9,2020,22,9,2020,East of England,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,1,1,1,1,1,2,2,2,2,3,3,4,5,6
+LSHTM,7,9,2020,23,9,2020,East of England,hospital_inc,EpiSoon,Deaths,2,2,All,0,0,0,0,1,1,1,1,1,2,2,2,3,3,3,4,4,6,7
+LSHTM,7,9,2020,24,9,2020,East of England,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,1,1,1,1,1,1,2,2,2,3,3,3,4,5,7
+LSHTM,7,9,2020,25,9,2020,East of England,hospital_inc,EpiSoon,Deaths,2,2,All,0,0,0,1,1,1,1,1,2,2,2,2,3,3,3,4,5,6,8
+LSHTM,7,9,2020,26,9,2020,East of England,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,1,1,1,1,1,2,2,2,3,3,4,4,5,7
+LSHTM,7,9,2020,27,9,2020,East of England,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,1,1,1,1,1,2,2,2,2,3,3,4,5,7
+LSHTM,7,9,2020,28,9,2020,East of England,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,1,1,1,1,1,2,2,2,2,3,3,4,5,8
+LSHTM,7,9,2020,29,9,2020,East of England,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,0,1,1,1,1,1,2,2,2,2,3,4,4,6
+LSHTM,7,9,2020,30,9,2020,East of England,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,1,1,1,1,1,2,2,2,2,3,3,4,5,8
+LSHTM,7,9,2020,1,10,2020,East of England,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,1,1,1,1,1,2,2,2,2,3,3,4,5,7
+LSHTM,7,9,2020,2,10,2020,East of England,hospital_inc,EpiSoon,Deaths,2,2,All,0,0,0,0,1,1,1,1,1,2,2,2,2,3,3,4,4,6,8
+LSHTM,7,9,2020,3,10,2020,East of England,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,1,1,1,1,1,2,2,2,2,3,3,4,5,8
+LSHTM,7,9,2020,4,10,2020,East of England,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,3,4,5,8
+LSHTM,7,9,2020,5,10,2020,East of England,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,1,1,1,1,1,1,2,2,2,2,3,4,5,8
+LSHTM,7,9,2020,6,10,2020,East of England,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,3,3,4,7
+LSHTM,7,9,2020,7,10,2020,East of England,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,3,4,5,8
+LSHTM,7,9,2020,8,10,2020,East of England,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,0,1,1,1,1,1,2,2,2,2,3,4,5,8
+LSHTM,7,9,2020,9,10,2020,East of England,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,1,1,1,1,1,2,2,2,2,3,4,4,6,10
+LSHTM,7,9,2020,10,10,2020,East of England,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,3,4,5,9
+LSHTM,7,9,2020,11,10,2020,East of England,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,3,3,5,7
+LSHTM,7,9,2020,12,10,2020,East of England,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,3,4,5,9
+LSHTM,7,9,2020,13,10,2020,East of England,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,4,8
+LSHTM,7,9,2020,14,10,2020,East of England,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,3,4,5,10
+LSHTM,7,9,2020,15,10,2020,East of England,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,3,5,8
+LSHTM,7,9,2020,16,10,2020,East of England,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,3,4,6,11
+LSHTM,7,9,2020,17,10,2020,East of England,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,4,5,9
+LSHTM,7,9,2020,18,10,2020,East of England,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,3,3,4,10
+LSHTM,7,9,2020,19,10,2020,East of England,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,3,5,10
+LSHTM,7,9,2020,20,10,2020,East of England,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,3,4,9
+LSHTM,7,9,2020,21,10,2020,East of England,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,4,5,12
+LSHTM,7,9,2020,22,10,2020,East of England,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3,3,5,10
+LSHTM,7,9,2020,23,10,2020,East of England,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,4,5,11
+LSHTM,7,9,2020,24,10,2020,East of England,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,3,4,5,12
+LSHTM,7,9,2020,25,10,2020,East of England,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3,3,4,10
+LSHTM,7,9,2020,26,10,2020,East of England,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3,3,5,11
+LSHTM,7,9,2020,27,10,2020,East of England,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3,4,10
+LSHTM,7,9,2020,28,10,2020,East of England,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3,4,5,13
+LSHTM,7,9,2020,29,10,2020,East of England,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3,3,5,12
+LSHTM,7,9,2020,30,10,2020,East of England,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3,4,5,15
+LSHTM,7,9,2020,31,10,2020,East of England,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,2,3,5,13
+LSHTM,7,9,2020,1,11,2020,East of England,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3,4,10
+LSHTM,7,9,2020,2,11,2020,East of England,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,3,5,13
+LSHTM,7,9,2020,7,9,2020,England,hospital_inc,EpiSoon,Deaths,2,48,All,24,28,32,34,37,39,41,44,46,48,51,53,56,58,61,65,69,75,85
+LSHTM,7,9,2020,8,9,2020,England,hospital_inc,EpiSoon,Deaths,2,49,All,23,28,32,34,37,40,42,44,47,49,52,55,58,61,65,70,74,82,93
+LSHTM,7,9,2020,9,9,2020,England,hospital_inc,EpiSoon,Deaths,2,54,All,26,30,34,37,40,43,46,48,51,54,57,60,64,67,72,77,83,91,105
+LSHTM,7,9,2020,10,9,2020,England,hospital_inc,EpiSoon,Deaths,2,61,All,29,35,39,42,45,48,51,55,58,61,64,68,73,77,81,87,94,103,124
+LSHTM,7,9,2020,11,9,2020,England,hospital_inc,EpiSoon,Deaths,2,57,All,27,32,36,40,43,46,49,51,54,57,61,64,68,72,78,84,92,105,126
+LSHTM,7,9,2020,12,9,2020,England,hospital_inc,EpiSoon,Deaths,2,62,All,28,35,39,42,46,49,52,55,58,62,65,69,73,78,83,90,99,112,132
+LSHTM,7,9,2020,13,9,2020,England,hospital_inc,EpiSoon,Deaths,2,58,All,26,32,36,40,43,45,49,52,55,58,62,66,70,74,80,87,95,108,128
+LSHTM,7,9,2020,14,9,2020,England,hospital_inc,EpiSoon,Deaths,2,55,All,24,30,33,37,40,43,46,49,52,55,58,63,67,72,77,85,93,106,133
+LSHTM,7,9,2020,15,9,2020,England,hospital_inc,EpiSoon,Deaths,2,56,All,24,29,33,37,40,43,46,49,52,56,60,63,68,73,80,86,97,115,145
+LSHTM,7,9,2020,16,9,2020,England,hospital_inc,EpiSoon,Deaths,2,61,All,26,31,35,39,43,46,49,53,57,61,64,69,75,80,87,95,110,131,170
+LSHTM,7,9,2020,17,9,2020,England,hospital_inc,EpiSoon,Deaths,2,68,All,28,34,40,44,47,51,55,59,64,68,73,77,83,91,100,111,125,146,202
+LSHTM,7,9,2020,18,9,2020,England,hospital_inc,EpiSoon,Deaths,2,66,All,26,33,38,42,46,50,54,58,62,66,70,75,81,88,97,108,124,150,204
+LSHTM,7,9,2020,19,9,2020,England,hospital_inc,EpiSoon,Deaths,2,70,All,28,35,40,44,48,53,58,61,66,70,76,81,89,97,105,118,134,167,228
+LSHTM,7,9,2020,20,9,2020,England,hospital_inc,EpiSoon,Deaths,2,66,All,25,32,37,41,45,49,53,57,61,66,71,76,82,90,98,112,127,157,216
+LSHTM,7,9,2020,21,9,2020,England,hospital_inc,EpiSoon,Deaths,2,62,All,24,30,35,39,43,46,50,54,58,62,67,72,78,86,96,108,124,151,231
+LSHTM,7,9,2020,22,9,2020,England,hospital_inc,EpiSoon,Deaths,2,62,All,24,30,34,38,42,46,50,54,58,62,68,73,80,88,98,111,129,165,256
+LSHTM,7,9,2020,23,9,2020,England,hospital_inc,EpiSoon,Deaths,2,70,All,25,31,37,41,45,50,54,59,64,70,76,83,90,99,109,124,146,191,297
+LSHTM,7,9,2020,24,9,2020,England,hospital_inc,EpiSoon,Deaths,2,77,All,29,36,41,46,51,56,61,66,72,77,85,93,102,114,130,149,173,230,361
+LSHTM,7,9,2020,25,9,2020,England,hospital_inc,EpiSoon,Deaths,2,74,All,26,32,38,42,46,52,58,62,68,74,80,87,96,108,120,138,164,223,375
+LSHTM,7,9,2020,26,9,2020,England,hospital_inc,EpiSoon,Deaths,2,79,All,27,34,39,45,50,56,60,66,72,79,86,94,102,113,130,152,184,246,424
+LSHTM,7,9,2020,27,9,2020,England,hospital_inc,EpiSoon,Deaths,2,74,All,25,32,37,41,46,52,56,61,68,74,81,88,100,114,129,149,184,240,403
+LSHTM,7,9,2020,28,9,2020,England,hospital_inc,EpiSoon,Deaths,2,71,All,23,28,33,38,42,47,52,58,64,71,77,84,94,105,119,137,174,245,428
+LSHTM,7,9,2020,29,9,2020,England,hospital_inc,EpiSoon,Deaths,2,70,All,22,28,33,39,44,48,53,58,64,70,77,85,94,109,126,148,181,266,484
+LSHTM,7,9,2020,30,9,2020,England,hospital_inc,EpiSoon,Deaths,2,77,All,23,30,36,40,46,53,58,65,70,77,84,95,107,122,141,171,217,299,579
+LSHTM,7,9,2020,1,10,2020,England,hospital_inc,EpiSoon,Deaths,2,87,All,27,34,40,46,52,57,64,71,79,87,96,106,121,137,158,190,239,357,714
+LSHTM,7,9,2020,2,10,2020,England,hospital_inc,EpiSoon,Deaths,2,86,All,24,31,38,44,50,56,62,69,77,86,95,107,118,134,158,197,243,352,777
+LSHTM,7,9,2020,3,10,2020,England,hospital_inc,EpiSoon,Deaths,2,89,All,24,32,39,45,51,57,64,72,81,89,98,111,125,145,168,212,271,412,830
+LSHTM,7,9,2020,4,10,2020,England,hospital_inc,EpiSoon,Deaths,2,81,All,23,30,36,42,48,53,59,67,73,81,92,103,115,134,157,189,252,379,770
+LSHTM,7,9,2020,5,10,2020,England,hospital_inc,EpiSoon,Deaths,2,76,All,21,28,33,38,43,48,53,60,68,76,86,98,111,129,155,191,252,409,851
+LSHTM,7,9,2020,6,10,2020,England,hospital_inc,EpiSoon,Deaths,2,79,All,20,27,33,39,45,50,56,64,72,79,91,103,119,137,160,196,264,416,920
+LSHTM,7,9,2020,7,10,2020,England,hospital_inc,EpiSoon,Deaths,2,86,All,22,29,35,42,47,54,61,69,77,86,98,113,130,149,182,229,312,511,1005
+LSHTM,7,9,2020,8,10,2020,England,hospital_inc,EpiSoon,Deaths,2,97,All,24,33,39,46,53,61,68,77,85,97,108,125,143,175,208,265,356,558,1350
+LSHTM,7,9,2020,9,10,2020,England,hospital_inc,EpiSoon,Deaths,2,95,All,22,30,37,42,49,58,65,73,83,95,108,122,140,165,197,256,362,607,1319
+LSHTM,7,9,2020,10,10,2020,England,hospital_inc,EpiSoon,Deaths,2,100,All,24,32,38,44,51,60,68,78,89,100,116,133,156,182,220,272,368,628,1603
+LSHTM,7,9,2020,11,10,2020,England,hospital_inc,EpiSoon,Deaths,2,95,All,22,30,37,43,49,55,63,72,83,95,110,125,142,166,202,268,357,596,1563
+LSHTM,7,9,2020,12,10,2020,England,hospital_inc,EpiSoon,Deaths,2,88,All,20,27,33,39,45,51,58,66,76,88,103,118,138,164,195,252,365,578,1769
+LSHTM,7,9,2020,13,10,2020,England,hospital_inc,EpiSoon,Deaths,2,91,All,19,27,34,39,45,51,59,67,78,91,104,119,141,168,208,265,386,687,1794
+LSHTM,7,9,2020,14,10,2020,England,hospital_inc,EpiSoon,Deaths,2,99,All,20,29,35,41,49,56,63,73,84,99,113,131,154,183,231,313,454,798,2190
+LSHTM,7,9,2020,15,10,2020,England,hospital_inc,EpiSoon,Deaths,2,112,All,25,32,39,46,55,64,73,85,98,112,130,152,180,208,264,344,499,991,2589
+LSHTM,7,9,2020,16,10,2020,England,hospital_inc,EpiSoon,Deaths,2,100,All,21,29,36,43,50,59,67,77,87,100,118,140,172,213,268,347,518,859,2783
+LSHTM,7,9,2020,17,10,2020,England,hospital_inc,EpiSoon,Deaths,2,113,All,20,30,39,47,56,64,72,83,96,113,130,153,181,225,288,383,584,1051,3266
+LSHTM,7,9,2020,18,10,2020,England,hospital_inc,EpiSoon,Deaths,2,102,All,19,28,36,43,50,58,67,77,87,102,118,141,170,210,258,350,534,964,3144
+LSHTM,7,9,2020,19,10,2020,England,hospital_inc,EpiSoon,Deaths,2,96,All,17,25,32,39,45,54,64,74,84,96,118,136,164,198,254,345,519,969,3387
+LSHTM,7,9,2020,20,10,2020,England,hospital_inc,EpiSoon,Deaths,2,98,All,17,25,32,39,47,53,61,72,84,98,116,138,162,208,265,355,541,1069,3468
+LSHTM,7,9,2020,21,10,2020,England,hospital_inc,EpiSoon,Deaths,2,109,All,17,27,34,41,49,57,68,80,93,109,128,154,186,222,273,388,631,1260,4031
+LSHTM,7,9,2020,22,10,2020,England,hospital_inc,EpiSoon,Deaths,2,119,All,20,30,38,46,54,63,73,85,101,119,141,164,206,264,343,481,733,1492,4808
+LSHTM,7,9,2020,23,10,2020,England,hospital_inc,EpiSoon,Deaths,2,117,All,18,29,36,43,51,62,72,85,98,117,144,172,208,273,338,451,718,1396,4821
+LSHTM,7,9,2020,24,10,2020,England,hospital_inc,EpiSoon,Deaths,2,125,All,19,28,37,46,55,65,76,90,106,125,148,177,215,268,348,507,858,1607,5895
+LSHTM,7,9,2020,25,10,2020,England,hospital_inc,EpiSoon,Deaths,2,117,All,17,25,33,42,50,59,72,85,100,117,141,168,205,262,330,492,759,1576,5756
+LSHTM,7,9,2020,26,10,2020,England,hospital_inc,EpiSoon,Deaths,2,107,All,16,24,32,39,46,55,64,75,90,107,131,153,183,240,304,446,723,1606,5976
+LSHTM,7,9,2020,27,10,2020,England,hospital_inc,EpiSoon,Deaths,2,113,All,16,24,31,39,47,56,66,79,94,113,136,166,210,264,352,470,809,1899,6239
+LSHTM,7,9,2020,28,10,2020,England,hospital_inc,EpiSoon,Deaths,2,125,All,17,26,34,42,51,61,72,87,105,125,150,183,227,285,390,563,962,2002,7820
+LSHTM,7,9,2020,29,10,2020,England,hospital_inc,EpiSoon,Deaths,2,138,All,19,28,36,46,55,67,80,98,116,138,170,202,251,312,420,626,1134,2352,10192
+LSHTM,7,9,2020,30,10,2020,England,hospital_inc,EpiSoon,Deaths,2,133,All,17,27,35,44,54,64,75,92,107,133,161,199,253,329,455,625,1021,2606,10538
+LSHTM,7,9,2020,31,10,2020,England,hospital_inc,EpiSoon,Deaths,2,136,All,19,27,37,47,55,66,78,95,112,136,170,203,265,343,477,692,1224,2648,11559
+LSHTM,7,9,2020,1,11,2020,England,hospital_inc,EpiSoon,Deaths,2,131,All,15,23,31,39,50,62,74,91,109,131,162,200,249,317,433,630,1108,2508,10608
+LSHTM,7,9,2020,2,11,2020,England,hospital_inc,EpiSoon,Deaths,2,120,All,15,23,29,38,47,56,65,78,98,120,149,187,229,302,426,595,1094,2784,10918
+LSHTM,7,9,2020,7,9,2020,London,hospital_inc,EpiSoon,Deaths,2,7,All,2,3,3,4,5,5,6,6,7,7,8,9,10,10,11,13,14,16,19
+LSHTM,7,9,2020,8,9,2020,London,hospital_inc,EpiSoon,Deaths,2,11,All,3,4,5,6,7,8,9,9,10,11,12,13,14,16,17,19,22,25,31
+LSHTM,7,9,2020,9,9,2020,London,hospital_inc,EpiSoon,Deaths,2,14,All,4,5,7,8,9,10,11,12,13,14,15,16,18,20,22,25,28,34,44
+LSHTM,7,9,2020,10,9,2020,London,hospital_inc,EpiSoon,Deaths,2,17,All,5,6,8,9,10,11,12,14,15,17,19,20,23,26,30,33,38,47,62
+LSHTM,7,9,2020,11,9,2020,London,hospital_inc,EpiSoon,Deaths,2,19,All,5,7,8,10,11,13,15,16,18,19,21,23,25,28,32,36,43,55,75
+LSHTM,7,9,2020,12,9,2020,London,hospital_inc,EpiSoon,Deaths,2,16,All,4,5,7,8,9,10,12,13,14,16,17,19,22,25,28,33,40,52,80
+LSHTM,7,9,2020,13,9,2020,London,hospital_inc,EpiSoon,Deaths,2,16,All,3,5,6,8,9,10,12,13,15,16,18,20,23,27,32,39,47,66,103
+LSHTM,7,9,2020,14,9,2020,London,hospital_inc,EpiSoon,Deaths,2,14,All,3,4,5,6,7,8,10,11,12,14,15,17,20,23,27,34,43,61,104
+LSHTM,7,9,2020,15,9,2020,London,hospital_inc,EpiSoon,Deaths,2,20,All,4,6,8,9,11,12,14,16,18,20,22,26,30,35,43,54,74,105,193
+LSHTM,7,9,2020,16,9,2020,London,hospital_inc,EpiSoon,Deaths,2,25,All,5,7,9,11,13,15,17,19,22,25,29,33,38,47,59,73,101,159,322
+LSHTM,7,9,2020,17,9,2020,London,hospital_inc,EpiSoon,Deaths,2,29,All,6,8,10,12,15,17,20,23,26,29,33,39,47,57,75,96,133,231,471
+LSHTM,7,9,2020,18,9,2020,London,hospital_inc,EpiSoon,Deaths,2,34,All,6,9,11,14,16,19,22,25,29,34,39,48,56,68,87,115,167,282,606
+LSHTM,7,9,2020,19,9,2020,London,hospital_inc,EpiSoon,Deaths,2,29,All,5,7,9,11,13,15,18,21,25,29,35,41,48,59,76,106,157,291,772
+LSHTM,7,9,2020,20,9,2020,London,hospital_inc,EpiSoon,Deaths,2,29,All,4,6,9,11,13,15,18,21,24,29,34,42,51,64,84,123,195,323,827
+LSHTM,7,9,2020,21,9,2020,London,hospital_inc,EpiSoon,Deaths,2,24,All,3,5,7,8,10,12,14,17,20,24,28,35,43,59,79,109,169,320,927
+LSHTM,7,9,2020,22,9,2020,London,hospital_inc,EpiSoon,Deaths,2,35,All,5,7,9,12,14,17,21,24,29,35,42,52,67,90,126,193,319,593,1650
+LSHTM,7,9,2020,23,9,2020,London,hospital_inc,EpiSoon,Deaths,2,44,All,5,8,11,14,17,21,25,30,36,44,53,66,85,112,158,252,426,875,2876
+LSHTM,7,9,2020,24,9,2020,London,hospital_inc,EpiSoon,Deaths,2,51,All,6,9,12,15,19,23,29,34,41,51,64,80,108,144,200,321,572,1015,4482
+LSHTM,7,9,2020,25,9,2020,London,hospital_inc,EpiSoon,Deaths,2,59,All,6,10,13,17,21,26,32,38,47,59,74,90,117,170,256,392,735,1504,5163
+LSHTM,7,9,2020,26,9,2020,London,hospital_inc,EpiSoon,Deaths,2,50,All,5,8,11,14,17,22,27,33,40,50,62,79,108,152,218,347,634,1556,6027
+LSHTM,7,9,2020,27,9,2020,London,hospital_inc,EpiSoon,Deaths,2,50,All,5,8,10,12,16,20,27,32,41,50,64,86,111,157,248,399,778,1637,7183
+LSHTM,7,9,2020,28,9,2020,London,hospital_inc,EpiSoon,Deaths,2,44,All,4,6,8,11,14,18,22,28,34,44,56,74,98,140,218,356,773,1856,8470
+LSHTM,7,9,2020,29,9,2020,London,hospital_inc,EpiSoon,Deaths,2,61,All,5,7,11,14,19,24,32,41,49,61,79,106,146,216,357,612,1313,3226,12911
+LSHTM,7,9,2020,30,9,2020,London,hospital_inc,EpiSoon,Deaths,2,77,All,5,9,13,18,24,30,38,48,60,77,99,129,174,277,486,867,1852,4494,23419
+LSHTM,7,9,2020,1,10,2020,London,hospital_inc,EpiSoon,Deaths,2,90,All,6,10,15,20,26,34,42,55,71,90,115,162,244,380,614,1091,2588,6459,40182
+LSHTM,7,9,2020,2,10,2020,London,hospital_inc,EpiSoon,Deaths,2,104,All,6,10,15,21,27,35,47,63,80,104,141,181,268,425,709,1250,3067,8403,49319
+LSHTM,7,9,2020,3,10,2020,London,hospital_inc,EpiSoon,Deaths,2,84,All,5,8,13,18,24,31,39,53,66,84,113,158,236,348,668,1287,2761,8373,63628
+LSHTM,7,9,2020,4,10,2020,London,hospital_inc,EpiSoon,Deaths,2,84,All,5,8,12,17,22,28,38,50,64,84,113,165,245,383,726,1478,3401,10111,58190
+LSHTM,7,9,2020,5,10,2020,London,hospital_inc,EpiSoon,Deaths,2,74,All,4,7,10,14,19,25,33,43,55,74,105,146,220,348,616,1234,3023,9916,82538
+LSHTM,7,9,2020,6,10,2020,London,hospital_inc,EpiSoon,Deaths,2,108,All,5,8,13,18,25,34,46,61,83,108,148,211,333,572,1059,2147,6334,16144,134180
+LSHTM,7,9,2020,7,10,2020,London,hospital_inc,EpiSoon,Deaths,2,137,All,6,10,15,21,29,40,55,76,103,137,195,284,433,691,1323,3213,7318,25777,222666
+LSHTM,7,9,2020,8,10,2020,London,hospital_inc,EpiSoon,Deaths,2,159,All,7,11,18,24,34,45,62,83,114,159,212,320,527,884,1831,3575,11308,35502,349367
+LSHTM,7,9,2020,9,10,2020,London,hospital_inc,EpiSoon,Deaths,2,177,All,7,11,17,26,36,49,71,97,130,177,260,401,625,1118,2022,4506,12452,48075,516953
+LSHTM,7,9,2020,10,10,2020,London,hospital_inc,EpiSoon,Deaths,2,158,All,4,9,15,21,30,44,61,85,117,158,229,331,539,1016,2065,4087,13161,46588,462906
+LSHTM,7,9,2020,11,10,2020,London,hospital_inc,EpiSoon,Deaths,2,158,All,4,8,14,20,29,39,56,77,111,158,230,343,551,1013,2100,4737,15106,58590,801471
+LSHTM,7,9,2020,12,10,2020,London,hospital_inc,EpiSoon,Deaths,2,134,All,4,7,11,17,24,36,50,70,95,134,206,304,485,938,2077,4526,13792,58912,732446
+LSHTM,7,9,2020,13,10,2020,London,hospital_inc,EpiSoon,Deaths,2,194,All,4,9,15,22,34,48,67,96,137,194,282,464,745,1509,3144,7269,22957,89840,1456168
+LSHTM,7,9,2020,14,10,2020,London,hospital_inc,EpiSoon,Deaths,2,252,All,5,10,17,26,40,59,85,116,171,252,379,563,943,1908,4395,10150,37416,146243,2132894
+LSHTM,7,9,2020,15,10,2020,London,hospital_inc,EpiSoon,Deaths,2,268,All,6,12,19,29,41,64,93,137,192,268,428,695,1173,2203,5352,13897,42843,194017,3428638
+LSHTM,7,9,2020,16,10,2020,London,hospital_inc,EpiSoon,Deaths,2,301,All,6,12,21,33,50,73,110,152,217,301,493,824,1314,2844,5715,16594,54180,249553,4817869
+LSHTM,7,9,2020,17,10,2020,London,hospital_inc,EpiSoon,Deaths,2,270,All,5,10,16,24,40,58,84,131,181,270,430,665,1240,2471,5454,14139,57901,261438,4642604
+LSHTM,7,9,2020,18,10,2020,London,hospital_inc,EpiSoon,Deaths,2,262,All,4,9,16,25,38,56,83,120,183,262,419,737,1246,2634,6338,18047,67207,277133,5542800
+LSHTM,7,9,2020,19,10,2020,London,hospital_inc,EpiSoon,Deaths,2,248,All,3,7,12,20,32,46,71,105,158,248,388,655,1137,2407,5623,14789,61869,314412,5163131
+LSHTM,7,9,2020,20,10,2020,London,hospital_inc,EpiSoon,Deaths,2,342,All,5,9,16,26,44,64,99,147,227,342,518,886,1783,3566,8295,23446,108261,467813,5936875
+LSHTM,7,9,2020,21,10,2020,London,hospital_inc,EpiSoon,Deaths,2,450,All,5,11,22,34,52,80,120,190,299,450,700,1205,2258,4963,11995,35537,158160,909640,6907026
+LSHTM,7,9,2020,22,10,2020,London,hospital_inc,EpiSoon,Deaths,2,533,All,6,12,20,37,57,88,149,219,332,533,844,1440,2703,6022,14562,48876,194453,1087122,7439580
+LSHTM,7,9,2020,23,10,2020,London,hospital_inc,EpiSoon,Deaths,2,610,All,6,12,23,40,62,91,155,229,381,610,981,1795,3165,6771,17671,53328,273403,1418571,7219124
+LSHTM,7,9,2020,24,10,2020,London,hospital_inc,EpiSoon,Deaths,2,478,All,5,10,18,32,51,77,132,208,299,478,819,1528,2841,6262,16119,56944,264656,1512910,8125601
+LSHTM,7,9,2020,25,10,2020,London,hospital_inc,EpiSoon,Deaths,2,466,All,4,10,17,30,48,79,123,193,297,466,857,1587,2932,6167,18061,65558,288952,1613476,7673400
+LSHTM,7,9,2020,26,10,2020,London,hospital_inc,EpiSoon,Deaths,2,442,All,3,8,14,26,43,68,107,165,267,442,706,1296,2492,5931,16674,51732,266782,1489652,7514920
+LSHTM,7,9,2020,27,10,2020,London,hospital_inc,EpiSoon,Deaths,2,593,All,4,9,19,33,54,87,151,242,371,593,1031,1873,4062,9788,25331,80013,471872,3160832,8610323
+LSHTM,7,9,2020,28,10,2020,London,hospital_inc,EpiSoon,Deaths,2,784,All,5,12,22,41,71,111,173,283,476,784,1276,2600,5113,12712,32116,119932,655230,3957071,9660005
+LSHTM,7,9,2020,29,10,2020,London,hospital_inc,EpiSoon,Deaths,2,962,All,5,13,25,43,71,124,192,357,588,962,1689,3129,6260,15037,46279,161644,885614,4629714,9297741
+LSHTM,7,9,2020,30,10,2020,London,hospital_inc,EpiSoon,Deaths,2,1043,All,5,14,25,50,82,133,221,355,598,1043,1852,3740,7377,17992,55913,205731,1334881,5555839,9777213
+LSHTM,7,9,2020,31,10,2020,London,hospital_inc,EpiSoon,Deaths,2,866,All,4,11,21,42,72,113,187,300,522,866,1591,3105,6212,15831,48259,186315,1127349,4761809,9635677
+LSHTM,7,9,2020,1,11,2020,London,hospital_inc,EpiSoon,Deaths,2,844,All,4,10,21,39,69,108,174,320,507,844,1694,2924,5837,16844,55213,210211,1311708,5361139,10063942
+LSHTM,7,9,2020,2,11,2020,London,hospital_inc,EpiSoon,Deaths,2,758,All,3,8,16,31,54,91,147,263,433,758,1416,2865,5726,14384,48075,193820,1258119,5497061,10298336
+LSHTM,7,9,2020,7,9,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,10,All,3,4,5,6,7,7,8,9,9,10,11,12,13,14,15,16,17,19,24
+LSHTM,7,9,2020,8,9,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,10,All,3,4,5,6,7,7,8,9,10,10,11,12,13,14,15,16,18,20,24
+LSHTM,7,9,2020,9,9,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,10,All,3,4,5,6,6,7,8,9,9,10,11,11,12,13,14,16,18,20,24
+LSHTM,7,9,2020,10,9,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,11,All,3,4,5,7,7,8,9,10,10,11,12,13,14,15,17,18,20,23,29
+LSHTM,7,9,2020,11,9,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,11,All,3,4,5,6,7,7,8,9,10,11,11,12,13,14,15,17,19,21,27
+LSHTM,7,9,2020,12,9,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,12,All,3,4,6,7,8,8,9,10,11,12,13,14,15,16,17,20,22,26,32
+LSHTM,7,9,2020,13,9,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,12,All,4,5,6,7,8,9,10,11,11,12,13,14,15,17,18,20,22,26,32
+LSHTM,7,9,2020,14,9,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,11,All,3,4,5,6,7,7,8,9,10,11,12,13,14,15,17,18,21,24,31
+LSHTM,7,9,2020,15,9,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,11,All,3,4,5,6,7,8,9,10,11,11,12,13,14,16,18,20,22,27,35
+LSHTM,7,9,2020,16,9,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,11,All,2,4,5,6,6,7,8,9,10,11,12,13,14,15,17,19,22,26,33
+LSHTM,7,9,2020,17,9,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,12,All,3,4,6,6,7,8,9,10,11,12,14,15,16,18,20,23,26,31,41
+LSHTM,7,9,2020,18,9,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,11,All,3,4,5,6,7,7,8,9,10,11,12,13,15,17,18,21,24,29,42
+LSHTM,7,9,2020,19,9,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,12,All,3,5,6,7,8,9,10,10,11,12,14,15,16,18,20,23,27,32,47
+LSHTM,7,9,2020,20,9,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,13,All,3,5,6,7,8,9,10,11,12,13,14,16,17,19,21,24,28,36,50
+LSHTM,7,9,2020,21,9,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,12,All,3,4,5,6,7,7,8,10,11,12,13,14,16,18,20,24,27,34,49
+LSHTM,7,9,2020,22,9,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,12,All,3,4,5,6,7,8,9,10,11,12,13,15,17,19,21,24,29,37,53
+LSHTM,7,9,2020,23,9,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,11,All,2,3,4,5,6,7,8,9,10,11,12,14,16,18,20,24,28,36,57
+LSHTM,7,9,2020,24,9,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,13,All,3,4,5,6,7,8,10,11,12,13,15,17,19,21,24,28,34,43,69
+LSHTM,7,9,2020,25,9,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,12,All,2,3,4,6,7,8,8,9,11,12,13,15,17,19,22,26,31,41,70
+LSHTM,7,9,2020,26,9,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,13,All,2,4,5,6,7,8,9,11,12,13,15,16,18,21,24,29,35,48,76
+LSHTM,7,9,2020,27,9,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,14,All,3,4,5,6,8,9,10,11,12,14,15,17,19,22,26,31,38,51,88
+LSHTM,7,9,2020,28,9,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,12,All,2,4,5,6,7,8,9,10,11,12,14,16,18,21,24,29,37,49,80
+LSHTM,7,9,2020,29,9,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,13,All,2,3,5,6,6,8,9,10,12,13,14,16,19,21,25,30,38,51,97
+LSHTM,7,9,2020,30,9,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,12,All,2,3,4,5,6,7,8,9,11,12,14,16,18,21,25,30,37,52,100
+LSHTM,7,9,2020,1,10,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,15,All,2,4,5,6,7,9,10,11,13,15,16,19,22,25,30,36,45,63,119
+LSHTM,7,9,2020,2,10,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,13,All,2,3,4,5,6,7,8,10,11,13,14,16,19,22,27,34,42,64,117
+LSHTM,7,9,2020,3,10,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,15,All,2,3,4,6,7,8,10,11,13,15,17,19,21,25,30,38,49,69,135
+LSHTM,7,9,2020,4,10,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,15,All,2,4,5,6,8,9,10,12,13,15,17,20,23,27,33,40,54,75,146
+LSHTM,7,9,2020,5,10,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,14,All,2,3,4,5,6,8,9,10,12,14,15,18,20,24,30,37,50,77,150
+LSHTM,7,9,2020,6,10,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,14,All,2,3,4,5,7,8,9,11,12,14,16,18,21,25,30,39,50,75,177
+LSHTM,7,9,2020,7,10,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,13,All,1,3,4,5,6,7,8,10,11,13,15,17,20,25,30,39,53,81,176
+LSHTM,7,9,2020,8,10,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,15,All,2,3,4,6,7,8,10,11,13,15,17,20,24,29,36,47,64,95,211
+LSHTM,7,9,2020,9,10,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,13,All,1,3,4,5,6,7,8,10,11,13,15,18,22,27,33,41,60,91,208
+LSHTM,7,9,2020,10,10,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,15,All,2,3,4,5,7,8,10,11,13,15,18,21,25,30,38,48,67,109,250
+LSHTM,7,9,2020,11,10,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,16,All,1,3,4,6,7,9,10,12,14,16,19,22,26,32,40,54,76,118,255
+LSHTM,7,9,2020,12,10,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,15,All,1,3,4,5,6,8,9,11,12,15,17,20,24,29,36,49,67,113,269
+LSHTM,7,9,2020,13,10,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,15,All,1,2,4,5,6,8,9,11,13,15,18,21,25,30,37,50,70,122,330
+LSHTM,7,9,2020,14,10,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,14,All,1,2,3,4,6,7,9,10,12,14,17,20,24,29,37,49,69,120,291
+LSHTM,7,9,2020,15,10,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,16,All,1,2,4,5,7,8,10,12,13,16,19,24,29,36,48,61,90,151,384
+LSHTM,7,9,2020,16,10,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,15,All,1,2,3,5,6,7,8,10,12,15,17,21,25,33,44,57,81,140,400
+LSHTM,7,9,2020,17,10,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,16,All,1,2,4,5,6,8,10,11,13,16,20,24,29,36,46,64,98,151,466
+LSHTM,7,9,2020,18,10,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,17,All,1,3,4,5,7,9,11,12,14,17,20,25,30,38,47,64,101,181,493
+LSHTM,7,9,2020,19,10,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,15,All,1,2,3,4,6,7,9,11,13,15,19,22,27,34,46,62,93,156,458
+LSHTM,7,9,2020,20,10,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,15,All,1,2,4,5,6,7,9,11,13,15,19,23,29,37,49,68,101,190,531
+LSHTM,7,9,2020,21,10,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,15,All,1,2,3,4,5,7,8,10,12,15,17,21,27,35,47,65,104,172,573
+LSHTM,7,9,2020,22,10,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,17,All,1,2,3,5,7,8,10,11,14,17,21,26,31,42,55,77,126,234,707
+LSHTM,7,9,2020,23,10,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,16,All,1,2,3,5,6,7,9,11,13,16,19,23,29,37,49,72,115,216,640
+LSHTM,7,9,2020,24,10,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,17,All,1,2,4,5,6,8,9,11,14,17,20,25,33,44,57,83,134,267,786
+LSHTM,7,9,2020,25,10,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,17,All,1,2,4,5,6,8,9,12,14,17,21,27,35,46,63,92,143,265,899
+LSHTM,7,9,2020,26,10,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,16,All,1,2,3,4,5,7,9,11,13,16,20,25,32,42,57,84,125,239,849
+LSHTM,7,9,2020,27,10,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,16,All,1,2,3,4,6,7,9,11,13,16,20,26,33,42,61,88,140,283,1218
+LSHTM,7,9,2020,28,10,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,15,All,1,2,3,4,5,6,8,10,12,15,19,24,32,42,61,92,149,279,1020
+LSHTM,7,9,2020,29,10,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,18,All,0,2,3,5,6,8,10,12,15,18,23,30,37,49,70,109,177,353,1323
+LSHTM,7,9,2020,30,10,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,17,All,0,1,3,4,5,7,9,11,13,17,21,25,33,45,67,97,158,315,1425
+LSHTM,7,9,2020,31,10,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,18,All,1,2,3,4,6,8,10,12,15,18,23,29,37,50,72,109,190,349,1487
+LSHTM,7,9,2020,1,11,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,19,All,1,2,3,5,6,8,10,13,16,19,24,32,44,56,73,115,185,432,1704
+LSHTM,7,9,2020,2,11,2020,Midlands,hospital_inc,EpiSoon,Deaths,2,18,All,1,2,3,4,5,7,9,11,14,18,22,28,38,50,73,110,187,349,1507
+LSHTM,7,9,2020,7,9,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,7,All,2,3,3,4,4,5,6,6,6,7,7,8,8,9,10,11,12,13,16
+LSHTM,7,9,2020,8,9,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,8,All,2,3,4,4,5,6,6,7,7,8,8,9,10,10,11,12,13,15,18
+LSHTM,7,9,2020,9,9,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,9,All,3,4,4,5,6,6,7,7,8,9,9,10,11,12,13,14,15,16,19
+LSHTM,7,9,2020,10,9,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,10,All,3,4,5,6,6,7,8,8,9,10,10,11,12,13,14,15,16,19,22
+LSHTM,7,9,2020,11,9,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,7,All,2,3,4,4,5,5,6,6,7,7,8,8,9,10,11,12,13,15,17
+LSHTM,7,9,2020,12,9,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,9,All,3,4,5,5,6,7,7,8,9,9,10,11,11,12,13,14,16,18,22
+LSHTM,7,9,2020,13,9,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,7,All,2,3,4,4,5,5,6,6,7,7,8,8,9,10,11,12,13,15,18
+LSHTM,7,9,2020,14,9,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,7,All,2,2,3,4,4,5,5,6,6,7,8,8,9,10,11,11,13,15,18
+LSHTM,7,9,2020,15,9,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,7,All,2,3,4,4,5,5,6,6,7,7,8,9,10,10,11,12,14,16,19
+LSHTM,7,9,2020,16,9,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,8,All,2,3,4,4,5,6,6,7,7,8,9,10,10,12,13,14,16,18,22
+LSHTM,7,9,2020,17,9,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,9,All,2,4,4,5,6,7,7,8,9,9,10,11,12,13,14,15,17,20,25
+LSHTM,7,9,2020,18,9,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,7,All,2,2,3,4,4,5,5,6,6,7,8,8,9,10,11,12,14,17,21
+LSHTM,7,9,2020,19,9,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,9,All,2,3,4,5,5,6,7,7,8,9,10,10,11,12,14,15,17,21,26
+LSHTM,7,9,2020,20,9,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,7,All,2,2,3,4,4,5,6,6,7,7,8,8,9,10,11,12,14,16,21
+LSHTM,7,9,2020,21,9,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,7,All,1,2,3,3,4,5,5,6,6,7,8,8,9,10,11,12,14,16,20
+LSHTM,7,9,2020,22,9,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,7,All,1,2,3,4,4,5,5,6,6,7,8,9,9,10,12,13,15,18,23
+LSHTM,7,9,2020,23,9,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,8,All,2,3,3,4,5,6,6,7,7,8,9,10,11,12,13,15,17,20,27
+LSHTM,7,9,2020,24,9,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,9,All,2,3,4,5,5,6,7,7,8,9,10,11,12,13,14,16,19,22,30
+LSHTM,7,9,2020,25,9,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,7,All,1,2,3,4,4,5,5,6,6,7,8,8,9,10,11,12,14,18,24
+LSHTM,7,9,2020,26,9,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,9,All,2,3,4,4,5,6,7,7,8,9,10,10,12,13,15,17,20,24,35
+LSHTM,7,9,2020,27,9,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,6,All,1,2,3,3,4,4,5,5,6,6,7,8,9,10,11,13,15,19,27
+LSHTM,7,9,2020,28,9,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,7,All,1,2,2,3,4,4,5,5,6,7,7,8,9,10,11,13,15,20,27
+LSHTM,7,9,2020,29,9,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,7,All,1,2,3,3,4,4,5,6,6,7,8,9,10,11,12,14,17,21,30
+LSHTM,7,9,2020,30,9,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,8,All,1,2,3,4,4,5,6,6,7,8,8,9,10,11,13,15,18,23,33
+LSHTM,7,9,2020,1,10,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,9,All,1,2,3,4,5,6,6,7,8,9,9,10,11,13,15,17,20,26,40
+LSHTM,7,9,2020,2,10,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,6,All,1,2,2,3,3,4,5,5,6,6,7,8,9,10,12,13,16,21,32
+LSHTM,7,9,2020,3,10,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,8,All,1,2,3,4,5,5,6,7,7,8,9,10,11,13,14,16,20,27,44
+LSHTM,7,9,2020,4,10,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,7,All,1,2,2,3,3,4,5,5,6,7,7,8,9,10,12,14,17,23,37
+LSHTM,7,9,2020,5,10,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,6,All,1,1,2,3,3,4,4,5,5,6,7,8,8,10,11,13,16,22,37
+LSHTM,7,9,2020,6,10,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,7,All,1,2,2,3,3,4,4,5,6,7,7,8,10,11,12,15,18,24,42
+LSHTM,7,9,2020,7,10,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,7,All,1,2,3,3,4,5,5,6,7,7,8,9,10,11,13,15,19,27,44
+LSHTM,7,9,2020,8,10,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,8,All,1,2,3,4,4,5,6,6,7,8,9,10,12,13,15,18,23,32,53
+LSHTM,7,9,2020,9,10,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,6,All,1,1,2,3,3,4,4,5,5,6,7,8,9,10,12,14,17,24,43
+LSHTM,7,9,2020,10,10,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,8,All,1,2,3,3,4,5,5,6,7,8,9,10,11,13,15,18,23,33,54
+LSHTM,7,9,2020,11,10,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,6,All,1,1,2,2,3,3,4,5,6,6,7,8,9,10,12,15,19,26,47
+LSHTM,7,9,2020,12,10,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,6,All,1,1,2,2,3,3,4,4,5,6,7,8,9,10,12,14,19,26,48
+LSHTM,7,9,2020,13,10,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,6,All,0,1,2,2,3,4,4,5,6,6,7,8,9,11,13,15,20,29,50
+LSHTM,7,9,2020,14,10,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,7,All,1,1,2,3,3,4,5,5,6,7,8,9,10,12,14,17,23,33,62
+LSHTM,7,9,2020,15,10,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,8,All,1,2,2,3,4,4,5,6,7,8,9,10,11,13,16,19,24,36,69
+LSHTM,7,9,2020,16,10,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,6,All,0,1,2,2,3,3,4,5,5,6,7,8,9,11,13,16,20,29,59
+LSHTM,7,9,2020,17,10,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,8,All,1,1,2,3,4,4,5,6,7,8,9,10,12,13,16,20,26,39,82
+LSHTM,7,9,2020,18,10,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,6,All,0,1,2,2,3,3,4,5,5,6,7,8,9,11,13,16,21,29,57
+LSHTM,7,9,2020,19,10,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,6,All,0,1,1,2,2,3,4,4,5,6,7,7,9,10,12,15,20,30,62
+LSHTM,7,9,2020,20,10,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,6,All,0,1,2,2,3,3,4,4,5,6,7,8,9,11,13,16,22,34,72
+LSHTM,7,9,2020,21,10,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,7,All,0,1,2,2,3,4,4,5,6,7,8,9,10,12,15,19,25,35,81
+LSHTM,7,9,2020,22,10,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,8,All,0,1,2,3,4,4,5,6,7,8,9,10,12,14,16,19,27,41,94
+LSHTM,7,9,2020,23,10,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,5,All,0,1,1,2,2,3,4,4,5,5,6,7,9,10,12,15,22,34,77
+LSHTM,7,9,2020,24,10,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,7,All,0,1,2,3,3,4,5,6,6,7,9,10,12,14,17,22,28,45,102
+LSHTM,7,9,2020,25,10,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,6,All,0,1,1,2,2,3,3,4,5,6,6,7,9,11,13,17,23,37,82
+LSHTM,7,9,2020,26,10,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,5,All,0,1,1,2,2,3,3,4,5,5,6,7,9,10,13,17,24,38,93
+LSHTM,7,9,2020,27,10,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,6,All,0,1,1,2,2,3,4,4,5,6,7,8,9,11,14,18,24,39,98
+LSHTM,7,9,2020,28,10,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,6,All,0,1,1,2,3,3,4,5,5,6,7,9,10,12,15,19,28,50,118
+LSHTM,7,9,2020,29,10,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,7,All,0,1,2,2,3,4,4,5,6,7,8,10,12,14,17,22,31,51,131
+LSHTM,7,9,2020,30,10,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,5,All,0,1,1,2,2,3,3,4,5,5,6,7,9,11,13,17,24,45,113
+LSHTM,7,9,2020,31,10,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,7,All,0,1,1,2,3,4,4,5,6,7,8,10,11,14,18,23,33,59,149
+LSHTM,7,9,2020,1,11,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,5,All,0,1,1,1,2,3,3,4,5,5,6,7,9,11,13,17,25,44,113
+LSHTM,7,9,2020,2,11,2020,North East and Yorkshire,hospital_inc,EpiSoon,Deaths,2,5,All,0,0,1,1,2,3,3,4,4,5,6,7,8,10,13,17,26,44,111
+LSHTM,7,9,2020,7,9,2020,North West,hospital_inc,EpiSoon,Deaths,2,12,All,3,5,6,7,8,9,10,10,11,12,13,15,16,17,19,21,23,26,31
+LSHTM,7,9,2020,8,9,2020,North West,hospital_inc,EpiSoon,Deaths,2,13,All,4,5,6,7,8,9,10,11,12,13,14,15,16,18,19,21,24,27,33
+LSHTM,7,9,2020,9,9,2020,North West,hospital_inc,EpiSoon,Deaths,2,15,All,4,6,7,8,9,11,12,13,14,15,16,18,19,21,23,25,28,32,39
+LSHTM,7,9,2020,10,9,2020,North West,hospital_inc,EpiSoon,Deaths,2,17,All,4,6,8,9,11,12,13,14,15,17,19,20,22,24,26,29,32,38,47
+LSHTM,7,9,2020,11,9,2020,North West,hospital_inc,EpiSoon,Deaths,2,17,All,4,6,8,9,10,11,13,14,15,17,18,20,22,24,27,30,34,41,53
+LSHTM,7,9,2020,12,9,2020,North West,hospital_inc,EpiSoon,Deaths,2,19,All,5,7,8,10,12,13,15,16,18,19,21,23,25,28,31,35,41,50,66
+LSHTM,7,9,2020,13,9,2020,North West,hospital_inc,EpiSoon,Deaths,2,17,All,4,6,7,9,10,11,13,14,16,17,19,21,23,25,28,31,37,45,65
+LSHTM,7,9,2020,14,9,2020,North West,hospital_inc,EpiSoon,Deaths,2,17,All,4,6,7,9,10,11,12,14,16,17,18,20,22,25,28,31,37,47,63
+LSHTM,7,9,2020,15,9,2020,North West,hospital_inc,EpiSoon,Deaths,2,17,All,4,5,7,8,9,11,12,13,15,17,19,21,23,26,30,35,42,53,81
+LSHTM,7,9,2020,16,9,2020,North West,hospital_inc,EpiSoon,Deaths,2,20,All,5,6,8,9,11,13,14,16,17,20,22,25,27,31,36,41,51,65,98
+LSHTM,7,9,2020,17,9,2020,North West,hospital_inc,EpiSoon,Deaths,2,23,All,4,7,9,10,12,14,16,18,20,23,26,29,32,36,41,49,58,76,117
+LSHTM,7,9,2020,18,9,2020,North West,hospital_inc,EpiSoon,Deaths,2,23,All,5,7,9,11,13,14,16,18,20,23,26,29,32,38,45,52,66,86,149
+LSHTM,7,9,2020,19,9,2020,North West,hospital_inc,EpiSoon,Deaths,2,25,All,5,7,10,12,14,16,18,20,23,25,29,32,37,42,50,58,74,103,193
+LSHTM,7,9,2020,20,9,2020,North West,hospital_inc,EpiSoon,Deaths,2,23,All,4,6,8,10,12,14,16,18,20,23,26,30,34,40,47,57,75,98,173
+LSHTM,7,9,2020,21,9,2020,North West,hospital_inc,EpiSoon,Deaths,2,22,All,4,6,8,9,11,13,15,17,19,22,25,29,34,39,47,56,72,103,188
+LSHTM,7,9,2020,22,9,2020,North West,hospital_inc,EpiSoon,Deaths,2,22,All,4,6,7,9,10,13,14,17,19,22,25,29,33,39,48,62,85,128,241
+LSHTM,7,9,2020,23,9,2020,North West,hospital_inc,EpiSoon,Deaths,2,26,All,4,6,8,10,12,14,16,19,22,26,29,34,40,46,56,72,98,148,294
+LSHTM,7,9,2020,24,9,2020,North West,hospital_inc,EpiSoon,Deaths,2,29,All,4,7,9,11,14,16,19,22,25,29,33,39,47,55,69,88,119,187,395
+LSHTM,7,9,2020,25,9,2020,North West,hospital_inc,EpiSoon,Deaths,2,29,All,4,6,9,11,14,17,20,22,26,29,35,41,48,59,71,91,127,206,432
+LSHTM,7,9,2020,26,9,2020,North West,hospital_inc,EpiSoon,Deaths,2,33,All,4,7,9,12,14,17,20,24,28,33,38,47,55,66,84,108,153,256,553
+LSHTM,7,9,2020,27,9,2020,North West,hospital_inc,EpiSoon,Deaths,2,29,All,4,6,8,10,12,15,18,21,24,29,34,40,49,60,77,98,144,232,627
+LSHTM,7,9,2020,28,9,2020,North West,hospital_inc,EpiSoon,Deaths,2,29,All,3,5,7,9,13,15,18,21,25,29,34,40,48,59,76,102,158,233,618
+LSHTM,7,9,2020,29,9,2020,North West,hospital_inc,EpiSoon,Deaths,2,28,All,3,5,7,9,12,14,16,20,23,28,33,41,51,65,80,109,164,283,796
+LSHTM,7,9,2020,30,9,2020,North West,hospital_inc,EpiSoon,Deaths,2,33,All,4,6,8,11,13,16,19,23,28,33,39,48,59,76,97,131,193,364,937
+LSHTM,7,9,2020,1,10,2020,North West,hospital_inc,EpiSoon,Deaths,2,38,All,3,6,9,12,15,19,24,28,32,38,45,57,70,89,113,156,237,447,1217
+LSHTM,7,9,2020,2,10,2020,North West,hospital_inc,EpiSoon,Deaths,2,39,All,3,6,8,11,15,18,22,27,33,39,47,58,73,91,117,161,261,499,1741
+LSHTM,7,9,2020,3,10,2020,North West,hospital_inc,EpiSoon,Deaths,2,44,All,3,6,9,12,15,20,24,29,35,44,52,65,83,105,142,203,321,608,1887
+LSHTM,7,9,2020,4,10,2020,North West,hospital_inc,EpiSoon,Deaths,2,37,All,3,5,7,10,13,17,21,26,30,37,46,58,75,96,130,193,289,615,2147
+LSHTM,7,9,2020,5,10,2020,North West,hospital_inc,EpiSoon,Deaths,2,38,All,3,5,8,10,13,16,21,25,31,38,45,58,75,99,131,186,317,615,2089
+LSHTM,7,9,2020,6,10,2020,North West,hospital_inc,EpiSoon,Deaths,2,37,All,2,5,7,9,12,16,20,25,30,37,48,61,76,101,133,199,358,679,2327
+LSHTM,7,9,2020,7,10,2020,North West,hospital_inc,EpiSoon,Deaths,2,44,All,2,5,8,11,14,17,23,29,36,44,54,69,87,115,170,257,421,795,3625
+LSHTM,7,9,2020,8,10,2020,North West,hospital_inc,EpiSoon,Deaths,2,47,All,3,5,8,12,16,20,25,31,39,47,58,74,97,134,197,316,520,1081,4836
+LSHTM,7,9,2020,9,10,2020,North West,hospital_inc,EpiSoon,Deaths,2,50,All,2,5,8,11,15,20,25,31,40,50,64,80,105,152,211,312,545,1228,4427
+LSHTM,7,9,2020,10,10,2020,North West,hospital_inc,EpiSoon,Deaths,2,56,All,3,5,8,12,16,21,27,34,43,56,72,94,120,162,248,392,685,1463,6614
+LSHTM,7,9,2020,11,10,2020,North West,hospital_inc,EpiSoon,Deaths,2,49,All,2,4,7,11,14,19,24,31,40,49,65,82,109,145,223,330,638,1532,6422
+LSHTM,7,9,2020,12,10,2020,North West,hospital_inc,EpiSoon,Deaths,2,47,All,2,4,7,10,14,18,23,29,37,47,61,80,107,151,221,370,641,1395,7588
+LSHTM,7,9,2020,13,10,2020,North West,hospital_inc,EpiSoon,Deaths,2,47,All,2,4,7,10,14,18,23,30,39,47,64,85,117,159,237,382,702,1635,8488
+LSHTM,7,9,2020,14,10,2020,North West,hospital_inc,EpiSoon,Deaths,2,55,All,2,4,7,11,15,20,27,34,43,55,71,96,141,192,289,473,923,2280,11310
+LSHTM,7,9,2020,15,10,2020,North West,hospital_inc,EpiSoon,Deaths,2,66,All,2,5,8,12,17,22,30,40,52,66,82,111,151,208,323,575,1102,2579,13420
+LSHTM,7,9,2020,16,10,2020,North West,hospital_inc,EpiSoon,Deaths,2,65,All,2,4,8,12,16,22,29,37,50,65,84,113,162,231,348,594,1259,3201,17680
+LSHTM,7,9,2020,17,10,2020,North West,hospital_inc,EpiSoon,Deaths,2,73,All,2,5,9,13,19,25,32,41,54,73,96,123,172,256,382,689,1405,4017,21057
+LSHTM,7,9,2020,18,10,2020,North West,hospital_inc,EpiSoon,Deaths,2,64,All,2,4,7,11,16,22,29,38,49,64,84,116,167,248,371,623,1265,3529,21651
+LSHTM,7,9,2020,19,10,2020,North West,hospital_inc,EpiSoon,Deaths,2,64,All,1,4,7,11,16,21,29,38,48,64,85,114,166,254,382,647,1322,3652,23950
+LSHTM,7,9,2020,20,10,2020,North West,hospital_inc,EpiSoon,Deaths,2,66,All,1,4,6,11,15,20,28,36,48,66,88,121,172,249,402,726,1635,4473,26110
+LSHTM,7,9,2020,21,10,2020,North West,hospital_inc,EpiSoon,Deaths,2,73,All,1,4,7,12,17,23,31,43,55,73,97,133,208,307,510,917,1801,5343,37726
+LSHTM,7,9,2020,22,10,2020,North West,hospital_inc,EpiSoon,Deaths,2,90,All,2,4,8,12,18,25,35,48,64,90,117,164,231,350,574,1106,2205,6739,47067
+LSHTM,7,9,2020,23,10,2020,North West,hospital_inc,EpiSoon,Deaths,2,82,All,1,4,8,13,19,27,35,46,61,82,119,167,236,382,634,1049,2415,8321,50490
+LSHTM,7,9,2020,24,10,2020,North West,hospital_inc,EpiSoon,Deaths,2,93,All,2,4,8,13,20,27,36,51,70,93,138,192,275,409,714,1362,3162,9059,76823
+LSHTM,7,9,2020,25,10,2020,North West,hospital_inc,EpiSoon,Deaths,2,83,All,1,4,8,11,17,25,34,45,61,83,113,168,252,418,698,1137,2757,8518,80758
+LSHTM,7,9,2020,26,10,2020,North West,hospital_inc,EpiSoon,Deaths,2,82,All,1,3,7,11,15,23,32,45,60,82,118,173,249,382,657,1143,2756,8973,73647
+LSHTM,7,9,2020,27,10,2020,North West,hospital_inc,EpiSoon,Deaths,2,83,All,1,3,7,11,16,23,32,43,63,83,120,173,266,405,706,1414,3130,10106,102963
+LSHTM,7,9,2020,28,10,2020,North West,hospital_inc,EpiSoon,Deaths,2,97,All,1,4,7,12,19,26,37,49,68,97,130,194,283,452,822,1724,3914,13142,132888
+LSHTM,7,9,2020,29,10,2020,North West,hospital_inc,EpiSoon,Deaths,2,110,All,1,4,8,13,20,30,41,56,78,110,170,235,355,557,1029,1952,4820,17386,156678
+LSHTM,7,9,2020,30,10,2020,North West,hospital_inc,EpiSoon,Deaths,2,111,All,1,3,7,12,19,27,40,58,80,111,160,232,382,570,1081,2211,4973,16868,154758
+LSHTM,7,9,2020,31,10,2020,North West,hospital_inc,EpiSoon,Deaths,2,122,All,1,4,8,14,22,30,43,61,82,122,180,274,428,678,1179,2617,5836,22722,224692
+LSHTM,7,9,2020,1,11,2020,North West,hospital_inc,EpiSoon,Deaths,2,109,All,1,4,7,11,18,27,40,58,80,109,162,247,390,602,1056,2324,6329,20882,234055
+LSHTM,7,9,2020,2,11,2020,North West,hospital_inc,EpiSoon,Deaths,2,105,All,1,3,7,11,18,27,39,54,77,105,154,229,370,604,1170,2225,5912,22246,298446
+LSHTM,7,9,2020,7,9,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,3,All,0,0,0,1,1,1,2,2,3,3,4,4,5,6,7,9,11,16,24
+LSHTM,7,9,2020,8,9,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,3,All,0,0,0,1,1,1,2,2,3,3,3,4,5,6,7,9,12,17,30
+LSHTM,7,9,2020,9,9,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,5,All,0,0,1,1,2,2,3,3,4,5,6,6,8,9,11,14,19,28,48
+LSHTM,7,9,2020,10,9,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,4,All,0,0,1,1,1,2,2,3,3,4,5,5,7,8,10,12,17,25,51
+LSHTM,7,9,2020,11,9,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,4,All,0,0,0,1,1,2,2,3,3,4,4,5,6,8,10,12,16,25,51
+LSHTM,7,9,2020,12,9,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,3,All,0,0,0,1,1,1,2,2,3,3,4,5,6,8,10,13,18,28,53
+LSHTM,7,9,2020,13,9,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,6,All,0,1,1,2,2,3,4,4,5,6,8,9,11,14,18,23,33,54,122
+LSHTM,7,9,2020,14,9,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,6,All,0,0,1,1,2,2,3,4,5,6,7,9,11,14,18,25,36,60,110
+LSHTM,7,9,2020,15,9,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,6,All,0,0,1,1,2,2,3,3,4,6,7,8,10,13,18,25,37,66,141
+LSHTM,7,9,2020,16,9,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,8,All,0,0,1,2,2,3,4,5,6,8,10,12,15,20,28,39,60,111,280
+LSHTM,7,9,2020,17,9,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,7,All,0,0,1,1,2,2,3,4,5,7,9,11,15,20,27,37,55,102,268
+LSHTM,7,9,2020,18,9,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,7,All,0,0,1,1,2,2,3,4,5,7,8,10,12,16,23,35,51,92,263
+LSHTM,7,9,2020,19,9,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,6,All,0,0,0,1,1,2,3,3,4,6,8,10,13,18,24,36,54,121,295
+LSHTM,7,9,2020,20,9,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,11,All,0,1,1,2,3,4,5,7,9,11,14,19,23,32,45,67,115,210,684
+LSHTM,7,9,2020,21,9,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,10,All,0,0,1,2,2,3,4,6,8,10,13,17,23,32,48,69,121,244,790
+LSHTM,7,9,2020,22,9,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,10,All,0,0,1,1,2,3,4,6,7,10,12,17,23,33,46,70,119,232,884
+LSHTM,7,9,2020,23,9,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,14,All,0,1,1,2,3,4,6,8,10,14,19,25,34,47,66,106,205,446,1514
+LSHTM,7,9,2020,24,9,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,13,All,0,0,1,2,3,4,5,7,10,13,16,22,31,43,62,111,200,396,1489
+LSHTM,7,9,2020,25,9,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,12,All,0,0,1,1,2,3,5,6,9,12,17,23,30,41,62,97,183,401,1729
+LSHTM,7,9,2020,26,9,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,11,All,0,0,1,1,2,3,4,6,8,11,16,22,30,45,68,110,206,483,2154
+LSHTM,7,9,2020,27,9,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,20,All,0,1,1,2,4,5,7,11,14,20,28,39,56,81,121,196,369,924,4012
+LSHTM,7,9,2020,28,9,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,18,All,0,0,1,2,3,4,6,9,13,18,24,34,50,79,120,190,386,962,4474
+LSHTM,7,9,2020,29,9,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,17,All,0,0,1,2,3,4,7,9,13,17,23,34,51,75,121,214,488,1112,4986
+LSHTM,7,9,2020,30,9,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,24,All,0,1,1,2,4,6,10,13,18,24,35,52,82,118,181,328,616,1631,8682
+LSHTM,7,9,2020,1,10,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,22,All,0,0,1,2,3,5,8,11,15,22,31,45,62,101,164,319,638,1717,9002
+LSHTM,7,9,2020,2,10,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,21,All,0,0,1,2,3,5,7,11,15,21,31,45,68,102,164,293,601,1673,10586
+LSHTM,7,9,2020,3,10,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,19,All,0,0,1,2,3,4,7,10,13,19,28,41,61,92,154,304,690,1825,10319
+LSHTM,7,9,2020,4,10,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,36,All,0,1,2,3,5,8,11,16,25,36,57,82,118,195,308,670,1254,4220,23231
+LSHTM,7,9,2020,5,10,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,33,All,0,1,1,3,4,6,10,15,23,33,49,75,112,198,317,598,1326,4381,22095
+LSHTM,7,9,2020,6,10,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,33,All,0,0,1,2,3,6,9,14,21,33,49,74,113,183,321,629,1387,4141,35523
+LSHTM,7,9,2020,7,10,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,45,All,0,0,1,3,5,8,13,20,31,45,69,103,161,277,509,968,2186,7655,56200
+LSHTM,7,9,2020,8,10,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,37,All,0,0,1,2,4,7,11,17,25,37,61,97,158,250,450,992,2280,7425,63448
+LSHTM,7,9,2020,9,10,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,38,All,0,0,1,2,4,6,10,16,25,38,59,95,141,230,427,894,2448,8062,61950
+LSHTM,7,9,2020,10,10,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,35,All,0,0,1,2,3,6,9,15,22,35,56,89,146,233,444,886,2535,7810,65515
+LSHTM,7,9,2020,11,10,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,65,All,0,1,2,3,6,9,16,26,41,65,100,160,267,468,819,1808,4644,16730,177187
+LSHTM,7,9,2020,12,10,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,54,All,0,0,1,3,5,9,15,24,35,54,91,150,247,443,853,1737,5296,17215,169049
+LSHTM,7,9,2020,13,10,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,54,All,0,0,1,2,5,9,14,21,32,54,85,140,265,442,923,2026,5719,18798,212618
+LSHTM,7,9,2020,14,10,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,78,All,0,1,2,3,7,11,18,32,49,78,125,205,373,631,1303,2767,7308,31499,338116
+LSHTM,7,9,2020,15,10,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,67,All,0,0,1,3,6,9,17,27,43,67,113,196,354,624,1178,2997,7810,29153,347280
+LSHTM,7,9,2020,16,10,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,64,All,0,0,1,3,5,9,16,27,43,64,96,171,305,558,1193,2961,8804,36176,439850
+LSHTM,7,9,2020,17,10,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,59,All,0,0,1,2,5,8,13,24,37,59,104,182,338,601,1256,2705,8132,32360,420424
+LSHTM,7,9,2020,18,10,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,115,All,0,0,2,4,7,14,26,42,68,115,185,310,562,1062,2266,5850,18312,78970,935463
+LSHTM,7,9,2020,19,10,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,98,All,0,0,1,4,7,13,23,36,62,98,161,283,535,1088,2188,5429,15559,78939,864177
+LSHTM,7,9,2020,20,10,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,100,All,0,0,1,3,7,12,22,36,60,100,165,276,547,1108,2182,6080,17193,77555,1307655
+LSHTM,7,9,2020,21,10,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,148,All,0,0,2,3,8,14,29,52,84,148,239,445,831,1612,3298,8371,28812,164242,2106764
+LSHTM,7,9,2020,22,10,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,138,All,0,0,1,3,6,12,24,49,85,138,233,394,701,1401,3401,8898,27022,160955,2019820
+LSHTM,7,9,2020,23,10,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,116,All,0,0,1,3,6,12,22,40,74,116,208,402,735,1429,3269,8536,23353,119868,1998362
+LSHTM,7,9,2020,24,10,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,107,All,0,0,1,3,6,11,21,41,66,107,194,375,690,1467,3119,8502,27879,182579,2465138
+LSHTM,7,9,2020,25,10,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,196,All,0,1,2,4,9,20,37,63,106,196,353,640,1330,2681,5614,17562,60676,294754,4151866
+LSHTM,7,9,2020,26,10,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,182,All,0,0,1,4,8,17,32,63,107,182,333,604,1158,2658,6742,17606,62075,274505,3939424
+LSHTM,7,9,2020,27,10,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,172,All,0,0,1,4,8,16,31,55,98,172,299,587,1205,2300,5604,16126,65443,376969,5345212
+LSHTM,7,9,2020,28,10,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,268,All,0,0,2,5,11,21,43,82,145,268,479,890,1902,3844,9669,25668,105722,497315,5974483
+LSHTM,7,9,2020,29,10,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,222,All,0,0,1,4,9,17,33,65,123,222,390,843,1678,3546,8687,25709,84682,664708,5433678
+LSHTM,7,9,2020,30,10,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,216,All,0,0,1,4,9,18,34,68,120,216,404,770,1513,3181,8098,26054,95769,556520,5888344
+LSHTM,7,9,2020,31,10,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,199,All,0,0,1,3,7,15,32,57,111,199,374,708,1497,3399,8620,26728,93807,573906,6019382
+LSHTM,7,9,2020,1,11,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,367,All,0,0,2,5,12,27,55,112,198,367,673,1245,2863,6444,16986,52215,212500,1330278,7194071
+LSHTM,7,9,2020,2,11,2020,Scotland,hospital_inc,EpiSoon,Deaths,2,321,All,0,0,2,5,11,22,52,99,176,321,636,1406,2850,6346,16429,58628,229596,1272409,7375800
+LSHTM,7,9,2020,7,9,2020,South East,hospital_inc,EpiSoon,Deaths,2,6,All,1,2,3,3,4,4,5,5,6,6,6,7,7,8,9,9,10,12,14
+LSHTM,7,9,2020,8,9,2020,South East,hospital_inc,EpiSoon,Deaths,2,6,All,1,2,3,3,4,4,4,5,5,6,6,7,7,8,9,10,11,12,15
+LSHTM,7,9,2020,9,9,2020,South East,hospital_inc,EpiSoon,Deaths,2,6,All,1,2,3,3,4,4,5,5,6,6,7,7,8,8,9,10,11,13,16
+LSHTM,7,9,2020,10,9,2020,South East,hospital_inc,EpiSoon,Deaths,2,7,All,2,3,3,4,4,5,5,6,6,7,7,8,9,9,10,11,13,15,17
+LSHTM,7,9,2020,11,9,2020,South East,hospital_inc,EpiSoon,Deaths,2,7,All,2,3,3,4,4,5,6,6,7,7,8,9,9,10,11,12,13,15,19
+LSHTM,7,9,2020,12,9,2020,South East,hospital_inc,EpiSoon,Deaths,2,6,All,1,2,2,3,3,4,4,5,5,6,6,7,8,8,9,10,12,13,17
+LSHTM,7,9,2020,13,9,2020,South East,hospital_inc,EpiSoon,Deaths,2,6,All,1,2,2,3,4,4,4,5,5,6,7,7,8,9,10,11,12,14,18
+LSHTM,7,9,2020,14,9,2020,South East,hospital_inc,EpiSoon,Deaths,2,7,All,1,2,3,3,4,4,5,6,6,7,7,8,8,9,10,11,13,16,21
+LSHTM,7,9,2020,15,9,2020,South East,hospital_inc,EpiSoon,Deaths,2,7,All,1,2,3,3,4,4,5,6,6,7,7,8,9,10,11,12,14,16,21
+LSHTM,7,9,2020,16,9,2020,South East,hospital_inc,EpiSoon,Deaths,2,7,All,1,2,3,3,4,5,5,6,6,7,8,8,9,10,11,13,15,18,24
+LSHTM,7,9,2020,17,9,2020,South East,hospital_inc,EpiSoon,Deaths,2,8,All,2,2,3,4,4,5,6,6,7,8,8,9,10,11,13,15,17,21,30
+LSHTM,7,9,2020,18,9,2020,South East,hospital_inc,EpiSoon,Deaths,2,8,All,2,3,3,4,4,5,6,7,7,8,9,10,11,12,14,16,18,22,30
+LSHTM,7,9,2020,19,9,2020,South East,hospital_inc,EpiSoon,Deaths,2,7,All,1,2,2,3,4,4,5,5,6,7,7,8,9,10,12,13,16,19,26
+LSHTM,7,9,2020,20,9,2020,South East,hospital_inc,EpiSoon,Deaths,2,7,All,1,2,2,3,4,4,5,5,6,7,7,8,9,10,12,13,16,20,28
+LSHTM,7,9,2020,21,9,2020,South East,hospital_inc,EpiSoon,Deaths,2,7,All,1,2,3,3,4,5,5,6,6,7,8,9,10,11,13,15,18,22,35
+LSHTM,7,9,2020,22,9,2020,South East,hospital_inc,EpiSoon,Deaths,2,7,All,1,2,3,3,4,5,5,6,7,7,8,9,10,11,13,15,19,25,35
+LSHTM,7,9,2020,23,9,2020,South East,hospital_inc,EpiSoon,Deaths,2,8,All,1,2,3,3,4,5,5,6,7,8,9,9,11,12,14,17,21,27,41
+LSHTM,7,9,2020,24,9,2020,South East,hospital_inc,EpiSoon,Deaths,2,8,All,1,2,3,4,4,5,6,7,7,8,9,10,12,14,16,20,24,31,51
+LSHTM,7,9,2020,25,9,2020,South East,hospital_inc,EpiSoon,Deaths,2,9,All,1,2,3,4,5,5,6,7,8,9,10,11,13,15,17,20,25,34,52
+LSHTM,7,9,2020,26,9,2020,South East,hospital_inc,EpiSoon,Deaths,2,7,All,1,2,2,3,4,4,5,6,6,7,8,9,10,12,15,18,21,29,51
+LSHTM,7,9,2020,27,9,2020,South East,hospital_inc,EpiSoon,Deaths,2,7,All,1,2,2,3,4,4,5,6,7,7,8,9,11,13,15,18,23,31,48
+LSHTM,7,9,2020,28,9,2020,South East,hospital_inc,EpiSoon,Deaths,2,8,All,1,2,2,3,4,5,5,6,7,8,9,11,12,14,17,21,26,37,64
+LSHTM,7,9,2020,29,9,2020,South East,hospital_inc,EpiSoon,Deaths,2,8,All,1,2,2,3,4,4,5,6,7,8,9,11,12,14,17,20,27,37,65
+LSHTM,7,9,2020,30,9,2020,South East,hospital_inc,EpiSoon,Deaths,2,8,All,1,2,2,3,4,4,5,6,7,8,9,11,13,15,18,22,29,42,77
+LSHTM,7,9,2020,1,10,2020,South East,hospital_inc,EpiSoon,Deaths,2,9,All,1,2,3,4,4,5,6,7,8,9,11,12,14,17,21,26,33,50,93
+LSHTM,7,9,2020,2,10,2020,South East,hospital_inc,EpiSoon,Deaths,2,9,All,1,2,3,4,4,5,6,7,8,9,11,13,15,18,22,27,36,55,108
+LSHTM,7,9,2020,3,10,2020,South East,hospital_inc,EpiSoon,Deaths,2,8,All,1,2,2,3,3,4,5,6,7,8,9,11,13,15,18,24,31,47,87
+LSHTM,7,9,2020,4,10,2020,South East,hospital_inc,EpiSoon,Deaths,2,8,All,1,1,2,3,4,4,5,6,7,8,9,11,13,15,19,23,32,48,106
+LSHTM,7,9,2020,5,10,2020,South East,hospital_inc,EpiSoon,Deaths,2,9,All,1,2,2,3,4,4,5,6,7,9,10,12,14,17,21,27,38,58,120
+LSHTM,7,9,2020,6,10,2020,South East,hospital_inc,EpiSoon,Deaths,2,9,All,1,2,2,3,4,4,5,6,7,9,10,12,14,17,21,28,39,60,130
+LSHTM,7,9,2020,7,10,2020,South East,hospital_inc,EpiSoon,Deaths,2,9,All,1,2,2,3,4,4,5,6,8,9,11,13,15,18,22,30,42,64,143
+LSHTM,7,9,2020,8,10,2020,South East,hospital_inc,EpiSoon,Deaths,2,10,All,1,2,3,3,4,5,6,7,9,10,12,14,17,21,27,35,50,79,183
+LSHTM,7,9,2020,9,10,2020,South East,hospital_inc,EpiSoon,Deaths,2,10,All,1,2,3,4,4,5,7,8,9,10,13,15,18,22,28,37,51,85,185
+LSHTM,7,9,2020,10,10,2020,South East,hospital_inc,EpiSoon,Deaths,2,8,All,1,1,2,3,3,4,5,6,7,8,10,12,14,18,24,32,43,71,161
+LSHTM,7,9,2020,11,10,2020,South East,hospital_inc,EpiSoon,Deaths,2,8,All,0,1,2,3,3,4,5,6,7,8,10,12,15,18,24,32,47,76,186
+LSHTM,7,9,2020,12,10,2020,South East,hospital_inc,EpiSoon,Deaths,2,9,All,1,1,2,3,3,4,5,6,7,9,11,13,17,21,27,37,51,89,193
+LSHTM,7,9,2020,13,10,2020,South East,hospital_inc,EpiSoon,Deaths,2,9,All,0,1,2,3,4,4,5,7,8,9,11,14,17,22,28,38,53,94,247
+LSHTM,7,9,2020,14,10,2020,South East,hospital_inc,EpiSoon,Deaths,2,10,All,0,1,2,3,3,5,5,6,8,10,12,14,17,22,29,39,57,101,270
+LSHTM,7,9,2020,15,10,2020,South East,hospital_inc,EpiSoon,Deaths,2,11,All,1,1,2,3,4,5,6,7,9,11,13,16,21,25,34,46,68,118,322
+LSHTM,7,9,2020,16,10,2020,South East,hospital_inc,EpiSoon,Deaths,2,11,All,1,2,2,3,4,5,6,7,9,11,14,17,21,27,36,50,70,135,319
+LSHTM,7,9,2020,17,10,2020,South East,hospital_inc,EpiSoon,Deaths,2,9,All,0,1,2,2,3,4,5,6,7,9,11,14,17,23,31,45,71,128,305
+LSHTM,7,9,2020,18,10,2020,South East,hospital_inc,EpiSoon,Deaths,2,9,All,0,1,2,2,3,4,5,6,8,9,11,15,19,24,32,45,70,121,362
+LSHTM,7,9,2020,19,10,2020,South East,hospital_inc,EpiSoon,Deaths,2,10,All,0,1,2,3,3,4,6,7,8,10,13,16,20,26,35,48,80,152,404
+LSHTM,7,9,2020,20,10,2020,South East,hospital_inc,EpiSoon,Deaths,2,10,All,0,1,2,2,3,4,5,6,8,10,12,15,20,27,36,49,77,135,413
+LSHTM,7,9,2020,21,10,2020,South East,hospital_inc,EpiSoon,Deaths,2,10,All,0,1,2,2,3,4,5,6,8,10,13,17,22,28,39,54,86,165,496
+LSHTM,7,9,2020,22,10,2020,South East,hospital_inc,EpiSoon,Deaths,2,12,All,0,1,2,3,4,5,6,7,9,12,15,19,24,32,45,63,104,212,617
+LSHTM,7,9,2020,23,10,2020,South East,hospital_inc,EpiSoon,Deaths,2,12,All,0,1,2,3,4,5,6,8,10,12,15,20,26,36,49,73,110,221,697
+LSHTM,7,9,2020,24,10,2020,South East,hospital_inc,EpiSoon,Deaths,2,10,All,0,1,1,2,3,4,5,6,8,10,13,17,21,29,40,60,100,185,586
+LSHTM,7,9,2020,25,10,2020,South East,hospital_inc,EpiSoon,Deaths,2,10,All,0,1,1,2,3,4,5,6,8,10,13,17,22,29,41,61,97,199,638
+LSHTM,7,9,2020,26,10,2020,South East,hospital_inc,EpiSoon,Deaths,2,10,All,0,1,2,2,3,4,5,7,8,10,13,17,24,34,46,68,113,221,786
+LSHTM,7,9,2020,27,10,2020,South East,hospital_inc,EpiSoon,Deaths,2,11,All,0,1,1,2,3,4,5,6,8,11,14,19,24,33,45,72,117,241,835
+LSHTM,7,9,2020,28,10,2020,South East,hospital_inc,EpiSoon,Deaths,2,11,All,0,1,2,2,3,4,5,7,9,11,14,19,25,34,51,78,123,249,1033
+LSHTM,7,9,2020,29,10,2020,South East,hospital_inc,EpiSoon,Deaths,2,12,All,0,1,2,3,4,5,6,7,9,12,17,21,29,40,59,90,154,329,1253
+LSHTM,7,9,2020,30,10,2020,South East,hospital_inc,EpiSoon,Deaths,2,13,All,0,1,2,3,3,5,6,8,10,13,17,24,32,44,59,93,166,348,1330
+LSHTM,7,9,2020,31,10,2020,South East,hospital_inc,EpiSoon,Deaths,2,11,All,0,1,1,2,3,4,5,6,8,11,14,19,25,36,54,82,145,303,1058
+LSHTM,7,9,2020,1,11,2020,South East,hospital_inc,EpiSoon,Deaths,2,11,All,0,1,1,2,3,3,5,6,8,11,15,19,26,37,50,80,144,324,1339
+LSHTM,7,9,2020,2,11,2020,South East,hospital_inc,EpiSoon,Deaths,2,12,All,0,1,1,2,3,4,5,7,9,12,15,21,29,41,61,92,173,350,1634
+LSHTM,7,9,2020,7,9,2020,South West,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,3,3
+LSHTM,7,9,2020,8,9,2020,South West,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,3
+LSHTM,7,9,2020,9,9,2020,South West,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,3
+LSHTM,7,9,2020,10,9,2020,South West,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,3,4
+LSHTM,7,9,2020,11,9,2020,South West,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,3
+LSHTM,7,9,2020,12,9,2020,South West,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,3,4
+LSHTM,7,9,2020,13,9,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,3
+LSHTM,7,9,2020,14,9,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3,3
+LSHTM,7,9,2020,15,9,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3
+LSHTM,7,9,2020,16,9,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,3
+LSHTM,7,9,2020,17,9,2020,South West,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,3,4
+LSHTM,7,9,2020,18,9,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3
+LSHTM,7,9,2020,19,9,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3,4
+LSHTM,7,9,2020,20,9,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3
+LSHTM,7,9,2020,21,9,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,2,3
+LSHTM,7,9,2020,22,9,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3
+LSHTM,7,9,2020,23,9,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,3
+LSHTM,7,9,2020,24,9,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3,4
+LSHTM,7,9,2020,25,9,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,3
+LSHTM,7,9,2020,26,9,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3,4
+LSHTM,7,9,2020,27,9,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,3
+LSHTM,7,9,2020,28,9,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,3
+LSHTM,7,9,2020,29,9,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,3
+LSHTM,7,9,2020,30,9,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,3
+LSHTM,7,9,2020,1,10,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,3,4
+LSHTM,7,9,2020,2,10,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2,3
+LSHTM,7,9,2020,3,10,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,3,4
+LSHTM,7,9,2020,4,10,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,3
+LSHTM,7,9,2020,5,10,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,3
+LSHTM,7,9,2020,6,10,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,3
+LSHTM,7,9,2020,7,10,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2,4
+LSHTM,7,9,2020,8,10,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,3,4
+LSHTM,7,9,2020,9,10,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2,4
+LSHTM,7,9,2020,10,10,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,3,5
+LSHTM,7,9,2020,11,10,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,4
+LSHTM,7,9,2020,12,10,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2,4
+LSHTM,7,9,2020,13,10,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,3
+LSHTM,7,9,2020,14,10,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,4
+LSHTM,7,9,2020,15,10,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,4
+LSHTM,7,9,2020,16,10,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,4
+LSHTM,7,9,2020,17,10,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2,4
+LSHTM,7,9,2020,18,10,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,3
+LSHTM,7,9,2020,19,10,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,4
+LSHTM,7,9,2020,20,10,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3
+LSHTM,7,9,2020,21,10,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,4
+LSHTM,7,9,2020,22,10,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2,5
+LSHTM,7,9,2020,23,10,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,4
+LSHTM,7,9,2020,24,10,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,5
+LSHTM,7,9,2020,25,10,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,4
+LSHTM,7,9,2020,26,10,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,5
+LSHTM,7,9,2020,27,10,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,4
+LSHTM,7,9,2020,28,10,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,4
+LSHTM,7,9,2020,29,10,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,5
+LSHTM,7,9,2020,30,10,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,4
+LSHTM,7,9,2020,31,10,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,5
+LSHTM,7,9,2020,1,11,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,4
+LSHTM,7,9,2020,2,11,2020,South West,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,4
+LSHTM,7,9,2020,7,9,2020,Wales,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,3,5,10,35
+LSHTM,7,9,2020,8,9,2020,Wales,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,2,2,3,5,7,18,64
+LSHTM,7,9,2020,9,9,2020,Wales,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,2,2,3,5,9,19,80
+LSHTM,7,9,2020,10,9,2020,Wales,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,0,0,0,0,1,1,1,2,2,3,5,8,20,83
+LSHTM,7,9,2020,11,9,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,4,7,18,95
+LSHTM,7,9,2020,12,9,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,4,8,23,108
+LSHTM,7,9,2020,13,9,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2,4,10,23,139
+LSHTM,7,9,2020,14,9,2020,Wales,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,0,0,0,0,1,1,1,1,2,3,5,11,30,190
+LSHTM,7,9,2020,15,9,2020,Wales,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,0,0,0,0,1,1,1,2,3,4,7,15,54,430
+LSHTM,7,9,2020,16,9,2020,Wales,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,0,0,0,0,1,1,1,2,3,4,7,18,60,404
+LSHTM,7,9,2020,17,9,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,2,4,6,17,60,504
+LSHTM,7,9,2020,18,9,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,6,16,58,541
+LSHTM,7,9,2020,19,9,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,2,4,7,17,69,671
+LSHTM,7,9,2020,20,9,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,6,17,80,635
+LSHTM,7,9,2020,21,9,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,2,4,8,20,100,1037
+LSHTM,7,9,2020,22,9,2020,Wales,hospital_inc,EpiSoon,Deaths,2,1,All,0,0,0,0,0,0,0,0,0,1,1,1,2,3,5,12,33,166,2296
+LSHTM,7,9,2020,23,9,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,1,1,2,3,6,12,34,167,3295
+LSHTM,7,9,2020,24,9,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,1,1,2,3,5,11,33,175,2511
+LSHTM,7,9,2020,25,9,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,2,4,9,32,164,3184
+LSHTM,7,9,2020,26,9,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,2,4,11,36,203,4202
+LSHTM,7,9,2020,27,9,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,2,4,11,36,207,4596
+LSHTM,7,9,2020,28,9,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,3,5,12,48,310,8511
+LSHTM,7,9,2020,29,9,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,1,1,2,4,8,19,72,469,10834
+LSHTM,7,9,2020,30,9,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,1,1,2,4,7,19,88,495,16920
+LSHTM,7,9,2020,1,10,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,2,3,7,19,71,579,17871
+LSHTM,7,9,2020,2,10,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,3,6,15,61,548,23264
+LSHTM,7,9,2020,3,10,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,3,7,20,72,647,25577
+LSHTM,7,9,2020,4,10,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,3,6,16,81,644,33760
+LSHTM,7,9,2020,5,10,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,3,7,21,99,869,45327
+LSHTM,7,9,2020,6,10,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,1,1,2,4,9,31,146,1430,83089
+LSHTM,7,9,2020,7,10,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,1,1,2,4,12,31,162,1755,125188
+LSHTM,7,9,2020,8,10,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,2,4,10,33,154,1676,112477
+LSHTM,7,9,2020,9,10,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,3,8,25,134,1675,96009
+LSHTM,7,9,2020,10,10,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,3,9,29,148,2131,138050
+LSHTM,7,9,2020,11,10,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,3,9,26,140,2136,128127
+LSHTM,7,9,2020,12,10,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,3,10,34,197,2602,191718
+LSHTM,7,9,2020,13,10,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,1,1,2,5,14,53,328,4133,374585
+LSHTM,7,9,2020,14,10,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,2,5,15,52,350,3998,674352
+LSHTM,7,9,2020,15,10,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,2,5,14,56,331,4450,729396
+LSHTM,7,9,2020,16,10,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,3,10,38,353,4828,508774
+LSHTM,7,9,2020,17,10,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,2,4,13,49,328,6431,984558
+LSHTM,7,9,2020,18,10,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,3,11,43,368,5965,850260
+LSHTM,7,9,2020,19,10,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,2,5,14,57,447,10103,1101304
+LSHTM,7,9,2020,20,10,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,2,6,20,83,703,13506,2402061
+LSHTM,7,9,2020,21,10,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,2,6,21,102,699,16816,2684500
+LSHTM,7,9,2020,22,10,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,2,5,19,76,621,18029,3790426
+LSHTM,7,9,2020,23,10,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,2,4,15,75,734,13761,3307180
+LSHTM,7,9,2020,24,10,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,2,5,17,81,705,20262,3858327
+LSHTM,7,9,2020,25,10,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,4,16,74,711,19865,3492907
+LSHTM,7,9,2020,26,10,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,2,5,20,94,1111,26883,4204733
+LSHTM,7,9,2020,27,10,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,3,8,28,131,1345,48632,5449697
+LSHTM,7,9,2020,28,10,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,2,7,25,148,1781,49931,4797141
+LSHTM,7,9,2020,29,10,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,2,6,23,123,1709,47544,4664223
+LSHTM,7,9,2020,30,10,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,2,5,22,103,1347,52780,5776231
+LSHTM,7,9,2020,31,10,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,2,6,23,132,1516,62837,5666945
+LSHTM,7,9,2020,1,11,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,2,5,23,111,1434,58548,5011367
+LSHTM,7,9,2020,2,11,2020,Wales,hospital_inc,EpiSoon,Deaths,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,2,6,26,148,2136,79785,5814173
+LSHTM,7,9,2020,7,9,2020,East of England,death_inc_line,EpiSoon,Cases,2,3,All,0,1,1,1,2,2,2,2,3,3,3,4,4,4,5,5,6,7,8
+LSHTM,7,9,2020,8,9,2020,East of England,death_inc_line,EpiSoon,Cases,2,3,All,0,0,1,1,1,2,2,2,2,3,3,3,4,4,4,5,6,6,8
+LSHTM,7,9,2020,9,9,2020,East of England,death_inc_line,EpiSoon,Cases,2,3,All,0,1,1,2,2,2,2,3,3,3,3,4,4,5,5,6,6,8,9
+LSHTM,7,9,2020,10,9,2020,East of England,death_inc_line,EpiSoon,Cases,2,2,All,0,0,1,1,1,1,2,2,2,2,3,3,3,4,4,4,5,6,7
+LSHTM,7,9,2020,11,9,2020,East of England,death_inc_line,EpiSoon,Cases,2,3,All,0,0,1,1,1,2,2,2,2,3,3,3,4,4,5,5,6,7,8
+LSHTM,7,9,2020,12,9,2020,East of England,death_inc_line,EpiSoon,Cases,2,2,All,0,0,1,1,1,1,2,2,2,2,3,3,3,4,4,5,5,6,7
+LSHTM,7,9,2020,13,9,2020,East of England,death_inc_line,EpiSoon,Cases,2,2,All,0,0,1,1,1,1,1,2,2,2,2,3,3,3,4,4,5,6,7
+LSHTM,7,9,2020,14,9,2020,East of England,death_inc_line,EpiSoon,Cases,2,2,All,0,0,1,1,1,1,2,2,2,2,3,3,3,4,4,5,5,6,8
+LSHTM,7,9,2020,15,9,2020,East of England,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,1,1,1,1,2,2,2,2,3,3,3,4,4,5,6,7
+LSHTM,7,9,2020,16,9,2020,East of England,death_inc_line,EpiSoon,Cases,2,3,All,0,0,1,1,1,2,2,2,2,3,3,3,4,4,5,5,6,7,8
+LSHTM,7,9,2020,17,9,2020,East of England,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,1,1,1,1,1,2,2,2,2,3,3,3,4,4,5,6
+LSHTM,7,9,2020,18,9,2020,East of England,death_inc_line,EpiSoon,Cases,2,2,All,0,0,1,1,1,1,2,2,2,2,3,3,3,4,4,5,5,6,7
+LSHTM,7,9,2020,19,9,2020,East of England,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,1,1,1,1,2,2,2,2,3,3,3,4,4,5,6,7
+LSHTM,7,9,2020,20,9,2020,East of England,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,1,1,1,1,1,2,2,2,3,3,3,3,4,5,6,7
+LSHTM,7,9,2020,21,9,2020,East of England,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,1,1,1,1,2,2,2,2,3,3,3,4,4,5,6,7
+LSHTM,7,9,2020,22,9,2020,East of England,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,1,1,1,1,1,2,2,2,2,3,3,3,4,5,5,7
+LSHTM,7,9,2020,23,9,2020,East of England,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,1,1,1,2,2,2,2,3,3,3,4,4,5,5,6,8
+LSHTM,7,9,2020,24,9,2020,East of England,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,1,1,1,1,1,2,2,2,2,3,3,4,4,5,6
+LSHTM,7,9,2020,25,9,2020,East of England,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,1,1,1,1,1,2,2,2,3,3,3,4,4,5,6,8
+LSHTM,7,9,2020,26,9,2020,East of England,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,1,1,1,1,2,2,2,2,3,3,4,4,5,5,7
+LSHTM,7,9,2020,27,9,2020,East of England,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,1,1,1,1,1,2,2,2,2,3,3,4,4,5,7
+LSHTM,7,9,2020,28,9,2020,East of England,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,1,1,1,1,2,2,2,2,3,3,3,4,5,6,7
+LSHTM,7,9,2020,29,9,2020,East of England,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,1,1,1,1,1,2,2,2,2,3,3,4,4,5,7
+LSHTM,7,9,2020,30,9,2020,East of England,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,1,1,1,1,2,2,2,3,3,3,4,4,5,6,8
+LSHTM,7,9,2020,1,10,2020,East of England,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,1,1,1,1,1,2,2,2,3,3,3,4,5,6
+LSHTM,7,9,2020,2,10,2020,East of England,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,1,1,1,1,1,2,2,2,3,3,3,4,5,5,7
+LSHTM,7,9,2020,3,10,2020,East of England,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,0,1,1,1,1,2,2,2,2,3,3,4,4,6,7
+LSHTM,7,9,2020,4,10,2020,East of England,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,1,1,1,1,1,2,2,2,3,3,4,4,5,7
+LSHTM,7,9,2020,5,10,2020,East of England,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,1,1,1,1,1,2,2,2,3,3,4,4,5,7
+LSHTM,7,9,2020,6,10,2020,East of England,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,1,1,1,1,1,2,2,2,3,3,3,4,5,7
+LSHTM,7,9,2020,7,10,2020,East of England,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,0,1,1,1,1,2,2,2,3,3,3,4,5,6,7
+LSHTM,7,9,2020,8,10,2020,East of England,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,3,4,5,6
+LSHTM,7,9,2020,9,10,2020,East of England,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,1,1,1,1,1,2,2,2,3,3,4,4,5,8
+LSHTM,7,9,2020,10,10,2020,East of England,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,1,1,1,1,2,2,2,2,3,3,4,5,7
+LSHTM,7,9,2020,11,10,2020,East of England,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,3,4,5,7
+LSHTM,7,9,2020,12,10,2020,East of England,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,1,1,1,1,2,2,2,3,3,3,4,5,7
+LSHTM,7,9,2020,13,10,2020,East of England,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,3,4,5,7
+LSHTM,7,9,2020,14,10,2020,East of England,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,1,1,1,1,1,2,2,2,3,3,4,4,6,8
+LSHTM,7,9,2020,15,10,2020,East of England,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,3,4,6
+LSHTM,7,9,2020,16,10,2020,East of England,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,3,4,5,8
+LSHTM,7,9,2020,17,10,2020,East of England,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,3,4,5,7
+LSHTM,7,9,2020,18,10,2020,East of England,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,4,5,7
+LSHTM,7,9,2020,19,10,2020,East of England,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,1,1,1,1,2,2,2,3,3,4,5,8
+LSHTM,7,9,2020,20,10,2020,East of England,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,3,4,7
+LSHTM,7,9,2020,21,10,2020,East of England,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,1,1,1,1,2,2,2,3,3,3,4,5,8
+LSHTM,7,9,2020,22,10,2020,East of England,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,3,4,7
+LSHTM,7,9,2020,23,10,2020,East of England,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3,3,4,5,8
+LSHTM,7,9,2020,24,10,2020,East of England,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,4,5,7
+LSHTM,7,9,2020,25,10,2020,East of England,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,2,2,2,3,3,4,7
+LSHTM,7,9,2020,26,10,2020,East of England,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,4,5,8
+LSHTM,7,9,2020,27,10,2020,East of England,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,2,2,2,3,3,4,7
+LSHTM,7,9,2020,28,10,2020,East of England,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3,3,4,5,9
+LSHTM,7,9,2020,29,10,2020,East of England,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,4,7
+LSHTM,7,9,2020,30,10,2020,East of England,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,4,5,8
+LSHTM,7,9,2020,31,10,2020,East of England,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,2,2,2,3,3,5,8
+LSHTM,7,9,2020,1,11,2020,East of England,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,4,7
+LSHTM,7,9,2020,2,11,2020,East of England,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3,3,5,9
+LSHTM,7,9,2020,7,9,2020,England,death_inc_line,EpiSoon,Cases,2,19,All,8,10,11,12,13,15,16,17,18,19,20,21,22,23,25,26,28,31,35
+LSHTM,7,9,2020,8,9,2020,England,death_inc_line,EpiSoon,Cases,2,18,All,8,9,11,12,13,14,15,16,17,18,19,20,21,22,24,26,28,31,36
+LSHTM,7,9,2020,9,9,2020,England,death_inc_line,EpiSoon,Cases,2,17,All,6,8,10,11,12,13,14,14,16,17,18,19,20,21,23,25,27,30,34
+LSHTM,7,9,2020,10,9,2020,England,death_inc_line,EpiSoon,Cases,2,15,All,6,8,9,10,11,12,13,14,14,15,16,18,19,20,21,23,25,28,33
+LSHTM,7,9,2020,11,9,2020,England,death_inc_line,EpiSoon,Cases,2,14,All,5,7,8,9,10,10,11,12,13,14,15,16,17,18,20,21,23,26,30
+LSHTM,7,9,2020,12,9,2020,England,death_inc_line,EpiSoon,Cases,2,12,All,4,6,7,7,8,9,10,11,12,12,13,14,15,16,18,20,22,25,30
+LSHTM,7,9,2020,13,9,2020,England,death_inc_line,EpiSoon,Cases,2,12,All,3,5,6,7,8,8,9,10,11,12,13,14,15,16,17,19,21,24,30
+LSHTM,7,9,2020,14,9,2020,England,death_inc_line,EpiSoon,Cases,2,12,All,3,5,6,7,7,8,9,10,11,12,13,14,15,16,18,19,22,24,30
+LSHTM,7,9,2020,15,9,2020,England,death_inc_line,EpiSoon,Cases,2,11,All,3,4,5,6,7,8,9,9,10,11,12,13,14,16,18,20,22,26,31
+LSHTM,7,9,2020,16,9,2020,England,death_inc_line,EpiSoon,Cases,2,10,All,3,4,5,6,6,7,8,9,10,10,11,12,13,15,16,18,20,23,29
+LSHTM,7,9,2020,17,9,2020,England,death_inc_line,EpiSoon,Cases,2,10,All,2,3,4,5,6,6,7,8,9,10,11,12,13,14,15,17,19,22,28
+LSHTM,7,9,2020,18,9,2020,England,death_inc_line,EpiSoon,Cases,2,9,All,2,3,3,4,5,6,6,7,8,9,10,10,12,13,14,16,18,21,27
+LSHTM,7,9,2020,19,9,2020,England,death_inc_line,EpiSoon,Cases,2,8,All,1,2,3,4,4,5,6,6,7,8,9,10,11,12,13,15,17,20,26
+LSHTM,7,9,2020,20,9,2020,England,death_inc_line,EpiSoon,Cases,2,8,All,1,2,3,3,4,5,5,6,7,8,8,9,10,11,13,15,17,21,27
+LSHTM,7,9,2020,21,9,2020,England,death_inc_line,EpiSoon,Cases,2,7,All,1,2,3,3,4,4,5,6,7,7,8,9,10,11,13,15,17,20,27
+LSHTM,7,9,2020,22,9,2020,England,death_inc_line,EpiSoon,Cases,2,7,All,1,2,2,3,4,4,5,6,6,7,8,9,10,11,13,15,17,20,28
+LSHTM,7,9,2020,23,9,2020,England,death_inc_line,EpiSoon,Cases,2,7,All,1,1,2,3,3,4,5,5,6,7,7,8,9,11,12,14,17,20,26
+LSHTM,7,9,2020,24,9,2020,England,death_inc_line,EpiSoon,Cases,2,6,All,0,1,2,2,3,3,4,5,5,6,7,8,9,10,11,13,16,20,26
+LSHTM,7,9,2020,25,9,2020,England,death_inc_line,EpiSoon,Cases,2,5,All,0,1,1,2,2,3,4,4,5,5,6,7,8,9,11,13,15,19,25
+LSHTM,7,9,2020,26,9,2020,England,death_inc_line,EpiSoon,Cases,2,5,All,0,1,1,2,2,3,3,4,5,5,6,7,8,9,10,12,13,17,24
+LSHTM,7,9,2020,27,9,2020,England,death_inc_line,EpiSoon,Cases,2,5,All,0,1,1,2,2,3,3,4,4,5,6,6,7,8,10,12,14,18,24
+LSHTM,7,9,2020,28,9,2020,England,death_inc_line,EpiSoon,Cases,2,5,All,0,1,1,1,2,2,3,3,4,5,5,6,7,8,9,11,14,18,25
+LSHTM,7,9,2020,29,9,2020,England,death_inc_line,EpiSoon,Cases,2,4,All,0,0,1,1,2,2,3,3,4,4,5,6,7,8,10,12,14,18,27
+LSHTM,7,9,2020,30,9,2020,England,death_inc_line,EpiSoon,Cases,2,4,All,0,0,1,1,1,2,2,3,3,4,5,5,6,8,9,11,14,18,26
+LSHTM,7,9,2020,1,10,2020,England,death_inc_line,EpiSoon,Cases,2,4,All,0,0,1,1,1,2,2,3,3,4,4,5,6,7,9,11,13,17,25
+LSHTM,7,9,2020,2,10,2020,England,death_inc_line,EpiSoon,Cases,2,3,All,0,0,0,1,1,1,2,2,3,3,4,5,6,7,8,10,12,16,24
+LSHTM,7,9,2020,3,10,2020,England,death_inc_line,EpiSoon,Cases,2,3,All,0,0,0,1,1,1,2,2,3,3,4,4,5,6,7,9,12,16,24
+LSHTM,7,9,2020,4,10,2020,England,death_inc_line,EpiSoon,Cases,2,3,All,0,0,0,1,1,1,2,2,2,3,4,4,5,6,7,9,12,16,23
+LSHTM,7,9,2020,5,10,2020,England,death_inc_line,EpiSoon,Cases,2,3,All,0,0,0,0,1,1,1,2,2,3,3,4,5,6,7,9,12,16,24
+LSHTM,7,9,2020,6,10,2020,England,death_inc_line,EpiSoon,Cases,2,3,All,0,0,0,0,1,1,1,2,2,3,3,4,5,6,8,9,12,17,27
+LSHTM,7,9,2020,7,10,2020,England,death_inc_line,EpiSoon,Cases,2,3,All,0,0,0,0,1,1,1,2,2,3,3,4,5,6,7,9,11,16,25
+LSHTM,7,9,2020,8,10,2020,England,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,1,1,1,1,2,2,3,3,4,5,7,9,11,15,23
+LSHTM,7,9,2020,9,10,2020,England,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,0,1,1,1,2,2,2,3,4,5,6,8,10,14,24
+LSHTM,7,9,2020,10,10,2020,England,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,0,1,1,1,2,2,2,3,4,4,6,7,9,14,24
+LSHTM,7,9,2020,11,10,2020,England,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,0,1,1,1,2,2,2,3,4,5,6,7,10,14,24
+LSHTM,7,9,2020,12,10,2020,England,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,0,0,1,1,1,2,2,3,3,4,5,7,10,15,25
+LSHTM,7,9,2020,13,10,2020,England,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,0,0,1,1,1,2,2,3,3,4,6,7,10,15,23
+LSHTM,7,9,2020,14,10,2020,England,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,0,0,1,1,1,2,2,3,3,4,5,7,10,14,24
+LSHTM,7,9,2020,15,10,2020,England,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,1,1,1,1,2,2,3,4,5,7,9,14,23
+LSHTM,7,9,2020,16,10,2020,England,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,1,1,1,2,2,3,4,5,6,9,13,22
+LSHTM,7,9,2020,17,10,2020,England,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,1,1,1,2,2,3,3,5,6,8,13,22
+LSHTM,7,9,2020,18,10,2020,England,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,1,1,1,2,2,3,3,4,6,8,13,23
+LSHTM,7,9,2020,19,10,2020,England,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,1,1,1,2,2,3,3,4,6,9,13,24
+LSHTM,7,9,2020,20,10,2020,England,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,1,1,1,1,2,2,3,4,6,8,13,25
+LSHTM,7,9,2020,21,10,2020,England,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,1,1,1,2,2,3,4,6,9,13,23
+LSHTM,7,9,2020,22,10,2020,England,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,1,1,1,2,2,3,4,5,7,12,24
+LSHTM,7,9,2020,23,10,2020,England,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,1,1,1,2,2,3,3,5,7,11,22
+LSHTM,7,9,2020,24,10,2020,England,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,0,1,1,1,2,2,3,5,7,11,21
+LSHTM,7,9,2020,25,10,2020,England,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,0,1,1,1,2,2,3,5,7,12,22
+LSHTM,7,9,2020,26,10,2020,England,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,0,1,1,1,2,3,3,5,7,11,21
+LSHTM,7,9,2020,27,10,2020,England,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,0,1,1,1,2,2,3,5,7,11,24
+LSHTM,7,9,2020,28,10,2020,England,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,0,1,1,1,1,2,3,5,7,11,22
+LSHTM,7,9,2020,29,10,2020,England,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,4,6,11,23
+LSHTM,7,9,2020,30,10,2020,England,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,4,6,11,24
+LSHTM,7,9,2020,31,10,2020,England,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,4,6,10,21
+LSHTM,7,9,2020,1,11,2020,England,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,4,6,10,21
+LSHTM,7,9,2020,2,11,2020,England,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,4,6,11,24
+LSHTM,7,9,2020,7,9,2020,London,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,1,1,1,1,1,2,2,2,2,3,3,4,4,5
+LSHTM,7,9,2020,8,9,2020,London,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,1,1,1,1,1,1,2,2,2,2,3,3,4,5
+LSHTM,7,9,2020,9,9,2020,London,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,3,3,4,5
+LSHTM,7,9,2020,10,9,2020,London,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,3,3,4,5
+LSHTM,7,9,2020,11,9,2020,London,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,3,3,4,5
+LSHTM,7,9,2020,12,9,2020,London,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,3,4,5
+LSHTM,7,9,2020,13,9,2020,London,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,3,3,4
+LSHTM,7,9,2020,14,9,2020,London,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,3,3,5
+LSHTM,7,9,2020,15,9,2020,London,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,3,4
+LSHTM,7,9,2020,16,9,2020,London,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3,3,4
+LSHTM,7,9,2020,17,9,2020,London,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3,3,4
+LSHTM,7,9,2020,18,9,2020,London,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,4,5
+LSHTM,7,9,2020,19,9,2020,London,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,4
+LSHTM,7,9,2020,20,9,2020,London,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,2,3,4
+LSHTM,7,9,2020,21,9,2020,London,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,3,3,4
+LSHTM,7,9,2020,22,9,2020,London,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3,4
+LSHTM,7,9,2020,23,9,2020,London,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3,4
+LSHTM,7,9,2020,24,9,2020,London,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3,4
+LSHTM,7,9,2020,25,9,2020,London,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,2,3,4
+LSHTM,7,9,2020,26,9,2020,London,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,3,4
+LSHTM,7,9,2020,27,9,2020,London,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,3,4
+LSHTM,7,9,2020,28,9,2020,London,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,3,4
+LSHTM,7,9,2020,29,9,2020,London,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,3,4
+LSHTM,7,9,2020,30,9,2020,London,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,4
+LSHTM,7,9,2020,1,10,2020,London,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2,3,4
+LSHTM,7,9,2020,2,10,2020,London,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,3,5
+LSHTM,7,9,2020,3,10,2020,London,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,3,4
+LSHTM,7,9,2020,4,10,2020,London,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,4
+LSHTM,7,9,2020,5,10,2020,London,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2,3,4
+LSHTM,7,9,2020,6,10,2020,London,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,4
+LSHTM,7,9,2020,7,10,2020,London,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2,4
+LSHTM,7,9,2020,8,10,2020,London,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,3,4
+LSHTM,7,9,2020,9,10,2020,London,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,3,4
+LSHTM,7,9,2020,10,10,2020,London,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,4
+LSHTM,7,9,2020,11,10,2020,London,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2,3
+LSHTM,7,9,2020,12,10,2020,London,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,4
+LSHTM,7,9,2020,13,10,2020,London,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,4
+LSHTM,7,9,2020,14,10,2020,London,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,4
+LSHTM,7,9,2020,15,10,2020,London,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2,4
+LSHTM,7,9,2020,16,10,2020,London,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,4
+LSHTM,7,9,2020,17,10,2020,London,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,4
+LSHTM,7,9,2020,18,10,2020,London,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,4
+LSHTM,7,9,2020,19,10,2020,London,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2,4
+LSHTM,7,9,2020,20,10,2020,London,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,4
+LSHTM,7,9,2020,21,10,2020,London,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3
+LSHTM,7,9,2020,22,10,2020,London,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,4
+LSHTM,7,9,2020,23,10,2020,London,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,4
+LSHTM,7,9,2020,24,10,2020,London,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,5
+LSHTM,7,9,2020,25,10,2020,London,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,4
+LSHTM,7,9,2020,26,10,2020,London,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,4
+LSHTM,7,9,2020,27,10,2020,London,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,4
+LSHTM,7,9,2020,28,10,2020,London,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,4
+LSHTM,7,9,2020,29,10,2020,London,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,4
+LSHTM,7,9,2020,30,10,2020,London,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,4
+LSHTM,7,9,2020,31,10,2020,London,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,4
+LSHTM,7,9,2020,1,11,2020,London,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,4
+LSHTM,7,9,2020,2,11,2020,London,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,4
+LSHTM,7,9,2020,7,9,2020,Midlands,death_inc_line,EpiSoon,Cases,2,5,All,1,2,2,2,3,3,4,4,4,5,5,5,6,6,7,8,8,9,11
+LSHTM,7,9,2020,8,9,2020,Midlands,death_inc_line,EpiSoon,Cases,2,4,All,1,1,2,2,3,3,3,4,4,4,5,5,6,6,6,7,8,9,11
+LSHTM,7,9,2020,9,9,2020,Midlands,death_inc_line,EpiSoon,Cases,2,4,All,1,1,2,2,2,3,3,4,4,4,5,5,5,6,6,7,8,9,10
+LSHTM,7,9,2020,10,9,2020,Midlands,death_inc_line,EpiSoon,Cases,2,5,All,1,1,2,2,3,3,3,4,4,5,5,5,6,6,7,8,9,10,12
+LSHTM,7,9,2020,11,9,2020,Midlands,death_inc_line,EpiSoon,Cases,2,3,All,0,1,1,1,2,2,2,3,3,3,4,4,4,5,5,6,7,8,9
+LSHTM,7,9,2020,12,9,2020,Midlands,death_inc_line,EpiSoon,Cases,2,3,All,0,1,1,2,2,2,2,3,3,3,4,4,5,5,5,6,7,8,9
+LSHTM,7,9,2020,13,9,2020,Midlands,death_inc_line,EpiSoon,Cases,2,4,All,0,1,1,2,2,2,3,3,4,4,4,5,5,6,6,7,8,9,10
+LSHTM,7,9,2020,14,9,2020,Midlands,death_inc_line,EpiSoon,Cases,2,4,All,0,1,1,2,2,2,3,3,3,4,4,4,5,5,6,7,8,9,11
+LSHTM,7,9,2020,15,9,2020,Midlands,death_inc_line,EpiSoon,Cases,2,3,All,0,1,1,1,2,2,2,3,3,3,4,4,5,5,5,6,7,8,10
+LSHTM,7,9,2020,16,9,2020,Midlands,death_inc_line,EpiSoon,Cases,2,3,All,0,1,1,1,2,2,2,3,3,3,4,4,5,5,6,6,7,8,10
+LSHTM,7,9,2020,17,9,2020,Midlands,death_inc_line,EpiSoon,Cases,2,4,All,0,1,1,2,2,2,3,3,3,4,4,5,5,6,6,7,8,9,11
+LSHTM,7,9,2020,18,9,2020,Midlands,death_inc_line,EpiSoon,Cases,2,3,All,0,1,1,1,1,2,2,2,2,3,3,3,4,4,5,5,6,7,9
+LSHTM,7,9,2020,19,9,2020,Midlands,death_inc_line,EpiSoon,Cases,2,3,All,0,0,1,1,1,1,2,2,2,3,3,3,4,4,5,5,6,7,9
+LSHTM,7,9,2020,20,9,2020,Midlands,death_inc_line,EpiSoon,Cases,2,3,All,0,0,1,1,1,2,2,2,3,3,3,4,4,5,5,6,7,8,10
+LSHTM,7,9,2020,21,9,2020,Midlands,death_inc_line,EpiSoon,Cases,2,3,All,0,0,1,1,1,2,2,2,3,3,3,4,4,4,5,6,6,7,9
+LSHTM,7,9,2020,22,9,2020,Midlands,death_inc_line,EpiSoon,Cases,2,3,All,0,0,1,1,1,2,2,2,2,3,3,3,4,4,5,5,6,7,9
+LSHTM,7,9,2020,23,9,2020,Midlands,death_inc_line,EpiSoon,Cases,2,3,All,0,0,0,1,1,1,2,2,2,3,3,3,4,4,5,6,6,8,10
+LSHTM,7,9,2020,24,9,2020,Midlands,death_inc_line,EpiSoon,Cases,2,3,All,0,0,1,1,1,2,2,2,3,3,3,4,4,5,5,6,7,8,10
+LSHTM,7,9,2020,25,9,2020,Midlands,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,1,1,1,2,2,2,2,3,3,4,4,5,5,6,8
+LSHTM,7,9,2020,26,9,2020,Midlands,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,1,1,1,1,2,2,2,2,3,3,4,4,5,6,6,8
+LSHTM,7,9,2020,27,9,2020,Midlands,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,1,1,1,2,2,2,2,3,3,4,4,5,5,6,7,9
+LSHTM,7,9,2020,28,9,2020,Midlands,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,1,1,1,1,2,2,2,3,3,3,4,4,5,6,7,10
+LSHTM,7,9,2020,29,9,2020,Midlands,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,1,1,1,1,2,2,2,3,3,3,4,4,5,6,7,9
+LSHTM,7,9,2020,30,9,2020,Midlands,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,1,1,1,2,2,2,2,3,3,4,4,5,6,7,9
+LSHTM,7,9,2020,1,10,2020,Midlands,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,1,1,1,1,2,2,2,3,3,4,4,5,5,6,7,10
+LSHTM,7,9,2020,2,10,2020,Midlands,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,1,1,1,1,2,2,2,2,3,3,4,4,5,6,8
+LSHTM,7,9,2020,3,10,2020,Midlands,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,1,1,1,1,1,2,2,2,3,3,4,4,5,6,8
+LSHTM,7,9,2020,4,10,2020,Midlands,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,1,1,1,1,2,2,2,3,3,4,4,5,6,7,9
+LSHTM,7,9,2020,5,10,2020,Midlands,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,1,1,1,1,2,2,2,3,3,3,4,4,5,7,9
+LSHTM,7,9,2020,6,10,2020,Midlands,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,0,1,1,1,1,2,2,2,3,3,4,5,5,6,9
+LSHTM,7,9,2020,7,10,2020,Midlands,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,0,1,1,1,1,2,2,2,3,3,4,4,5,7,9
+LSHTM,7,9,2020,8,10,2020,Midlands,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,0,1,1,1,2,2,2,3,3,4,4,5,6,7,10
+LSHTM,7,9,2020,9,10,2020,Midlands,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,1,1,1,1,2,2,2,3,3,4,5,6,8
+LSHTM,7,9,2020,10,10,2020,Midlands,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,1,1,1,1,2,2,2,3,3,4,4,6,8
+LSHTM,7,9,2020,11,10,2020,Midlands,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,0,1,1,1,1,2,2,2,3,3,4,4,5,6,9
+LSHTM,7,9,2020,12,10,2020,Midlands,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,0,0,1,1,1,2,2,2,3,3,4,4,5,6,10
+LSHTM,7,9,2020,13,10,2020,Midlands,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,1,1,1,1,2,2,2,3,3,4,5,6,9
+LSHTM,7,9,2020,14,10,2020,Midlands,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,1,1,1,1,2,2,2,3,3,4,5,6,10
+LSHTM,7,9,2020,15,10,2020,Midlands,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,0,1,1,1,1,2,2,2,3,3,3,4,5,6,10
+LSHTM,7,9,2020,16,10,2020,Midlands,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,1,1,1,1,2,2,2,3,4,4,5,8
+LSHTM,7,9,2020,17,10,2020,Midlands,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,1,1,1,1,2,2,3,3,4,4,6,9
+LSHTM,7,9,2020,18,10,2020,Midlands,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,1,1,1,1,2,2,2,3,3,4,5,6,9
+LSHTM,7,9,2020,19,10,2020,Midlands,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,1,1,1,1,2,2,2,3,3,4,5,6,9
+LSHTM,7,9,2020,20,10,2020,Midlands,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,1,1,1,1,2,2,2,3,3,4,6,9
+LSHTM,7,9,2020,21,10,2020,Midlands,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,1,1,1,1,2,2,2,3,4,4,6,9
+LSHTM,7,9,2020,22,10,2020,Midlands,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,1,1,1,1,1,2,2,3,3,4,5,7,11
+LSHTM,7,9,2020,23,10,2020,Midlands,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,2,2,2,3,4,5,9
+LSHTM,7,9,2020,24,10,2020,Midlands,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,4,5,8
+LSHTM,7,9,2020,25,10,2020,Midlands,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,1,1,1,1,2,2,2,3,3,4,6,10
+LSHTM,7,9,2020,26,10,2020,Midlands,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,2,2,3,3,4,5,8
+LSHTM,7,9,2020,27,10,2020,Midlands,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,2,2,3,3,4,5,9
+LSHTM,7,9,2020,28,10,2020,Midlands,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3,3,4,5,9
+LSHTM,7,9,2020,29,10,2020,Midlands,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,2,2,3,4,5,6,10
+LSHTM,7,9,2020,30,10,2020,Midlands,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,0,1,1,1,2,2,2,3,4,5,8
+LSHTM,7,9,2020,31,10,2020,Midlands,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,2,2,2,3,4,5,8
+LSHTM,7,9,2020,1,11,2020,Midlands,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,2,2,2,3,4,5,10
+LSHTM,7,9,2020,2,11,2020,Midlands,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,2,2,2,3,4,6,9
+LSHTM,7,9,2020,7,9,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,3,All,0,1,1,1,2,2,2,3,3,3,4,4,4,5,5,6,7,8,9
+LSHTM,7,9,2020,8,9,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,4,All,0,1,1,2,2,2,3,3,3,4,4,4,5,5,6,7,8,9,11
+LSHTM,7,9,2020,9,9,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,3,All,0,1,1,1,2,2,2,2,3,3,3,4,4,4,5,5,6,7,9
+LSHTM,7,9,2020,10,9,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,3,All,0,1,1,1,2,2,2,2,3,3,3,4,4,4,5,6,6,7,9
+LSHTM,7,9,2020,11,9,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,3,All,0,0,1,1,1,2,2,2,2,3,3,3,4,4,5,5,6,7,8
+LSHTM,7,9,2020,12,9,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,2,All,0,0,1,1,1,1,2,2,2,2,3,3,3,4,4,5,6,7,8
+LSHTM,7,9,2020,13,9,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,2,All,0,0,1,1,1,1,2,2,2,2,3,3,3,4,4,5,5,6,8
+LSHTM,7,9,2020,14,9,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,1,1,1,1,1,2,2,2,3,3,3,4,5,5,6,8
+LSHTM,7,9,2020,15,9,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,1,1,1,2,2,2,2,3,3,3,4,4,5,6,7,9
+LSHTM,7,9,2020,16,9,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,1,1,1,1,1,2,2,2,3,3,3,4,4,5,6,8
+LSHTM,7,9,2020,17,9,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,1,1,1,1,2,2,2,2,3,3,4,4,5,6,9
+LSHTM,7,9,2020,18,9,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,1,1,1,1,1,2,2,2,3,3,3,4,5,6,8
+LSHTM,7,9,2020,19,9,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,0,1,1,1,1,2,2,2,3,3,3,4,5,6,8
+LSHTM,7,9,2020,20,9,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,0,1,1,1,1,2,2,2,2,3,3,4,5,6,8
+LSHTM,7,9,2020,21,9,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,1,1,1,1,2,2,2,3,3,4,5,6,8
+LSHTM,7,9,2020,22,9,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,0,1,1,1,1,2,2,2,3,3,3,4,5,7,9
+LSHTM,7,9,2020,23,9,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,1,1,1,1,1,2,2,3,3,4,5,6,8
+LSHTM,7,9,2020,24,9,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,1,1,1,1,2,2,2,3,3,4,5,6,8
+LSHTM,7,9,2020,25,9,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,1,1,1,1,2,2,2,3,3,4,6,8
+LSHTM,7,9,2020,26,9,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,1,1,1,1,2,2,2,3,3,4,6,8
+LSHTM,7,9,2020,27,9,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3,3,4,6,9
+LSHTM,7,9,2020,28,9,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,2,2,2,3,4,5,7
+LSHTM,7,9,2020,29,9,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,1,1,1,1,2,2,2,3,4,5,6,9
+LSHTM,7,9,2020,30,9,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,2,2,2,3,4,5,8
+LSHTM,7,9,2020,1,10,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,2,2,3,4,4,6,9
+LSHTM,7,9,2020,2,10,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,3,4,5,8
+LSHTM,7,9,2020,3,10,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,3,4,5,8
+LSHTM,7,9,2020,4,10,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,3,4,5,9
+LSHTM,7,9,2020,5,10,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,3,4,5,9
+LSHTM,7,9,2020,6,10,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,3,4,6,11
+LSHTM,7,9,2020,7,10,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2,3,4,5,8
+LSHTM,7,9,2020,8,10,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2,3,4,5,9
+LSHTM,7,9,2020,9,10,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,3,3,5,8
+LSHTM,7,9,2020,10,10,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,3,3,5,9
+LSHTM,7,9,2020,11,10,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2,3,5,9
+LSHTM,7,9,2020,12,10,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2,3,5,8
+LSHTM,7,9,2020,13,10,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,3,4,6,9
+LSHTM,7,9,2020,14,10,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2,3,5,9
+LSHTM,7,9,2020,15,10,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2,4,5,10
+LSHTM,7,9,2020,16,10,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2,3,5,9
+LSHTM,7,9,2020,17,10,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2,3,5,9
+LSHTM,7,9,2020,18,10,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,5,9
+LSHTM,7,9,2020,19,10,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,5,10
+LSHTM,7,9,2020,20,10,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,3,5,11
+LSHTM,7,9,2020,21,10,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,5,10
+LSHTM,7,9,2020,22,10,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,5,11
+LSHTM,7,9,2020,23,10,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,4,10
+LSHTM,7,9,2020,24,10,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,5,11
+LSHTM,7,9,2020,25,10,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,4,10
+LSHTM,7,9,2020,26,10,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,4,11
+LSHTM,7,9,2020,27,10,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,6,14
+LSHTM,7,9,2020,28,10,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,4,11
+LSHTM,7,9,2020,29,10,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,5,11
+LSHTM,7,9,2020,30,10,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,4,11
+LSHTM,7,9,2020,31,10,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,4,11
+LSHTM,7,9,2020,1,11,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,4,11
+LSHTM,7,9,2020,2,11,2020,North East and Yorkshire,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,5,11
+LSHTM,7,9,2020,7,9,2020,North West,death_inc_line,EpiSoon,Cases,2,3,All,0,1,1,2,2,2,2,3,3,3,4,4,4,5,5,6,7,7,9
+LSHTM,7,9,2020,8,9,2020,North West,death_inc_line,EpiSoon,Cases,2,3,All,0,1,1,1,2,2,2,3,3,3,4,4,4,5,5,6,7,8,10
+LSHTM,7,9,2020,9,9,2020,North West,death_inc_line,EpiSoon,Cases,2,3,All,0,1,1,1,2,2,2,3,3,3,4,4,4,5,5,6,7,8,9
+LSHTM,7,9,2020,10,9,2020,North West,death_inc_line,EpiSoon,Cases,2,3,All,0,1,1,1,1,2,2,2,3,3,3,4,4,4,5,6,6,7,9
+LSHTM,7,9,2020,11,9,2020,North West,death_inc_line,EpiSoon,Cases,2,3,All,0,0,1,1,1,1,2,2,2,3,3,3,4,4,5,5,6,7,9
+LSHTM,7,9,2020,12,9,2020,North West,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,1,1,1,1,2,2,2,2,3,3,3,4,4,5,6,8
+LSHTM,7,9,2020,13,9,2020,North West,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,1,1,1,1,2,2,2,3,3,3,4,4,5,6,7,8
+LSHTM,7,9,2020,14,9,2020,North West,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,1,1,1,1,1,2,2,2,2,3,3,4,4,5,6,7
+LSHTM,7,9,2020,15,9,2020,North West,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,1,1,1,1,2,2,2,2,3,3,3,4,5,5,6,8
+LSHTM,7,9,2020,16,9,2020,North West,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,1,1,1,1,2,2,2,3,3,3,4,5,5,6,8
+LSHTM,7,9,2020,17,9,2020,North West,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,1,1,1,1,1,2,2,2,3,3,4,4,5,6,8
+LSHTM,7,9,2020,18,9,2020,North West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,1,1,1,1,1,2,2,2,3,3,4,4,6,7
+LSHTM,7,9,2020,19,9,2020,North West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,1,1,1,1,2,2,2,2,3,3,4,5,7
+LSHTM,7,9,2020,20,9,2020,North West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,1,1,1,1,1,2,2,2,3,3,4,5,6,8
+LSHTM,7,9,2020,21,9,2020,North West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,3,4,5,7
+LSHTM,7,9,2020,22,9,2020,North West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,1,1,1,1,2,2,2,3,3,4,4,6,8
+LSHTM,7,9,2020,23,9,2020,North West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,3,4,5,7
+LSHTM,7,9,2020,24,9,2020,North West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3,3,4,5,8
+LSHTM,7,9,2020,25,9,2020,North West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,2,2,3,3,4,5,7
+LSHTM,7,9,2020,26,9,2020,North West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,3,3,5,7
+LSHTM,7,9,2020,27,9,2020,North West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,2,2,2,3,4,5,8
+LSHTM,7,9,2020,28,9,2020,North West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,3,3,5,7
+LSHTM,7,9,2020,29,9,2020,North West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,3,4,5,7
+LSHTM,7,9,2020,30,9,2020,North West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,3,4,5,8
+LSHTM,7,9,2020,1,10,2020,North West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,3,3,5,7
+LSHTM,7,9,2020,2,10,2020,North West,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2,3,4,5,7
+LSHTM,7,9,2020,3,10,2020,North West,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2,3,4,6
+LSHTM,7,9,2020,4,10,2020,North West,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,3,3,4,7
+LSHTM,7,9,2020,5,10,2020,North West,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2,3,4,6
+LSHTM,7,9,2020,6,10,2020,North West,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,3,5,7
+LSHTM,7,9,2020,7,10,2020,North West,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,3,5,7
+LSHTM,7,9,2020,8,10,2020,North West,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2,3,4,7
+LSHTM,7,9,2020,9,10,2020,North West,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2,3,4,7
+LSHTM,7,9,2020,10,10,2020,North West,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,4,6
+LSHTM,7,9,2020,11,10,2020,North West,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,4,7
+LSHTM,7,9,2020,12,10,2020,North West,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,4,7
+LSHTM,7,9,2020,13,10,2020,North West,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,4,7
+LSHTM,7,9,2020,14,10,2020,North West,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,4,7
+LSHTM,7,9,2020,15,10,2020,North West,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,4,7
+LSHTM,7,9,2020,16,10,2020,North West,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,4,6
+LSHTM,7,9,2020,17,10,2020,North West,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,6
+LSHTM,7,9,2020,18,10,2020,North West,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,4,7
+LSHTM,7,9,2020,19,10,2020,North West,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,3,6
+LSHTM,7,9,2020,20,10,2020,North West,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,4,7
+LSHTM,7,9,2020,21,10,2020,North West,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,4,7
+LSHTM,7,9,2020,22,10,2020,North West,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,7
+LSHTM,7,9,2020,23,10,2020,North West,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,4,6
+LSHTM,7,9,2020,24,10,2020,North West,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,6
+LSHTM,7,9,2020,25,10,2020,North West,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,7
+LSHTM,7,9,2020,26,10,2020,North West,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,6
+LSHTM,7,9,2020,27,10,2020,North West,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,4,7
+LSHTM,7,9,2020,28,10,2020,North West,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,4,7
+LSHTM,7,9,2020,29,10,2020,North West,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,6
+LSHTM,7,9,2020,30,10,2020,North West,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,6
+LSHTM,7,9,2020,31,10,2020,North West,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,6
+LSHTM,7,9,2020,1,11,2020,North West,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,6
+LSHTM,7,9,2020,2,11,2020,North West,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,6
+LSHTM,7,9,2020,7,9,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2
+LSHTM,7,9,2020,8,9,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3
+LSHTM,7,9,2020,9,9,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3
+LSHTM,7,9,2020,10,9,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,5
+LSHTM,7,9,2020,11,9,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,8
+LSHTM,7,9,2020,12,9,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,6
+LSHTM,7,9,2020,13,9,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4
+LSHTM,7,9,2020,14,9,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,6
+LSHTM,7,9,2020,15,9,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,10
+LSHTM,7,9,2020,16,9,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,10
+LSHTM,7,9,2020,17,9,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,5,24
+LSHTM,7,9,2020,18,9,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,7,42
+LSHTM,7,9,2020,19,9,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,4,22
+LSHTM,7,9,2020,20,9,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,12
+LSHTM,7,9,2020,21,9,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,27
+LSHTM,7,9,2020,22,9,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,6,42
+LSHTM,7,9,2020,23,9,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,6,49
+LSHTM,7,9,2020,24,9,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,4,12,108
+LSHTM,7,9,2020,25,9,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,6,16,173
+LSHTM,7,9,2020,26,9,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,11,105
+LSHTM,7,9,2020,27,9,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,6,65
+LSHTM,7,9,2020,28,9,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,10,130
+LSHTM,7,9,2020,29,9,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,18,257
+LSHTM,7,9,2020,30,9,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,15,258
+LSHTM,7,9,2020,1,10,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,11,38,644
+LSHTM,7,9,2020,2,10,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,4,11,50,825
+LSHTM,7,9,2020,3,10,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,7,24,599
+LSHTM,7,9,2020,4,10,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,16,272
+LSHTM,7,9,2020,5,10,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,6,32,588
+LSHTM,7,9,2020,6,10,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,9,48,1157
+LSHTM,7,9,2020,7,10,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,7,43,1047
+LSHTM,7,9,2020,8,10,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,5,18,82,3295
+LSHTM,7,9,2020,9,10,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,7,23,108,5958
+LSHTM,7,9,2020,10,10,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,15,96,2254
+LSHTM,7,9,2020,11,10,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,7,47,1802
+LSHTM,7,9,2020,12,10,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,12,68,2650
+LSHTM,7,9,2020,13,10,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,18,109,6452
+LSHTM,7,9,2020,14,10,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,16,115,5216
+LSHTM,7,9,2020,15,10,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,11,38,268,20770
+LSHTM,7,9,2020,16,10,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,13,50,403,23309
+LSHTM,7,9,2020,17,10,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,8,34,186,11355
+LSHTM,7,9,2020,18,10,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,16,125,10540
+LSHTM,7,9,2020,19,10,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,6,25,247,17617
+LSHTM,7,9,2020,20,10,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,10,41,406,42198
+LSHTM,7,9,2020,21,10,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,8,32,336,26155
+LSHTM,7,9,2020,22,10,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,17,71,777,83166
+LSHTM,7,9,2020,23,10,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,2,6,21,104,1066,102955
+LSHTM,7,9,2020,24,10,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,12,70,771,84333
+LSHTM,7,9,2020,25,10,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,6,33,308,51954
+LSHTM,7,9,2020,26,10,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,10,61,664,74112
+LSHTM,7,9,2020,27,10,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,18,102,1167,190219
+LSHTM,7,9,2020,28,10,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,11,81,884,155771
+LSHTM,7,9,2020,29,10,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,3,7,26,176,2501,428604
+LSHTM,7,9,2020,30,10,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,3,9,33,221,3021,644317
+LSHTM,7,9,2020,31,10,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,19,146,1679,449412
+LSHTM,7,9,2020,1,11,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,10,64,1199,277217
+LSHTM,7,9,2020,2,11,2020,Northern Ireland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,15,116,1786,335473
+LSHTM,7,9,2020,7,9,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+LSHTM,7,9,2020,8,9,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+LSHTM,7,9,2020,9,9,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3
+LSHTM,7,9,2020,10,9,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+LSHTM,7,9,2020,11,9,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3
+LSHTM,7,9,2020,12,9,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,7
+LSHTM,7,9,2020,13,9,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,7
+LSHTM,7,9,2020,14,9,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,8
+LSHTM,7,9,2020,15,9,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,11
+LSHTM,7,9,2020,16,9,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,13
+LSHTM,7,9,2020,17,9,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,12
+LSHTM,7,9,2020,18,9,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,17
+LSHTM,7,9,2020,19,9,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,7,40
+LSHTM,7,9,2020,20,9,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,7,73
+LSHTM,7,9,2020,21,9,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,7,73
+LSHTM,7,9,2020,22,9,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,10,96
+LSHTM,7,9,2020,23,9,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,10,123
+LSHTM,7,9,2020,24,9,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,9,136
+LSHTM,7,9,2020,25,9,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,10,189
+LSHTM,7,9,2020,26,9,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,8,26,508
+LSHTM,7,9,2020,27,9,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,6,28,548
+LSHTM,7,9,2020,28,9,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,6,31,612
+LSHTM,7,9,2020,29,9,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,7,33,822
+LSHTM,7,9,2020,30,9,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,6,35,1269
+LSHTM,7,9,2020,1,10,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,6,33,918
+LSHTM,7,9,2020,2,10,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,7,40,1926
+LSHTM,7,9,2020,3,10,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,18,113,7042
+LSHTM,7,9,2020,4,10,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,19,116,5408
+LSHTM,7,9,2020,5,10,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,16,117,6378
+LSHTM,7,9,2020,6,10,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,19,129,8962
+LSHTM,7,9,2020,7,10,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,15,185,8408
+LSHTM,7,9,2020,8,10,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,17,144,7203
+LSHTM,7,9,2020,9,10,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,17,167,13424
+LSHTM,7,9,2020,10,10,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,9,50,452,65347
+LSHTM,7,9,2020,11,10,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,8,50,451,45616
+LSHTM,7,9,2020,12,10,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,7,35,480,70924
+LSHTM,7,9,2020,13,10,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,8,50,648,63478
+LSHTM,7,9,2020,14,10,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,7,38,604,97668
+LSHTM,7,9,2020,15,10,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,36,636,102323
+LSHTM,7,9,2020,16,10,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,52,818,153321
+LSHTM,7,9,2020,17,10,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,17,123,2090,495670
+LSHTM,7,9,2020,18,10,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,14,121,1971,670833
+LSHTM,7,9,2020,19,10,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,12,109,2133,533896
+LSHTM,7,9,2020,20,10,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,16,120,2222,795903
+LSHTM,7,9,2020,21,10,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,13,107,2221,897191
+LSHTM,7,9,2020,22,10,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,9,93,2203,443075
+LSHTM,7,9,2020,23,10,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,14,121,3166,786680
+LSHTM,7,9,2020,24,10,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,30,263,8356,1607018
+LSHTM,7,9,2020,25,10,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,31,389,11783,1870280
+LSHTM,7,9,2020,26,10,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,25,292,10456,2134247
+LSHTM,7,9,2020,27,10,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,27,320,10417,2786717
+LSHTM,7,9,2020,28,10,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,30,297,8913,2913101
+LSHTM,7,9,2020,29,10,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,22,229,10485,2272990
+LSHTM,7,9,2020,30,10,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,23,319,9145,3703060
+LSHTM,7,9,2020,31,10,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,2,10,75,834,29890,5242676
+LSHTM,7,9,2020,1,11,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,59,820,41383,4251595
+LSHTM,7,9,2020,2,11,2020,Scotland,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,55,828,30369,3791167
+LSHTM,7,9,2020,7,9,2020,South East,death_inc_line,EpiSoon,Cases,2,5,All,1,2,2,2,3,3,3,4,4,5,5,5,6,6,7,7,8,9,10
+LSHTM,7,9,2020,8,9,2020,South East,death_inc_line,EpiSoon,Cases,2,5,All,1,2,2,3,3,4,4,4,5,5,6,6,6,7,7,8,9,10,12
+LSHTM,7,9,2020,9,9,2020,South East,death_inc_line,EpiSoon,Cases,2,5,All,1,2,2,2,3,3,4,4,4,5,5,6,6,7,7,8,8,9,11
+LSHTM,7,9,2020,10,9,2020,South East,death_inc_line,EpiSoon,Cases,2,4,All,1,1,2,2,3,3,3,4,4,4,5,5,5,6,6,7,8,9,10
+LSHTM,7,9,2020,11,9,2020,South East,death_inc_line,EpiSoon,Cases,2,5,All,1,2,2,2,3,3,4,4,4,5,5,5,6,6,7,7,8,9,11
+LSHTM,7,9,2020,12,9,2020,South East,death_inc_line,EpiSoon,Cases,2,5,All,1,1,2,2,3,3,3,4,4,5,5,5,6,6,7,7,8,9,11
+LSHTM,7,9,2020,13,9,2020,South East,death_inc_line,EpiSoon,Cases,2,4,All,1,1,1,2,2,3,3,3,4,4,4,5,5,6,6,7,8,9,10
+LSHTM,7,9,2020,14,9,2020,South East,death_inc_line,EpiSoon,Cases,2,4,All,1,1,2,2,2,3,3,3,4,4,4,5,5,6,6,7,7,8,10
+LSHTM,7,9,2020,15,9,2020,South East,death_inc_line,EpiSoon,Cases,2,4,All,1,1,2,2,3,3,3,4,4,4,5,5,6,6,7,7,8,9,11
+LSHTM,7,9,2020,16,9,2020,South East,death_inc_line,EpiSoon,Cases,2,4,All,1,1,2,2,2,3,3,3,4,4,5,5,5,6,7,7,8,9,11
+LSHTM,7,9,2020,17,9,2020,South East,death_inc_line,EpiSoon,Cases,2,4,All,0,1,1,2,2,2,3,3,3,4,4,4,5,5,6,6,7,8,9
+LSHTM,7,9,2020,18,9,2020,South East,death_inc_line,EpiSoon,Cases,2,4,All,0,1,1,2,2,3,3,3,4,4,4,5,5,6,6,7,8,9,11
+LSHTM,7,9,2020,19,9,2020,South East,death_inc_line,EpiSoon,Cases,2,4,All,0,1,1,2,2,3,3,3,4,4,4,5,5,6,6,7,8,9,10
+LSHTM,7,9,2020,20,9,2020,South East,death_inc_line,EpiSoon,Cases,2,4,All,0,1,1,2,2,2,3,3,3,4,4,4,5,5,6,6,7,8,10
+LSHTM,7,9,2020,21,9,2020,South East,death_inc_line,EpiSoon,Cases,2,3,All,0,1,1,1,2,2,2,3,3,3,4,4,5,5,6,6,7,8,9
+LSHTM,7,9,2020,22,9,2020,South East,death_inc_line,EpiSoon,Cases,2,4,All,0,1,1,2,2,2,3,3,3,4,4,5,5,6,6,7,8,9,11
+LSHTM,7,9,2020,23,9,2020,South East,death_inc_line,EpiSoon,Cases,2,4,All,0,1,1,2,2,2,3,3,3,4,4,5,5,5,6,7,7,8,10
+LSHTM,7,9,2020,24,9,2020,South East,death_inc_line,EpiSoon,Cases,2,3,All,0,1,1,1,2,2,2,3,3,3,4,4,4,5,5,6,7,8,9
+LSHTM,7,9,2020,25,9,2020,South East,death_inc_line,EpiSoon,Cases,2,3,All,0,1,1,1,2,2,2,3,3,3,4,4,5,5,6,6,7,8,10
+LSHTM,7,9,2020,26,9,2020,South East,death_inc_line,EpiSoon,Cases,2,4,All,0,1,1,1,2,2,2,3,3,4,4,4,5,5,6,6,7,8,10
+LSHTM,7,9,2020,27,9,2020,South East,death_inc_line,EpiSoon,Cases,2,3,All,0,0,1,1,1,2,2,2,3,3,3,4,4,4,5,6,6,7,9
+LSHTM,7,9,2020,28,9,2020,South East,death_inc_line,EpiSoon,Cases,2,3,All,0,0,1,1,1,2,2,2,3,3,3,4,4,5,5,6,7,8,9
+LSHTM,7,9,2020,29,9,2020,South East,death_inc_line,EpiSoon,Cases,2,3,All,0,0,1,1,2,2,2,3,3,3,4,4,5,5,6,6,7,9,11
+LSHTM,7,9,2020,30,9,2020,South East,death_inc_line,EpiSoon,Cases,2,3,All,0,0,1,1,2,2,2,3,3,3,4,4,5,5,6,6,7,8,10
+LSHTM,7,9,2020,1,10,2020,South East,death_inc_line,EpiSoon,Cases,2,3,All,0,0,1,1,1,2,2,2,2,3,3,4,4,4,5,6,7,8,9
+LSHTM,7,9,2020,2,10,2020,South East,death_inc_line,EpiSoon,Cases,2,3,All,0,0,1,1,1,2,2,2,3,3,4,4,4,5,5,6,7,8,10
+LSHTM,7,9,2020,3,10,2020,South East,death_inc_line,EpiSoon,Cases,2,3,All,0,0,1,1,1,2,2,2,3,3,3,4,4,5,5,6,7,8,10
+LSHTM,7,9,2020,4,10,2020,South East,death_inc_line,EpiSoon,Cases,2,3,All,0,0,1,1,1,1,2,2,2,3,3,3,4,4,5,5,6,7,10
+LSHTM,7,9,2020,5,10,2020,South East,death_inc_line,EpiSoon,Cases,2,3,All,0,0,0,1,1,1,2,2,2,3,3,3,4,4,5,5,6,7,9
+LSHTM,7,9,2020,6,10,2020,South East,death_inc_line,EpiSoon,Cases,2,3,All,0,0,1,1,1,1,2,2,3,3,3,4,4,5,5,6,7,8,10
+LSHTM,7,9,2020,7,10,2020,South East,death_inc_line,EpiSoon,Cases,2,3,All,0,0,1,1,1,2,2,2,2,3,3,3,4,4,5,6,7,8,10
+LSHTM,7,9,2020,8,10,2020,South East,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,1,1,1,2,2,2,2,3,3,4,4,5,5,6,7,9
+LSHTM,7,9,2020,9,10,2020,South East,death_inc_line,EpiSoon,Cases,2,3,All,0,0,1,1,1,1,2,2,2,3,3,3,4,4,5,5,6,8,11
+LSHTM,7,9,2020,10,10,2020,South East,death_inc_line,EpiSoon,Cases,2,3,All,0,0,0,1,1,1,2,2,2,3,3,3,4,4,5,6,7,8,10
+LSHTM,7,9,2020,11,10,2020,South East,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,1,1,1,1,2,2,2,3,3,3,4,4,5,6,7,9
+LSHTM,7,9,2020,12,10,2020,South East,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,1,1,1,1,2,2,2,3,3,3,4,4,5,6,7,9
+LSHTM,7,9,2020,13,10,2020,South East,death_inc_line,EpiSoon,Cases,2,3,All,0,0,0,1,1,1,2,2,2,3,3,3,4,4,5,5,6,8,10
+LSHTM,7,9,2020,14,10,2020,South East,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,1,1,1,1,2,2,2,3,3,4,4,5,5,6,7,10
+LSHTM,7,9,2020,15,10,2020,South East,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,1,1,1,1,2,2,2,2,3,3,4,4,5,6,7,9
+LSHTM,7,9,2020,16,10,2020,South East,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,1,1,1,1,2,2,2,3,3,4,4,5,5,6,7,10
+LSHTM,7,9,2020,17,10,2020,South East,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,1,1,1,2,2,2,3,3,3,4,4,5,6,8,10
+LSHTM,7,9,2020,18,10,2020,South East,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,1,1,1,1,2,2,2,3,3,4,4,5,6,7,10
+LSHTM,7,9,2020,19,10,2020,South East,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,1,1,1,1,2,2,2,3,3,4,4,5,6,7,10
+LSHTM,7,9,2020,20,10,2020,South East,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,1,1,1,2,2,2,3,3,3,4,4,5,6,7,10
+LSHTM,7,9,2020,21,10,2020,South East,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,1,1,1,1,2,2,2,3,3,4,4,5,6,7,10
+LSHTM,7,9,2020,22,10,2020,South East,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,1,1,1,1,2,2,2,3,3,3,4,5,5,6,8
+LSHTM,7,9,2020,23,10,2020,South East,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,1,1,1,1,2,2,2,3,3,4,4,5,6,7,11
+LSHTM,7,9,2020,24,10,2020,South East,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,1,1,1,1,2,2,3,3,3,4,4,5,6,7,10
+LSHTM,7,9,2020,25,10,2020,South East,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,0,1,1,1,2,2,2,3,3,3,4,4,5,7,9
+LSHTM,7,9,2020,26,10,2020,South East,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,0,1,1,1,1,2,2,2,3,3,4,4,5,6,9
+LSHTM,7,9,2020,27,10,2020,South East,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,1,1,1,1,2,2,2,3,3,4,4,5,6,7,10
+LSHTM,7,9,2020,28,10,2020,South East,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,1,1,1,1,2,2,2,3,3,3,4,5,6,7,11
+LSHTM,7,9,2020,29,10,2020,South East,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,0,1,1,1,1,2,2,2,3,3,4,4,5,7,10
+LSHTM,7,9,2020,30,10,2020,South East,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,1,1,1,1,1,2,2,2,3,3,4,4,6,7,10
+LSHTM,7,9,2020,31,10,2020,South East,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,0,1,1,1,1,2,2,2,3,3,4,5,5,7,9
+LSHTM,7,9,2020,1,11,2020,South East,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,0,1,1,1,1,2,2,2,3,3,4,4,5,7,10
+LSHTM,7,9,2020,2,11,2020,South East,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,0,0,1,1,1,1,2,2,2,2,3,4,4,5,6,10
+LSHTM,7,9,2020,7,9,2020,South West,death_inc_line,EpiSoon,Cases,2,2,All,0,0,0,1,1,1,1,1,2,2,2,2,2,3,3,4,4,5,6
+LSHTM,7,9,2020,8,9,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,1,1,1,1,1,2,2,2,2,3,3,4,4,5
+LSHTM,7,9,2020,9,9,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,1,1,1,1,1,1,1,2,2,2,3,3,3,4
+LSHTM,7,9,2020,10,9,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,1,1,1,1,1,1,2,2,2,2,3,3,3,4,5
+LSHTM,7,9,2020,11,9,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,1,1,1,1,1,2,2,2,2,2,3,3,4,5
+LSHTM,7,9,2020,12,9,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,1,1,1,1,1,2,2,2,2,3,3,3,4,5
+LSHTM,7,9,2020,13,9,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,1,1,1,1,1,1,2,2,2,2,3,3,4,5
+LSHTM,7,9,2020,14,9,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,1,1,1,1,1,1,2,2,2,3,3,3,4,5,6
+LSHTM,7,9,2020,15,9,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,1,1,1,1,1,2,2,2,2,3,3,4,4,6
+LSHTM,7,9,2020,16,9,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,2,3,3,5
+LSHTM,7,9,2020,17,9,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,1,1,1,1,1,2,2,2,2,3,3,3,4,6
+LSHTM,7,9,2020,18,9,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,1,1,1,1,1,1,2,2,2,2,3,3,4,6
+LSHTM,7,9,2020,19,9,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,1,1,1,1,1,1,2,2,2,3,3,3,4,5
+LSHTM,7,9,2020,20,9,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,1,1,1,1,1,1,2,2,2,2,3,3,4,5
+LSHTM,7,9,2020,21,9,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,1,1,1,1,1,2,2,2,2,3,3,4,5,6
+LSHTM,7,9,2020,22,9,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,1,1,1,1,1,1,2,2,2,3,3,4,4,6
+LSHTM,7,9,2020,23,9,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,3,3,5
+LSHTM,7,9,2020,24,9,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,1,1,1,1,1,1,2,2,2,2,3,3,4,6
+LSHTM,7,9,2020,25,9,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,1,1,1,1,1,2,2,2,2,3,3,4,6
+LSHTM,7,9,2020,26,9,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,3,3,4,6
+LSHTM,7,9,2020,27,9,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,3,3,4,6
+LSHTM,7,9,2020,28,9,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,3,4,5,7
+LSHTM,7,9,2020,29,9,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,3,4,5,6
+LSHTM,7,9,2020,30,9,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,3,4,6
+LSHTM,7,9,2020,1,10,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,3,4,4,7
+LSHTM,7,9,2020,2,10,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,3,4,7
+LSHTM,7,9,2020,3,10,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,3,5,7
+LSHTM,7,9,2020,4,10,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,3,4,7
+LSHTM,7,9,2020,5,10,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,3,4,5,8
+LSHTM,7,9,2020,6,10,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,3,5,7
+LSHTM,7,9,2020,7,10,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,4,6
+LSHTM,7,9,2020,8,10,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,3,5,8
+LSHTM,7,9,2020,9,10,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,2,2,2,3,3,5,7
+LSHTM,7,9,2020,10,10,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,3,5,8
+LSHTM,7,9,2020,11,10,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,3,4,7
+LSHTM,7,9,2020,12,10,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,4,5,9
+LSHTM,7,9,2020,13,10,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,2,2,2,3,3,5,9
+LSHTM,7,9,2020,14,10,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,2,3,4,7
+LSHTM,7,9,2020,15,10,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,4,5,9
+LSHTM,7,9,2020,16,10,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3,3,5,8
+LSHTM,7,9,2020,17,10,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,2,2,2,3,3,5,9
+LSHTM,7,9,2020,18,10,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3,3,5,9
+LSHTM,7,9,2020,19,10,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,4,6,11
+LSHTM,7,9,2020,20,10,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,2,2,2,3,4,5,11
+LSHTM,7,9,2020,21,10,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3,4,10
+LSHTM,7,9,2020,22,10,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,2,2,2,3,3,5,10
+LSHTM,7,9,2020,23,10,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3,3,5,11
+LSHTM,7,9,2020,24,10,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,5,11
+LSHTM,7,9,2020,25,10,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3,4,12
+LSHTM,7,9,2020,26,10,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,2,2,2,3,4,6,15
+LSHTM,7,9,2020,27,10,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3,4,5,14
+LSHTM,7,9,2020,28,10,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3,4,11
+LSHTM,7,9,2020,29,10,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3,4,5,13
+LSHTM,7,9,2020,30,10,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,2,3,5,13
+LSHTM,7,9,2020,31,10,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,2,3,5,15
+LSHTM,7,9,2020,1,11,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,3,4,5,14
+LSHTM,7,9,2020,2,11,2020,South West,death_inc_line,EpiSoon,Cases,2,1,All,0,0,0,0,0,0,0,0,1,1,1,1,2,2,2,3,4,6,19
+LSHTM,7,9,2020,7,9,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,7,9,2020,8,9,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+LSHTM,7,9,2020,9,9,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,7,9,2020,10,9,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,7,9,2020,11,9,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+LSHTM,7,9,2020,12,9,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+LSHTM,7,9,2020,13,9,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+LSHTM,7,9,2020,14,9,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+LSHTM,7,9,2020,15,9,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+LSHTM,7,9,2020,16,9,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+LSHTM,7,9,2020,17,9,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+LSHTM,7,9,2020,18,9,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+LSHTM,7,9,2020,19,9,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+LSHTM,7,9,2020,20,9,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+LSHTM,7,9,2020,21,9,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+LSHTM,7,9,2020,22,9,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+LSHTM,7,9,2020,23,9,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+LSHTM,7,9,2020,24,9,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+LSHTM,7,9,2020,25,9,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+LSHTM,7,9,2020,26,9,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+LSHTM,7,9,2020,27,9,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+LSHTM,7,9,2020,28,9,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+LSHTM,7,9,2020,29,9,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+LSHTM,7,9,2020,30,9,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+LSHTM,7,9,2020,1,10,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+LSHTM,7,9,2020,2,10,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+LSHTM,7,9,2020,3,10,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+LSHTM,7,9,2020,4,10,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+LSHTM,7,9,2020,5,10,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+LSHTM,7,9,2020,6,10,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27
+LSHTM,7,9,2020,7,10,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24
+LSHTM,7,9,2020,8,10,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33
+LSHTM,7,9,2020,9,10,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40
+LSHTM,7,9,2020,10,10,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,67
+LSHTM,7,9,2020,11,10,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55
+LSHTM,7,9,2020,12,10,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80
+LSHTM,7,9,2020,13,10,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,92
+LSHTM,7,9,2020,14,10,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,101
+LSHTM,7,9,2020,15,10,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,121
+LSHTM,7,9,2020,16,10,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,145
+LSHTM,7,9,2020,17,10,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,243
+LSHTM,7,9,2020,18,10,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,246
+LSHTM,7,9,2020,19,10,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,331
+LSHTM,7,9,2020,20,10,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,420
+LSHTM,7,9,2020,21,10,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,437
+LSHTM,7,9,2020,22,10,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,659
+LSHTM,7,9,2020,23,10,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,812
+LSHTM,7,9,2020,24,10,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1142
+LSHTM,7,9,2020,25,10,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,663
+LSHTM,7,9,2020,26,10,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,960
+LSHTM,7,9,2020,27,10,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2351
+LSHTM,7,9,2020,28,10,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1991
+LSHTM,7,9,2020,29,10,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2607
+LSHTM,7,9,2020,30,10,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2160
+LSHTM,7,9,2020,31,10,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3850
+LSHTM,7,9,2020,1,11,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3995
+LSHTM,7,9,2020,2,11,2020,Wales,death_inc_line,EpiSoon,Cases,2,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7175

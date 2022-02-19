@@ -1,0 +1,127 @@
+Group,Scenario,Creation Day,Creation Month,Creation Year,Day of Value,Month of Value,Year of Value,Geography,Value Type,Model,Value,1st centile,5th centile,25th centile,75th centile,95th centile,99th centile
+LSHTM,Forecast,7,4,2020,8,4,2020,East of England,hosp_inc,Branching process,175,40,95,144,205,266.0499999999993,346.0100000000002
+LSHTM,Forecast,7,4,2020,9,4,2020,East of England,hosp_inc,Branching process,172,0,62,131,215,309,421.0100000000002
+LSHTM,Forecast,7,4,2020,10,4,2020,East of England,hosp_inc,Branching process,165,0,20,112,221,342,492
+LSHTM,Forecast,7,4,2020,11,4,2020,East of England,hosp_inc,Branching process,159,0,0,97,229,382,573.0200000000004
+LSHTM,Forecast,7,4,2020,12,4,2020,East of England,hosp_inc,Branching process,147,0,0,76,229,420,657
+LSHTM,Forecast,7,4,2020,13,4,2020,East of England,hosp_inc,Branching process,134,0,0,55,230,471.0499999999993,820.0300000000007
+LSHTM,Forecast,7,4,2020,14,4,2020,East of England,hosp_inc,Branching process,121,0,0,31,230,518,935.1100000000024
+LSHTM,Forecast,7,4,2020,15,4,2020,East of England,hosp_inc,Branching process,110,0,0,14.75,231,557.0499999999993,1063.050000000001
+LSHTM,Forecast,7,4,2020,16,4,2020,East of England,hosp_inc,Branching process,94,0,0,0,227,588,1267.140000000003
+LSHTM,Forecast,7,4,2020,17,4,2020,East of England,hosp_inc,Branching process,79,0,0,0,218,669.0999999999985,1603.1600000000035
+LSHTM,Forecast,7,4,2020,18,4,2020,East of England,hosp_inc,Branching process,66,0,0,0,214,717,1820.0700000000015
+LSHTM,Forecast,7,4,2020,19,4,2020,East of England,hosp_inc,Branching process,51,0,0,0,208,830.0499999999993,2282
+LSHTM,Forecast,7,4,2020,20,4,2020,East of England,hosp_inc,Branching process,37,0,0,0,194,885.0999999999985,2862.0700000000015
+LSHTM,Forecast,7,4,2020,21,4,2020,East of England,hosp_inc,Branching process,35,0,0,0,198.25,1014,3730.3800000000083
+LSHTM,Forecast,7,4,2020,8,4,2020,England,hosp_inc,Branching process,2502,1183.97,1677.95,2182,2831,3443.0499999999993,4215.080000000002
+LSHTM,Forecast,7,4,2020,9,4,2020,England,hosp_inc,Branching process,2374.5,531.95,1246.8500000000001,1947,2827,3708,4871.090000000002
+LSHTM,Forecast,7,4,2020,10,4,2020,England,hosp_inc,Branching process,2205,322,804.9000000000001,1678.75,2779,3937.149999999998,5508.110000000002
+LSHTM,Forecast,7,4,2020,11,4,2020,England,hosp_inc,Branching process,2028,146.99,469.95000000000005,1409,2708,4152.149999999998,6125.210000000005
+LSHTM,Forecast,7,4,2020,12,4,2020,England,hosp_inc,Branching process,1813.5,6,309,1110,2608,4313.199999999997,6927.1600000000035
+LSHTM,Forecast,7,4,2020,13,4,2020,England,hosp_inc,Branching process,1590.5,0,181,823.75,2487,4503.0999999999985,7833.270000000006
+LSHTM,Forecast,7,4,2020,14,4,2020,England,hosp_inc,Branching process,1384.5,0,95.95000000000005,585.75,2345.25,4687.049999999999,8580.330000000007
+LSHTM,Forecast,7,4,2020,15,4,2020,England,hosp_inc,Branching process,1140.5,0,10,382.75,2209.25,4921.199999999997,9956.520000000011
+LSHTM,Forecast,7,4,2020,16,4,2020,England,hosp_inc,Branching process,945,0,0,262,2062,5097.0999999999985,11359.160000000025
+LSHTM,Forecast,7,4,2020,17,4,2020,England,hosp_inc,Branching process,755,0,0,189,1865,5290.349999999995,13120.530000000012
+LSHTM,Forecast,7,4,2020,18,4,2020,England,hosp_inc,Branching process,599,0,0,124,1718.25,5431.249999999996,15046.38000000003
+LSHTM,Forecast,7,4,2020,19,4,2020,England,hosp_inc,Branching process,459,0,0,74,1565,5745.249999999996,17961.720000000038
+LSHTM,Forecast,7,4,2020,20,4,2020,England,hosp_inc,Branching process,338,0,0,59,1455.75,6198.349999999995,22284.69000000006
+LSHTM,Forecast,7,4,2020,21,4,2020,England,hosp_inc,Branching process,244.5,0,0,43,1275.75,6653.6499999999905,27401.120000000046
+LSHTM,Forecast,7,4,2020,8,4,2020,London,hosp_inc,Branching process,670,446.99,523.95,614,727,821,904.0100000000002
+LSHTM,Forecast,7,4,2020,9,4,2020,London,hosp_inc,Branching process,635,322.97,439,560,711,841,967.0100000000002
+LSHTM,Forecast,7,4,2020,10,4,2020,London,hosp_inc,Branching process,594,237,362.95000000000005,506,689,851.0499999999993,1026
+LSHTM,Forecast,7,4,2020,11,4,2020,London,hosp_inc,Branching process,543,114,281,442,652,860,1087
+LSHTM,Forecast,7,4,2020,12,4,2020,London,hosp_inc,Branching process,492,6,203,381,613,843,1150.0200000000004
+LSHTM,Forecast,7,4,2020,13,4,2020,London,hosp_inc,Branching process,435,0,111,313,568,850,1188.0200000000004
+LSHTM,Forecast,7,4,2020,14,4,2020,London,hosp_inc,Branching process,379.5,0,45.950000000000045,251,517,830,1268.0300000000007
+LSHTM,Forecast,7,4,2020,15,4,2020,London,hosp_inc,Branching process,312,0,0,188,462,821.0499999999993,1308.0400000000009
+LSHTM,Forecast,7,4,2020,16,4,2020,London,hosp_inc,Branching process,257,0,0,126,405,787,1404.090000000002
+LSHTM,Forecast,7,4,2020,17,4,2020,London,hosp_inc,Branching process,200,0,0,73,347,747,1441.0800000000017
+LSHTM,Forecast,7,4,2020,18,4,2020,London,hosp_inc,Branching process,147,0,0,28,292,704.0499999999993,1604.1100000000024
+LSHTM,Forecast,7,4,2020,19,4,2020,London,hosp_inc,Branching process,102,0,0,0,238,695,1703.050000000001
+LSHTM,Forecast,7,4,2020,20,4,2020,London,hosp_inc,Branching process,63,0,0,0,192,654.0499999999993,1773.1500000000033
+LSHTM,Forecast,7,4,2020,21,4,2020,London,hosp_inc,Branching process,28,0,0,0,138,601.0499999999993,1708.0400000000009
+LSHTM,Forecast,7,4,2020,8,4,2020,Midlands,hosp_inc,Branching process,462,183.99,302,400,525,639,781.0100000000002
+LSHTM,Forecast,7,4,2020,9,4,2020,Midlands,hosp_inc,Branching process,408,0,191.95000000000005,328,496,664,924.0200000000004
+LSHTM,Forecast,7,4,2020,10,4,2020,Midlands,hosp_inc,Branching process,343,0,64.95000000000005,246.75,451,661.0499999999993,1049.050000000001
+LSHTM,Forecast,7,4,2020,11,4,2020,Midlands,hosp_inc,Branching process,290,0,0,173,410,664.0499999999993,1109.090000000002
+LSHTM,Forecast,7,4,2020,12,4,2020,Midlands,hosp_inc,Branching process,222,0,0,95,361,656,1196.0400000000009
+LSHTM,Forecast,7,4,2020,13,4,2020,Midlands,hosp_inc,Branching process,163.5,0,0,29.75,311,641,1356.0600000000013
+LSHTM,Forecast,7,4,2020,14,4,2020,Midlands,hosp_inc,Branching process,103,0,0,0,250.25,619,1464.0200000000004
+LSHTM,Forecast,7,4,2020,15,4,2020,Midlands,hosp_inc,Branching process,55,0,0,0,205,589,1644.1500000000033
+LSHTM,Forecast,7,4,2020,16,4,2020,Midlands,hosp_inc,Branching process,15,0,0,0,157,556.0499999999993,1809.050000000001
+LSHTM,Forecast,7,4,2020,17,4,2020,Midlands,hosp_inc,Branching process,0,0,0,0,117,518,2078.180000000004
+LSHTM,Forecast,7,4,2020,18,4,2020,Midlands,hosp_inc,Branching process,0,0,0,0,85,477.09999999999854,2211.45000000001
+LSHTM,Forecast,7,4,2020,19,4,2020,Midlands,hosp_inc,Branching process,0,0,0,0,57,443,2345.0800000000236
+LSHTM,Forecast,7,4,2020,20,4,2020,Midlands,hosp_inc,Branching process,0,0,0,0,42,415.0499999999993,3273.7100000000373
+LSHTM,Forecast,7,4,2020,21,4,2020,Midlands,hosp_inc,Branching process,0,0,0,0,24,372.09999999999854,4354.010000000022
+LSHTM,Forecast,7,4,2020,8,4,2020,North East and Yorkshire,hosp_inc,Branching process,367,174.99,239,315,420,515,654.0400000000009
+LSHTM,Forecast,7,4,2020,9,4,2020,North East and Yorkshire,hosp_inc,Branching process,348,70.99000000000001,183.95000000000005,282,417,551,774.0200000000004
+LSHTM,Forecast,7,4,2020,10,4,2020,North East and Yorkshire,hosp_inc,Branching process,322,0,125,241,407,578.0499999999993,841.0100000000002
+LSHTM,Forecast,7,4,2020,11,4,2020,North East and Yorkshire,hosp_inc,Branching process,288,0,54.950000000000045,196,390,609.0499999999993,915.0300000000007
+LSHTM,Forecast,7,4,2020,12,4,2020,North East and Yorkshire,hosp_inc,Branching process,251,0,0,147,372,620.0499999999993,1006.0100000000002
+LSHTM,Forecast,7,4,2020,13,4,2020,North East and Yorkshire,hosp_inc,Branching process,211,0,0,100,347,640.0499999999993,1105.050000000001
+LSHTM,Forecast,7,4,2020,14,4,2020,North East and Yorkshire,hosp_inc,Branching process,178,0,0,58,325,659,1163.0600000000013
+LSHTM,Forecast,7,4,2020,15,4,2020,North East and Yorkshire,hosp_inc,Branching process,140,0,0,20,296.25,675,1360.0300000000007
+LSHTM,Forecast,7,4,2020,16,4,2020,North East and Yorkshire,hosp_inc,Branching process,102,0,0,0,265,686,1420.140000000003
+LSHTM,Forecast,7,4,2020,17,4,2020,North East and Yorkshire,hosp_inc,Branching process,67,0,0,0,226,680,1486
+LSHTM,Forecast,7,4,2020,18,4,2020,North East and Yorkshire,hosp_inc,Branching process,39,0,0,0,193,671.0499999999993,1546.0700000000015
+LSHTM,Forecast,7,4,2020,19,4,2020,North East and Yorkshire,hosp_inc,Branching process,19,0,0,0,167,658,1619.0100000000002
+LSHTM,Forecast,7,4,2020,20,4,2020,North East and Yorkshire,hosp_inc,Branching process,1,0,0,0,140,642.0499999999993,1751.2200000000048
+LSHTM,Forecast,7,4,2020,21,4,2020,North East and Yorkshire,hosp_inc,Branching process,0,0,0,0,105,657.1999999999971,1967.3000000000065
+LSHTM,Forecast,7,4,2020,8,4,2020,North West,hosp_inc,Branching process,419,143,250,354,486,610,772
+LSHTM,Forecast,7,4,2020,9,4,2020,North West,hosp_inc,Branching process,411,0,159,318,508,707,916.0100000000002
+LSHTM,Forecast,7,4,2020,10,4,2020,North West,hosp_inc,Branching process,394,0,66,272,525,816,1115
+LSHTM,Forecast,7,4,2020,11,4,2020,North West,hosp_inc,Branching process,372,0,0,227,539,897,1301.0200000000004
+LSHTM,Forecast,7,4,2020,12,4,2020,North West,hosp_inc,Branching process,345.5,0,0,170,547,978,1585.0800000000017
+LSHTM,Forecast,7,4,2020,13,4,2020,North West,hosp_inc,Branching process,311,0,0,115,553,1068,1799.0200000000004
+LSHTM,Forecast,7,4,2020,14,4,2020,North West,hosp_inc,Branching process,285,0,0,61.75,546,1160.0499999999993,1992.0200000000004
+LSHTM,Forecast,7,4,2020,15,4,2020,North West,hosp_inc,Branching process,232,0,0,5,550,1320.0499999999993,2542.1700000000037
+LSHTM,Forecast,7,4,2020,16,4,2020,North West,hosp_inc,Branching process,209,0,0,0,550,1436,2872.2000000000044
+LSHTM,Forecast,7,4,2020,17,4,2020,North West,hosp_inc,Branching process,169,0,0,0,517,1547.1499999999978,3320
+LSHTM,Forecast,7,4,2020,18,4,2020,North West,hosp_inc,Branching process,135,0,0,0,514.25,1712.0499999999993,3891.2500000000055
+LSHTM,Forecast,7,4,2020,19,4,2020,North West,hosp_inc,Branching process,103,0,0,0,504,1843.0999999999985,5561.420000000009
+LSHTM,Forecast,7,4,2020,20,4,2020,North West,hosp_inc,Branching process,75,0,0,0,502.25,2129,6189.0700000000015
+LSHTM,Forecast,7,4,2020,21,4,2020,North West,hosp_inc,Branching process,44.5,0,0,0,451.25,2377.0499999999993,7670.030000000001
+LSHTM,Forecast,7,4,2020,8,4,2020,South East,hosp_inc,Branching process,304,181,221,272,338,404,506.0100000000002
+LSHTM,Forecast,7,4,2020,9,4,2020,South East,hosp_inc,Branching process,301,137.99,192,258,346,421,543.0100000000002
+LSHTM,Forecast,7,4,2020,10,4,2020,South East,hosp_inc,Branching process,293,85,166,243,346,447,605.0400000000009
+LSHTM,Forecast,7,4,2020,11,4,2020,South East,hosp_inc,Branching process,287,32.99000000000001,134,230,345,461,647.0400000000009
+LSHTM,Forecast,7,4,2020,12,4,2020,South East,hosp_inc,Branching process,276,0,106,212,343,481.0499999999993,714.0100000000002
+LSHTM,Forecast,7,4,2020,13,4,2020,South East,hosp_inc,Branching process,264,0,70,194,336,493,803.0200000000004
+LSHTM,Forecast,7,4,2020,14,4,2020,South East,hosp_inc,Branching process,253,0,50,178,332,514,870.0700000000015
+LSHTM,Forecast,7,4,2020,15,4,2020,South East,hosp_inc,Branching process,233.5,0,10,155,321,519,886.0300000000007
+LSHTM,Forecast,7,4,2020,16,4,2020,South East,hosp_inc,Branching process,217,0,0,136,311,522.0499999999993,1005.2700000000059
+LSHTM,Forecast,7,4,2020,17,4,2020,South East,hosp_inc,Branching process,200,0,0,116,298,538.0499999999993,1098.0300000000007
+LSHTM,Forecast,7,4,2020,18,4,2020,South East,hosp_inc,Branching process,180,0,0,96,281,534,1186.0100000000002
+LSHTM,Forecast,7,4,2020,19,4,2020,South East,hosp_inc,Branching process,159,0,0,74,261,548,1302
+LSHTM,Forecast,7,4,2020,20,4,2020,South East,hosp_inc,Branching process,140,0,0,59,244.25,548,1422.0600000000013
+LSHTM,Forecast,7,4,2020,21,4,2020,South East,hosp_inc,Branching process,121,0,0,43,225.25,553.0499999999993,1463.1100000000024
+LSHTM,Forecast,7,4,2020,8,4,2020,South West,hosp_inc,Branching process,105,14,47,83,130,188,252
+LSHTM,Forecast,7,4,2020,9,4,2020,South West,hosp_inc,Branching process,99.5,0,18.950000000000045,70,134,215,326.0100000000002
+LSHTM,Forecast,7,4,2020,10,4,2020,South West,hosp_inc,Branching process,94,0,0,58,140,242,380.0100000000002
+LSHTM,Forecast,7,4,2020,11,4,2020,South West,hosp_inc,Branching process,89,0,0,44,143,279.0499999999993,493.0100000000002
+LSHTM,Forecast,7,4,2020,12,4,2020,South West,hosp_inc,Branching process,80,0,0,29,143,315.09999999999854,619
+LSHTM,Forecast,7,4,2020,13,4,2020,South West,hosp_inc,Branching process,72,0,0,17,142,340,762.0700000000015
+LSHTM,Forecast,7,4,2020,14,4,2020,South West,hosp_inc,Branching process,65,0,0,6,145,387,888.0200000000004
+LSHTM,Forecast,7,4,2020,15,4,2020,South West,hosp_inc,Branching process,58,0,0,0,144,440.0499999999993,1153.050000000001
+LSHTM,Forecast,7,4,2020,16,4,2020,South West,hosp_inc,Branching process,51,0,0,0,147,522,1581.270000000006
+LSHTM,Forecast,7,4,2020,17,4,2020,South West,hosp_inc,Branching process,40,0,0,0,142,591.0499999999993,2094.0800000000017
+LSHTM,Forecast,7,4,2020,18,4,2020,South West,hosp_inc,Branching process,32,0,0,0,139,616,2787.420000000009
+LSHTM,Forecast,7,4,2020,19,4,2020,South West,hosp_inc,Branching process,25,0,0,0,130,728.0999999999985,3149.1600000000035
+LSHTM,Forecast,7,4,2020,20,4,2020,South West,hosp_inc,Branching process,22,0,0,0,141.25,925.0999999999985,5013.410000000009
+LSHTM,Forecast,7,4,2020,21,4,2020,South West,hosp_inc,Branching process,16,0,0,0,134,1079.199999999997,6508.2500000000055
+LSHTM,Forecast,7,4,2020,7,4,2020,England,death_inc_dash,Branching process,594,153,243,423,815,1263,1720
+LSHTM,Forecast,7,4,2020,8,4,2020,England,death_inc_dash,Branching process,602,156,246,429,826,1280,1742
+LSHTM,Forecast,7,4,2020,9,4,2020,England,death_inc_dash,Branching process,606,157,248,431,831,1289,1754
+LSHTM,Forecast,7,4,2020,10,4,2020,England,death_inc_dash,Branching process,602,155,246,429,827,1283,1753
+LSHTM,Forecast,7,4,2020,11,4,2020,England,death_inc_dash,Branching process,591,152,241,421,813,1262,1729
+LSHTM,Forecast,7,4,2020,12,4,2020,England,death_inc_dash,Branching process,574,147,234,408,790,1230,1689
+LSHTM,Forecast,7,4,2020,13,4,2020,England,death_inc_dash,Branching process,549,140,223,390,759,1185,1633
+LSHTM,Forecast,7,4,2020,14,4,2020,England,death_inc_dash,Branching process,519,132,210,367,718,1130,1566
+LSHTM,Forecast,7,4,2020,15,4,2020,England,death_inc_dash,Branching process,485,121,194,342,674,1069,1495
+LSHTM,Forecast,7,4,2020,16,4,2020,England,death_inc_dash,Branching process,445,110,176,312,622,998,1418
+LSHTM,Forecast,7,4,2020,17,4,2020,England,death_inc_dash,Branching process,404,98,157,281,569,927,1328
+LSHTM,Forecast,7,4,2020,18,4,2020,England,death_inc_dash,Branching process,361,86,139,250,515,855,1257
+LSHTM,Forecast,7,4,2020,19,4,2020,England,death_inc_dash,Branching process,320,74,121,219,461,785,1183
+LSHTM,Forecast,7,4,2020,20,4,2020,England,death_inc_dash,Branching process,280,64,104,191,408,717,1130

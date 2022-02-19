@@ -1,0 +1,181 @@
+Group,Creation Day,Creation Month,Creation Year,Day of Value,Month of Value,Year of Value,Geography,ValueType,Model,Scenario,ModelType,Version,Value,AgeBand,Quantile 0.05,Quantile 0.1,Quantile 0.15,Quantile 0.2,Quantile 0.25,Quantile 0.3,Quantile 0.35,Quantile 0.4,Quantile 0.45,Quantile 0.5,Quantile 0.55,Quantile 0.6,Quantile 0.65,Quantile 0.7,Quantile 0.75,Quantile 0.8,Quantile 0.85,Quantile 0.9,Quantile 0.95
+LSHTM,18,5,2021,18,5,2021,East of England,hospital_inc,EpiNow,MTP,Cases,2.0,3,All,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+LSHTM,18,5,2021,19,5,2021,East of England,hospital_inc,EpiNow,MTP,Cases,2.0,11,All,2,3,4,5,6,7,8,9,10,11,12,14,15,17,19,21,24.15,29,38
+LSHTM,18,5,2021,20,5,2021,East of England,hospital_inc,EpiNow,MTP,Cases,2.0,8,All,1,2,3,3,4,5,5,6,7,8,9,11,12,14,16,18,22,26,33.05
+LSHTM,18,5,2021,21,5,2021,East of England,hospital_inc,EpiNow,MTP,Cases,2.0,8,All,1,2,3,3,4,5,6,6,7,8,10,11,12,13.3,15,18,21,25,32
+LSHTM,18,5,2021,22,5,2021,East of England,hospital_inc,EpiNow,MTP,Cases,2.0,14,All,2,3,5,6,8,9,10,11,13,14,16,18,20,23,26,29.2000000000001,34,40,53.05
+LSHTM,18,5,2021,23,5,2021,East of England,hospital_inc,EpiNow,MTP,Cases,2.0,7,All,0,1,2,2,3,4,4,5,6,7,8,9,10,11,13,15.2,18,22,30.05
+LSHTM,18,5,2021,24,5,2021,East of England,hospital_inc,EpiNow,MTP,Cases,2.0,9,All,1,2,2,3,4,5,6,7,8,9,10,11,12,14,15,18,21,26,33.05
+LSHTM,18,5,2021,25,5,2021,East of England,hospital_inc,EpiNow,MTP,Cases,2.0,11,All,1,2,3,5,5,6,7,8,10,11,12,13,14,17,19,21,25,31,39
+LSHTM,18,5,2021,26,5,2021,East of England,hospital_inc,EpiNow,MTP,Cases,2.0,18,All,3,5,7,8,9,11,13,15,16,18,20,22,25,28,31,35,40.15,49,67
+LSHTM,18,5,2021,27,5,2021,East of England,hospital_inc,EpiNow,MTP,Cases,2.0,12,All,1,3,4,5,6,7,8,9,11,12,14,15,18,20,23,26,30,37,52.05
+LSHTM,18,5,2021,28,5,2021,East of England,hospital_inc,EpiNow,MTP,Cases,2.0,12,All,1,2,3,4,6,7,8,9,10,12,13,15,17,19,22,25,30,37,54.05
+LSHTM,18,5,2021,29,5,2021,East of England,hospital_inc,EpiNow,MTP,Cases,2.0,20,All,3,5,7,9,10,12,14,16,18,20,22,25,28,32,35,42,49,58,80
+LSHTM,18,5,2021,30,5,2021,East of England,hospital_inc,EpiNow,MTP,Cases,2.0,10,All,1,2,3,3,4,5,7,8,9,10,11,13,15,17,20,24,29,34.1,48
+LSHTM,18,5,2021,31,5,2021,East of England,hospital_inc,EpiNow,MTP,Cases,2.0,11,All,1,3,4,5,5,6,7,8,10,11,13,14,16,18,20,24,28,34,46
+LSHTM,18,5,2021,1,6,2021,East of England,hospital_inc,EpiNow,MTP,Cases,2.0,14,All,2,3,4,6,7,8,9,11,12,14,15.45,17,19,21,24,28.2,34,43,64.05
+LSHTM,18,5,2021,18,5,2021,London,hospital_inc,EpiNow,MTP,Cases,2.0,17,All,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17
+LSHTM,18,5,2021,19,5,2021,London,hospital_inc,EpiNow,MTP,Cases,2.0,13,All,3,5,6,7,8,9,10,11,12,13,15,16,18,19,21,23,28,32,39
+LSHTM,18,5,2021,20,5,2021,London,hospital_inc,EpiNow,MTP,Cases,2.0,18,All,4,6,8,9,11,12,14,15,17,18,20.45,22,24,27,30,32,36,42,52
+LSHTM,18,5,2021,21,5,2021,London,hospital_inc,EpiNow,MTP,Cases,2.0,19,All,4,6,8,10,11,13,14,16,17,19,20,23,25,27,29,33,37,45,56.05
+LSHTM,18,5,2021,22,5,2021,London,hospital_inc,EpiNow,MTP,Cases,2.0,14,All,3,5,6,7,8,10,11,11,13,14,16,17,19,21,24,28,32,37,52
+LSHTM,18,5,2021,23,5,2021,London,hospital_inc,EpiNow,MTP,Cases,2.0,21,All,4,7,9,11,12,13,15,17,18,21,22,25,27,29,32,36,40,47,63
+LSHTM,18,5,2021,24,5,2021,London,hospital_inc,EpiNow,MTP,Cases,2.0,25,All,5,8,10,12,14,16,18,20,23,25,28,30,33,35,39,45,51,59,76.0999999999999
+LSHTM,18,5,2021,25,5,2021,London,hospital_inc,EpiNow,MTP,Cases,2.0,23,All,5,8,10,12,13,15,17,19,21,23,25,27,30,32.3,36,41,46,56,70.05
+LSHTM,18,5,2021,26,5,2021,London,hospital_inc,EpiNow,MTP,Cases,2.0,24,All,6,8,10,12,14,16,18,19,21,24,26,29,33,36,41,45,54,64.1,87
+LSHTM,18,5,2021,27,5,2021,London,hospital_inc,EpiNow,MTP,Cases,2.0,30,All,6,11,13,16,18,20,23,26,27.55,30,34,38,42,46,51,60,69,79.1,98.05
+LSHTM,18,5,2021,28,5,2021,London,hospital_inc,EpiNow,MTP,Cases,2.0,30,All,5,9,12,14,17,19,22,25,27,30,34,38,41,46,53,62,72,86,115.05
+LSHTM,18,5,2021,29,5,2021,London,hospital_inc,EpiNow,MTP,Cases,2.0,21,All,4,6,8,10,12,13,15,17,19,21,23,26,30,33,38,44,51,63.1,95.0999999999999
+LSHTM,18,5,2021,30,5,2021,London,hospital_inc,EpiNow,MTP,Cases,2.0,30,All,6,9,11,14,16,19,21,24,27,30,34,37,41,46,52,60,71,85.1,120
+LSHTM,18,5,2021,31,5,2021,London,hospital_inc,EpiNow,MTP,Cases,2.0,33,All,6,9,12,15,18,20,23,26,29,33,37,40.4,45,52,58,64,77,94,130.05
+LSHTM,18,5,2021,1,6,2021,London,hospital_inc,EpiNow,MTP,Cases,2.0,31,All,5,8,11,13,16,19,21,24,27,31,34,38,42,47,53,63,73.15,92,125
+LSHTM,18,5,2021,18,5,2021,Midlands,hospital_inc,EpiNow,MTP,Cases,2.0,21,All,21,21,21,21,21,21,21,21,21,21,21,21,21,21,21,21,21,21,21
+LSHTM,18,5,2021,19,5,2021,Midlands,hospital_inc,EpiNow,MTP,Cases,2.0,19,All,2,5,7,8,10,11,13,15,17,19,21,23,26,29,32,37,43,51,68.05
+LSHTM,18,5,2021,20,5,2021,Midlands,hospital_inc,EpiNow,MTP,Cases,2.0,19,All,3,5,6,7,9,11,13,15,17,19,21,23,27,31,35,39,49.15,61.1,79.0999999999999
+LSHTM,18,5,2021,21,5,2021,Midlands,hospital_inc,EpiNow,MTP,Cases,2.0,16,All,2,4,5,6,8,9,11,12,14,16,17.45,20,22,24,27,32,37,47,66.05
+LSHTM,18,5,2021,22,5,2021,Midlands,hospital_inc,EpiNow,MTP,Cases,2.0,21,All,3,5,7,9,11,12,14,16,18,21,23,25.4,29,34,39,44.2,52.15,66,92.05
+LSHTM,18,5,2021,23,5,2021,Midlands,hospital_inc,EpiNow,MTP,Cases,2.0,19,All,2,4,5,7,9,10,12.65,14.6,17,19,21,23,28,32,39,44,52,64.1,82.05
+LSHTM,18,5,2021,24,5,2021,Midlands,hospital_inc,EpiNow,MTP,Cases,2.0,26,All,3,6,8,11,13,15,18,20,22,26,29,32,36,42,48,56,67,82,111.05
+LSHTM,18,5,2021,25,5,2021,Midlands,hospital_inc,EpiNow,MTP,Cases,2.0,19.5,All,2,5,7,8,10,12,14,16,17,19.5,23,26,30,34,38,43,50,59.1,77.05
+LSHTM,18,5,2021,26,5,2021,Midlands,hospital_inc,EpiNow,MTP,Cases,2.0,21,All,2,4,6,7,9,11,13,16,18,21,23,28,32,37,42,48,56.15,74,101.1
+LSHTM,18,5,2021,27,5,2021,Midlands,hospital_inc,EpiNow,MTP,Cases,2.0,18,All,1,4,5,7,8,10,12,14,16,18,21,24,28,31,36,43,53.15,65.1,93.05
+LSHTM,18,5,2021,28,5,2021,Midlands,hospital_inc,EpiNow,MTP,Cases,2.0,14,All,1,3,4,5,6,8,9,11,12,14,16,18,21,24,27.25,32.2,42,49.1,67.05
+LSHTM,18,5,2021,29,5,2021,Midlands,hospital_inc,EpiNow,MTP,Cases,2.0,19,All,1,3,5,7,8,10,12,14,16.55,19,21,24,28,32.3,37,43,51,61.1,91.05
+LSHTM,18,5,2021,30,5,2021,Midlands,hospital_inc,EpiNow,MTP,Cases,2.0,15,All,1,3,4,6,7,8,10,11,13,15,18,21,25,29,35,41,50,67,94
+LSHTM,18,5,2021,31,5,2021,Midlands,hospital_inc,EpiNow,MTP,Cases,2.0,21,All,2,4,6,7,9,12,14,16,18,21,25,28,33,39,45,53,64,79.1,113
+LSHTM,18,5,2021,1,6,2021,Midlands,hospital_inc,EpiNow,MTP,Cases,2.0,17,All,2,3,4,6,7,9,11,12,14,17,19,22,25,29,35,41.2,49.15,63.1,101
+LSHTM,18,5,2021,18,5,2021,North East and Yorkshire,hospital_inc,EpiNow,MTP,Cases,2.0,5,All,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+LSHTM,18,5,2021,19,5,2021,North East and Yorkshire,hospital_inc,EpiNow,MTP,Cases,2.0,23,All,4,6,9,11,13,15,16,19,21,23,26,28,31,34,38,44,53,62.1,86.05
+LSHTM,18,5,2021,20,5,2021,North East and Yorkshire,hospital_inc,EpiNow,MTP,Cases,2.0,21,All,3,5,7,9,10,12,13.65,15.6,18,21,23,26,29,32,36,44,51,62,86.1499999999999
+LSHTM,18,5,2021,21,5,2021,North East and Yorkshire,hospital_inc,EpiNow,MTP,Cases,2.0,22,All,4,6,8,10,11,14,15,17,19,22,25,28,30.35,35,39,45,51,60.1,83
+LSHTM,18,5,2021,22,5,2021,North East and Yorkshire,hospital_inc,EpiNow,MTP,Cases,2.0,17,All,3,5,6,8,9,10,12,14,15,17,20,22,25,28,32,36,43,54.1,72.05
+LSHTM,18,5,2021,23,5,2021,North East and Yorkshire,hospital_inc,EpiNow,MTP,Cases,2.0,14,All,2,4,5,6,7,9,10,11,13,14,16,18,21,24,26,31,36.15,46,66.05
+LSHTM,18,5,2021,24,5,2021,North East and Yorkshire,hospital_inc,EpiNow,MTP,Cases,2.0,12,All,1,3,4,5,6,7,8,10,11,12,14,16,18,21,24,29,33,41,59.05
+LSHTM,18,5,2021,25,5,2021,North East and Yorkshire,hospital_inc,EpiNow,MTP,Cases,2.0,15,All,2,3,5,7,8,9,11,12,14,15,17,18,20,23,26,30,35,43,56
+LSHTM,18,5,2021,26,5,2021,North East and Yorkshire,hospital_inc,EpiNow,MTP,Cases,2.0,29,All,5,8,10,13,16,18,21,23,26,29,33,37,42,47,53,59,68,83.2000000000001,112.05
+LSHTM,18,5,2021,27,5,2021,North East and Yorkshire,hospital_inc,EpiNow,MTP,Cases,2.0,26,All,4,7,9,12,14,16,18,20,23,26,30,33.4,38,42,48,55,66,80,103
+LSHTM,18,5,2021,28,5,2021,North East and Yorkshire,hospital_inc,EpiNow,MTP,Cases,2.0,25,All,4,6,8,10.8,13,15,18,20,22,25,28,31.4,35.35,40.3,47,56.2000000000001,69,89.1,117
+LSHTM,18,5,2021,29,5,2021,North East and Yorkshire,hospital_inc,EpiNow,MTP,Cases,2.0,20,All,2,5,6,8,9,11,13,15,17,20,22,25,27,31,34.25,42,50.15,64.1,85.05
+LSHTM,18,5,2021,30,5,2021,North East and Yorkshire,hospital_inc,EpiNow,MTP,Cases,2.0,15,All,2,4,5,6,8,10,11,12,14,15,17,20,22,26,31,35,41,55,75.05
+LSHTM,18,5,2021,31,5,2021,North East and Yorkshire,hospital_inc,EpiNow,MTP,Cases,2.0,13,All,2,3,4,5,6,8,9,10,12,13,15,18,20,23,25,29,34,44,65.05
+LSHTM,18,5,2021,1,6,2021,North East and Yorkshire,hospital_inc,EpiNow,MTP,Cases,2.0,14,All,2,3,5,6,7,9,10,11.6,13,14,17,19,21,24,27.25,32,39,49,68
+LSHTM,18,5,2021,18,5,2021,North West,hospital_inc,EpiNow,MTP,Cases,2.0,19,All,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19
+LSHTM,18,5,2021,19,5,2021,North West,hospital_inc,EpiNow,MTP,Cases,2.0,43,All,4,8,12,15,19,23,27.65,32,37.55,43,50,56.4,66.35,77,92,107,129.15,169.1,234.1
+LSHTM,18,5,2021,20,5,2021,North West,hospital_inc,EpiNow,MTP,Cases,2.0,41,All,4,7,11,14,17,22,26,30,37,41,48,53,60,69,84,97,117,150,221.05
+LSHTM,18,5,2021,21,5,2021,North West,hospital_inc,EpiNow,MTP,Cases,2.0,39,All,4,8,11,14,18,21,24,29,34,39,46,53,62,72,84.25,102,122,154,206.1
+LSHTM,18,5,2021,22,5,2021,North West,hospital_inc,EpiNow,MTP,Cases,2.0,32.5,All,3,7,9,12,15,17,21,24,28,32.5,36.4500000000001,42,50,60,71.25,87,109.15,144.1,218.1
+LSHTM,18,5,2021,23,5,2021,North West,hospital_inc,EpiNow,MTP,Cases,2.0,47,All,4,7,12,16,20,24,29,34,38,47,53,62,71,80,93,111,134,185.1,274
+LSHTM,18,5,2021,24,5,2021,North West,hospital_inc,EpiNow,MTP,Cases,2.0,47,All,5,9,13,17,21.75,27,31,36,41,47,54,63,72,84,100,117.2,145.3,191.1,272.05
+LSHTM,18,5,2021,25,5,2021,North West,hospital_inc,EpiNow,MTP,Cases,2.0,54,All,5.95,10,14.85,20,23,29,34,40,46,54,64.4500000000001,72,81.35,95,109,131.2,158.15,207,287.4
+LSHTM,18,5,2021,26,5,2021,North West,hospital_inc,EpiNow,MTP,Cases,2.0,95,All,11,17,26,36,43.75,50,61.65,72,84,95,108,128,148.35,173,199.25,238.2,305.15,396.2,578
+LSHTM,18,5,2021,27,5,2021,North West,hospital_inc,EpiNow,MTP,Cases,2.0,84.5,All,10,16,23,30,37,44.7,54.65,64,73.55,84.5,96.45,115,132.35,153,175,208,256.15,339,526.3
+LSHTM,18,5,2021,28,5,2021,North West,hospital_inc,EpiNow,MTP,Cases,2.0,83,All,6.95,14,20,28,36,42,52,61,71,83,93.45,108,129.35,150.3,171,199.2,247.3,333.2,463.25
+LSHTM,18,5,2021,29,5,2021,North West,hospital_inc,EpiNow,MTP,Cases,2.0,61,All,5,10,16,20.8,26,32,38.65,44.6,52,61,69,83,99.35,117,144,175,208.15,281.2,435.5
+LSHTM,18,5,2021,30,5,2021,North West,hospital_inc,EpiNow,MTP,Cases,2.0,85,All,8,15,21,28,35,43,52,60,72,85,99,113,136,157,179,224.2,283.15,372,582.1
+LSHTM,18,5,2021,31,5,2021,North West,hospital_inc,EpiNow,MTP,Cases,2.0,76.5,All,7,12,18,23,31,38,47,56,65.55,76.5,94.4500000000001,108,121.35,148.3,181,228,280.15,372.2,570.45
+LSHTM,18,5,2021,1,6,2021,North West,hospital_inc,EpiNow,MTP,Cases,2.0,81,All,8,15,22.85,28,34,41.7,50,61,72,81,92,109,126,148,174,219.2,282,367.3,538.2
+LSHTM,18,5,2021,18,5,2021,Northern Ireland,hospital_inc,EpiNow,MTP,Cases,2.0,2,All,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+LSHTM,18,5,2021,19,5,2021,Northern Ireland,hospital_inc,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,1,2,2,3,3,4,4,5,6,7,9,11,15
+LSHTM,18,5,2021,20,5,2021,Northern Ireland,hospital_inc,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,2,2,3,3,4,4,5,7,8,11,16
+LSHTM,18,5,2021,21,5,2021,Northern Ireland,hospital_inc,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,1,1,1,1,1,2,2,3,3,4,5,6,7,12
+LSHTM,18,5,2021,22,5,2021,Northern Ireland,hospital_inc,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,1,1,1,2,2,2,3,3,4,4,5,7,9,13
+LSHTM,18,5,2021,23,5,2021,Northern Ireland,hospital_inc,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,1,2,2,3,3,4,4.35000000000002,5,6,7,9,11,16.05
+LSHTM,18,5,2021,24,5,2021,Northern Ireland,hospital_inc,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,2,2,3,3,4,5,6,7,10,12,17
+LSHTM,18,5,2021,25,5,2021,Northern Ireland,hospital_inc,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,1,2,2,3,3,4,4,5,7,8,14
+LSHTM,18,5,2021,26,5,2021,Northern Ireland,hospital_inc,EpiNow,MTP,Cases,2.0,3,All,0,0,0,0.800000000000011,1,1,1,2,2,3,3,4,4,5,6,7,9,13,19
+LSHTM,18,5,2021,27,5,2021,Northern Ireland,hospital_inc,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,2,2,3,3,4,5,6,7,9,13,19.05
+LSHTM,18,5,2021,28,5,2021,Northern Ireland,hospital_inc,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,1,1,1,1,2,2,3,3,4,5,6,8,12
+LSHTM,18,5,2021,29,5,2021,Northern Ireland,hospital_inc,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,1,1,1,2,2,2,3,3,4,5,6,7,9,16
+LSHTM,18,5,2021,30,5,2021,Northern Ireland,hospital_inc,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,1,2,2,3,3,4,4,5,7,8,10,13,20.05
+LSHTM,18,5,2021,31,5,2021,Northern Ireland,hospital_inc,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,2,2,3,3,4,5,6,7,9,12,19
+LSHTM,18,5,2021,1,6,2021,Northern Ireland,hospital_inc,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,1,1,1,1,2,2,3,3,4,5,6,8,11.1,19
+LSHTM,18,5,2021,18,5,2021,Scotland,hospital_inc,EpiNow,MTP,Cases,2.0,11,All,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+LSHTM,18,5,2021,19,5,2021,Scotland,hospital_inc,EpiNow,MTP,Cases,2.0,5,All,0,0,1,1,2,2,3,3,4,5,6,8,9,11,13,16,21,29,47.05
+LSHTM,18,5,2021,20,5,2021,Scotland,hospital_inc,EpiNow,MTP,Cases,2.0,9,All,0,1,1,2,3,4,5,6,8,9,10,12,14,17,20,25,30.15,38,57.05
+LSHTM,18,5,2021,21,5,2021,Scotland,hospital_inc,EpiNow,MTP,Cases,2.0,12,All,0,1,2,3,5,6,7,9,10,12,13,15,19,22,26,31.2,40,55,78.05
+LSHTM,18,5,2021,22,5,2021,Scotland,hospital_inc,EpiNow,MTP,Cases,2.0,9,All,0,1,2,2,3,4,5,6,8,9,11,13,15.35,18,22,26.2,33,52,77.05
+LSHTM,18,5,2021,23,5,2021,Scotland,hospital_inc,EpiNow,MTP,Cases,2.0,15,All,1,2,3,4,6,7,9,11,13,15,17.45,21,24,29,36,43,56,70.1,109
+LSHTM,18,5,2021,24,5,2021,Scotland,hospital_inc,EpiNow,MTP,Cases,2.0,8,All,0,1,1,2,3,3,4,5,6,8,9,11,13,15,18,22,30,39.1,62
+LSHTM,18,5,2021,25,5,2021,Scotland,hospital_inc,EpiNow,MTP,Cases,2.0,15,All,1,2,3,5,6,7,9,11,13,15,17.45,21,25,29.3,35,41,52,69.1,89.05
+LSHTM,18,5,2021,26,5,2021,Scotland,hospital_inc,EpiNow,MTP,Cases,2.0,8,All,0,1,1,2,3,4,4,5,7,8,10,12,14,18.3,22.25,28,32.15,45.1,71
+LSHTM,18,5,2021,27,5,2021,Scotland,hospital_inc,EpiNow,MTP,Cases,2.0,15,All,0,2,3,4,5,7,8,10,12,15,18,21,26,31,37.25,48,62,81.1,126.05
+LSHTM,18,5,2021,28,5,2021,Scotland,hospital_inc,EpiNow,MTP,Cases,2.0,22,All,1,2,4,6,8,10,13,15,18,22,26,30,35,41,49,61,79.15,107.1,173.2
+LSHTM,18,5,2021,29,5,2021,Scotland,hospital_inc,EpiNow,MTP,Cases,2.0,16,All,1,2,3,4,6,7,9,11,14,16,19,23,28,33,40,50,67,97,159.05
+LSHTM,18,5,2021,30,5,2021,Scotland,hospital_inc,EpiNow,MTP,Cases,2.0,24,All,1,3,5,7,8,10,13,16,20,24,29.45,35,40,50,61.25,79.4000000000001,104.15,139,224.15
+LSHTM,18,5,2021,31,5,2021,Scotland,hospital_inc,EpiNow,MTP,Cases,2.0,14,All,0,1,2,3,4,5,7,9,12,14,17,20,23,28,34,43,58.15,80.1,126.1
+LSHTM,18,5,2021,1,6,2021,Scotland,hospital_inc,EpiNow,MTP,Cases,2.0,24,All,1,2,4.84999999999999,6,8,10,13,16.6,20,24,28,33,38.35,45,54,68,93.15,135.1,209.15
+LSHTM,18,5,2021,18,5,2021,South East,hospital_inc,EpiNow,MTP,Cases,2.0,4,All,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+LSHTM,18,5,2021,19,5,2021,South East,hospital_inc,EpiNow,MTP,Cases,2.0,6,All,0,1,1,2,3,3,4,5,5,6,8,9,10,12,14,16,18,23,31.05
+LSHTM,18,5,2021,20,5,2021,South East,hospital_inc,EpiNow,MTP,Cases,2.0,6,All,0,1,1,2,2,3,4,5,5,6,7,8,10,11.3,14,17,19,24,32.1499999999999
+LSHTM,18,5,2021,21,5,2021,South East,hospital_inc,EpiNow,MTP,Cases,2.0,6,All,0,1,1,2,2,3,4,4,5,6,7,8,9,11,13,15,18,23,31
+LSHTM,18,5,2021,22,5,2021,South East,hospital_inc,EpiNow,MTP,Cases,2.0,8,All,0,1,2,3,3,4,5,6,7,8,9,10,12,13,16,18,21,26,37
+LSHTM,18,5,2021,23,5,2021,South East,hospital_inc,EpiNow,MTP,Cases,2.0,9,All,0,1,2,3,4,5,6,7,8,9,10,11,13,15,17,20,24,30,40
+LSHTM,18,5,2021,24,5,2021,South East,hospital_inc,EpiNow,MTP,Cases,2.0,5,All,0,1,1,1,2,2,3,4,4,5,6,7,8,9,10,12,15,20,26
+LSHTM,18,5,2021,25,5,2021,South East,hospital_inc,EpiNow,MTP,Cases,2.0,5,All,0,0,1,1,2,3,3,4,4,5,6,6,7,8,10,12,15,18,27
+LSHTM,18,5,2021,26,5,2021,South East,hospital_inc,EpiNow,MTP,Cases,2.0,7,All,0,1,1,2,3,4,4.64999999999998,5,6,7,8,10,11.35,14,16,19,23,29,42.05
+LSHTM,18,5,2021,27,5,2021,South East,hospital_inc,EpiNow,MTP,Cases,2.0,7.5,All,0,1,2,3,3,4,4,5,6,7.5,9,10,12,14,17,19,24.15,30.1,40
+LSHTM,18,5,2021,28,5,2021,South East,hospital_inc,EpiNow,MTP,Cases,2.0,7,All,0,1,2,2,3,4,4,5,6,7,8,9,11,12,14,17,21,26,36
+LSHTM,18,5,2021,29,5,2021,South East,hospital_inc,EpiNow,MTP,Cases,2.0,8,All,0,1,2,3,3,4,5,6,7,8,9,11,13,15,17,21,25,32,47
+LSHTM,18,5,2021,30,5,2021,South East,hospital_inc,EpiNow,MTP,Cases,2.0,9,All,1,1,2,3,4,5,5,6,8,9,11,12,14,15,17.25,20.2,25,31.1,47.05
+LSHTM,18,5,2021,31,5,2021,South East,hospital_inc,EpiNow,MTP,Cases,2.0,5,All,0,0,1,1,2,2,3,4,4,5,6,7,8,10,11,14,17,22,33
+LSHTM,18,5,2021,1,6,2021,South East,hospital_inc,EpiNow,MTP,Cases,2.0,4,All,0,0,1,1,2,2,3,3,4,4,5,6,7,8,10,12,15,18,27.05
+LSHTM,18,5,2021,18,5,2021,South West,hospital_inc,EpiNow,MTP,Cases,2.0,5,All,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+LSHTM,18,5,2021,19,5,2021,South West,hospital_inc,EpiNow,MTP,Cases,2.0,5,All,1,2,2,3,3,3,4,4,5,5,6,7,7,8,9,10,12,13,16
+LSHTM,18,5,2021,20,5,2021,South West,hospital_inc,EpiNow,MTP,Cases,2.0,3,All,0,1,1,1,1,2,2,2,3,3,4,4,5,5,6,7,8,10,12
+LSHTM,18,5,2021,21,5,2021,South West,hospital_inc,EpiNow,MTP,Cases,2.0,3,All,0,1,1,1,2,2,2,3,3,3,4,4,5,5.29999999999996,6,7,8,9,13
+LSHTM,18,5,2021,22,5,2021,South West,hospital_inc,EpiNow,MTP,Cases,2.0,5,All,1,1,2,2,2,3,4,4,5,5,6,6,7,8,8,9,10,12,16
+LSHTM,18,5,2021,23,5,2021,South West,hospital_inc,EpiNow,MTP,Cases,2.0,4,All,0,1,1,1,2,2,3,3,4,4,5,5,6,6,7,8,10,12,15
+LSHTM,18,5,2021,24,5,2021,South West,hospital_inc,EpiNow,MTP,Cases,2.0,6,All,0.950000000000003,1,2,2,3,4,4,5,5,6,6,7,8,8,9,10,12,14,19
+LSHTM,18,5,2021,25,5,2021,South West,hospital_inc,EpiNow,MTP,Cases,2.0,5,All,1,1,2,2,3,3,4,4,5,5,6,6,7,8,8,10,11,14,16
+LSHTM,18,5,2021,26,5,2021,South West,hospital_inc,EpiNow,MTP,Cases,2.0,7,All,1,2,2,3,4,4,5,6,6,7,8,8.39999999999998,9,10.3,12,13,15,18,24
+LSHTM,18,5,2021,27,5,2021,South West,hospital_inc,EpiNow,MTP,Cases,2.0,4,All,0,0,1,1,2,2,3,3,3,4,4,5,5,6,7,8,9,11,15
+LSHTM,18,5,2021,28,5,2021,South West,hospital_inc,EpiNow,MTP,Cases,2.0,4,All,0,0,1,2,2,2,3,3,3,4,4,5,5,6,7,8,10,11,16
+LSHTM,18,5,2021,29,5,2021,South West,hospital_inc,EpiNow,MTP,Cases,2.0,5,All,0,1,2,2,3,3,3,4,5,5,6,6,7,7,8,10,12,15,21
+LSHTM,18,5,2021,30,5,2021,South West,hospital_inc,EpiNow,MTP,Cases,2.0,4,All,0,1,1,1.80000000000001,2,2,3,3,4,4,5,5,6,7,8,9,10,13,18
+LSHTM,18,5,2021,31,5,2021,South West,hospital_inc,EpiNow,MTP,Cases,2.0,5,All,1,1,2,2,3,3,4,4,5,5,6,7,7,8,10,11,13,15.1,21
+LSHTM,18,5,2021,1,6,2021,South West,hospital_inc,EpiNow,MTP,Cases,2.0,5,All,0,1,1,2,3,3,4,4,5,5,6,6.39999999999998,7,8,9,10,12,15,20
+LSHTM,18,5,2021,18,5,2021,United Kingdom,hospital_inc,EpiNow,MTP,Cases,2.0,97,All,97,97,97,97,97,97,97,97,97,97,97,97,97,97,97,97,97,97,97
+LSHTM,18,5,2021,19,5,2021,United Kingdom,hospital_inc,EpiNow,MTP,Cases,2.0,160,All,19.95,35,50,63,78,96,110.65,128,146,160,176.45,197,222,259,305,354.2,415.15,531.1,705
+LSHTM,18,5,2021,20,5,2021,United Kingdom,hospital_inc,EpiNow,MTP,Cases,2.0,143,All,19.95,35.9,47,58.8,70,83,96,109,126,143,160.45,181,204.7,234,278,329.2,388.15,474.4,721.1
+LSHTM,18,5,2021,21,5,2021,United Kingdom,hospital_inc,EpiNow,MTP,Cases,2.0,134,All,22,33,44.85,54,67,79,95,107,120,134,152,186,207.35,238,269,305,376.6,465.5,635.1
+LSHTM,18,5,2021,22,5,2021,United Kingdom,hospital_inc,EpiNow,MTP,Cases,2.0,146,All,20.95,33,46.85,56.8,70,81,95,109,129,146,166,187,212.7,236,278,315.6,387.45,484,682.05
+LSHTM,18,5,2021,23,5,2021,United Kingdom,hospital_inc,EpiNow,MTP,Cases,2.0,152,All,20,32,43.85,56,68,85,98.65,116,131,152,167,194.4,225.35,260.3,309.75,371.4,447,563.1,775.15
+LSHTM,18,5,2021,24,5,2021,United Kingdom,hospital_inc,EpiNow,MTP,Cases,2.0,143,All,19,32.9,48,62.8,74,87,99,114,129,143,167,193,214,243.6,287,332.2,397.3,502.2,740.35
+LSHTM,18,5,2021,25,5,2021,United Kingdom,hospital_inc,EpiNow,MTP,Cases,2.0,142,All,21.95,36,49,60.8,74,86,98.65,110,129,142,158,175,200.35,220,254.25,292.2,338.15,425.2,592.6
+LSHTM,18,5,2021,26,5,2021,United Kingdom,hospital_inc,EpiNow,MTP,Cases,2.0,208,All,26.95,46,63,80,99,120,138,161,183,208,242.45,280.4,313.35,355,424.5,502.2,628.75,791.5,1077.6
+LSHTM,18,5,2021,27,5,2021,United Kingdom,hospital_inc,EpiNow,MTP,Cases,2.0,207,All,26,41,56,72.8,91.5,111.7,135,157.6,182,207,232.45,264.4,306,357.3,421,488.4,581.6,759.2,1173.55
+LSHTM,18,5,2021,28,5,2021,United Kingdom,hospital_inc,EpiNow,MTP,Cases,2.0,173.5,All,25,40,53,67,79,91.7,111,134,152,173.5,199,228.4,261,315.3,374.25,453.2,562.6,691.5,977.4
+LSHTM,18,5,2021,29,5,2021,United Kingdom,hospital_inc,EpiNow,MTP,Cases,2.0,195,All,23,38,54,69.8,90,105,123,147,172,195,220.45,249.4,277.35,313.3,370.25,444.4,554.9,707.1,1049.1
+LSHTM,18,5,2021,30,5,2021,United Kingdom,hospital_inc,EpiNow,MTP,Cases,2.0,186.5,All,20.95,35.9,48,64.8,84,101,117.65,134.6,161.55,186.5,218.45,248.4,284.35,331.3,384,467.6,585.75,789.4,1111.05
+LSHTM,18,5,2021,31,5,2021,United Kingdom,hospital_inc,EpiNow,MTP,Cases,2.0,178,All,20,38,50,64,79.75,98.7,114,133,153.55,178,204.9,243,275.7,325.3,376,457,538.3,700.5,1038.05
+LSHTM,18,5,2021,1,6,2021,United Kingdom,hospital_inc,EpiNow,MTP,Cases,2.0,187,All,19,33,50,66,84,98,116,137.6,158.55,187,218,251,282.35,334,385.25,469.2,589.45,712.2,1009.7
+LSHTM,18,5,2021,18,5,2021,Wales,hospital_inc,EpiNow,MTP,Cases,2.0,10,All,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10
+LSHTM,18,5,2021,19,5,2021,Wales,hospital_inc,EpiNow,MTP,Cases,2.0,3,All,0,1,1,1,2,2,2,2,3,3,3,4,4,5,5,6,7,8,10
+LSHTM,18,5,2021,20,5,2021,Wales,hospital_inc,EpiNow,MTP,Cases,2.0,3,All,0,1,1,1,2,2,2,3,3,3,4,4,5,5,6,7,8,9,11
+LSHTM,18,5,2021,21,5,2021,Wales,hospital_inc,EpiNow,MTP,Cases,2.0,2,All,0,0,1,1,1,1,1,2,2,2,2,3,3,3,4,4,5,6,8
+LSHTM,18,5,2021,22,5,2021,Wales,hospital_inc,EpiNow,MTP,Cases,2.0,3,All,0,1,1,1,2,2,2,2,3,3,4,4,4,5,5,6,7,8,9.04999999999995
+LSHTM,18,5,2021,23,5,2021,Wales,hospital_inc,EpiNow,MTP,Cases,2.0,4,All,0,1,1,2,2,2,3,3,3,4,4,4.39999999999998,5,5,6,6,7,8,10
+LSHTM,18,5,2021,24,5,2021,Wales,hospital_inc,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,1,2,2,2,3,3,3,4,4,4,5,6,6,8
+LSHTM,18,5,2021,25,5,2021,Wales,hospital_inc,EpiNow,MTP,Cases,2.0,4,All,0,1,2,2,2,3,3,3,4,4,5,5,6,6,7,7,8,9,11
+LSHTM,18,5,2021,26,5,2021,Wales,hospital_inc,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,2,2,2,2,3,3,3,4,4,5,5,6,7,9
+LSHTM,18,5,2021,27,5,2021,Wales,hospital_inc,EpiNow,MTP,Cases,2.0,3,All,0,1,1,1,1,2,2,2,3,3,3,4,4,4,5,6,6,7,9
+LSHTM,18,5,2021,28,5,2021,Wales,hospital_inc,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,2,2,2,2,2,3,3,3,4,5,5,6
+LSHTM,18,5,2021,29,5,2021,Wales,hospital_inc,EpiNow,MTP,Cases,2.0,2,All,0,0,1,1,1,1,2,2,2,2,3,3,3,4,4,5,5,6,8
+LSHTM,18,5,2021,30,5,2021,Wales,hospital_inc,EpiNow,MTP,Cases,2.0,3,All,0,1,1,1,2,2,2,2,3,3,3,4,4,4,5,6,6,7,9
+LSHTM,18,5,2021,31,5,2021,Wales,hospital_inc,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,2,2,2,2,3,3,3,4,5,5,6,8
+LSHTM,18,5,2021,1,6,2021,Wales,hospital_inc,EpiNow,MTP,Cases,2.0,4,All,0,1,1,1,2,2,3,3,3,4,4,4,5,5,6,6.20000000000005,7,8,11
+LSHTM,18,5,2021,18,5,2021,England,hospital_inc,EpiNow,MTP,Cases,2.0,74,All,74,74,74,74,74,74,74,74,74,74,74,74,74,74,74,74,74,74,74
+LSHTM,18,5,2021,19,5,2021,England,hospital_inc,EpiNow,MTP,Cases,2.0,120,All,16,30,41,51,62,71,82.65,95,107.55,120,138,153.4,173.35,196,225,258,307.3,379.2,512.25
+LSHTM,18,5,2021,20,5,2021,England,hospital_inc,EpiNow,MTP,Cases,2.0,116,All,15,27,37,45,54,67,77.65,88.6,104,116,132.45,147,167,189.3,221,254,302.15,375.1,515.5
+LSHTM,18,5,2021,21,5,2021,England,hospital_inc,EpiNow,MTP,Cases,2.0,113,All,15,28,37,46,56,67,76,87,99,113,129.45,147,165.35,187.6,213.25,252,294,363.1,487.2
+LSHTM,18,5,2021,22,5,2021,England,hospital_inc,EpiNow,MTP,Cases,2.0,111.5,All,15,27,37,47,56,65,77,86,99,111.5,126.45,140.4,162,187,216.25,251.4,301.3,379.2,540.25
+LSHTM,18,5,2021,23,5,2021,England,hospital_inc,EpiNow,MTP,Cases,2.0,121,All,12,25,36,46,57,67,79.65,91.6,104,121,135,153,176,197,227,265.2,314.15,406.2,570.15
+LSHTM,18,5,2021,24,5,2021,England,hospital_inc,EpiNow,MTP,Cases,2.0,130,All,15.95,30,40,51,63.75,76,88,102,114,130,147,166,187,213,245,287.2,344.3,433.1,596.3
+LSHTM,18,5,2021,25,5,2021,England,hospital_inc,EpiNow,MTP,Cases,2.0,132.5,All,16.95,29,42.85,55,64,77,90,103,117,132.5,153.45,168,189.35,217.3,246,288.2,340.15,428.1,572.5
+LSHTM,18,5,2021,26,5,2021,England,hospital_inc,EpiNow,MTP,Cases,2.0,201,All,28,45,62,81,98.75,114,136.3,156,177,201,226,262.4,300.7,345.3,394.25,457.2,561.45,713.5,1011.2
+LSHTM,18,5,2021,27,5,2021,England,hospital_inc,EpiNow,MTP,Cases,2.0,182,All,22,42,57,74,88,103.7,122.65,141,160.1,182,208.45,240.4,275.35,312,357,419,507.45,641.3,927.45
+LSHTM,18,5,2021,28,5,2021,England,hospital_inc,EpiNow,MTP,Cases,2.0,175,All,17.95,35,50,65.8,83,97,116,134,151,175,196.45,224.4,259.7,297.6,341.25,399.6,491.3,631.4,868.4
+LSHTM,18,5,2021,29,5,2021,England,hospital_inc,EpiNow,MTP,Cases,2.0,154,All,15,31,46,59.8,71,85,100.65,116.6,134.55,154,172,200,232.35,267.3,313.25,377,446.3,574.5,854.699999999999
+LSHTM,18,5,2021,30,5,2021,England,hospital_inc,EpiNow,MTP,Cases,2.0,168,All,19,35,47,61.8,76,92,109,124,147,168,195,221,259,297,342.25,413.4,509.15,657.3,984.2
+LSHTM,18,5,2021,31,5,2021,England,hospital_inc,EpiNow,MTP,Cases,2.0,164.5,All,19,32,47,58,74,89,107,124,143.55,164.5,196.45,222.4,250.35,298.3,350,423,513.15,660.4,978.55
+LSHTM,18,5,2021,1,6,2021,England,hospital_inc,EpiNow,MTP,Cases,2.0,166,All,19,33,48.85,62,76,91.7,108,126.6,147,166,188.45,217.4,247,285,332.25,405.6,504.3,647.4,943.3

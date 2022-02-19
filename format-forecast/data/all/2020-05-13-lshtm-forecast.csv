@@ -1,0 +1,471 @@
+Group,Scenario,Creation Day,Creation Month,Creation Year,Day of Value,Month of Value,Year of Value,Geography,ValueType,Model,Value,Quantile 0.05,Quantile 0.1,Quantile 0.15,Quantile 0.2,Quantile 0.25,Quantile 0.3,Quantile 0.35,Quantile 0.4,Quantile 0.45,Quantile 0.5,Quantile 0.55,Quantile 0.6,Quantile 0.65,Quantile 0.7,Quantile 0.75,Quantile 0.8,Quantile 0.85,Quantile 0.9,Quantile 0.95
+LSHTM,Forecast,13,5,2020,13,5,2020,East of England,hospital_inc,Branching process,89,72,75,78,80,82,83,85,86,88,89,90,92,93,95,97,99,101,104,108
+LSHTM,Forecast,13,5,2020,14,5,2020,East of England,hospital_inc,Branching process,85,61,66,70,73,75,77,79,81,83,85,87,89,91,93,96,98,102,106,113
+LSHTM,Forecast,13,5,2020,15,5,2020,East of England,hospital_inc,Branching process,82,55,61,65,68,71,73,75,77,80,82,84,86,89,92,94,97,101,106,113
+LSHTM,Forecast,13,5,2020,16,5,2020,East of England,hospital_inc,Branching process,78,50,56,60,64,66,69,72,74,76,78,81,83,86,89,92,96,100,106,115
+LSHTM,Forecast,13,5,2020,17,5,2020,East of England,hospital_inc,Branching process,74,44,51,55,59,61,64,67,69,72,74,77,80,82,86,89,93,98,104,115
+LSHTM,Forecast,13,5,2020,18,5,2020,East of England,hospital_inc,Branching process,72,40,47,52,55,58,61,64,67,69,72,74,77,80,83,86,91,96,102,113
+LSHTM,Forecast,13,5,2020,19,5,2020,East of England,hospital_inc,Branching process,67,36,42,46,50,54,57,60,62,65,67,71,74,77,80,84,88,94,101,113
+LSHTM,Forecast,13,5,2020,20,5,2020,East of England,hospital_inc,Branching process,65,32,38,43,47,51,54,57,60,62,65,68,71,75,78,82,86,92,100,114
+LSHTM,Forecast,13,5,2020,21,5,2020,East of England,hospital_inc,Branching process,62,28,35,40,44,47,51,53,56,59,62,65,68,71,75,79,83,89,97,111
+LSHTM,Forecast,13,5,2020,22,5,2020,East of England,hospital_inc,Branching process,59,25,32,37,41,44,47,50,53,56,59,62,65,68,72,76,81,87,96,110
+LSHTM,Forecast,13,5,2020,23,5,2020,East of England,hospital_inc,Branching process,56,22,29,34,38,41,44,47,51,53,56,59,62,66,69,73,78,85,94,108
+LSHTM,Forecast,13,5,2020,24,5,2020,East of England,hospital_inc,Branching process,52,20,26,31,35,38,41,44,47,50,52,56,59,63,66,71,76,83,92,109
+LSHTM,Forecast,13,5,2020,25,5,2020,East of England,hospital_inc,Branching process,50,17,24,28,32,35,38,41,44,47,50,53,57,60,64,68,73,80,88,107
+LSHTM,Forecast,13,5,2020,26,5,2020,East of England,hospital_inc,Branching process,47,15,21,26,29,32,36,39,42,44,47,50,54,57,61,66,71,77,86,103
+LSHTM,Forecast,13,5,2020,27,5,2020,East of England,hospital_inc,Branching process,44,13,19,23,26,30,32,36,38,41,44,47,51,54,59,64,70,76,86,104
+LSHTM,Forecast,13,5,2020,28,5,2020,East of England,hospital_inc,Branching process,42,11,17,21,24,27,31,34,36,39,42,45,49,52,56,61,66,73,83,102
+LSHTM,Forecast,13,5,2020,29,5,2020,East of England,hospital_inc,Branching process,39,8,14,19,22,25,28,31,33,36,39,42,45,49,53,57,63,70,80,100
+LSHTM,Forecast,13,5,2020,30,5,2020,East of England,hospital_inc,Branching process,37,8,13,17,20,23,26,29,31,34,37,40,43,47,51,55,60,67,77,98
+LSHTM,Forecast,13,5,2020,31,5,2020,East of England,hospital_inc,Branching process,34,6,11,15,18,21,24,26,29,32,34,37,40,44,48,53,58,65,76,98
+LSHTM,Forecast,13,5,2020,1,6,2020,East of England,hospital_inc,Branching process,32,6,10,14,17,20,22,24,27,29,32,35,39,42,46,50,55,62,72,93
+LSHTM,Forecast,13,5,2020,2,6,2020,East of England,hospital_inc,Branching process,30,4,9,12,15,17,20,22,25,28,30,33,37,40,44,49,54,60,71,91
+LSHTM,Forecast,13,5,2020,3,6,2020,East of England,hospital_inc,Branching process,28,3,8,11,13,16,19,21,23,26,28,31,34,37,41,46,50,57,67,90
+LSHTM,Forecast,13,5,2020,4,6,2020,East of England,hospital_inc,Branching process,26,3,7,9,12,15,17,20,22,24,26,29,32,35,39,43,48,56,67,87
+LSHTM,Forecast,13,5,2020,13,5,2020,England,hospital_inc,Branching process,837,777,791,798,804,811,816,822,827,832,837,842,846,851,856,863,869,875,884,897
+LSHTM,Forecast,13,5,2020,14,5,2020,England,hospital_inc,Branching process,806,722,741,753,763,771,779,786,793,799,806,813,819,826,834,843,852,863,876,895
+LSHTM,Forecast,13,5,2020,15,5,2020,England,hospital_inc,Branching process,786,691,713,726,737,747,755,764,772,780,786,795,803,811,820,829,841,853,869,892
+LSHTM,Forecast,13,5,2020,16,5,2020,England,hospital_inc,Branching process,769,660,684,700,712,723,731,741,751,760,769,778,787,795,805,815,827,841,860,892
+LSHTM,Forecast,13,5,2020,17,5,2020,England,hospital_inc,Branching process,748,628,654,672,686,699,709,718,728,738,748,757,767,778,790,801,815,831,853,882
+LSHTM,Forecast,13,5,2020,18,5,2020,England,hospital_inc,Branching process,728,595,623,643,658,670,683,695,706,717,728,740,750,761,774,788,802,817,840,876
+LSHTM,Forecast,13,5,2020,19,5,2020,England,hospital_inc,Branching process,711,571,599,620,635,650,663,676,688,699,711,722,733,745,759,773,789,810,834,874
+LSHTM,Forecast,13,5,2020,20,5,2020,England,hospital_inc,Branching process,689,537,568,590,608,623,639,652,665,677,689,702,714,730,742,760,777,801,831,873
+LSHTM,Forecast,13,5,2020,21,5,2020,England,hospital_inc,Branching process,669,506,544,565,583,601,615,629,643,656,669,683,696,711,727,746,763,786,814,862
+LSHTM,Forecast,13,5,2020,22,5,2020,England,hospital_inc,Branching process,649,481,516,539,559,576,593,606,621,635,649,663,679,693,710,729,747,772,803,852
+LSHTM,Forecast,13,5,2020,23,5,2020,England,hospital_inc,Branching process,629,451,488,513,533,553,570,585,600,615,629,645,662,677,697,716,734,763,797,852
+LSHTM,Forecast,13,5,2020,24,5,2020,England,hospital_inc,Branching process,607,428,465,489,512,532,547,562,578,593,607,622,638,655,676,695,719,751,791,851
+LSHTM,Forecast,13,5,2020,25,5,2020,England,hospital_inc,Branching process,588,397,440,465,487,506,523,539,556,572,588,604,621,639,660,683,709,743,777,839
+LSHTM,Forecast,13,5,2020,26,5,2020,England,hospital_inc,Branching process,568,374,412,441,462,481,500,518,534,552,568,586,602,618,638,658,685,716,764,841
+LSHTM,Forecast,13,5,2020,27,5,2020,England,hospital_inc,Branching process,547,353,394,420,442,461,479,497,513,530,547,564,583,603,624,646,673,708,763,833
+LSHTM,Forecast,13,5,2020,28,5,2020,England,hospital_inc,Branching process,527,328,367,399,421,439,457,476,493,510,527,545,564,586,608,634,662,696,736,814
+LSHTM,Forecast,13,5,2020,29,5,2020,England,hospital_inc,Branching process,509,308,348,374,397,416,435,455,473,492,509,528,547,568,591,618,646,682,729,812
+LSHTM,Forecast,13,5,2020,30,5,2020,England,hospital_inc,Branching process,492,284,326,352,378,399,419,437,456,473,492,510,531,553,576,602,633,669,718,796
+LSHTM,Forecast,13,5,2020,31,5,2020,England,hospital_inc,Branching process,467,262,305,333,358,379,397,416,433,449,467,484,507,531,554,581,614,654,708,789
+LSHTM,Forecast,13,5,2020,1,6,2020,England,hospital_inc,Branching process,454,247,285,313,337,358,377,397,415,434,454,474,494,517,538,566,595,634,685,779
+LSHTM,Forecast,13,5,2020,2,6,2020,England,hospital_inc,Branching process,433,228,265,292,313,336,355,376,394,413,433,451,472,493,519,546,579,623,683,772
+LSHTM,Forecast,13,5,2020,3,6,2020,England,hospital_inc,Branching process,416,217,253,279,302,325,343,360,380,397,416,434,455,476,501,530,565,610,671,769
+LSHTM,Forecast,13,5,2020,4,6,2020,England,hospital_inc,Branching process,401,193,235,264,287,306,327,345,365,383,401,421,442,462,486,516,551,592,651,747
+LSHTM,Forecast,13,5,2020,13,5,2020,London,hospital_inc,Branching process,114,93,97,101,103,105,107,109,111,112,114,116,118,120,121,123,126,128,132,138
+LSHTM,Forecast,13,5,2020,14,5,2020,London,hospital_inc,Branching process,112,83,90,94,97,100,102,105,107,109,112,114,116,118,121,124,127,131,135,143
+LSHTM,Forecast,13,5,2020,15,5,2020,London,hospital_inc,Branching process,106,77,84,88,91,94,96,99,101,104,106,108,111,114,117,120,123,127,133,141
+LSHTM,Forecast,13,5,2020,16,5,2020,London,hospital_inc,Branching process,102,69,76,81,84,88,90,93,96,99,102,104,106,109,112,116,120,124,130,139
+LSHTM,Forecast,13,5,2020,17,5,2020,London,hospital_inc,Branching process,96,63,69,74,78,81,84,87,90,93,96,99,101,104,107,111,115,120,127,135
+LSHTM,Forecast,13,5,2020,18,5,2020,London,hospital_inc,Branching process,91,57,64,69,73,77,80,83,86,88,91,94,97,100,103,107,111,116,122,133
+LSHTM,Forecast,13,5,2020,19,5,2020,London,hospital_inc,Branching process,86,52,60,64,68,71,75,77,80,83,86,89,92,95,99,103,107,113,120,130
+LSHTM,Forecast,13,5,2020,20,5,2020,London,hospital_inc,Branching process,82,46,53,59,63,66,69,73,76,79,82,85,88,91,95,99,104,109,117,129
+LSHTM,Forecast,13,5,2020,21,5,2020,London,hospital_inc,Branching process,77,41,49,54,58,61,65,68,71,74,77,80,83,87,90,94,99,105,113,126
+LSHTM,Forecast,13,5,2020,22,5,2020,London,hospital_inc,Branching process,73,37,44,50,54,57,61,64,67,70,73,76,79,83,87,91,95,102,110,123
+LSHTM,Forecast,13,5,2020,23,5,2020,London,hospital_inc,Branching process,68,33,40,45,48,52,55,59,62,65,68,71,75,79,82,86,91,97,105,118
+LSHTM,Forecast,13,5,2020,24,5,2020,London,hospital_inc,Branching process,64,29,36,41,45,49,52,55,58,61,64,68,71,74,78,83,87,94,102,117
+LSHTM,Forecast,13,5,2020,25,5,2020,London,hospital_inc,Branching process,60,26,33,38,42,45,48,51,54,57,60,63,67,70,75,79,84,91,99,113
+LSHTM,Forecast,13,5,2020,26,5,2020,London,hospital_inc,Branching process,56,23,29,33,37,41,44,47,50,53,56,59,62,66,70,75,80,87,95,112
+LSHTM,Forecast,13,5,2020,27,5,2020,London,hospital_inc,Branching process,53,21,26,30,34,37,41,44,47,50,53,56,59,63,67,71,76,83,91,106
+LSHTM,Forecast,13,5,2020,28,5,2020,London,hospital_inc,Branching process,49,18,24,28,31,35,37,40,43,47,49,53,56,59,63,67,73,79,87,103
+LSHTM,Forecast,13,5,2020,29,5,2020,London,hospital_inc,Branching process,46,16,21,25,29,31,34,37,40,43,46,49,53,56,60,64,69,75,85,100
+LSHTM,Forecast,13,5,2020,30,5,2020,London,hospital_inc,Branching process,42,13,18,22,25,28,31,33,36,39,42,45,49,52,56,61,66,73,82,99
+LSHTM,Forecast,13,5,2020,31,5,2020,London,hospital_inc,Branching process,40,12,17,20,23,26,29,32,34,37,40,42,45,49,53,57,63,69,79,96
+LSHTM,Forecast,13,5,2020,1,6,2020,London,hospital_inc,Branching process,37,9,14,18,21,23,26,29,31,34,37,40,43,46,49,54,58,65,75,89
+LSHTM,Forecast,13,5,2020,2,6,2020,London,hospital_inc,Branching process,34,8,12,16,19,21,24,26,29,31,34,37,40,43,47,51,56,63,71,89
+LSHTM,Forecast,13,5,2020,3,6,2020,London,hospital_inc,Branching process,31,7,11,14,16,19,21,24,26,28,31,34,37,41,44,48,53,59,69,87
+LSHTM,Forecast,13,5,2020,4,6,2020,London,hospital_inc,Branching process,29,6,9,12,15,17,19,22,24,27,29,32,34,38,41,45,51,56,65,81
+LSHTM,Forecast,13,5,2020,13,5,2020,Midlands,hospital_inc,Branching process,155,134,138,141,144,146,147,149,151,153,155,157,159,161,163,165,168,171,175,183
+LSHTM,Forecast,13,5,2020,14,5,2020,Midlands,hospital_inc,Branching process,152,122,128,133,136,139,142,145,147,150,152,155,158,161,163,167,171,176,181,191
+LSHTM,Forecast,13,5,2020,15,5,2020,Midlands,hospital_inc,Branching process,150,115,122,128,132,135,138,141,145,148,150,153,156,159,162,166,171,176,184,194
+LSHTM,Forecast,13,5,2020,16,5,2020,Midlands,hospital_inc,Branching process,148,109,117,123,128,132,135,139,142,145,148,152,155,158,162,167,172,177,185,197
+LSHTM,Forecast,13,5,2020,17,5,2020,Midlands,hospital_inc,Branching process,146,103,113,119,123,128,132,136,139,143,146,150,153,158,161,166,171,178,187,201
+LSHTM,Forecast,13,5,2020,18,5,2020,Midlands,hospital_inc,Branching process,144,98,108,114,120,124,128,132,136,140,144,148,152,156,161,166,172,180,190,205
+LSHTM,Forecast,13,5,2020,19,5,2020,Midlands,hospital_inc,Branching process,141,92,102,109,115,119,124,128,132,136,141,146,150,155,160,165,171,180,190,208
+LSHTM,Forecast,13,5,2020,20,5,2020,Midlands,hospital_inc,Branching process,138,86,96,103,109,115,120,125,130,134,138,142,147,152,157,164,170,179,192,211
+LSHTM,Forecast,13,5,2020,21,5,2020,Midlands,hospital_inc,Branching process,135,81,92,99,106,111,116,120,125,129,135,140,144,150,156,163,171,180,195,218
+LSHTM,Forecast,13,5,2020,22,5,2020,Midlands,hospital_inc,Branching process,131,75,86,94,101,106,112,117,121,126,131,136,141,147,154,160,169,180,194,218
+LSHTM,Forecast,13,5,2020,23,5,2020,Midlands,hospital_inc,Branching process,129,70,82,90,97,103,109,113,119,124,129,135,140,146,153,161,169,181,195,221
+LSHTM,Forecast,13,5,2020,24,5,2020,Midlands,hospital_inc,Branching process,127,67,78,85,93,99,105,111,116,121,127,132,138,144,151,159,168,180,195,224
+LSHTM,Forecast,13,5,2020,25,5,2020,Midlands,hospital_inc,Branching process,123,61,73,82,89,95,101,106,112,117,123,129,135,142,149,158,167,177,195,230
+LSHTM,Forecast,13,5,2020,26,5,2020,Midlands,hospital_inc,Branching process,119,56,68,77,84,90,96,102,108,113,119,124,131,139,146,155,165,179,196,231
+LSHTM,Forecast,13,5,2020,27,5,2020,Midlands,hospital_inc,Branching process,116,53,65,73,80,87,92,99,104,110,116,123,129,137,146,154,165,179,198,231
+LSHTM,Forecast,13,5,2020,28,5,2020,Midlands,hospital_inc,Branching process,111,48,59,69,76,82,88,93,99,105,111,117,125,132,140,150,162,176,196,232
+LSHTM,Forecast,13,5,2020,29,5,2020,Midlands,hospital_inc,Branching process,108,44,55,64,71,78,84,90,97,102,108,115,122,130,138,148,161,177,199,240
+LSHTM,Forecast,13,5,2020,30,5,2020,Midlands,hospital_inc,Branching process,105,41,53,61,68,75,81,87,93,99,105,112,118,126,134,145,158,174,199,242
+LSHTM,Forecast,13,5,2020,31,5,2020,Midlands,hospital_inc,Branching process,101,38,49,57,64,70,76,83,89,96,101,108,116,124,133,143,155,172,198,245
+LSHTM,Forecast,13,5,2020,1,6,2020,Midlands,hospital_inc,Branching process,98,34,45,53,61,67,74,80,86,92,98,105,113,122,130,140,152,171,198,243
+LSHTM,Forecast,13,5,2020,2,6,2020,Midlands,hospital_inc,Branching process,94,31,42,50,57,63,69,75,81,87,94,101,109,118,127,138,153,171,199,244
+LSHTM,Forecast,13,5,2020,3,6,2020,Midlands,hospital_inc,Branching process,90,28,39,46,54,60,66,72,78,85,90,98,105,114,124,134,148,167,196,248
+LSHTM,Forecast,13,5,2020,4,6,2020,Midlands,hospital_inc,Branching process,87,25,35,43,50,56,62,68,74,80,87,94,102,110,120,131,144,163,194,253
+LSHTM,Forecast,13,5,2020,13,5,2020,North East and Yorkshire,hospital_inc,Branching process,146,123,127,131,134,136,139,140,142,144,146,148,149,151,153,155,158,161,166,172
+LSHTM,Forecast,13,5,2020,14,5,2020,North East and Yorkshire,hospital_inc,Branching process,139,108,115,119,122,125,129,131,134,137,139,142,145,147,150,153,157,162,167,176
+LSHTM,Forecast,13,5,2020,15,5,2020,North East and Yorkshire,hospital_inc,Branching process,135,101,108,113,117,121,124,128,130,133,135,139,142,144,148,152,156,161,168,179
+LSHTM,Forecast,13,5,2020,16,5,2020,North East and Yorkshire,hospital_inc,Branching process,132,93,102,108,112,115,119,122,126,129,132,135,138,142,146,150,155,160,169,180
+LSHTM,Forecast,13,5,2020,17,5,2020,North East and Yorkshire,hospital_inc,Branching process,128,87,95,101,106,111,114,118,122,125,128,132,136,140,144,148,153,160,168,182
+LSHTM,Forecast,13,5,2020,18,5,2020,North East and Yorkshire,hospital_inc,Branching process,125,80,90,96,101,106,110,114,117,121,125,128,132,136,141,146,152,159,168,182
+LSHTM,Forecast,13,5,2020,19,5,2020,North East and Yorkshire,hospital_inc,Branching process,122,76,85,91,97,101,106,110,113,117,122,126,130,134,139,145,151,158,168,185
+LSHTM,Forecast,13,5,2020,20,5,2020,North East and Yorkshire,hospital_inc,Branching process,119,69,79,86,91,96,100,106,110,114,119,123,128,132,138,144,151,159,170,189
+LSHTM,Forecast,13,5,2020,21,5,2020,North East and Yorkshire,hospital_inc,Branching process,114,65,75,82,87,92,97,101,105,110,114,119,124,129,134,140,147,156,168,188
+LSHTM,Forecast,13,5,2020,22,5,2020,North East and Yorkshire,hospital_inc,Branching process,110,60,70,76,82,87,91,96,101,105,110,114,118,124,130,137,145,154,168,189
+LSHTM,Forecast,13,5,2020,23,5,2020,North East and Yorkshire,hospital_inc,Branching process,106,54,64,71,77,82,87,92,97,101,106,112,117,123,129,136,144,154,168,190
+LSHTM,Forecast,13,5,2020,24,5,2020,North East and Yorkshire,hospital_inc,Branching process,103,51,61,68,74,79,84,89,93,98,103,108,114,119,125,133,142,151,166,192
+LSHTM,Forecast,13,5,2020,25,5,2020,North East and Yorkshire,hospital_inc,Branching process,98,45,55,63,69,74,79,84,88,93,98,103,109,115,122,130,139,150,164,194
+LSHTM,Forecast,13,5,2020,26,5,2020,North East and Yorkshire,hospital_inc,Branching process,95,43,53,60,66,71,75,79,84,90,95,100,105,111,118,126,136,147,164,192
+LSHTM,Forecast,13,5,2020,27,5,2020,North East and Yorkshire,hospital_inc,Branching process,91,39,48,55,61,66,71,75,81,86,91,96,103,110,117,126,135,147,165,197
+LSHTM,Forecast,13,5,2020,28,5,2020,North East and Yorkshire,hospital_inc,Branching process,88,35,44,51,58,63,68,73,78,83,88,94,100,106,113,121,131,144,162,197
+LSHTM,Forecast,13,5,2020,29,5,2020,North East and Yorkshire,hospital_inc,Branching process,84,32,41,48,54,60,65,70,75,79,84,89,95,102,110,118,128,143,163,200
+LSHTM,Forecast,13,5,2020,30,5,2020,North East and Yorkshire,hospital_inc,Branching process,80,28,37,44,50,55,60,65,70,75,80,86,92,98,107,115,126,140,159,195
+LSHTM,Forecast,13,5,2020,31,5,2020,North East and Yorkshire,hospital_inc,Branching process,76,26,35,41,47,52,57,62,66,71,76,81,87,94,101,110,121,136,156,195
+LSHTM,Forecast,13,5,2020,1,6,2020,North East and Yorkshire,hospital_inc,Branching process,74,23,32,39,44,50,54,59,64,69,74,79,85,91,98,108,119,133,156,200
+LSHTM,Forecast,13,5,2020,2,6,2020,North East and Yorkshire,hospital_inc,Branching process,70,21,30,36,42,47,51,56,60,65,70,75,81,88,96,105,117,131,153,203
+LSHTM,Forecast,13,5,2020,3,6,2020,North East and Yorkshire,hospital_inc,Branching process,66,18,26,32,38,43,47,52,56,61,66,72,78,84,92,100,111,129,151,193
+LSHTM,Forecast,13,5,2020,4,6,2020,North East and Yorkshire,hospital_inc,Branching process,62,15,24,30,35,40,44,48,53,57,62,67,74,81,88,98,109,123,147,187
+LSHTM,Forecast,13,5,2020,13,5,2020,North West,hospital_inc,Branching process,186,160,164,169,172,174,177,179,182,184,186,187,189,191,194,197,199,202,207,214
+LSHTM,Forecast,13,5,2020,14,5,2020,North West,hospital_inc,Branching process,181,144,152,157,161,166,169,172,175,178,181,184,188,191,194,198,202,207,213,223
+LSHTM,Forecast,13,5,2020,15,5,2020,North West,hospital_inc,Branching process,180,137,147,153,158,162,166,170,173,177,180,184,187,191,195,199,204,210,217,229
+LSHTM,Forecast,13,5,2020,16,5,2020,North West,hospital_inc,Branching process,178,131,141,147,153,157,162,166,170,174,178,182,186,191,195,200,207,214,224,240
+LSHTM,Forecast,13,5,2020,17,5,2020,North West,hospital_inc,Branching process,177,123,135,144,150,155,159,164,168,173,177,181,186,191,197,203,209,217,228,244
+LSHTM,Forecast,13,5,2020,18,5,2020,North West,hospital_inc,Branching process,176,117,130,138,144,150,155,161,166,170,176,181,186,192,197,204,211,220,231,250
+LSHTM,Forecast,13,5,2020,19,5,2020,North West,hospital_inc,Branching process,172,110,123,132,139,146,151,157,161,167,172,178,184,190,196,203,212,222,236,259
+LSHTM,Forecast,13,5,2020,20,5,2020,North West,hospital_inc,Branching process,170,105,118,128,135,142,148,154,160,166,170,177,182,188,195,203,212,223,238,259
+LSHTM,Forecast,13,5,2020,21,5,2020,North West,hospital_inc,Branching process,167,98,112,122,130,137,143,149,156,161,167,174,181,188,195,203,213,227,246,274
+LSHTM,Forecast,13,5,2020,22,5,2020,North West,hospital_inc,Branching process,166,91,106,116,125,131,138,146,152,160,166,173,180,188,196,205,215,228,246,277
+LSHTM,Forecast,13,5,2020,23,5,2020,North West,hospital_inc,Branching process,164,87,102,113,122,130,137,144,150,158,164,170,178,186,194,203,215,229,248,281
+LSHTM,Forecast,13,5,2020,24,5,2020,North West,hospital_inc,Branching process,160,82,98,107,116,124,132,138,145,152,160,167,174,182,192,203,215,229,253,289
+LSHTM,Forecast,13,5,2020,25,5,2020,North West,hospital_inc,Branching process,157,75,92,102,111,119,127,134,142,149,157,165,173,181,190,200,215,231,255,292
+LSHTM,Forecast,13,5,2020,26,5,2020,North West,hospital_inc,Branching process,153,70,85,97,107,116,123,131,138,146,153,161,170,180,191,202,216,234,259,303
+LSHTM,Forecast,13,5,2020,27,5,2020,North West,hospital_inc,Branching process,153,66,83,94,104,113,120,129,137,145,153,162,170,180,190,202,217,234,261,305
+LSHTM,Forecast,13,5,2020,28,5,2020,North West,hospital_inc,Branching process,148,62,78,89,98,107,115,124,131,139,148,156,165,175,185,200,215,234,263,313
+LSHTM,Forecast,13,5,2020,29,5,2020,North West,hospital_inc,Branching process,146,56,74,86,95,104,112,120,129,136,146,154,162,172,185,198,213,234,267,321
+LSHTM,Forecast,13,5,2020,30,5,2020,North West,hospital_inc,Branching process,140,53,67,79,89,99,108,115,123,131,140,150,159,170,181,195,212,232,264,318
+LSHTM,Forecast,13,5,2020,31,5,2020,North West,hospital_inc,Branching process,136,49,64,76,86,95,103,112,120,128,136,147,157,168,181,195,212,237,269,327
+LSHTM,Forecast,13,5,2020,1,6,2020,North West,hospital_inc,Branching process,133,44,60,71,82,91,99,107,115,124,133,142,152,164,178,192,210,236,267,327
+LSHTM,Forecast,13,5,2020,2,6,2020,North West,hospital_inc,Branching process,130,42,57,69,78,87,97,105,113,121,130,140,151,162,175,191,208,233,274,338
+LSHTM,Forecast,13,5,2020,3,6,2020,North West,hospital_inc,Branching process,127,36,53,63,73,82,91,99,108,117,127,136,148,159,172,185,206,233,275,344
+LSHTM,Forecast,13,5,2020,4,6,2020,North West,hospital_inc,Branching process,122,34,48,59,69,79,87,96,104,112,122,131,142,154,169,186,208,232,273,349
+LSHTM,Forecast,13,5,2020,13,5,2020,Scotland,hospital_inc,Branching process,57,36,40,43,46,48,50,52,54,56,57,59,61,63,66,69,71,75,80,89
+LSHTM,Forecast,13,5,2020,14,5,2020,Scotland,hospital_inc,Branching process,55,33,37,40,43,45,47,49,51,53,55,57,59,61,64,67,70,74,79,88
+LSHTM,Forecast,13,5,2020,15,5,2020,Scotland,hospital_inc,Branching process,52,29,33,37,40,42,44,46,48,50,52,54,57,59,62,65,69,73,79,89
+LSHTM,Forecast,13,5,2020,16,5,2020,Scotland,hospital_inc,Branching process,50,26,31,35,37,40,42,44,46,48,50,53,55,58,60,63,67,72,78,89
+LSHTM,Forecast,13,5,2020,17,5,2020,Scotland,hospital_inc,Branching process,48,23,28,31,34,36,39,41,43,46,48,50,52,55,58,61,65,70,77,92
+LSHTM,Forecast,13,5,2020,18,5,2020,Scotland,hospital_inc,Branching process,45,21,25,28,31,34,36,39,40,43,45,48,50,53,56,60,64,70,77,91
+LSHTM,Forecast,13,5,2020,19,5,2020,Scotland,hospital_inc,Branching process,43,18,22,26,29,32,34,36,39,41,43,46,48,51,54,58,62,67,77,92
+LSHTM,Forecast,13,5,2020,20,5,2020,Scotland,hospital_inc,Branching process,41,16,21,24,27,30,32,34,36,38,41,43,46,48,51,55,60,66,75,91
+LSHTM,Forecast,13,5,2020,21,5,2020,Scotland,hospital_inc,Branching process,39,14,18,22,25,27,30,32,34,36,39,41,44,47,50,54,58,64,73,91
+LSHTM,Forecast,13,5,2020,22,5,2020,Scotland,hospital_inc,Branching process,36,12,16,19,22,25,27,29,32,34,36,39,42,44,48,52,57,64,73,93
+LSHTM,Forecast,13,5,2020,23,5,2020,Scotland,hospital_inc,Branching process,35,11,15,18,21,23,25,28,30,32,35,37,40,43,46,51,55,62,73,94
+LSHTM,Forecast,13,5,2020,24,5,2020,Scotland,hospital_inc,Branching process,33,9,13,16,19,22,24,26,28,31,33,35,38,41,44,48,53,60,70,91
+LSHTM,Forecast,13,5,2020,25,5,2020,Scotland,hospital_inc,Branching process,31,7,11,14,17,19,21,24,26,28,31,33,36,39,42,47,52,59,69,91
+LSHTM,Forecast,13,5,2020,26,5,2020,Scotland,hospital_inc,Branching process,29,7,10,13,15,18,20,22,24,26,29,31,34,37,41,45,51,58,68,93
+LSHTM,Forecast,13,5,2020,27,5,2020,Scotland,hospital_inc,Branching process,27,5,9,11,14,16,18,20,23,24,27,29,32,35,38,42,47,55,66,91
+LSHTM,Forecast,13,5,2020,28,5,2020,Scotland,hospital_inc,Branching process,25,4,8,10,13,15,17,19,21,23,25,27,30,33,37,41,47,54,66,94
+LSHTM,Forecast,13,5,2020,29,5,2020,Scotland,hospital_inc,Branching process,23,3,7,9,11,13,15,17,19,21,23,26,28,31,35,39,45,53,65,91
+LSHTM,Forecast,13,5,2020,30,5,2020,Scotland,hospital_inc,Branching process,22,3,6,8,10,12,14,16,18,20,22,24,26,30,33,37,43,50,63,91
+LSHTM,Forecast,13,5,2020,31,5,2020,Scotland,hospital_inc,Branching process,20,2,5,7,9,11,12,14,16,18,20,22,25,28,31,36,41,48,62,96
+LSHTM,Forecast,13,5,2020,1,6,2020,Scotland,hospital_inc,Branching process,19,2,4,6,8,10,11,13,15,17,19,21,24,27,29,34,40,48,61,92
+LSHTM,Forecast,13,5,2020,2,6,2020,Scotland,hospital_inc,Branching process,17,1,3,5,7,9,10,12,14,15,17,20,22,25,28,33,38,45,59,93
+LSHTM,Forecast,13,5,2020,3,6,2020,Scotland,hospital_inc,Branching process,16,1,3,5,6,8,9,11,13,14,16,18,21,23,26,30,35,42,58,92
+LSHTM,Forecast,13,5,2020,4,6,2020,Scotland,hospital_inc,Branching process,15,0,2,4,5,7,8,10,11,13,15,17,19,21,25,29,34,42,55,93
+LSHTM,Forecast,13,5,2020,13,5,2020,South East,hospital_inc,Branching process,108,90,94,96,98,100,102,104,105,107,108,109,111,112,114,117,119,122,126,131
+LSHTM,Forecast,13,5,2020,14,5,2020,South East,hospital_inc,Branching process,102,76,82,86,89,91,94,96,98,100,102,104,107,109,112,115,118,122,127,136
+LSHTM,Forecast,13,5,2020,15,5,2020,South East,hospital_inc,Branching process,99,72,77,82,85,87,90,92,95,97,99,102,104,107,110,113,116,121,128,138
+LSHTM,Forecast,13,5,2020,16,5,2020,South East,hospital_inc,Branching process,96,66,72,77,80,83,86,88,91,93,96,99,102,105,109,112,116,121,129,141
+LSHTM,Forecast,13,5,2020,17,5,2020,South East,hospital_inc,Branching process,93,62,68,72,76,79,82,85,87,90,93,96,99,102,106,110,115,121,129,143
+LSHTM,Forecast,13,5,2020,18,5,2020,South East,hospital_inc,Branching process,91,57,63,68,72,76,79,82,85,88,91,94,97,100,104,108,113,120,129,146
+LSHTM,Forecast,13,5,2020,19,5,2020,South East,hospital_inc,Branching process,88,52,60,64,68,72,75,79,82,85,88,91,95,98,102,107,112,118,129,147
+LSHTM,Forecast,13,5,2020,20,5,2020,South East,hospital_inc,Branching process,86,49,56,61,65,69,72,76,79,82,86,89,92,96,101,106,112,119,129,150
+LSHTM,Forecast,13,5,2020,21,5,2020,South East,hospital_inc,Branching process,82,44,52,57,61,64,68,72,75,79,82,85,89,93,98,104,110,118,129,150
+LSHTM,Forecast,13,5,2020,22,5,2020,South East,hospital_inc,Branching process,79,42,48,54,58,62,65,69,72,76,79,83,86,90,95,101,108,116,129,153
+LSHTM,Forecast,13,5,2020,23,5,2020,South East,hospital_inc,Branching process,77,38,46,51,55,59,63,66,70,73,77,80,84,89,94,100,107,116,128,153
+LSHTM,Forecast,13,5,2020,24,5,2020,South East,hospital_inc,Branching process,73,35,42,47,51,55,59,62,66,69,73,77,81,85,91,97,105,115,129,154
+LSHTM,Forecast,13,5,2020,25,5,2020,South East,hospital_inc,Branching process,71,33,40,45,49,53,56,60,64,67,71,75,80,85,90,97,103,114,130,158
+LSHTM,Forecast,13,5,2020,26,5,2020,South East,hospital_inc,Branching process,68,30,37,42,46,50,53,57,61,64,68,72,76,80,86,92,100,110,127,161
+LSHTM,Forecast,13,5,2020,27,5,2020,South East,hospital_inc,Branching process,64,27,34,39,43,46,50,53,57,61,64,69,74,80,85,92,100,111,129,165
+LSHTM,Forecast,13,5,2020,28,5,2020,South East,hospital_inc,Branching process,63,25,33,37,41,45,48,52,55,59,63,67,71,76,82,89,97,109,128,165
+LSHTM,Forecast,13,5,2020,29,5,2020,South East,hospital_inc,Branching process,59,23,29,34,38,41,45,48,52,56,59,63,68,73,79,86,95,107,124,166
+LSHTM,Forecast,13,5,2020,30,5,2020,South East,hospital_inc,Branching process,57,20,27,31,35,39,42,46,49,53,57,61,66,71,77,84,94,106,125,165
+LSHTM,Forecast,13,5,2020,31,5,2020,South East,hospital_inc,Branching process,54,17,23,28,32,36,40,43,47,50,54,58,62,67,74,81,90,104,125,167
+LSHTM,Forecast,13,5,2020,1,6,2020,South East,hospital_inc,Branching process,51,16,22,26,30,34,37,40,43,47,51,55,60,65,71,78,88,101,122,167
+LSHTM,Forecast,13,5,2020,2,6,2020,South East,hospital_inc,Branching process,50,14,21,25,29,32,35,39,42,46,50,53,57,63,69,77,85,98,119,166
+LSHTM,Forecast,13,5,2020,3,6,2020,South East,hospital_inc,Branching process,47,13,18,22,26,29,33,36,40,43,47,51,56,61,67,74,85,98,119,166
+LSHTM,Forecast,13,5,2020,4,6,2020,South East,hospital_inc,Branching process,44,12,17,21,25,27,31,34,37,40,44,48,53,59,65,73,83,96,118,171
+LSHTM,Forecast,13,5,2020,13,5,2020,South West,hospital_inc,Branching process,46,33,36,38,40,41,42,43,44,45,46,47,48,49,51,52,54,56,59,64
+LSHTM,Forecast,13,5,2020,14,5,2020,South West,hospital_inc,Branching process,46,29,33,35,37,39,40,41,43,44,46,47,49,50,52,54,56,58,62,68
+LSHTM,Forecast,13,5,2020,15,5,2020,South West,hospital_inc,Branching process,45,26,30,33,35,37,38,40,41,43,45,46,48,49,51,54,56,59,64,71
+LSHTM,Forecast,13,5,2020,16,5,2020,South West,hospital_inc,Branching process,44,25,29,31,34,36,37,39,40,42,44,45,47,49,51,53,56,60,64,72
+LSHTM,Forecast,13,5,2020,17,5,2020,South West,hospital_inc,Branching process,43,23,27,29,32,34,35,37,39,41,43,45,47,49,51,54,57,61,66,75
+LSHTM,Forecast,13,5,2020,18,5,2020,South West,hospital_inc,Branching process,42,20,24,27,30,32,34,36,38,40,42,44,46,48,51,53,57,61,66,76
+LSHTM,Forecast,13,5,2020,19,5,2020,South West,hospital_inc,Branching process,40,19,23,26,28,30,33,35,36,38,40,42,45,47,50,53,56,61,67,78
+LSHTM,Forecast,13,5,2020,20,5,2020,South West,hospital_inc,Branching process,39,17,21,24,26,29,31,33,35,37,39,42,44,47,49,52,56,61,68,81
+LSHTM,Forecast,13,5,2020,21,5,2020,South West,hospital_inc,Branching process,38,15,20,23,25,28,30,32,34,36,38,41,43,46,48,52,56,61,69,83
+LSHTM,Forecast,13,5,2020,22,5,2020,South West,hospital_inc,Branching process,37,13,18,21,24,26,28,31,33,35,37,39,42,45,48,52,56,61,69,84
+LSHTM,Forecast,13,5,2020,23,5,2020,South West,hospital_inc,Branching process,37,12,16,20,23,25,28,30,32,34,37,39,42,45,48,51,56,62,71,86
+LSHTM,Forecast,13,5,2020,24,5,2020,South West,hospital_inc,Branching process,35,11,14,18,21,23,26,28,31,33,35,38,41,44,47,51,56,63,73,91
+LSHTM,Forecast,13,5,2020,25,5,2020,South West,hospital_inc,Branching process,34,9,13,17,19,22,24,27,29,31,34,37,39,42,46,50,55,62,72,90
+LSHTM,Forecast,13,5,2020,26,5,2020,South West,hospital_inc,Branching process,33,9,13,16,18,21,23,26,28,31,33,36,39,42,45,50,55,62,71,93
+LSHTM,Forecast,13,5,2020,27,5,2020,South West,hospital_inc,Branching process,32,8,12,15,17,20,22,24,27,29,32,35,38,41,45,49,55,63,74,97
+LSHTM,Forecast,13,5,2020,28,5,2020,South West,hospital_inc,Branching process,31,6,10,13,16,18,21,23,26,28,31,34,37,40,44,48,54,62,75,100
+LSHTM,Forecast,13,5,2020,29,5,2020,South West,hospital_inc,Branching process,29,5,9,12,15,17,20,22,25,27,29,32,35,39,43,48,54,62,74,100
+LSHTM,Forecast,13,5,2020,30,5,2020,South West,hospital_inc,Branching process,29,5,9,12,14,16,19,21,24,26,29,32,35,39,43,48,55,63,76,106
+LSHTM,Forecast,13,5,2020,31,5,2020,South West,hospital_inc,Branching process,28,4,7,10,13,15,18,20,22,25,28,31,34,37,41,46,53,62,75,106
+LSHTM,Forecast,13,5,2020,1,6,2020,South West,hospital_inc,Branching process,26,4,7,10,12,14,17,19,21,24,26,29,32,36,40,45,52,61,76,106
+LSHTM,Forecast,13,5,2020,2,6,2020,South West,hospital_inc,Branching process,25,3,6,9,11,14,16,18,20,23,25,28,32,35,39,45,52,62,76,109
+LSHTM,Forecast,13,5,2020,3,6,2020,South West,hospital_inc,Branching process,24,2,5,8,10,12,15,17,19,22,24,27,31,34,38,44,51,60,76,111
+LSHTM,Forecast,13,5,2020,4,6,2020,South West,hospital_inc,Branching process,24,2,5,7,9,12,14,16,18,21,24,26,29,33,38,44,51,61,77,117
+LSHTM,Forecast,13,5,2020,13,5,2020,Wales,hospital_inc,Branching process,28,12,14,16,18,20,21,23,24,26,28,29,31,32,34,37,39,43,49,60
+LSHTM,Forecast,13,5,2020,14,5,2020,Wales,hospital_inc,Branching process,26,10,13,15,17,19,20,21,23,24,26,28,29,31,33,36,39,43,49,61
+LSHTM,Forecast,13,5,2020,15,5,2020,Wales,hospital_inc,Branching process,25,9,11,14,16,17,19,20,22,23,25,26,28,30,32,35,38,43,48,63
+LSHTM,Forecast,13,5,2020,16,5,2020,Wales,hospital_inc,Branching process,23,8,10,12,14,16,17,19,20,22,23,25,27,29,31,34,37,42,50,65
+LSHTM,Forecast,13,5,2020,17,5,2020,Wales,hospital_inc,Branching process,22,6,9,11,13,14,16,17,19,20,22,24,26,28,30,33,37,42,50,66
+LSHTM,Forecast,13,5,2020,18,5,2020,Wales,hospital_inc,Branching process,21,5,8,10,12,13,15,16,18,20,21,23,25,27,30,32,36,42,50,69
+LSHTM,Forecast,13,5,2020,19,5,2020,Wales,hospital_inc,Branching process,20,5,7,9,11,12,14,15,16,18,20,22,23,25,28,31,36,41,50,70
+LSHTM,Forecast,13,5,2020,20,5,2020,Wales,hospital_inc,Branching process,18,4,6,8,10,11,12,14,16,17,18,20,22,24,27,30,34,40,49,72
+LSHTM,Forecast,13,5,2020,21,5,2020,Wales,hospital_inc,Branching process,17,3,5,7,9,10,11,13,14,16,17,19,21,23,26,29,33,39,50,75
+LSHTM,Forecast,13,5,2020,22,5,2020,Wales,hospital_inc,Branching process,16,2,4,6,8,9,11,12,13,15,16,18,20,22,25,28,32,38,50,75
+LSHTM,Forecast,13,5,2020,23,5,2020,Wales,hospital_inc,Branching process,15,2,4,6,7,8,10,11,12,14,15,17,19,21,24,27,31,37,47,75
+LSHTM,Forecast,13,5,2020,24,5,2020,Wales,hospital_inc,Branching process,14,1,3,5,6,7,9,10,11,13,14,16,18,20,22,26,30,36,47,77
+LSHTM,Forecast,13,5,2020,25,5,2020,Wales,hospital_inc,Branching process,13,1,3,4,6,7,8,9,10,12,13,15,17,19,22,25,29,36,48,78
+LSHTM,Forecast,13,5,2020,26,5,2020,Wales,hospital_inc,Branching process,12,1,2,4,5,6,7,8,10,11,12,14,16,18,21,24,28,35,46,81
+LSHTM,Forecast,13,5,2020,27,5,2020,Wales,hospital_inc,Branching process,12,0,2,3,4,5,6,8,9,10,12,13,15,17,20,23,28,34,48,80
+LSHTM,Forecast,13,5,2020,28,5,2020,Wales,hospital_inc,Branching process,11,0,1,2,4,5,6,7,8,9,11,12,14,16,19,22,27,33,48,82
+LSHTM,Forecast,13,5,2020,29,5,2020,Wales,hospital_inc,Branching process,10,0,1,2,3,4,5,6,7,9,10,11,13,15,17,21,25,32,45,82
+LSHTM,Forecast,13,5,2020,30,5,2020,Wales,hospital_inc,Branching process,9,0,1,2,3,4,5,6,7,8,9,10,12,14,17,20,24,31,45,84
+LSHTM,Forecast,13,5,2020,31,5,2020,Wales,hospital_inc,Branching process,8,0,1,1,2,3,4,5,6,7,8,10,11,13,16,19,24,30,44,85
+LSHTM,Forecast,13,5,2020,1,6,2020,Wales,hospital_inc,Branching process,8,0,0,1,2,3,4,5,6,7,8,9,10,12,14,18,22,29,45,87
+LSHTM,Forecast,13,5,2020,2,6,2020,Wales,hospital_inc,Branching process,7,0,0,1,2,2,3,4,5,6,7,8,10,12,14,17,21,29,43,87
+LSHTM,Forecast,13,5,2020,3,6,2020,Wales,hospital_inc,Branching process,7,0,0,1,1,2,3,4,5,6,7,8,9,11,13,16,21,28,42,89
+LSHTM,Forecast,13,5,2020,4,6,2020,Wales,hospital_inc,Branching process,6,0,0,1,1,2,3,3,4,5,6,7,9,10,12,15,19,26,40,95
+LSHTM,Forecast,13,5,2020,13,5,2020,East of England,death_inc_line,Branching process,53,30,35,38,40,43,45,47,49,51,53,56,58,61,63,67,71,77,84,98
+LSHTM,Forecast,13,5,2020,14,5,2020,East of England,death_inc_line,Branching process,52,27,32,35,38,41,43,45,48,50,52,55,57,60,63,67,72,77,86,103
+LSHTM,Forecast,13,5,2020,15,5,2020,East of England,death_inc_line,Branching process,51,25,30,34,36,39,42,44,46,49,51,54,57,60,63,67,72,79,88,109
+LSHTM,Forecast,13,5,2020,16,5,2020,East of England,death_inc_line,Branching process,50,23,28,32,35,37,40,42,45,48,50,53,56,59,63,67,73,79,90,110
+LSHTM,Forecast,13,5,2020,17,5,2020,East of England,death_inc_line,Branching process,49,22,26,30,33,36,38,41,43,46,49,52,54,58,62,67,73,80,91,112
+LSHTM,Forecast,13,5,2020,18,5,2020,East of England,death_inc_line,Branching process,47,20,25,28,31,34,36,39,41,44,47,50,54,57,62,67,73,82,94,120
+LSHTM,Forecast,13,5,2020,19,5,2020,East of England,death_inc_line,Branching process,47,18,23,27,30,33,35,38,41,44,47,50,53,57,62,67,74,83,95,120
+LSHTM,Forecast,13,5,2020,20,5,2020,East of England,death_inc_line,Branching process,45,16,21,25,28,31,34,36,39,42,45,48,52,57,61,67,74,83,98,127
+LSHTM,Forecast,13,5,2020,21,5,2020,East of England,death_inc_line,Branching process,44,15,20,24,27,29,32,35,38,41,44,47,51,55,60,66,73,83,99,133
+LSHTM,Forecast,13,5,2020,22,5,2020,East of England,death_inc_line,Branching process,43,14,18,22,25,29,31,34,37,40,43,46,50,54,59,65,72,83,99,134
+LSHTM,Forecast,13,5,2020,23,5,2020,East of England,death_inc_line,Branching process,41,12,17,20,24,26,29,32,35,38,41,45,49,53,58,65,73,84,102,140
+LSHTM,Forecast,13,5,2020,24,5,2020,East of England,death_inc_line,Branching process,40,11,16,19,22,25,28,30,34,37,40,43,47,52,57,64,73,84,104,146
+LSHTM,Forecast,13,5,2020,25,5,2020,East of England,death_inc_line,Branching process,39,10,14,18,21,24,27,29,32,36,39,43,47,51,57,64,74,85,105,147
+LSHTM,Forecast,13,5,2020,26,5,2020,East of England,death_inc_line,Branching process,38,9,14,17,20,23,26,28,31,34,38,42,46,50,57,64,72,86,109,155
+LSHTM,Forecast,13,5,2020,27,5,2020,East of England,death_inc_line,Branching process,36,8,12,16,19,21,24,27,30,33,36,40,44,49,55,61,72,86,110,167
+LSHTM,Forecast,13,5,2020,28,5,2020,East of England,death_inc_line,Branching process,35,7,12,15,17,20,23,25,28,31,35,39,43,48,54,62,71,86,110,168
+LSHTM,Forecast,13,5,2020,29,5,2020,East of England,death_inc_line,Branching process,34,6,10,13,16,19,21,24,27,31,34,38,43,48,53,61,73,88,113,173
+LSHTM,Forecast,13,5,2020,30,5,2020,East of England,death_inc_line,Branching process,32,5,9,12,15,18,21,23,26,29,32,36,40,46,52,60,71,87,112,184
+LSHTM,Forecast,13,5,2020,31,5,2020,East of England,death_inc_line,Branching process,31,5,8,11,14,16,19,22,24,27,31,34,39,44,51,58,70,87,114,191
+LSHTM,Forecast,13,5,2020,1,6,2020,East of England,death_inc_line,Branching process,30,4,8,10,13,15,18,20,23,26,30,34,38,43,50,59,70,85,114,192
+LSHTM,Forecast,13,5,2020,2,6,2020,East of England,death_inc_line,Branching process,29,4,7,10,12,15,17,20,23,26,29,33,38,43,49,58,68,86,120,199
+LSHTM,Forecast,13,5,2020,3,6,2020,East of England,death_inc_line,Branching process,28,3,6,9,12,14,16,19,22,25,28,32,36,41,48,57,70,90,123,210
+LSHTM,Forecast,13,5,2020,4,6,2020,East of England,death_inc_line,Branching process,27,2,6,8,10,13,15,18,21,24,27,30,35,40,47,54,67,85,116,212
+LSHTM,Forecast,13,5,2020,5,6,2020,East of England,death_inc_line,Branching process,25,2,5,7,9,12,14,16,19,22,25,29,33,38,45,54,65,85,121,224
+LSHTM,Forecast,13,5,2020,13,5,2020,England,death_inc_line,Branching process,376,303,318,328,337,344,351,358,364,370,376,381,388,395,402,410,419,430,446,470
+LSHTM,Forecast,13,5,2020,14,5,2020,England,death_inc_line,Branching process,360,284,300,310,319,327,333,341,348,354,360,367,374,381,389,399,410,422,439,465
+LSHTM,Forecast,13,5,2020,15,5,2020,England,death_inc_line,Branching process,349,266,285,297,306,314,322,329,335,342,349,356,362,371,379,388,400,413,430,464
+LSHTM,Forecast,13,5,2020,16,5,2020,England,death_inc_line,Branching process,334,250,268,278,290,299,306,313,320,327,334,341,349,358,366,376,388,401,422,452
+LSHTM,Forecast,13,5,2020,17,5,2020,England,death_inc_line,Branching process,321,233,250,262,273,282,290,298,306,314,321,329,338,346,355,364,375,391,412,451
+LSHTM,Forecast,13,5,2020,18,5,2020,England,death_inc_line,Branching process,309,220,237,249,260,269,276,285,293,301,309,315,323,333,343,353,365,382,403,444
+LSHTM,Forecast,13,5,2020,19,5,2020,England,death_inc_line,Branching process,296,204,222,236,247,256,264,272,280,288,296,304,311,320,330,341,354,372,392,431
+LSHTM,Forecast,13,5,2020,20,5,2020,England,death_inc_line,Branching process,282,187,207,220,232,241,249,257,266,274,282,290,299,309,319,330,344,361,385,427
+LSHTM,Forecast,13,5,2020,21,5,2020,England,death_inc_line,Branching process,270,177,196,209,219,229,237,245,254,262,270,278,288,296,308,320,334,353,374,417
+LSHTM,Forecast,13,5,2020,22,5,2020,England,death_inc_line,Branching process,257,161,181,194,205,215,224,232,240,248,257,266,274,285,295,308,323,341,364,419
+LSHTM,Forecast,13,5,2020,23,5,2020,England,death_inc_line,Branching process,244,150,169,182,192,203,211,219,228,236,244,253,263,273,285,297,313,330,357,407
+LSHTM,Forecast,13,5,2020,24,5,2020,England,death_inc_line,Branching process,234,140,160,172,184,193,201,210,218,226,234,243,253,263,274,287,303,323,350,401
+LSHTM,Forecast,13,5,2020,25,5,2020,England,death_inc_line,Branching process,223,129,147,159,170,179,188,198,206,214,223,232,241,251,263,276,292,314,341,394
+LSHTM,Forecast,13,5,2020,26,5,2020,England,death_inc_line,Branching process,209,118,134,147,157,166,175,184,193,201,209,217,226,237,250,264,281,304,333,387
+LSHTM,Forecast,13,5,2020,27,5,2020,England,death_inc_line,Branching process,198,108,125,138,148,157,165,173,181,189,198,207,217,228,240,254,270,291,322,385
+LSHTM,Forecast,13,5,2020,28,5,2020,England,death_inc_line,Branching process,188,99,115,127,137,146,156,164,172,181,188,198,207,218,230,244,260,282,313,372
+LSHTM,Forecast,13,5,2020,29,5,2020,England,death_inc_line,Branching process,178,88,105,117,128,137,145,153,161,170,178,188,197,206,218,232,249,271,304,368
+LSHTM,Forecast,13,5,2020,30,5,2020,England,death_inc_line,Branching process,168,84,99,109,119,126,135,142,151,159,168,176,186,197,209,223,240,262,296,360
+LSHTM,Forecast,13,5,2020,31,5,2020,England,death_inc_line,Branching process,159,74,90,101,111,120,128,135,142,151,159,167,177,186,199,212,229,253,283,348
+LSHTM,Forecast,13,5,2020,1,6,2020,England,death_inc_line,Branching process,150,68,82,92,102,110,118,126,133,142,150,158,167,177,189,203,219,243,282,345
+LSHTM,Forecast,13,5,2020,2,6,2020,England,death_inc_line,Branching process,142,60,74,85,94,103,109,117,124,133,142,151,161,170,182,194,210,232,266,336
+LSHTM,Forecast,13,5,2020,3,6,2020,England,death_inc_line,Branching process,133,55,70,80,88,96,103,110,117,125,133,141,150,160,172,186,203,225,259,327
+LSHTM,Forecast,13,5,2020,4,6,2020,England,death_inc_line,Branching process,123,49,63,72,81,88,95,102,109,116,123,132,140,152,163,177,193,218,252,327
+LSHTM,Forecast,13,5,2020,5,6,2020,England,death_inc_line,Branching process,116,46,58,67,74,82,88,94,101,108,116,125,134,145,156,169,185,207,243,320
+LSHTM,Forecast,13,5,2020,13,5,2020,London,death_inc_line,Branching process,44,24,27,30,32,34,36,38,40,42,44,46,48,51,54,57,61,66,73,86
+LSHTM,Forecast,13,5,2020,14,5,2020,London,death_inc_line,Branching process,42,21,25,28,30,32,34,36,38,40,42,45,47,50,53,57,61,66,74,89
+LSHTM,Forecast,13,5,2020,15,5,2020,London,death_inc_line,Branching process,41,19,23,26,28,31,33,35,37,39,41,43,46,49,51,55,60,66,74,90
+LSHTM,Forecast,13,5,2020,16,5,2020,London,death_inc_line,Branching process,39,18,21,24,26,28,30,33,35,37,39,41,44,47,51,54,59,66,75,94
+LSHTM,Forecast,13,5,2020,17,5,2020,London,death_inc_line,Branching process,37,16,20,22,24,27,29,31,33,35,37,40,43,45,49,53,60,67,77,96
+LSHTM,Forecast,13,5,2020,18,5,2020,London,death_inc_line,Branching process,36,14,17,20,22,25,27,29,31,33,36,38,41,44,48,52,57,65,77,101
+LSHTM,Forecast,13,5,2020,19,5,2020,London,death_inc_line,Branching process,34,12,15,18,20,22,25,27,29,32,34,37,40,43,46,51,57,65,76,104
+LSHTM,Forecast,13,5,2020,20,5,2020,London,death_inc_line,Branching process,33,11,15,17,19,21,23,25,28,30,33,35,38,42,46,51,57,66,80,106
+LSHTM,Forecast,13,5,2020,21,5,2020,London,death_inc_line,Branching process,31,10,13,15,18,19,22,24,26,28,31,34,37,40,44,49,55,65,78,112
+LSHTM,Forecast,13,5,2020,22,5,2020,London,death_inc_line,Branching process,29,9,12,14,16,18,20,22,25,27,29,32,36,39,43,48,54,64,79,115
+LSHTM,Forecast,13,5,2020,23,5,2020,London,death_inc_line,Branching process,28,7,11,13,15,17,19,21,23,26,28,31,34,38,42,48,55,65,81,115
+LSHTM,Forecast,13,5,2020,24,5,2020,London,death_inc_line,Branching process,27,6,9,11,13,15,17,20,22,24,27,29,33,36,41,46,53,62,80,122
+LSHTM,Forecast,13,5,2020,25,5,2020,London,death_inc_line,Branching process,25,6,8,11,12,14,16,18,20,23,25,28,31,35,40,45,52,62,83,128
+LSHTM,Forecast,13,5,2020,26,5,2020,London,death_inc_line,Branching process,24,5,8,9,11,13,15,17,19,22,24,27,30,34,38,44,51,62,80,131
+LSHTM,Forecast,13,5,2020,27,5,2020,London,death_inc_line,Branching process,23,4,7,9,10,12,14,16,18,20,23,25,29,32,37,43,51,62,82,138
+LSHTM,Forecast,13,5,2020,28,5,2020,London,death_inc_line,Branching process,21,4,6,8,10,11,13,15,17,19,21,24,28,31,36,42,51,61,82,143
+LSHTM,Forecast,13,5,2020,29,5,2020,London,death_inc_line,Branching process,20,3,5,7,8,10,12,14,16,18,20,23,26,30,34,40,48,61,82,150
+LSHTM,Forecast,13,5,2020,30,5,2020,London,death_inc_line,Branching process,19,2,4,6,8,9,11,13,14,17,19,22,25,29,33,39,47,60,85,148
+LSHTM,Forecast,13,5,2020,31,5,2020,London,death_inc_line,Branching process,18,2,4,5,7,9,10,12,14,16,18,20,24,28,32,39,47,61,89,161
+LSHTM,Forecast,13,5,2020,1,6,2020,London,death_inc_line,Branching process,17,2,4,5,6,8,9,11,13,15,17,19,22,26,31,38,46,60,83,165
+LSHTM,Forecast,13,5,2020,2,6,2020,London,death_inc_line,Branching process,16,1,3,4,5,7,8,10,11,14,16,18,21,25,30,36,45,59,84,171
+LSHTM,Forecast,13,5,2020,3,6,2020,London,death_inc_line,Branching process,15,1,2,4,5,6,8,9,11,13,15,17,20,24,29,36,45,60,89,172
+LSHTM,Forecast,13,5,2020,4,6,2020,London,death_inc_line,Branching process,14,1,2,3,4,6,7,8,10,12,14,16,19,23,28,34,43,56,85,175
+LSHTM,Forecast,13,5,2020,5,6,2020,London,death_inc_line,Branching process,13,1,2,3,4,5,6,8,9,11,13,15,18,22,26,33,43,59,88,194
+LSHTM,Forecast,13,5,2020,13,5,2020,Midlands,death_inc_line,Branching process,84,53,59,64,67,70,73,76,78,81,84,87,90,93,96,100,105,111,119,134
+LSHTM,Forecast,13,5,2020,14,5,2020,Midlands,death_inc_line,Branching process,82,49,56,60,64,67,71,74,76,79,82,85,88,92,96,100,105,111,120,135
+LSHTM,Forecast,13,5,2020,15,5,2020,Midlands,death_inc_line,Branching process,80,45,52,57,60,64,67,71,74,77,80,83,87,90,94,99,105,112,121,137
+LSHTM,Forecast,13,5,2020,16,5,2020,Midlands,death_inc_line,Branching process,78,42,49,54,58,62,65,68,72,75,78,81,85,89,93,97,103,109,119,137
+LSHTM,Forecast,13,5,2020,17,5,2020,Midlands,death_inc_line,Branching process,75,40,46,51,55,58,62,65,68,72,75,78,82,86,90,96,103,110,122,140
+LSHTM,Forecast,13,5,2020,18,5,2020,Midlands,death_inc_line,Branching process,73,37,44,49,53,57,60,63,67,70,73,77,81,86,90,95,102,110,122,142
+LSHTM,Forecast,13,5,2020,19,5,2020,Midlands,death_inc_line,Branching process,71,34,40,46,50,54,58,61,65,68,71,75,79,83,89,95,101,110,123,145
+LSHTM,Forecast,13,5,2020,20,5,2020,Midlands,death_inc_line,Branching process,69,31,37,42,47,51,54,58,62,65,69,73,77,81,86,92,100,110,121,145
+LSHTM,Forecast,13,5,2020,21,5,2020,Midlands,death_inc_line,Branching process,67,28,35,40,45,49,52,56,60,63,67,71,75,80,86,92,100,109,124,147
+LSHTM,Forecast,13,5,2020,22,5,2020,Midlands,death_inc_line,Branching process,65,26,33,38,42,46,50,53,57,61,65,69,74,78,83,91,99,109,124,153
+LSHTM,Forecast,13,5,2020,23,5,2020,Midlands,death_inc_line,Branching process,62,23,30,35,40,43,47,51,54,58,62,66,71,75,81,87,95,106,121,155
+LSHTM,Forecast,13,5,2020,24,5,2020,Midlands,death_inc_line,Branching process,60,22,29,33,37,42,45,49,52,56,60,64,69,74,80,87,96,106,125,153
+LSHTM,Forecast,13,5,2020,25,5,2020,Midlands,death_inc_line,Branching process,58,20,27,31,35,39,43,46,50,54,58,61,66,71,77,84,94,105,123,156
+LSHTM,Forecast,13,5,2020,26,5,2020,Midlands,death_inc_line,Branching process,56,18,24,29,32,36,40,44,47,51,56,61,65,71,77,84,94,104,123,156
+LSHTM,Forecast,13,5,2020,27,5,2020,Midlands,death_inc_line,Branching process,53,16,22,27,31,35,39,43,46,50,53,57,62,68,74,82,92,104,125,157
+LSHTM,Forecast,13,5,2020,28,5,2020,Midlands,death_inc_line,Branching process,51,15,21,25,29,33,36,40,43,47,51,55,60,66,73,80,90,103,122,160
+LSHTM,Forecast,13,5,2020,29,5,2020,Midlands,death_inc_line,Branching process,49,14,19,24,27,31,34,38,41,45,49,54,59,64,71,79,89,100,120,163
+LSHTM,Forecast,13,5,2020,30,5,2020,Midlands,death_inc_line,Branching process,48,12,17,21,25,29,33,37,40,44,48,52,57,62,69,78,87,101,122,161
+LSHTM,Forecast,13,5,2020,31,5,2020,Midlands,death_inc_line,Branching process,45,11,16,19,23,27,30,34,37,41,45,50,55,60,67,75,86,100,121,166
+LSHTM,Forecast,13,5,2020,1,6,2020,Midlands,death_inc_line,Branching process,43,9,14,19,22,26,29,32,36,40,43,47,52,58,64,74,84,99,120,164
+LSHTM,Forecast,13,5,2020,2,6,2020,Midlands,death_inc_line,Branching process,42,8,13,17,21,24,27,31,34,38,42,46,51,57,63,71,81,96,118,166
+LSHTM,Forecast,13,5,2020,3,6,2020,Midlands,death_inc_line,Branching process,40,7,13,16,20,23,26,29,33,36,40,44,49,54,61,69,80,96,118,168
+LSHTM,Forecast,13,5,2020,4,6,2020,Midlands,death_inc_line,Branching process,38,6,11,14,17,21,24,27,31,34,38,42,47,52,58,66,78,92,114,166
+LSHTM,Forecast,13,5,2020,5,6,2020,Midlands,death_inc_line,Branching process,35,5,10,13,16,19,22,25,29,32,35,40,45,51,58,66,78,92,119,171
+LSHTM,Forecast,13,5,2020,13,5,2020,North East and Yorkshire,death_inc_line,Branching process,85,53,60,64,68,72,75,77,80,83,85,88,91,95,98,102,107,113,121,136
+LSHTM,Forecast,13,5,2020,14,5,2020,North East and Yorkshire,death_inc_line,Branching process,83,50,57,62,65,69,72,75,78,81,83,87,90,93,97,102,107,115,123,138
+LSHTM,Forecast,13,5,2020,15,5,2020,North East and Yorkshire,death_inc_line,Branching process,82,48,54,59,63,67,70,73,77,79,82,86,89,93,98,102,108,115,126,144
+LSHTM,Forecast,13,5,2020,16,5,2020,North East and Yorkshire,death_inc_line,Branching process,81,44,51,56,60,64,67,71,74,77,81,84,88,92,96,101,108,116,126,145
+LSHTM,Forecast,13,5,2020,17,5,2020,North East and Yorkshire,death_inc_line,Branching process,79,42,49,54,58,62,65,69,72,75,79,83,87,91,96,101,108,116,129,150
+LSHTM,Forecast,13,5,2020,18,5,2020,North East and Yorkshire,death_inc_line,Branching process,78,39,46,51,56,60,63,67,70,74,78,82,86,91,96,102,109,117,129,151
+LSHTM,Forecast,13,5,2020,19,5,2020,North East and Yorkshire,death_inc_line,Branching process,76,36,44,49,53,57,61,65,68,72,76,80,85,90,95,100,107,115,129,157
+LSHTM,Forecast,13,5,2020,20,5,2020,North East and Yorkshire,death_inc_line,Branching process,75,34,41,47,51,56,60,63,67,71,75,79,83,88,94,101,110,118,132,158
+LSHTM,Forecast,13,5,2020,21,5,2020,North East and Yorkshire,death_inc_line,Branching process,72,32,39,44,48,52,56,60,64,68,72,76,82,87,93,100,108,118,134,167
+LSHTM,Forecast,13,5,2020,22,5,2020,North East and Yorkshire,death_inc_line,Branching process,70,29,37,42,47,51,55,59,62,66,70,75,80,85,92,99,109,120,136,167
+LSHTM,Forecast,13,5,2020,23,5,2020,North East and Yorkshire,death_inc_line,Branching process,69,27,34,40,44,48,52,56,60,65,69,74,78,85,91,99,108,120,139,171
+LSHTM,Forecast,13,5,2020,24,5,2020,North East and Yorkshire,death_inc_line,Branching process,67,24,31,37,42,46,51,55,59,63,67,72,77,83,90,99,109,121,140,180
+LSHTM,Forecast,13,5,2020,25,5,2020,North East and Yorkshire,death_inc_line,Branching process,66,24,31,36,40,45,49,53,57,62,66,71,76,82,88,96,106,120,139,178
+LSHTM,Forecast,13,5,2020,26,5,2020,North East and Yorkshire,death_inc_line,Branching process,64,21,29,34,38,42,47,51,55,60,64,70,75,81,88,96,106,122,141,179
+LSHTM,Forecast,13,5,2020,27,5,2020,North East and Yorkshire,death_inc_line,Branching process,62,19,26,32,37,41,45,49,53,57,62,67,72,79,86,94,105,120,142,185
+LSHTM,Forecast,13,5,2020,28,5,2020,North East and Yorkshire,death_inc_line,Branching process,60,18,25,31,35,39,43,47,51,56,60,65,71,77,84,93,105,120,142,191
+LSHTM,Forecast,13,5,2020,29,5,2020,North East and Yorkshire,death_inc_line,Branching process,58,16,22,28,33,38,42,46,49,53,58,63,69,75,82,91,103,118,141,190
+LSHTM,Forecast,13,5,2020,30,5,2020,North East and Yorkshire,death_inc_line,Branching process,56,14,21,26,30,34,39,43,47,52,56,62,67,74,82,91,103,120,146,199
+LSHTM,Forecast,13,5,2020,31,5,2020,North East and Yorkshire,death_inc_line,Branching process,55,13,19,24,28,33,37,41,45,50,55,60,66,73,80,90,102,120,149,197
+LSHTM,Forecast,13,5,2020,1,6,2020,North East and Yorkshire,death_inc_line,Branching process,53,12,18,22,26,30,35,39,43,48,53,57,64,70,77,87,101,117,145,206
+LSHTM,Forecast,13,5,2020,2,6,2020,North East and Yorkshire,death_inc_line,Branching process,50,10,16,21,25,30,33,37,41,45,50,56,61,68,77,88,100,118,148,214
+LSHTM,Forecast,13,5,2020,3,6,2020,North East and Yorkshire,death_inc_line,Branching process,50,9,15,19,24,28,32,36,40,45,50,55,61,68,76,87,99,119,146,211
+LSHTM,Forecast,13,5,2020,4,6,2020,North East and Yorkshire,death_inc_line,Branching process,47,9,14,18,22,26,30,34,38,43,47,52,58,65,73,82,97,115,146,214
+LSHTM,Forecast,13,5,2020,5,6,2020,North East and Yorkshire,death_inc_line,Branching process,45,7,12,17,21,25,28,32,36,40,45,51,57,65,73,84,98,117,149,227
+LSHTM,Forecast,13,5,2020,13,5,2020,North West,death_inc_line,Branching process,72,42,49,53,56,59,62,64,67,70,72,75,78,81,85,89,94,100,108,123
+LSHTM,Forecast,13,5,2020,14,5,2020,North West,death_inc_line,Branching process,71,41,46,50,54,57,60,63,65,68,71,74,77,80,84,88,93,99,108,126
+LSHTM,Forecast,13,5,2020,15,5,2020,North West,death_inc_line,Branching process,69,38,44,48,52,55,58,60,63,66,69,72,76,79,83,88,94,100,109,128
+LSHTM,Forecast,13,5,2020,16,5,2020,North West,death_inc_line,Branching process,67,35,41,45,49,52,56,58,61,64,67,71,74,78,83,88,94,102,113,133
+LSHTM,Forecast,13,5,2020,17,5,2020,North West,death_inc_line,Branching process,66,33,38,43,46,49,53,56,59,62,66,70,73,77,82,87,93,101,113,135
+LSHTM,Forecast,13,5,2020,18,5,2020,North West,death_inc_line,Branching process,64,30,36,40,44,47,51,54,57,60,64,67,71,76,80,86,92,102,116,141
+LSHTM,Forecast,13,5,2020,19,5,2020,North West,death_inc_line,Branching process,62,27,33,38,42,45,49,52,55,59,62,65,69,74,78,84,91,101,117,144
+LSHTM,Forecast,13,5,2020,20,5,2020,North West,death_inc_line,Branching process,60,25,32,36,39,43,46,50,53,56,60,64,68,73,78,85,94,104,120,150
+LSHTM,Forecast,13,5,2020,21,5,2020,North West,death_inc_line,Branching process,59,24,30,34,38,41,45,48,52,55,59,63,67,72,77,84,92,103,121,155
+LSHTM,Forecast,13,5,2020,22,5,2020,North West,death_inc_line,Branching process,56,21,27,31,35,39,42,45,49,52,56,61,65,70,75,82,91,103,119,158
+LSHTM,Forecast,13,5,2020,23,5,2020,North West,death_inc_line,Branching process,54,19,24,29,33,36,40,44,47,50,54,59,64,69,76,83,92,105,126,164
+LSHTM,Forecast,13,5,2020,24,5,2020,North West,death_inc_line,Branching process,52,17,23,27,31,34,38,41,45,48,52,56,61,67,73,81,90,103,123,164
+LSHTM,Forecast,13,5,2020,25,5,2020,North West,death_inc_line,Branching process,51,16,21,26,30,33,37,40,43,47,51,55,60,65,71,79,89,105,124,172
+LSHTM,Forecast,13,5,2020,26,5,2020,North West,death_inc_line,Branching process,48,14,19,23,27,30,34,37,41,44,48,52,57,63,69,77,86,101,126,183
+LSHTM,Forecast,13,5,2020,27,5,2020,North West,death_inc_line,Branching process,46,12,17,21,25,28,32,35,39,43,46,51,55,61,68,76,87,103,129,182
+LSHTM,Forecast,13,5,2020,28,5,2020,North West,death_inc_line,Branching process,45,11,16,20,24,27,30,34,38,41,45,50,55,60,66,74,86,103,129,187
+LSHTM,Forecast,13,5,2020,29,5,2020,North West,death_inc_line,Branching process,43,10,14,18,21,25,28,32,35,39,43,47,52,58,64,74,85,102,127,194
+LSHTM,Forecast,13,5,2020,30,5,2020,North West,death_inc_line,Branching process,41,9,14,17,20,23,26,30,33,37,41,45,50,56,64,71,83,99,128,188
+LSHTM,Forecast,13,5,2020,31,5,2020,North West,death_inc_line,Branching process,40,8,12,16,19,22,25,29,32,36,40,44,48,54,62,70,81,99,131,202
+LSHTM,Forecast,13,5,2020,1,6,2020,North West,death_inc_line,Branching process,38,7,11,14,17,20,24,27,30,34,38,42,47,52,60,68,80,98,129,210
+LSHTM,Forecast,13,5,2020,2,6,2020,North West,death_inc_line,Branching process,36,6,10,13,16,19,22,26,29,33,36,41,46,52,59,68,80,97,129,212
+LSHTM,Forecast,13,5,2020,3,6,2020,North West,death_inc_line,Branching process,35,5,9,12,15,18,21,24,27,31,35,39,44,49,56,65,77,97,132,219
+LSHTM,Forecast,13,5,2020,4,6,2020,North West,death_inc_line,Branching process,32,4,8,11,14,16,19,22,25,29,32,37,42,48,54,64,76,96,131,217
+LSHTM,Forecast,13,5,2020,5,6,2020,North West,death_inc_line,Branching process,31,3,7,10,12,15,18,21,24,27,31,35,40,45,53,63,74,95,128,222
+LSHTM,Forecast,13,5,2020,13,5,2020,Scotland,death_inc_line,Branching process,49,27,31,34,36,39,41,43,45,47,49,51,53,56,59,62,65,70,77,90
+LSHTM,Forecast,13,5,2020,14,5,2020,Scotland,death_inc_line,Branching process,49,25,29,32,35,38,40,43,45,47,49,51,54,56,60,63,67,72,81,95
+LSHTM,Forecast,13,5,2020,15,5,2020,Scotland,death_inc_line,Branching process,49,23,28,31,34,37,39,42,44,46,49,51,54,57,60,64,70,75,85,101
+LSHTM,Forecast,13,5,2020,16,5,2020,Scotland,death_inc_line,Branching process,48,21,27,30,33,36,38,41,43,46,48,51,54,57,61,65,71,77,88,106
+LSHTM,Forecast,13,5,2020,17,5,2020,Scotland,death_inc_line,Branching process,48,20,25,29,32,35,38,40,43,45,48,51,55,58,62,68,73,81,93,114
+LSHTM,Forecast,13,5,2020,18,5,2020,Scotland,death_inc_line,Branching process,49,20,25,28,32,35,37,40,43,46,49,52,55,59,63,68,74,83,95,117
+LSHTM,Forecast,13,5,2020,19,5,2020,Scotland,death_inc_line,Branching process,49,18,22,26,30,33,36,39,42,45,49,52,56,59,64,69,76,86,99,126
+LSHTM,Forecast,13,5,2020,20,5,2020,Scotland,death_inc_line,Branching process,48,16,22,26,29,32,35,38,42,45,48,52,55,59,64,70,78,88,104,133
+LSHTM,Forecast,13,5,2020,21,5,2020,Scotland,death_inc_line,Branching process,48,15,20,25,28,31,34,38,41,45,48,52,57,62,67,73,80,91,111,145
+LSHTM,Forecast,13,5,2020,22,5,2020,Scotland,death_inc_line,Branching process,47,13,19,23,27,30,34,37,40,43,47,51,56,61,67,74,83,93,112,151
+LSHTM,Forecast,13,5,2020,23,5,2020,Scotland,death_inc_line,Branching process,47,13,18,22,26,29,32,36,39,43,47,51,56,61,67,74,83,96,115,161
+LSHTM,Forecast,13,5,2020,24,5,2020,Scotland,death_inc_line,Branching process,47,12,17,21,25,29,32,35,39,43,47,51,56,62,68,75,85,98,121,170
+LSHTM,Forecast,13,5,2020,25,5,2020,Scotland,death_inc_line,Branching process,47,11,16,20,24,28,31,35,38,42,47,52,57,62,69,77,85,100,125,179
+LSHTM,Forecast,13,5,2020,26,5,2020,Scotland,death_inc_line,Branching process,47,10,15,19,23,26,30,34,38,42,47,51,57,63,70,78,89,106,132,186
+LSHTM,Forecast,13,5,2020,27,5,2020,Scotland,death_inc_line,Branching process,45,9,14,18,22,26,29,33,37,40,45,50,56,62,69,79,91,108,137,210
+LSHTM,Forecast,13,5,2020,28,5,2020,Scotland,death_inc_line,Branching process,45,8,12,17,21,24,28,32,35,40,45,51,56,63,72,81,95,112,147,214
+LSHTM,Forecast,13,5,2020,29,5,2020,Scotland,death_inc_line,Branching process,44,7,12,16,20,24,27,31,35,39,44,49,55,62,70,80,94,114,149,237
+LSHTM,Forecast,13,5,2020,30,5,2020,Scotland,death_inc_line,Branching process,44,6,11,15,18,22,26,30,35,39,44,50,55,62,71,81,97,121,159,242
+LSHTM,Forecast,13,5,2020,31,5,2020,Scotland,death_inc_line,Branching process,43,5,10,14,18,21,25,29,33,38,43,49,56,63,72,84,101,122,163,264
+LSHTM,Forecast,13,5,2020,1,6,2020,Scotland,death_inc_line,Branching process,43,5,9,13,17,20,24,28,33,37,43,48,54,62,72,84,100,126,173,290
+LSHTM,Forecast,13,5,2020,2,6,2020,Scotland,death_inc_line,Branching process,42,3,8,13,16,20,24,28,32,37,42,47,54,62,72,84,101,129,177,291
+LSHTM,Forecast,13,5,2020,3,6,2020,Scotland,death_inc_line,Branching process,40,4,8,12,15,19,23,26,31,35,40,46,53,62,73,86,103,132,180,316
+LSHTM,Forecast,13,5,2020,4,6,2020,Scotland,death_inc_line,Branching process,40,3,7,11,14,18,22,26,30,35,40,45,52,61,72,85,104,132,187,338
+LSHTM,Forecast,13,5,2020,5,6,2020,Scotland,death_inc_line,Branching process,39,3,7,10,13,17,20,24,28,34,39,45,52,62,72,87,106,136,196,361
+LSHTM,Forecast,13,5,2020,13,5,2020,South East,death_inc_line,Branching process,54,30,34,38,41,43,45,48,50,52,54,56,59,61,64,67,71,76,84,96
+LSHTM,Forecast,13,5,2020,14,5,2020,South East,death_inc_line,Branching process,52,27,32,35,38,41,43,45,47,50,52,54,57,60,63,67,71,76,84,99
+LSHTM,Forecast,13,5,2020,15,5,2020,South East,death_inc_line,Branching process,51,25,30,33,36,39,41,43,46,48,51,53,56,59,62,66,70,77,85,101
+LSHTM,Forecast,13,5,2020,16,5,2020,South East,death_inc_line,Branching process,49,22,27,31,34,36,39,41,44,46,49,52,54,58,61,65,71,77,87,103
+LSHTM,Forecast,13,5,2020,17,5,2020,South East,death_inc_line,Branching process,48,20,25,29,32,35,37,40,42,45,48,50,53,56,60,64,70,77,87,107
+LSHTM,Forecast,13,5,2020,18,5,2020,South East,death_inc_line,Branching process,46,18,23,27,30,32,35,38,40,43,46,48,51,55,59,63,69,76,86,107
+LSHTM,Forecast,13,5,2020,19,5,2020,South East,death_inc_line,Branching process,44,17,22,25,28,32,34,37,39,42,44,47,50,54,58,63,68,76,88,113
+LSHTM,Forecast,13,5,2020,20,5,2020,South East,death_inc_line,Branching process,43,15,20,23,27,29,32,35,38,40,43,46,49,52,57,62,68,75,89,116
+LSHTM,Forecast,13,5,2020,21,5,2020,South East,death_inc_line,Branching process,41,14,18,22,25,28,30,33,35,38,41,44,47,51,55,60,67,75,89,115
+LSHTM,Forecast,13,5,2020,22,5,2020,South East,death_inc_line,Branching process,39,12,17,20,23,26,29,31,34,36,39,42,45,49,53,59,66,75,90,120
+LSHTM,Forecast,13,5,2020,23,5,2020,South East,death_inc_line,Branching process,38,11,15,18,21,24,27,29,32,35,38,41,45,49,53,58,65,75,89,123
+LSHTM,Forecast,13,5,2020,24,5,2020,South East,death_inc_line,Branching process,36,10,14,17,20,23,25,28,30,33,36,39,43,47,52,57,64,74,89,120
+LSHTM,Forecast,13,5,2020,25,5,2020,South East,death_inc_line,Branching process,35,9,13,16,19,21,24,27,29,32,35,38,42,46,50,56,63,73,90,125
+LSHTM,Forecast,13,5,2020,26,5,2020,South East,death_inc_line,Branching process,33,8,11,14,17,20,22,25,27,30,33,36,40,44,49,55,63,74,93,127
+LSHTM,Forecast,13,5,2020,27,5,2020,South East,death_inc_line,Branching process,31,7,10,13,16,18,20,23,25,28,31,35,39,43,48,54,63,74,90,130
+LSHTM,Forecast,13,5,2020,28,5,2020,South East,death_inc_line,Branching process,30,6,9,12,14,17,19,22,24,27,30,33,37,41,46,53,61,72,92,135
+LSHTM,Forecast,13,5,2020,29,5,2020,South East,death_inc_line,Branching process,29,5,8,11,13,16,18,21,23,26,29,32,36,40,45,51,60,71,90,137
+LSHTM,Forecast,13,5,2020,30,5,2020,South East,death_inc_line,Branching process,27,4,7,10,13,15,17,20,22,25,27,31,34,39,44,51,58,70,90,140
+LSHTM,Forecast,13,5,2020,31,5,2020,South East,death_inc_line,Branching process,26,4,7,9,11,14,16,18,21,23,26,29,33,37,42,49,58,71,89,139
+LSHTM,Forecast,13,5,2020,1,6,2020,South East,death_inc_line,Branching process,25,3,6,8,10,13,15,17,19,22,25,28,32,36,41,47,56,69,92,146
+LSHTM,Forecast,13,5,2020,2,6,2020,South East,death_inc_line,Branching process,24,3,5,7,10,12,14,16,18,21,24,27,30,35,40,47,56,68,89,149
+LSHTM,Forecast,13,5,2020,3,6,2020,South East,death_inc_line,Branching process,22,2,4,6,8,10,12,15,17,19,22,25,29,33,38,45,54,67,89,156
+LSHTM,Forecast,13,5,2020,4,6,2020,South East,death_inc_line,Branching process,21,2,4,6,8,10,12,14,16,18,21,24,28,32,37,44,53,67,89,146
+LSHTM,Forecast,13,5,2020,5,6,2020,South East,death_inc_line,Branching process,20,1,3,5,7,9,11,13,15,17,20,22,26,30,36,43,52,66,89,153
+LSHTM,Forecast,13,5,2020,13,5,2020,South West,death_inc_line,Branching process,28,11,14,17,19,20,22,24,25,27,28,30,32,34,37,40,43,48,55,68
+LSHTM,Forecast,13,5,2020,14,5,2020,South West,death_inc_line,Branching process,28,10,14,16,18,19,21,23,24,26,28,30,32,34,37,41,45,50,58,70
+LSHTM,Forecast,13,5,2020,15,5,2020,South West,death_inc_line,Branching process,27,9,12,15,17,19,20,22,24,26,27,29,32,35,37,41,45,51,61,79
+LSHTM,Forecast,13,5,2020,16,5,2020,South West,death_inc_line,Branching process,27,8,11,13,15,17,19,21,23,25,27,29,32,34,38,42,46,53,62,84
+LSHTM,Forecast,13,5,2020,17,5,2020,South West,death_inc_line,Branching process,27,8,11,13,15,17,19,21,23,25,27,29,32,34,38,42,47,54,68,92
+LSHTM,Forecast,13,5,2020,18,5,2020,South West,death_inc_line,Branching process,26,6,9,12,14,16,18,20,22,24,26,28,31,34,38,43,49,58,70,97
+LSHTM,Forecast,13,5,2020,19,5,2020,South West,death_inc_line,Branching process,26,5,8,11,13,15,17,19,21,23,26,28,31,34,38,43,49,59,74,106
+LSHTM,Forecast,13,5,2020,20,5,2020,South West,death_inc_line,Branching process,25,5,8,10,13,15,16,18,20,23,25,28,31,35,40,45,51,61,79,113
+LSHTM,Forecast,13,5,2020,21,5,2020,South West,death_inc_line,Branching process,25,4,7,9,12,14,16,18,20,22,25,28,31,34,38,44,52,63,82,124
+LSHTM,Forecast,13,5,2020,22,5,2020,South West,death_inc_line,Branching process,24,4,6,8,10,13,15,17,19,21,24,27,31,35,40,45,54,65,86,136
+LSHTM,Forecast,13,5,2020,23,5,2020,South West,death_inc_line,Branching process,23,3,6,8,10,12,14,16,18,21,23,26,30,34,39,45,54,66,90,139
+LSHTM,Forecast,13,5,2020,24,5,2020,South West,death_inc_line,Branching process,22,2,5,7,9,11,13,15,17,20,22,25,29,33,38,45,54,67,92,156
+LSHTM,Forecast,13,5,2020,25,5,2020,South West,death_inc_line,Branching process,22,2,4,7,9,11,13,15,17,19,22,25,29,33,39,46,56,71,98,163
+LSHTM,Forecast,13,5,2020,26,5,2020,South West,death_inc_line,Branching process,22,2,4,6,8,10,12,14,16,19,22,25,29,33,38,47,59,77,104,179
+LSHTM,Forecast,13,5,2020,27,5,2020,South West,death_inc_line,Branching process,21,1,4,5,7,9,11,13,16,18,21,25,29,34,39,47,58,78,110,200
+LSHTM,Forecast,13,5,2020,28,5,2020,South West,death_inc_line,Branching process,20,1,3,5,7,9,11,13,15,18,20,24,28,33,39,47,60,80,118,210
+LSHTM,Forecast,13,5,2020,29,5,2020,South West,death_inc_line,Branching process,20,1,3,4,6,8,10,12,14,17,20,23,27,32,40,50,63,83,120,224
+LSHTM,Forecast,13,5,2020,30,5,2020,South West,death_inc_line,Branching process,19,0,2,4,6,7,9,11,14,16,19,22,26,31,38,47,60,82,127,251
+LSHTM,Forecast,13,5,2020,31,5,2020,South West,death_inc_line,Branching process,19,0,2,4,6,7,9,11,14,16,19,22,26,32,39,49,65,88,133,257
+LSHTM,Forecast,13,5,2020,1,6,2020,South West,death_inc_line,Branching process,18,0,1,3,4,6,8,10,13,15,18,21,25,31,38,48,63,85,137,288
+LSHTM,Forecast,13,5,2020,2,6,2020,South West,death_inc_line,Branching process,17,0,1,3,4,6,8,10,12,14,17,20,25,30,37,48,65,90,145,304
+LSHTM,Forecast,13,5,2020,3,6,2020,South West,death_inc_line,Branching process,17,0,1,2,4,6,7,9,11,14,17,20,25,30,38,48,65,95,151,317
+LSHTM,Forecast,13,5,2020,4,6,2020,South West,death_inc_line,Branching process,16,0,1,2,3,5,7,9,11,13,16,20,24,30,38,50,67,98,158,360
+LSHTM,Forecast,13,5,2020,5,6,2020,South West,death_inc_line,Branching process,15,0,1,2,3,5,6,8,10,13,15,19,24,29,37,48,65,97,159,369
+LSHTM,Forecast,13,5,2020,13,5,2020,Wales,death_inc_line,Branching process,26,10,13,15,17,19,20,21,23,24,26,27,29,32,34,37,40,45,52,64
+LSHTM,Forecast,13,5,2020,14,5,2020,Wales,death_inc_line,Branching process,26,10,13,15,16,18,20,21,23,24,26,28,30,32,35,38,42,48,56,71
+LSHTM,Forecast,13,5,2020,15,5,2020,Wales,death_inc_line,Branching process,26,9,12,14,16,18,19,21,23,24,26,29,31,33,36,40,45,51,60,78
+LSHTM,Forecast,13,5,2020,16,5,2020,Wales,death_inc_line,Branching process,26,8,11,13,15,17,19,21,22,24,26,28,31,34,38,42,48,55,66,87
+LSHTM,Forecast,13,5,2020,17,5,2020,Wales,death_inc_line,Branching process,26,7,10,12,14,16,18,20,22,24,26,29,32,35,39,43,49,58,71,97
+LSHTM,Forecast,13,5,2020,18,5,2020,Wales,death_inc_line,Branching process,27,6,9,12,14,16,18,20,22,24,27,29,33,36,41,46,53,62,77,111
+LSHTM,Forecast,13,5,2020,19,5,2020,Wales,death_inc_line,Branching process,27,6,9,11,13,15,18,20,22,25,27,30,33,37,42,48,55,67,85,124
+LSHTM,Forecast,13,5,2020,20,5,2020,Wales,death_inc_line,Branching process,27,5,8,11,13,15,17,19,22,24,27,30,33,37,43,49,58,70,92,141
+LSHTM,Forecast,13,5,2020,21,5,2020,Wales,death_inc_line,Branching process,27,5,8,10,12,14,17,19,21,24,27,30,34,38,44,52,62,75,99,161
+LSHTM,Forecast,13,5,2020,22,5,2020,Wales,death_inc_line,Branching process,27,4,7,9,11,13,16,18,21,24,27,30,34,39,45,53,64,81,110,174
+LSHTM,Forecast,13,5,2020,23,5,2020,Wales,death_inc_line,Branching process,27,4,6,9,11,14,16,18,21,23,27,31,35,41,47,57,70,86,117,196
+LSHTM,Forecast,13,5,2020,24,5,2020,Wales,death_inc_line,Branching process,26,3,6,8,10,13,15,18,20,23,26,30,36,41,48,57,69,88,128,223
+LSHTM,Forecast,13,5,2020,25,5,2020,Wales,death_inc_line,Branching process,27,3,5,8,10,12,15,17,20,23,27,31,35,41,49,60,75,94,136,252
+LSHTM,Forecast,13,5,2020,26,5,2020,Wales,death_inc_line,Branching process,26,2,4,7,9,11,14,17,20,23,26,30,35,41,50,60,77,102,148,260
+LSHTM,Forecast,13,5,2020,27,5,2020,Wales,death_inc_line,Branching process,26,1,4,6,8,11,13,16,19,23,26,31,36,43,52,64,80,109,168,321
+LSHTM,Forecast,13,5,2020,28,5,2020,Wales,death_inc_line,Branching process,26,1,4,6,8,10,13,16,19,22,26,30,36,43,53,66,84,116,175,327
+LSHTM,Forecast,13,5,2020,29,5,2020,Wales,death_inc_line,Branching process,26,1,3,5,8,10,13,15,19,22,26,31,37,44,52,66,86,119,192,378
+LSHTM,Forecast,13,5,2020,30,5,2020,Wales,death_inc_line,Branching process,25,1,3,5,7,9,12,14,17,21,25,30,37,44,56,71,95,132,211,444
+LSHTM,Forecast,13,5,2020,31,5,2020,Wales,death_inc_line,Branching process,26,0,2,5,7,9,12,14,18,21,26,31,37,46,57,72,95,142,233,504
+LSHTM,Forecast,13,5,2020,1,6,2020,Wales,death_inc_line,Branching process,25,0,2,4,6,9,11,14,17,21,25,30,37,45,56,74,104,149,254,581
+LSHTM,Forecast,13,5,2020,2,6,2020,Wales,death_inc_line,Branching process,25,0,2,4,6,8,10,14,17,21,25,30,37,47,60,76,108,161,260,582
+LSHTM,Forecast,13,5,2020,3,6,2020,Wales,death_inc_line,Branching process,24,0,1,3,5,7,9,12,16,19,24,30,37,48,61,80,112,165,300,657
+LSHTM,Forecast,13,5,2020,4,6,2020,Wales,death_inc_line,Branching process,23,0,1,3,5,7,9,12,15,19,23,29,37,47,60,83,116,174,319,783
+LSHTM,Forecast,13,5,2020,5,6,2020,Wales,death_inc_line,Branching process,24,0,1,2,5,7,9,12,15,19,24,30,37,47,61,80,117,178,319,869

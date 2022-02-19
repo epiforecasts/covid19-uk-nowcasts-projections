@@ -1,0 +1,181 @@
+Group,Creation Day,Creation Month,Creation Year,Day of Value,Month of Value,Year of Value,Geography,ValueType,Model,Scenario,ModelType,Version,Value,AgeBand,Quantile 0.05,Quantile 0.1,Quantile 0.15,Quantile 0.2,Quantile 0.25,Quantile 0.3,Quantile 0.35,Quantile 0.4,Quantile 0.45,Quantile 0.5,Quantile 0.55,Quantile 0.6,Quantile 0.65,Quantile 0.7,Quantile 0.75,Quantile 0.8,Quantile 0.85,Quantile 0.9,Quantile 0.95
+LSHTM,25,5,2021,25,5,2021,East of England,admissions,EpiNow,MTP,Cases,2.0,6,All,1,2,2,3,4,4,5,5,5,6,7,7,8,9,10,10.2,12,14,17
+LSHTM,25,5,2021,26,5,2021,East of England,admissions,EpiNow,MTP,Cases,2.0,10,All,2,4,5,5,6,7,7.64999999999998,8,9,10,10,11,12,13,14,15,17,20,24
+LSHTM,25,5,2021,27,5,2021,East of England,admissions,EpiNow,MTP,Cases,2.0,5,All,1,2,2,3,3,4,4,4,5,5,6,6,7,8,9,10,11,12,15.05
+LSHTM,25,5,2021,28,5,2021,East of England,admissions,EpiNow,MTP,Cases,2.0,7,All,1,2,3,3,4,5,5,6,6,7,7,8,8,9,10,11,13,15,19
+LSHTM,25,5,2021,29,5,2021,East of England,admissions,EpiNow,MTP,Cases,2.0,9,All,2,3,4,5,5,6,7,7,8,9,9,10,11,12,13,14,16,18,23
+LSHTM,25,5,2021,30,5,2021,East of England,admissions,EpiNow,MTP,Cases,2.0,6,All,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,10,11,12,16
+LSHTM,25,5,2021,31,5,2021,East of England,admissions,EpiNow,MTP,Cases,2.0,5,All,0,1,2,2,2,3,3,4,4,5,5,6,6,7,7,8,9,11,14
+LSHTM,25,5,2021,1,6,2021,East of England,admissions,EpiNow,MTP,Cases,2.0,8,All,2,3,3,4,5,5,6,6.60000000000002,7,8,8,9,10,11,12,13,14,16,20
+LSHTM,25,5,2021,2,6,2021,East of England,admissions,EpiNow,MTP,Cases,2.0,11,All,3,4.90000000000001,6,7,7,8,9,10,11,11,12,13,15,16,17,19,21,24,30
+LSHTM,25,5,2021,3,6,2021,East of England,admissions,EpiNow,MTP,Cases,2.0,7,All,1,2,3,4,4,4,5,6,6,7,8,8,9,10,11,12,14,16,20
+LSHTM,25,5,2021,4,6,2021,East of England,admissions,EpiNow,MTP,Cases,2.0,8,All,2,2,3,4,5,5,6,6.60000000000002,7,8,9,9,10,11,12,14,15,18,24
+LSHTM,25,5,2021,5,6,2021,East of England,admissions,EpiNow,MTP,Cases,2.0,11,All,3,4,5,6,7,8,8,9,10,11,12,13,14,15,17,19,21,25,30
+LSHTM,25,5,2021,6,6,2021,East of England,admissions,EpiNow,MTP,Cases,2.0,7,All,1,2,3,3,4,4,5,6,6,7,7,8,9,10,10,11.2,13,16,20
+LSHTM,25,5,2021,7,6,2021,East of England,admissions,EpiNow,MTP,Cases,2.0,6,All,1,2,2,3,3,4,4,5,5,6,7,7,8,8,10,11,12,15,20
+LSHTM,25,5,2021,8,6,2021,East of England,admissions,EpiNow,MTP,Cases,2.0,10,All,2,3,4,5,6,7,7,8,9,10,11,11.4,12.35,14,15,16,18.15,22,27
+LSHTM,25,5,2021,25,5,2021,London,admissions,EpiNow,MTP,Cases,2.0,12,All,3,5,6,7,8,9,10,11,12,12,13,14,15,16,17,19,22,24,29
+LSHTM,25,5,2021,26,5,2021,London,admissions,EpiNow,MTP,Cases,2.0,13,All,4,5,6,8,9,9,10,11,12,13,14,15,16,17,19,20,22,25,30
+LSHTM,25,5,2021,27,5,2021,London,admissions,EpiNow,MTP,Cases,2.0,14,All,4,5,6.84999999999999,8,9,10,11,12,13,14,15,16,17,19,20,22,24,27,33
+LSHTM,25,5,2021,28,5,2021,London,admissions,EpiNow,MTP,Cases,2.0,12,All,3,5,6,7,8,9,10,11,12,12,13,14,15,16,17,19,22,25,29
+LSHTM,25,5,2021,29,5,2021,London,admissions,EpiNow,MTP,Cases,2.0,9,All,2,4,5,5,6,7,7,8,9,9,10,11,12,13,14,16,17,20,24.05
+LSHTM,25,5,2021,30,5,2021,London,admissions,EpiNow,MTP,Cases,2.0,12,All,3,5,6,7,8,8,9,10,11,12,13,14,15,16,17,18,20,23,28
+LSHTM,25,5,2021,31,5,2021,London,admissions,EpiNow,MTP,Cases,2.0,13,All,3.95,5,7,8,9,10,10,11,12,13,14,16,17,18,20,22,25,27.1,33
+LSHTM,25,5,2021,1,6,2021,London,admissions,EpiNow,MTP,Cases,2.0,15,All,5,6,8,9,10,11,12,13,14,15,16,17,18,20,21,24,27,30.1,39
+LSHTM,25,5,2021,2,6,2021,London,admissions,EpiNow,MTP,Cases,2.0,16,All,4,6,8,9,10,11,12,13,15,16,17,19,20,22,24,26,29,33,42
+LSHTM,25,5,2021,3,6,2021,London,admissions,EpiNow,MTP,Cases,2.0,16.5,All,5,7,8,9,10,11.7,13,14,15,16.5,18,19,21,22.3,25,28,30,35,43
+LSHTM,25,5,2021,4,6,2021,London,admissions,EpiNow,MTP,Cases,2.0,14,All,4,6,7,8,9,10,11,12,13,14,15,17,18,20,22,24,27,32,37.05
+LSHTM,25,5,2021,5,6,2021,London,admissions,EpiNow,MTP,Cases,2.0,12,All,3,4,6,7,8,8,9,10,11,12,13,14,15.35,17,18,20,23,27,36.05
+LSHTM,25,5,2021,6,6,2021,London,admissions,EpiNow,MTP,Cases,2.0,15,All,4,6,7,8,9,10,11,12,14,15,16,17,19,21,23,27,31,36.1,47
+LSHTM,25,5,2021,7,6,2021,London,admissions,EpiNow,MTP,Cases,2.0,17,All,5,7,8,10,11,12,14,15,16,17,19,20,22,24,26,29,34,41.1,53
+LSHTM,25,5,2021,8,6,2021,London,admissions,EpiNow,MTP,Cases,2.0,18,All,5,7,9,10,12,13,14,15,17,18,20,22,24,27,30,33,38,47,59
+LSHTM,25,5,2021,25,5,2021,Midlands,admissions,EpiNow,MTP,Cases,2.0,13,All,6,7,8,9,10,10,11,12,12,13,14,14,15,17,18,19,21,22,26
+LSHTM,25,5,2021,26,5,2021,Midlands,admissions,EpiNow,MTP,Cases,2.0,11,All,4,6,7,7,8,9,9,10,11,11,12,13,13,14,15,16,17,19,22
+LSHTM,25,5,2021,27,5,2021,Midlands,admissions,EpiNow,MTP,Cases,2.0,10,All,3,5,6,6,7,8,8,9,9,10,10,11,12,12,13,14,15,17,19
+LSHTM,25,5,2021,28,5,2021,Midlands,admissions,EpiNow,MTP,Cases,2.0,10,All,4,5,5,6,7,7,8,8,9,10,10,11,11,12,13,14,15,16,19
+LSHTM,25,5,2021,29,5,2021,Midlands,admissions,EpiNow,MTP,Cases,2.0,12,All,5,6,7,8,9,9,10,11,11,12,13,13,14,15,16,17,19,21,25
+LSHTM,25,5,2021,30,5,2021,Midlands,admissions,EpiNow,MTP,Cases,2.0,10,All,3,5,6,6,7,8,8,9,9,10,10,11,12,12,13,14,15,17,19
+LSHTM,25,5,2021,31,5,2021,Midlands,admissions,EpiNow,MTP,Cases,2.0,15,All,6,7.90000000000001,9,10,11,11,12,13,14,15,16,16,17,18,19,21,22,24,27.05
+LSHTM,25,5,2021,1,6,2021,Midlands,admissions,EpiNow,MTP,Cases,2.0,13,All,5,6,8,9,9,10,11,11,12,13,13,14,15,16,17,18,20,21,24
+LSHTM,25,5,2021,2,6,2021,Midlands,admissions,EpiNow,MTP,Cases,2.0,11,All,4,6,6,7,8,8,9,10,10,11,12,12,13,14,15,16,17,19,22
+LSHTM,25,5,2021,3,6,2021,Midlands,admissions,EpiNow,MTP,Cases,2.0,10,All,3,4,5,6,7,7,8,8,9,10,10,11,11,12,13,14,15,17,19
+LSHTM,25,5,2021,4,6,2021,Midlands,admissions,EpiNow,MTP,Cases,2.0,9,All,3,4,5,6,6,7,7,8,9,9,10,10,11,12,12,13,14,16,19
+LSHTM,25,5,2021,5,6,2021,Midlands,admissions,EpiNow,MTP,Cases,2.0,11,All,4,6,7,8,8,9,10,10,11,11,12,13,14,15,16,17,19,21,24
+LSHTM,25,5,2021,6,6,2021,Midlands,admissions,EpiNow,MTP,Cases,2.0,9,All,3,4,5,5,6,7,7,8,9,9,10,11,11,12,13,14,15,17,20
+LSHTM,25,5,2021,7,6,2021,Midlands,admissions,EpiNow,MTP,Cases,2.0,14,All,6,7,8,9,10,11,12,12,13,14,15,16,16,18,19,20,22,24,28
+LSHTM,25,5,2021,8,6,2021,Midlands,admissions,EpiNow,MTP,Cases,2.0,12,All,4,6,7,8,8,9,10,11,11,12,13,14,14,16,17,18,19,21,25
+LSHTM,25,5,2021,25,5,2021,North East and Yorkshire,admissions,EpiNow,MTP,Cases,2.0,9,All,2,3,4,5,5,6,7,7,8,9,9,10,11,12,13,14,16,18,23
+LSHTM,25,5,2021,26,5,2021,North East and Yorkshire,admissions,EpiNow,MTP,Cases,2.0,16,All,5,6,8,9,11,12,13,14,15,16,18,19,20,21,23,26,29,32,38
+LSHTM,25,5,2021,27,5,2021,North East and Yorkshire,admissions,EpiNow,MTP,Cases,2.0,13,All,3,5,6,7.80000000000001,8,9,10,11,12,13,14,15,16,17,19,21,23,27,34
+LSHTM,25,5,2021,28,5,2021,North East and Yorkshire,admissions,EpiNow,MTP,Cases,2.0,14,All,3.95,5,6,7,9,9,11,12,13,14,15,15,17,18,19,21.2,24,28,33
+LSHTM,25,5,2021,29,5,2021,North East and Yorkshire,admissions,EpiNow,MTP,Cases,2.0,9,All,2,3,4,5,5,6,7,7,8,9,9,10,11,12,13,14,16,18,21
+LSHTM,25,5,2021,30,5,2021,North East and Yorkshire,admissions,EpiNow,MTP,Cases,2.0,11,All,3,4,5,6,7,8,9,10,10,11,12,13,14,15,16,18,20,22,27.05
+LSHTM,25,5,2021,31,5,2021,North East and Yorkshire,admissions,EpiNow,MTP,Cases,2.0,10,All,2,3,5,5,6,7,7,8,9,10,11,11,12,13,15,17,19,21,27
+LSHTM,25,5,2021,1,6,2021,North East and Yorkshire,admissions,EpiNow,MTP,Cases,2.0,9,All,2,3,4,5,5,6,7,7,8,9,10,11,12,13,14,15,17,19,25
+LSHTM,25,5,2021,2,6,2021,North East and Yorkshire,admissions,EpiNow,MTP,Cases,2.0,18,All,5,7,9,10,12,13,14,15.6,17,18,19,20,21.35,23,25.25,28.2,32,37,46
+LSHTM,25,5,2021,3,6,2021,North East and Yorkshire,admissions,EpiNow,MTP,Cases,2.0,14,All,3.95,5,6.84999999999999,8,9,10,11,12,12,14,15,16,17,19,20,22,25,28,36
+LSHTM,25,5,2021,4,6,2021,North East and Yorkshire,admissions,EpiNow,MTP,Cases,2.0,14,All,4,6,7,8,9,10,11,12,13,14,15,16,17,19,21,23,25,28,35
+LSHTM,25,5,2021,5,6,2021,North East and Yorkshire,admissions,EpiNow,MTP,Cases,2.0,9,All,2,3,4,5,6,6,7,8,8,9,10,11,12,13,14,16,18,20,25
+LSHTM,25,5,2021,6,6,2021,North East and Yorkshire,admissions,EpiNow,MTP,Cases,2.0,12,All,3,5,6,7,8,9,9.64999999999998,10,11,12,13,14,16,17,18,20,22,25.1,32
+LSHTM,25,5,2021,7,6,2021,North East and Yorkshire,admissions,EpiNow,MTP,Cases,2.0,10,All,3,4,5,6,6,7,8,9,10,10,11,12,13,14,16,17,19,23,29.05
+LSHTM,25,5,2021,8,6,2021,North East and Yorkshire,admissions,EpiNow,MTP,Cases,2.0,10,All,2,3,4,5,6,6,7,8,9,10,11,12,13,14,15,17,19,21,26
+LSHTM,25,5,2021,25,5,2021,North West,admissions,EpiNow,MTP,Cases,2.0,23,All,9,12,14,16,17,18,20,21,22,23,25,27,28,30,32,34,37,40,46
+LSHTM,25,5,2021,26,5,2021,North West,admissions,EpiNow,MTP,Cases,2.0,30.5,All,13,16,19,21,23,24,26,28,29,30.5,32,34,36,37.3,41,43,46,52,60
+LSHTM,25,5,2021,27,5,2021,North West,admissions,EpiNow,MTP,Cases,2.0,28,All,11,14,17,19,21,22,24,25,27,28,30,32,33,35,38,41,45,49,56.05
+LSHTM,25,5,2021,28,5,2021,North West,admissions,EpiNow,MTP,Cases,2.0,25,All,10,13,15,17,18,20,21,23,24,25,26.4500000000001,28,29,31,33,36,39,43,51
+LSHTM,25,5,2021,29,5,2021,North West,admissions,EpiNow,MTP,Cases,2.0,23,All,10,12,14,15,17,18,19,20,22,23,25,26,27,28,30,33,36,40,48.05
+LSHTM,25,5,2021,30,5,2021,North West,admissions,EpiNow,MTP,Cases,2.0,32,All,13,16,19,21,23,25,26,28,30,32,34,35,37,39,42,46,50.15,56.1,67
+LSHTM,25,5,2021,31,5,2021,North West,admissions,EpiNow,MTP,Cases,2.0,39,All,17,21,24,26,28.75,30.7,33,35,36.55,39,41,43,46,49,52,56,61,65,76
+LSHTM,25,5,2021,1,6,2021,North West,admissions,EpiNow,MTP,Cases,2.0,35,All,14,19,22,24,26,27,29,31,33,35,36,38,41,44,47,50,54,61,72
+LSHTM,25,5,2021,2,6,2021,North West,admissions,EpiNow,MTP,Cases,2.0,44,All,19,24,27,30,32,34,37,40,42,44,46,49,52.35,57,61,65,69,75,92
+LSHTM,25,5,2021,3,6,2021,North West,admissions,EpiNow,MTP,Cases,2.0,42,All,18,23,26,28,30,33,35,38,40,42,44,46.4,49,53,56,61,66.15,76,91
+LSHTM,25,5,2021,4,6,2021,North West,admissions,EpiNow,MTP,Cases,2.0,37,All,16,20,23,25,28,30,31,33,35,37,39,41.4,44.35,47,51,55,61,68,84
+LSHTM,25,5,2021,5,6,2021,North West,admissions,EpiNow,MTP,Cases,2.0,33,All,13,16,19,21,23,26,28,29,31,33,36,38,41,44,47,52,55,61,73
+LSHTM,25,5,2021,6,6,2021,North West,admissions,EpiNow,MTP,Cases,2.0,47,All,18,24,27,30,33,35,38,41,44,47,49.4500000000001,53,56,60,64,70,77,86,105
+LSHTM,25,5,2021,7,6,2021,North West,admissions,EpiNow,MTP,Cases,2.0,57,All,24,29.9,34,38,41,44,46,50,53,57,60,64,68,73,78.25,86,95,106,126
+LSHTM,25,5,2021,8,6,2021,North West,admissions,EpiNow,MTP,Cases,2.0,50,All,20,26,30,33.8,36,39,42,45,47,50,54,57,61,65,71,75,83.15,96.1,116.05
+LSHTM,25,5,2021,25,5,2021,Northern Ireland,admissions,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,1,1,1,1,2,2,2.39999999999998,3,3,4,4,5,6,9
+LSHTM,25,5,2021,26,5,2021,Northern Ireland,admissions,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,1,2,2,2,2,3,3,4,4,6,7
+LSHTM,25,5,2021,27,5,2021,Northern Ireland,admissions,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,1,1,1,1,1,2,2,2,3,3,4,4,5,6.04999999999996
+LSHTM,25,5,2021,28,5,2021,Northern Ireland,admissions,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,1,2,2,2,3,3,3,4,5,5,7,8
+LSHTM,25,5,2021,29,5,2021,Northern Ireland,admissions,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,1,1,1,1,1,2,2,2,2,3,3,4,5,6
+LSHTM,25,5,2021,30,5,2021,Northern Ireland,admissions,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,3,4,5,7
+LSHTM,25,5,2021,31,5,2021,Northern Ireland,admissions,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,1,2,2,2,3,3,3,4,4,5,5.20000000000005,7,8,12
+LSHTM,25,5,2021,1,6,2021,Northern Ireland,admissions,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,1,2,2,2,2,3,3,4,5,6,8
+LSHTM,25,5,2021,2,6,2021,Northern Ireland,admissions,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,1,1,1,1,2,2,2,2,3,3,4,4,6,7.04999999999996
+LSHTM,25,5,2021,3,6,2021,Northern Ireland,admissions,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,1,1,1,1,1,2,2,2,2,3,3,4,5,6
+LSHTM,25,5,2021,4,6,2021,Northern Ireland,admissions,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,2,2,2,2,3,3,4,4,5,7,9
+LSHTM,25,5,2021,5,6,2021,Northern Ireland,admissions,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,3,4,4,6
+LSHTM,25,5,2021,6,6,2021,Northern Ireland,admissions,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,3,4,5,7
+LSHTM,25,5,2021,7,6,2021,Northern Ireland,admissions,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,1,2,2,2,3,3,3,4,4.29999999999995,5,6,7,8,11
+LSHTM,25,5,2021,8,6,2021,Northern Ireland,admissions,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,1,2,2,2,3,3,4,4,5,6,9
+LSHTM,25,5,2021,25,5,2021,Scotland,admissions,EpiNow,MTP,Cases,2.0,9,All,1,2,3,3,4,5,5,6,7,9,10,11,12,14,15,18,21,24,30
+LSHTM,25,5,2021,26,5,2021,Scotland,admissions,EpiNow,MTP,Cases,2.0,5,All,0,1,1,2,2,2,3,3,4,5,5,6,7,8,9,11,12,15,21
+LSHTM,25,5,2021,27,5,2021,Scotland,admissions,EpiNow,MTP,Cases,2.0,5,All,0,1,1,2,2,3,3,4,5,5,6,7,7,8,9.25,11,13,16,21
+LSHTM,25,5,2021,28,5,2021,Scotland,admissions,EpiNow,MTP,Cases,2.0,7,All,0,1,2,3,3,4,5,5,6,7,7,8,9,10,12,13,16,19,24
+LSHTM,25,5,2021,29,5,2021,Scotland,admissions,EpiNow,MTP,Cases,2.0,8,All,1,2,2,3,4,5,5,6,7,8,9,10,12,13,15,17,20,24,32
+LSHTM,25,5,2021,30,5,2021,Scotland,admissions,EpiNow,MTP,Cases,2.0,8,All,1,1.90000000000001,3,3,4,5,5,6,7,8,9,10,11,12,14,16,19,23,28
+LSHTM,25,5,2021,31,5,2021,Scotland,admissions,EpiNow,MTP,Cases,2.0,6,All,0,1,2,2,3,4,4,5,5,6,7,8,8,10,11,13,15,18,25.05
+LSHTM,25,5,2021,1,6,2021,Scotland,admissions,EpiNow,MTP,Cases,2.0,12,All,1,2,4,5,6,6.69999999999999,8,9,10,12,13,15,16,18,21,23,29,34,44
+LSHTM,25,5,2021,2,6,2021,Scotland,admissions,EpiNow,MTP,Cases,2.0,6,All,0,1,2,2,3,4,4,5,5,6,7,8,9,10,11,13,16,19.1,28
+LSHTM,25,5,2021,3,6,2021,Scotland,admissions,EpiNow,MTP,Cases,2.0,7,All,0,1,2,3,3,4,5,5,6,7,8,9,9,10,12,14,16,20,26
+LSHTM,25,5,2021,4,6,2021,Scotland,admissions,EpiNow,MTP,Cases,2.0,9,All,1,2,3,3,4,5,6,7,8,9,10,12,13,15,17,20,23,27.1,39.05
+LSHTM,25,5,2021,5,6,2021,Scotland,admissions,EpiNow,MTP,Cases,2.0,11,All,1,2.90000000000001,4,5,6,7,8,8,10,11,12,14,15,17,20,24,27,34,49
+LSHTM,25,5,2021,6,6,2021,Scotland,admissions,EpiNow,MTP,Cases,2.0,10,All,1,2,3,4,5,6,7,8,9,10,11,13,14,16,18,22,25,31,43.05
+LSHTM,25,5,2021,7,6,2021,Scotland,admissions,EpiNow,MTP,Cases,2.0,8,All,1,2,3,3,4,5,5,6,7,8,10,11,12,14,16,18,21.15,26,37
+LSHTM,25,5,2021,8,6,2021,Scotland,admissions,EpiNow,MTP,Cases,2.0,15,All,2,3,4,6,7,8,9.64999999999998,11,13,15,17,19,21,24,27,32,38,47,61.05
+LSHTM,25,5,2021,25,5,2021,South East,admissions,EpiNow,MTP,Cases,2.0,3,All,0,1,1,1,1,2,2,2,3,3,3,4,4,4,5,5,6,8,10
+LSHTM,25,5,2021,26,5,2021,South East,admissions,EpiNow,MTP,Cases,2.0,4,All,0,1,1,2,2,2,3,3,3,4,4,5,5,6,6,7,8,9,12
+LSHTM,25,5,2021,27,5,2021,South East,admissions,EpiNow,MTP,Cases,2.0,4,All,1,1,1,2,2,3,3,3,4,4,5,5,6,6,7,8,9,10,12
+LSHTM,25,5,2021,28,5,2021,South East,admissions,EpiNow,MTP,Cases,2.0,4,All,0,1,1,2,2,3,3,3,3.55000000000001,4,4,5,5,6,7,8,8,10,12
+LSHTM,25,5,2021,29,5,2021,South East,admissions,EpiNow,MTP,Cases,2.0,3,All,0,1,1,1,2,2,2,2,3,3,3,4,4,5,5,6,7,8,10
+LSHTM,25,5,2021,30,5,2021,South East,admissions,EpiNow,MTP,Cases,2.0,5,All,1,1,2,3,3,4,4,4,5,5,6,6,7,8,9,10,11,13,16
+LSHTM,25,5,2021,31,5,2021,South East,admissions,EpiNow,MTP,Cases,2.0,3,All,0,1,1,1,2,2,2,3,3,3,4,4,5,5,6,6,7,9,11
+LSHTM,25,5,2021,1,6,2021,South East,admissions,EpiNow,MTP,Cases,2.0,3,All,0,1,1,1,2,2,2,3,3,3,4,4,4,5,6,6,7,8,11
+LSHTM,25,5,2021,2,6,2021,South East,admissions,EpiNow,MTP,Cases,2.0,4,All,1,1,2,2,2,3,3,4,4,4,5,5,6,7,7,8,9,11,14
+LSHTM,25,5,2021,3,6,2021,South East,admissions,EpiNow,MTP,Cases,2.0,5,All,1,1,2,2,2,3,3,4,4,5,5,6,6,7,8,9,10,12,15
+LSHTM,25,5,2021,4,6,2021,South East,admissions,EpiNow,MTP,Cases,2.0,5,All,1,1,2,2,3,3,4,4,4,5,5,6,7,7,8,9,10,12,15
+LSHTM,25,5,2021,5,6,2021,South East,admissions,EpiNow,MTP,Cases,2.0,4,All,0,1,1,2,2,2,3,3,3,4,4,5,5,6,6,7,8,10,12
+LSHTM,25,5,2021,6,6,2021,South East,admissions,EpiNow,MTP,Cases,2.0,6,All,1,2,3,3,4,4,5,5,6,6,7,8,8,9,10,12,14,16,21
+LSHTM,25,5,2021,7,6,2021,South East,admissions,EpiNow,MTP,Cases,2.0,4,All,0,1,1,2,2,2,3,3,3,4,4,5,6,6,7,8,9,11,14.05
+LSHTM,25,5,2021,8,6,2021,South East,admissions,EpiNow,MTP,Cases,2.0,4,All,0,1,1,2,2,2,3,3,3,4,4,5,5,6,6,7,8.14999999999998,10,13
+LSHTM,25,5,2021,25,5,2021,South West,admissions,EpiNow,MTP,Cases,2.0,4,All,0,1,1,2,2,2,3,3,3,4,4,5,5,6,6.25,7,9,10,13
+LSHTM,25,5,2021,26,5,2021,South West,admissions,EpiNow,MTP,Cases,2.0,5,All,0.950000000000003,1,2,2,3,3,4,4,5,5,6,7,7,8,9,10,11,13,17
+LSHTM,25,5,2021,27,5,2021,South West,admissions,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,2,2,2,3,3,3,4,4,5,6,6,8
+LSHTM,25,5,2021,28,5,2021,South West,admissions,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,1,2,2,2,2,3,3,4,4,5,6,7.04999999999996
+LSHTM,25,5,2021,29,5,2021,South West,admissions,EpiNow,MTP,Cases,2.0,3,All,0,1,1,1,2,2,2,3,3,3,4,4,4,5,6,6,7,8,10
+LSHTM,25,5,2021,30,5,2021,South West,admissions,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,2,2,2,2,3,3,3,4,4,5,6,7,8,10
+LSHTM,25,5,2021,31,5,2021,South West,admissions,EpiNow,MTP,Cases,2.0,3,All,0,1,1,1,1,2,2,2,3,3,3,4,4,5,5,6,7,8,11
+LSHTM,25,5,2021,1,6,2021,South West,admissions,EpiNow,MTP,Cases,2.0,4,All,0,1,1,2,2,2,3,3,3,4,4,4,5,5,6,7,8,9,12
+LSHTM,25,5,2021,2,6,2021,South West,admissions,EpiNow,MTP,Cases,2.0,5,All,1,1,2,2,3,3,4,4,5,5,6,6,7,8,9,10,11,13,16
+LSHTM,25,5,2021,3,6,2021,South West,admissions,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,2,2,2,2,3,3,3,4,4,5,6,8
+LSHTM,25,5,2021,4,6,2021,South West,admissions,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,1,2,2,2,2,3,3,3,4,4,5,7
+LSHTM,25,5,2021,5,6,2021,South West,admissions,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,2,2,2,3,3,4,4,4,5,5,6,7,8,11.05
+LSHTM,25,5,2021,6,6,2021,South West,admissions,EpiNow,MTP,Cases,2.0,2,All,0,0,1,1,1,1,2,2,2,2,3,3,3,4,4,5,6,7,9
+LSHTM,25,5,2021,7,6,2021,South West,admissions,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,2,2,2,2,3,3,4,4,5,5,6,7,8,11
+LSHTM,25,5,2021,8,6,2021,South West,admissions,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,2,2,3,3,3,4,4,5,5,6,6,8,9,13
+LSHTM,25,5,2021,25,5,2021,United Kingdom,admissions,EpiNow,MTP,Cases,2.0,93,All,67,73,77,80,83,85,87,89,91,93,95,97,99,102,106,109,113,118,126
+LSHTM,25,5,2021,26,5,2021,United Kingdom,admissions,EpiNow,MTP,Cases,2.0,106,All,77,83,86,90,93,97,99,102,104,106,108,111,114,116.3,120,124,129,134,143.05
+LSHTM,25,5,2021,27,5,2021,United Kingdom,admissions,EpiNow,MTP,Cases,2.0,97,All,67,74,78,81,84,87,90,92,95,97,99,102,104,107,110,113,117,122,131.05
+LSHTM,25,5,2021,28,5,2021,United Kingdom,admissions,EpiNow,MTP,Cases,2.0,89.5,All,62.95,69,73.85,76,78.75,81,83,85,87.55,89.5,92,93,95,98,101,104,109,114,121
+LSHTM,25,5,2021,29,5,2021,United Kingdom,admissions,EpiNow,MTP,Cases,2.0,89,All,64,69,73,76,78,81,83,85,87,89,91,93,95,98,100,102.2,107.15,114,123
+LSHTM,25,5,2021,30,5,2021,United Kingdom,admissions,EpiNow,MTP,Cases,2.0,97,All,68,76,79,82,85,88,90,92,94,97,99,102,104,107,110.25,114,118,124,132
+LSHTM,25,5,2021,31,5,2021,United Kingdom,admissions,EpiNow,MTP,Cases,2.0,106,All,74,81,86,89,93,96,98,101,104,106,109,112,115,118.3,123,126,131,137,148
+LSHTM,25,5,2021,1,6,2021,United Kingdom,admissions,EpiNow,MTP,Cases,2.0,112,All,79,88,92,96,99,102,105,108,110,112,115,118,122,125,129,133,138,146,157.05
+LSHTM,25,5,2021,2,6,2021,United Kingdom,admissions,EpiNow,MTP,Cases,2.0,130,All,92,100,106,110,115,118,121,124,127,130,133,136,140,144,149,155,162,171,184
+LSHTM,25,5,2021,3,6,2021,United Kingdom,admissions,EpiNow,MTP,Cases,2.0,119,All,81.95,89,94,99,103,106,110,113,116,119,123,127,130,134,139,143,147,158,170.05
+LSHTM,25,5,2021,4,6,2021,United Kingdom,admissions,EpiNow,MTP,Cases,2.0,111,All,71.95,80,86,90,93,97,100,103.6,107,111,113,117,121,124,128,134,140,146.1,161.05
+LSHTM,25,5,2021,5,6,2021,United Kingdom,admissions,EpiNow,MTP,Cases,2.0,111,All,73,81,87,91,95,98,101,104,108,111,115,117,121,125,130.25,136,141.15,154,167.05
+LSHTM,25,5,2021,6,6,2021,United Kingdom,admissions,EpiNow,MTP,Cases,2.0,122,All,80,88,95,99,103,106,110.65,114.6,118,122,124.45,128,134,137,143,151,157.15,167.1,187
+LSHTM,25,5,2021,7,6,2021,United Kingdom,admissions,EpiNow,MTP,Cases,2.0,132,All,85,93.9,99.85,106,111,116,119,125,128,132,136,140.4,146,151,160,167,174,187.1,210.05
+LSHTM,25,5,2021,8,6,2021,United Kingdom,admissions,EpiNow,MTP,Cases,2.0,142,All,90,99.9,106,112,117,123,128,132,137,142,147,153,158,163,170,177,189,207,229
+LSHTM,25,5,2021,25,5,2021,Wales,admissions,EpiNow,MTP,Cases,2.0,7,All,2,3,4,4,5,5,6,6,7,7,8,8,9,10,10,11,12,14,18
+LSHTM,25,5,2021,26,5,2021,Wales,admissions,EpiNow,MTP,Cases,2.0,4,All,1,1,2,2,2,3,3,3,4,4,5,5,6,6,7,7,8,10,12
+LSHTM,25,5,2021,27,5,2021,Wales,admissions,EpiNow,MTP,Cases,2.0,7,All,1.95,2,3,4,4,5,5,6,6,7,7,8,9,9,10,11,12,14,16
+LSHTM,25,5,2021,28,5,2021,Wales,admissions,EpiNow,MTP,Cases,2.0,4,All,0,1,1,2,2,2,3,3,3,4,4,4,5,5,6,6,7,8,10
+LSHTM,25,5,2021,29,5,2021,Wales,admissions,EpiNow,MTP,Cases,2.0,5,All,1,2,3,3,3,4,4,5,5,5,6,6,7,8,8,9,10.15,12,15
+LSHTM,25,5,2021,30,5,2021,Wales,admissions,EpiNow,MTP,Cases,2.0,5,All,1,2,2,3,3,4,4,5,5,5,6,6,7,7,8,9,10,11,13
+LSHTM,25,5,2021,31,5,2021,Wales,admissions,EpiNow,MTP,Cases,2.0,5,All,1,2,2,3,3,3,4,4,5,5,6,6,7,7,8,9,10,11,13
+LSHTM,25,5,2021,1,6,2021,Wales,admissions,EpiNow,MTP,Cases,2.0,7,All,2,3,3,4,4,5,5,6,6,7,7,8,8,9,10,11,12,14,16.05
+LSHTM,25,5,2021,2,6,2021,Wales,admissions,EpiNow,MTP,Cases,2.0,4,All,0,1,1,2,2,3,3,3,4,4,4,5,5,6,6,7,8,9,10
+LSHTM,25,5,2021,3,6,2021,Wales,admissions,EpiNow,MTP,Cases,2.0,6,All,1,2,3,3,4,4,5,5,6,6,7,7,8,8,9,10,11,13,16
+LSHTM,25,5,2021,4,6,2021,Wales,admissions,EpiNow,MTP,Cases,2.0,3,All,0,1,1,1,2,2,2,3,3,3,4,4,5,5,5,6,7,8,10
+LSHTM,25,5,2021,5,6,2021,Wales,admissions,EpiNow,MTP,Cases,2.0,5,All,1,1.90000000000001,2,2,3,3,4,4,4,5,5,6,6,7,8,9,9,11,13
+LSHTM,25,5,2021,6,6,2021,Wales,admissions,EpiNow,MTP,Cases,2.0,5,All,1,2,2,3,3,3,4,4,4.55000000000001,5,5,6,6,7,8,8,9,11,14
+LSHTM,25,5,2021,7,6,2021,Wales,admissions,EpiNow,MTP,Cases,2.0,5,All,1,1,2,2,3,3,4,4,4,5,5,6,6,7,7,8,9,11,14
+LSHTM,25,5,2021,8,6,2021,Wales,admissions,EpiNow,MTP,Cases,2.0,6,All,1,2,3,3,4,4,5,5,6,6,7,7,8,9,10,10.2,12,14,17
+LSHTM,25,5,2021,25,5,2021,England,admissions,EpiNow,MTP,Cases,2.0,70,All,21,31,36,43,47,51,58,61,65,70,75,81,86,94,101.25,108.2,123,136,164
+LSHTM,25,5,2021,26,5,2021,England,admissions,EpiNow,MTP,Cases,2.0,89.5,All,28.95,39,48,54,62,66,72.65,78,84,89.5,96,104,109,116.3,127,137,150,170,203
+LSHTM,25,5,2021,27,5,2021,England,admissions,EpiNow,MTP,Cases,2.0,76,All,23,32,38.85,46.8,51,57,61,66,72,76,83,88,94,101,110,121,133,148,177.1
+LSHTM,25,5,2021,28,5,2021,England,admissions,EpiNow,MTP,Cases,2.0,74,All,21.95,31,36,43,49,54,59,64,69.55,74,77.4500000000001,83,88,95,103,113.2,126,143,170.05
+LSHTM,25,5,2021,29,5,2021,England,admissions,EpiNow,MTP,Cases,2.0,68,All,21,30,36,40,46,50,54,58,64,68,73,78,83,90,97,106,118,133,161.1
+LSHTM,25,5,2021,30,5,2021,England,admissions,EpiNow,MTP,Cases,2.0,79,All,24,33,41,47,52,59,62,68,72,79,84,89,96,102,110,122,134.15,151.1,183.05
+LSHTM,25,5,2021,31,5,2021,England,admissions,EpiNow,MTP,Cases,2.0,88,All,28.95,39.9,49,53,59.75,65.7,69,76,81.55,88,94,100,107,115,124,136,150,165.1,199.05
+LSHTM,25,5,2021,1,6,2021,England,admissions,EpiNow,MTP,Cases,2.0,87,All,28,39,47,54,59,63,70,74.6,80,87,91,97,105,114,123,133,147,164.1,203
+LSHTM,25,5,2021,2,6,2021,England,admissions,EpiNow,MTP,Cases,2.0,109,All,37,49.9,60,67,74,80,88,96.6,104,109,117,124,134.7,147,158.25,172.2,188,212,262
+LSHTM,25,5,2021,3,6,2021,England,admissions,EpiNow,MTP,Cases,2.0,96.5,All,31.95,42,50.85,58,63,69.7,76,84,88,96.5,102,109.4,116,126.3,137,150,165.15,190,232
+LSHTM,25,5,2021,4,6,2021,England,admissions,EpiNow,MTP,Cases,2.0,89,All,30,39,47,54,61,66,71,76.6,83,89,95,101.4,110.35,119,129,142,156,179,221.05
+LSHTM,25,5,2021,5,6,2021,England,admissions,EpiNow,MTP,Cases,2.0,83,All,25,34,43,50,55,61,67,71,77,83,91,98,105.35,115,123,137,151,172,211.1
+LSHTM,25,5,2021,6,6,2021,England,admissions,EpiNow,MTP,Cases,2.0,98,All,30,43,52,57,65,70,77.65,84,92,98,105.45,114,122,133,142,159.2,178,203.2,254
+LSHTM,25,5,2021,7,6,2021,England,admissions,EpiNow,MTP,Cases,2.0,111,All,39,50.9,59,69,74,82,89,96,102,111,119,128,137,148,161.25,177,198,228.1,281.1
+LSHTM,25,5,2021,8,6,2021,England,admissions,EpiNow,MTP,Cases,2.0,107,All,33,46,56,64.8,71,78,85,93,99,107,117,125.4,134.35,147,160,172,193.45,226.1,279.05
