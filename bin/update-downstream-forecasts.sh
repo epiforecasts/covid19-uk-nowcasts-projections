@@ -1,9 +1,7 @@
 #!/bin/bash
 
 # Update the regional secondary function  as needed
-cd regional-secondary
-git pull
-cd ..
+git submodule update --init
 
 # Make a admissions forecast using cases
 Rscript format-forecast/update-admissions-using-cases.R
