@@ -63,10 +63,10 @@ regional_epinow(
   target_date = target_date,
   target_folder = "forecast/cases/regional",
   summary_args = list(summary_dir = paste0(
-    "forecast/linelist-cases/summary/",
+    "forecast/cases/summary/",
     target_date
   )),
-  logs = "logs/linelist-cases",
+  logs = "logs/cases",
   output = c("region", "summary", "samples", "timing", "fit")
 )
 
