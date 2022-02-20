@@ -5,7 +5,7 @@ This repository contains the code required to:
 
 - Download and clean public COVID-19 surveillance data.
 - Estimate the time-varying reproduction number.
-- Project future hospital admissions assuming no changes in transmissibility beyond reductions in susceptibility due to infections..
+- Project future hospital admissions assuming no changes in transmissibility beyond reductions in susceptibility due to infections.
 - Project other dependent metrics such as fatalities, Hospital bed usage, and mechanical ventilation bed occupancy as discrete scaled convolutions of hospital admissions and estimated parametric delay distributions.
 - Produce a real-time report summarising these outputs.
 
