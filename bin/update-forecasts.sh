@@ -25,4 +25,4 @@ Rscript format-forecast/combine-forecasts.R
 Rscript format-forecast/update-convolutions-summaries.R
 
 # Update summary reports
-bash bin/update-summary-reports.sh
+bash bin/update-summary-report.sh
