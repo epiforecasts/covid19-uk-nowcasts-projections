@@ -19,13 +19,9 @@ occupancy <- fread(
   here(paste0("format-forecast/data/occupancy-using-admissions/",
               forecast_date, "-lshtm-occupancy-forecast.csv"))
 )
-mv <- fread(
-  here(paste0("format-forecast/data/mv-using-admissions/", forecast_date,
-              "-lshtm-mv-forecast.csv"))
-)
 
 forecast <- rbindlist(list(
-  hospital_admissions, deaths, occupancy, mv
+  hospital_admissions, deaths, occupancy
 ))
 
 round_if_numeric <- function(col) {
@@ -35,6 +31,7 @@ round_if_numeric <- function(col) {
   return(col)
 }
 forecast <- forecast[, map(.SD, round_if_numeric)]
+
 dir.create(here::here("format-forecast", "data", "all"),
            showWarnings = FALSE, recursive = TRUE)
 # Save combined

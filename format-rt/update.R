@@ -224,6 +224,6 @@ dir.create(here::here("format-rt", "data", "time-series"),
 # Report ------------------------------------------------------------------
 ## All estimates
 data.table::fwrite(
-  combined,
+  combined[, c("date", "type") := NULL],
   here::here("format-rt", "data", "time-series", paste0(creation_date, "-time-series-r-lshtm.csv"))
 )
