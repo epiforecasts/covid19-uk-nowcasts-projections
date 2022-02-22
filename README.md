@@ -25,7 +25,7 @@ bash bin/update-forecasts.sh
 
 ## Estimates
 
-A summary report is available in the `docs/` directory. The latest version can be accessed [here](https://epiforecasts.io/covid19-uk-nowcasts-projections/nowcast-and-projections.html). Its source is in `reports/nowcast-and-projections/report.Rmd`.
+A summary report is available in the `docs/` directory. The latest version can be accessed [here](https://epiforecasts.io/covid19-uk-nowcasts-projections). Its source is in `reports/nowcast-and-projections/report.Rmd`.
 
 Individual data files and figures are available in the following locations:
 
