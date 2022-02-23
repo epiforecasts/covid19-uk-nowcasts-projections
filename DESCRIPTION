@@ -30,6 +30,7 @@ Imports:
     purrr,
     readr,
     tibble,
+    rmarkdown
 Remotes:
     epiforecasts/EpiNow2
 Biarch: true
