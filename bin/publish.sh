@@ -3,7 +3,7 @@ git commit -m"Update $(date)"
 git pull -Xours
 git push -v
 
-git branch -d gh-pages
+git branch -D gh-pages
 git checkout --orphan gh-pages
 git rm -rf .
 git add docs/index.html
