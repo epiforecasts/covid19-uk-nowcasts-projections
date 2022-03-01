@@ -52,17 +52,29 @@ test_positive_cases <- cases_deaths %>%
 saveRDS(test_positive_cases, here::here("data/test_positive_cases.rds"))
 
 # hospital_admissions -----------------------------------------------------
+hospital_admissions_truncation <- c(
+  `Northern Ireland` = 4,
+  Wales = 4
+)
 hospital_admissions <- hospital_cases %>%
   dplyr::select(date, region = areaName, cases = newAdmissions) %>%
-  dplyr::filter(!is.na(cases))
+  dplyr::filter(!is.na(cases)) %>%
+  dplyr::mutate(truncation = hospital_case_truncation[region]) %>%
+  tidyr::replace_na(list(truncation = 0)) %>%
+  dplyr::group_by(region) %>%
+  dplyr::filter(date <= max(date) - truncation) %>%
+  dplyr::select(date, region, cases)
 
 saveRDS(hospital_admissions, here::here("data/hospital_admissions.rds"))
 
-# linelist deaths ---------------------------------------------------------
+# deaths ---------------------------------------------------------
+death_truncation <- 4
 deaths <-  cases_deaths %>%
   dplyr::select(date, region = areaName,
                 deaths = newDeaths28DaysByDeathDate) %>%
-  dplyr::filter(!is.na(deaths))
+  dplyr::filter(!is.na(deaths)) %>%
+  dplyr::group_by(region) %>%
+  dplyr::filter(date <= max(date) - death_truncation) 
 
 saveRDS(deaths, here::here("data/deaths.rds"))
 
