@@ -63,6 +63,7 @@ hospital_admissions <- hospital_cases %>%
   tidyr::replace_na(list(truncation = 0)) %>%
   dplyr::group_by(region) %>%
   dplyr::filter(date <= max(date) - truncation) %>%
+  dplyr::ungroup() %>%
   dplyr::select(date, region, cases)
 
 saveRDS(hospital_admissions, here::here("data/hospital_admissions.rds"))
@@ -74,7 +75,8 @@ deaths <-  cases_deaths %>%
                 deaths = newDeaths28DaysByDeathDate) %>%
   dplyr::filter(!is.na(deaths)) %>%
   dplyr::group_by(region) %>%
-  dplyr::filter(date <= max(date) - death_truncation) 
+  dplyr::filter(date <= max(date) - death_truncation) %>%
+  dplyr::ungroup()
 
 saveRDS(deaths, here::here("data/deaths.rds"))
 
