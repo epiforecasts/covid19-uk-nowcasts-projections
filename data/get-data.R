@@ -59,7 +59,7 @@ hospital_admissions_truncation <- c(
 hospital_admissions <- hospital_cases %>%
   dplyr::select(date, region = areaName, cases = newAdmissions) %>%
   dplyr::filter(!is.na(cases)) %>%
-  dplyr::mutate(truncation = hospital_case_truncation[region]) %>%
+  dplyr::mutate(truncation = hospital_admissions_truncation[region]) %>%
   tidyr::replace_na(list(truncation = 0)) %>%
   dplyr::group_by(region) %>%
   dplyr::filter(date <= max(date) - truncation) %>%
