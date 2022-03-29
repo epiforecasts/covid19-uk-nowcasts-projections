@@ -1,0 +1,232 @@
+---
+title: "Real-time estimates of the relationship between cases, hospitalisations, deaths, hospital bed usage, and ICU bed usage of Covid-19"
+subtitle: "Work in progress - not peer reviewed"
+author: Sam Abbott, Sebastian Funk on behalf of the CMMID Covid-19 Working Group
+bibliography: library.bib
+date: 9th June, 2021
+csl: https://raw.githubusercontent.com/citation-style-language/styles/master/apa-numeric-superscript-brackets.csl
+header-includes:
+   - \usepackage{float}
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    number_sections: true
+
+---
+
+```{r setup, echo = FALSE, cache = FALSE, include = FALSE}
+library(here)
+library(data.table)
+library(knitr)
+library(here)
+
+knitr::opts_chunk$set(echo = FALSE, message = FALSE)
+```
+
+For correspondence: sebastian.funk@lshtm.ac.uk
+
+# Abstract
+
+**Background:** 
+
+The relationship  between COVID-19 cases, hospitalisation, deaths, bed occupancy, and ICU occupancy likely varies over space and time due to a range of factors. The spread of novel variants with differing characteristics may also impact these measures. In this analysis we use a simple data informed real-time approach to explore these estimates using population level data.
+
+**Methods:** 
+
+We fit a simple convolution model to the last two weeks of Pillar 2 case data and hospitalisation data for each week of available data (using the posterior from the previous fit, inflated with some uncertainty, as the prior for the following fit) in each devolved authority and in each NHS region. We repeated this for hospitalisation data and COVID-19 deaths, hospital bed occupancy, and hospital ICU occupancy. We explored the strengths and limitations of our approach using simulated data based on English COVID-19 hospitalisation data and plausible scenarios for model parameters over time.
+
+**Limitations:**
+
+* These results are likely susceptible to ecological fallacies as the analysis is at the devolved authority and NHS region level. 
+* These results also assumed a relationship between observations that is likely to be overly simplistic.
+* All time series were fit independently and as weekly snapshots of two weeks of data (though the inflated posterior from the previous fit was used a prior for the following fit). It is likely that a model fit jointly in space and time would return more precise estimates that were less susceptible to bias.
+* Delay distribution parameters were estimated on the log scale and so are not directly translatable to a natural scale. 
+* Visual inspection of each models independent fits suggested an acceptable quality of fit but this has not been formally evaluated.
+* Recovery of synthetic data based on Hospital admissions in England was poor driven in part by the difficulty in identifying distributional parameters without inflection points in hospital admissions. This difficulty in identifying the model should be accounted for when interpreting the results. Resolving these issues is a work in progress.
+
+# Methods
+
+## Data
+
+Pillar 2 cases by date of specimen taken (excluding institutional settings) from a de-duplicated dataset of Covid-19 positive tests notified from all National Health Service (NHS) settings; hospital admissions by date of admission; death data by date of death; and hospital bed and ICU occupancy. All data were aggregated to the seven English regions used by the NHS and by devolved authority.
+
+## Modelling
+
+ The relationship between Pillar 2 cases and hospital admissions and between hospital admissions and both hospital bed occupancy and ICU hospital bed occupancy were modelled. More detail is given on the models, the fitting approach, and the simulation study used to validate the models is given in the following sections.
+
+### Incidence model
+
+We model incident notifications ($S_{t}$) such as hospital admissions, and fatalities as a discrete convolution of a log normal distribution and observed cases in the former case and hospital admissions in the latter case ($P_{t}$). We assume that any day of the week reporting artefacts can be modelled using a simplex and that reporting is overdispersed and hence modelled with a negative binomial distribution. This model can be represented mathematically as follows,
+
+\begin{equation} 
+    S_{t} \sim \mathcal{NB}\left(\omega_{(t \mod 7)} \alpha \sum_{\tau = 0}^{30} \xi(\tau | \mu, \sigma) P_{t-\tau},  \phi \right)
+\end{equation}
+
+Where,
+\begin{align}
+    \frac{\omega}{7} &\sim \mathrm{Dirichlet}(1, 1, 1, 1, 1, 1, 1) \\
+    \alpha &\sim \mathcal{N}(0.2, 0.1) \\
+    \xi &\sim \mathcal{LN}(\mu, \sigma) \\
+    \mu &\sim \mathcal{N}(2.5, 1) \\
+    \sigma &\sim \mathcal{N}(1, 0.25) \\
+    \phi &\sim \frac{1}{\sqrt{\mathcal{N}(0, 1)}}
+\end{align}
+
+with $\alpha$, $\mu$, $\sigma$, and $\phi$ truncated to be greater than 0 and with $\xi$ normalised such that $\sum_{\tau = 0}^{30} \xi_(\tau | \mu, \sigma) = 1$. 
+
+### Prevalence model
+
+We modelled prevalence like observations such as hospital bed occupancy, and ICU bed occupancy in a similar fashion to the incidence model described above. However, for this model we assume that hospital bed occupancy ($B_{t}$) is a function of hospital bed occupancy on the previous day, plus hospital admissions from the current day ($H_{t}$). Duration of stay is modelled as a discrete convolution of prior hospital admissions and a log-normal distribution. As we assume bed occupancy is relatively auto-correlated we do not model a day of the week effect and assume a Poisson observation model. Both overall hospital bed occupancy and ICU bed occupancy are modelled assuming some scaling from hospital admissions to occupancy but for overall hospital admissions this scaling is assumed to be centred on 100% with a standard deviation of 2.5%. This model can be represented mathematically as follows,
+
+\begin{equation} 
+    B_{t} \sim \mathcal{P}\left(\alpha \left(H_t - \sum_{\tau = 0}^{30} \xi(\tau | \mu, \sigma) H_{t-\tau} \right) \right)
+\end{equation}
+
+Where,
+\begin{align}
+    \alpha &\sim \mathcal{N}(0.5, 0.25) \\
+    \xi &\sim \mathcal{LN}(\mu, \sigma) \\
+    \mu &\sim \mathcal{N}(2.5, 1) \\
+    \sigma &\sim \mathcal{N}(1, 0.25) \\
+\end{align}
+
+
+with $\alpha$, $\mu$, $\sigma$, and $\phi$ truncated to be greater than 0 and with $\xi$ normalised such that $\sum_{\tau = 0}^{30} \xi_(\tau | \mu, \sigma) = 1$. 
+
+### Fitting
+ 
+Both models were implemented in the `EpiNow2` R package (version 1.3.4) [@epinow2]. Each week was fit independently for each pair of data sources explored using the last two weeks of data in the likelihood and the last eight weeks in the model. All priors for mechanistic model parameters were updated each week based on the posterior from the week before with uncertainty introduced via an inflation of the posterior standard deviation of 5%. The models were implemented using stan and fit using Markov-chain Monte Carlo (MCMC) [@rstan]. A minimum of 4 chains were used with a warmup of 1000 samples for each chain and a total of 4000 samples from the posterior. Convergence was assessed using the R hat diagnostic [@rstan]. We repeated all fitting on all data in order to derive summary posterior estimates across the entire available time series.
+
+### Simulation study
+
+The models and overall approach were explored using synthetic fatality and hospital bed occupancy data generated using hospital admissions from England between the 5th of August 2020 and the 1st of June 2021 and a separate implementation of the models outlined above, though simplified to have no day of the week effects and to follow a Poisson observation model. It was assumed that all parameters that varied over time were indexed to the secondary observations (fatalities, hospital bed occupancy etc.) in both the simulation study and in implicitly in the models outlined above.
+
+ We evaluated a single scenario in which the scaling parameter was initialised on the 5th of August 2020 with a mean of 0.2 and a standard deviation of 0.01 (assuming a normal distribution). Similary the log mean of the log normal distribution was initialised with a mean of 1.6 and a standard deviation of 0.01 (assuming a normal distribution) and the log standard deviation was initialised with a mean of 1 and a standard deviation of 0.01 (again assuming a normal distribution). Variation overtime was modelled as a series of multiplicative scaling factors for each parameter. These were as follows:
+
+- All parameters were kept at their baselines until the 1st of September 2020
+- From the first of September 2020 to the 1st of November 2020 the scaling parameter was modified by 1.5, the log mean scaling was 1.5 and the log standard deviation scaling was 1.25.
+- From the the 1st of November 2020 to the 1st of January 2021 the scaling parameter was modified by 1.25, the log mean scaling was 1 and the log standard deviation scaling was 1.5. 
+- From the 1st of Janurary 2021 to the 1st of March 2021 the scaling parameter was modified by 1.5, the log mean scaling was 1.25, and the log standard deviation scaling was 1. 
+- From the 1st of March until the end of the simulation all paramters were then assumed to change linearly over time with the scaling parameter starting at a modifier of 1 and reaching 1.5 by the end  of simulation. Similary the log mean modifier was initialised at 2 and decayed to 1 by the end  of the simulation and the log standard deviation parameter was initialised at 1 and increased to 2 by the end of the simulation. 
+
+# Results
+
+## Data
+ 
+ As expected and reported in detail elsewhere there is a strong relationship between Pillar 2 cases and hospital admissions with a relatively short delay visually apparent between changes in test positive cases and hospital admissions throughout much of the pandemic.
+
+```{r}
+include_graphics(here("data", "scaled-hosp-cases.png"))
+```
+*Figure 1: Weekly Pillar 2 cases and hospital admissions scaled by the maximum number of each reported in a single week from when data became available to the end of the study period.*
+
+
+## Synthetic validation
+
+In general, recovery of simulation parameters was quite poor and rapid changes were difficult to recover. Performance across target type was comparable though this was partially driven by the choice to use the same simulation parameters for both targets. Posterior uncertainty estimates more closely matched the simulated uncertainty for simulated hospital bed occupancy and for the scaling parameter in both models. The general poor performance on simulated data may point to a implementation issue or a methodological flaw. 
+
+### Recovery of the scaling parameter
+
+Recovery of trends in the scaling parameter was relatively successfully but estimates were spuriously precise, struggled to recreate low magnitude changes, and were often incorrectly scaled. This was particularly true of the linear trend modelled at the end of the time series which was only partially detected. 
+
+```{r}
+include_graphics(here("format-forecast", "figures", "synthetic", "scaling.png"))
+```
+
+*Figure 2: Parameter estimates for the scaling parameter used for simulation and recovered posteriors from this parameter from fitting both the incident (fatalities) and prevalence (bed occupancy) models to synthetic data derived from hospital admissions in England. Each estimate is a backwards looking average from two weeks of data. The median (point) and 90%, 60%, and 30% credible intervals shown for all estimates.*
+
+
+### Recovery of the delay distribution parameters
+
+Recovery of the delay distribution parameters was difficult, likely driven by correlation between the log mean and the log standard deviation. For some parts of the simulation and some targets modelled estimates diverged from simulated estimates due to alternative, equally likely, areas of the likelihood with higher standard deviation and lower means (and vice versa). Inflection points in hospital admissions as observed from November to January were crucial to allowing the models to identify delay parameters. From January onwards, where hospital admissions show little variation in trend, delay parameters were particularly hard to identify. 
+
+```{r}
+include_graphics(here("format-forecast", "figures", "synthetic", "meanlog.png"))
+```
+
+*Figure 3: Parameter estimates for the log mean of the delay distribution used for simulation and recovered posteriors for this parameter from fitting both the incident (fatalities) and prevalence (bed occupancy) models to synthetic data derived from hospital admissions in England. Each estimate is a backwards looking average from two weeks of data. The median (point) and 90%, 60%, and 30% credible intervals shown for all estimates.*
+
+```{r}
+include_graphics(here("format-forecast", "figures", "synthetic", "sdlog.png"))
+```
+
+*Figure 4: Parameter estimates for the log standard deviation of the delay distribution used for simulation and recovered posteriors for this parameter from fitting both the incident (fatalities) and prevalence (bed occupancy) models to synthetic data derived from hospital admissions in England. Each estimate is a backwards looking average from two weeks of data. The median (point) and 90%, 60%, and 30% credible intervals shown for all estimates.*
+
+## Case to hospital admission
+
+```{r}
+include_graphics(here("format-forecast", "figures", "parameters", "scaling-admissions.png"))
+```
+
+*Figure 5: Estimates over time of the case to hospitalistion ratio in the devolved authorities and in the NHS regions. Each estimate is a backwards looking average from two weeks of data. The median (point) and 90%, 60%, and 30% credible intervals shown for all estimates. The horizontal dashed line shows the overall median and the dotted lines show the upper and lower 90% credible intervals of the overall fit. The estimates from the first month have been excluded from the plot due to large amounts of uncertainty.*
+
+```{r}
+include_graphics(here("format-forecast", "figures", "parameters", "delay-mean-admissions.png"))
+```
+
+*Figure 6: Estimates over time of the log mean delay from case to hospitalistion in the devolved authorities and in the NHS regions. Each estimate is a backwards looking average from two weeks of data. The median (point) and 90%, 60%, and 30% credible intervals shown for all estimates. The horizontal dashed line shows the overall median and the dotted lines show the upper and lower 90% credible intervals of the overall fit. The estimates from the first month have been excluded from the plot due to large amounts of uncertainty.*
+
+```{r}
+include_graphics(here("format-forecast", "figures", "parameters", "delay-sd-admissions.png"))
+```
+
+*Figure 7: Estimates over time of the log standard deviation of the delay from case to hospitalistion in the devolved authorities and in the NHS regions. Each estimate is a backwards looking average from two weeks of data. The median (point) and 90%, 60%, and 30% credible intervals shown for all estimates. The horizontal dashed line shows the overall median and the dotted lines show the upper and lower 90% credible intervals of the overall fit. The estimates from the first month have been excluded from the plot due to large amounts of uncertainty.*
+
+## Hospital admission to death
+
+```{r}
+include_graphics(here("format-forecast", "figures", "parameters", "scaling-deaths.png"))
+```
+
+*Figure 8: Estimates over time of the hospitalistion to fatality ratio in the devolved authorities and in the NHS regions. Each estimate is a backwards looking average from two weeks of data. The median (point) and 90%, 60%, and 30% credible intervals shown for all estimates. The horizontal dashed line shows the overall median and the dotted lines show the upper and lower 90% credible intervals of the overall fit. The estimates from the first month have been excluded from the plot due to large amounts of uncertainty.*
+
+```{r}
+include_graphics(here("format-forecast", "figures", "parameters", "delay-mean-deaths.png"))
+```
+
+*Figure 9: Estimates over time of the log mean delay from hospitalistion to death in the devolved authorities and in the NHS regions. Each estimate is a backwards looking average from two weeks of data. The median (point) and 90%, 60%, and 30% credible intervals shown for all estimates. The horizontal dashed line shows the overall median and the dotted lines show the upper and lower 90% credible intervals of the overall fit. The estimates from the first month have been excluded from the plot due to large amounts of uncertainty.*
+
+```{r}
+include_graphics(here("format-forecast", "figures", "parameters", "delay-sd-deaths.png"))
+```
+
+*Figure 10: Estimates over time of the log standard deviation of the delay from hospitalistion to death in the devolved authorities and in the NHS regions. Each estimate is a backwards looking average from two weeks of data. The median (point) and 90%, 60%, and 30% credible intervals shown for all estimates. The horizontal dashed line shows the overall median and the dotted lines show the upper and lower 90% credible intervals of the overall fit. The estimates from the first month have been excluded from the plot due to large amounts of uncertainty.*
+
+## Hospital bed occupancy
+
+```{r}
+include_graphics(here("format-forecast", "figures", "parameters", "delay-mean-occupancy.png"))
+```
+
+*Figure 11: Estimates over time of the log mean length of stay in hospital in the devolved authorities and in the NHS regions. Each estimate is a backwards looking average from two weeks of data. The median (point) and 90%, 60%, and 30% credible intervals shown for all estimates. The horizontal dashed line shows the overall median and the dotted lines show the upper and lower 90% credible intervals of the overall fit. The estimates from the first month have been excluded from the plot due to large amounts of uncertainty.*
+
+```{r}
+include_graphics(here("format-forecast", "figures", "parameters", "delay-sd-occupancy.png"))
+```
+
+*Figure 12: Estimates over time of the log standard deviation in length of stay in hospital in the devolved authorities and in the NHS regions. Each estimate is a backwards looking average from two weeks of data. The median (point) and 90%, 60%, and 30% credible intervals shown for all estimates. The horizontal dashed line shows the overall median and the dotted lines show the upper and lower 90% credible intervals of the overall fit. The estimates from the first month have been excluded from the plot due to large amounts of uncertainty.*
+
+## Hospital ICU bed occupancy
+
+```{r}
+include_graphics(here("format-forecast", "figures", "parameters", "delay-mean-icu.png"))
+```
+
+*Figure 13: Estimates over time of the log mean length of stay in hospital ICUs in the devolved authorities and in the NHS regions. Each estimate is a backwards looking average from two weeks of data. The median (point) and 90%, 60%, and 30% credible intervals shown for all estimates. The horizontal dashed line shows the overall median and the dotted lines show the upper and lower 90% credible intervals of the overall fit. The estimates from the first month have been excluded from the plot due to large amounts of uncertainty.*
+
+
+```{r}
+include_graphics(here("format-forecast", "figures", "parameters", "delay-mean-icu.png"))
+```
+
+*Figure 14: Estimates over time of the log mean length of stay in hospital ICUs in the devolved authorities and in the NHS regions. Each estimate is a backwards looking average from two weeks of data. The median (point) and 90%, 60%, and 30% credible intervals shown for all estimates. The horizontal dashed line shows the overall median and the dotted lines show the upper and lower 90% credible intervals of the overall fit. The estimates from the first month have been excluded from the plot due to large amounts of uncertainty.*
+
+```{r}
+include_graphics(here("format-forecast", "figures", "parameters", "delay-sd-icu.png"))
+```
+
+*Figure 15: Estimates over time of the log standard deviation in length of stay in hospital ICUs in the devolved authorities and in the NHS regions. Each estimate is a backwards looking average from two weeks of data. The median (point) and 90%, 60%, and 30% credible intervals shown for all estimates. The horizontal dashed line shows the overall median and the dotted lines show the upper and lower 90% credible intervals of the overall fit. The estimates from the first month have been excluded from the plot due to large amounts of uncertainty.*
+
+# References
