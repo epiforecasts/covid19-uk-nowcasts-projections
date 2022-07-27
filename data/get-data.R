@@ -33,6 +33,8 @@ hospital_cases_national <-
 ltla_nhser <- readRDS(here::here("data", "ltla_nhser.rds"))
 
 # test positive cases -----------------------------------------------------
+case_truncation <- 2
+
 cases_deaths <- cases_deaths_local %>%
   dplyr::rename(ltla_name = areaName) %>%
   dplyr::inner_join(ltla_nhser, by = "ltla_name") %>%
@@ -47,7 +49,9 @@ hospital_cases <- hospital_cases_regional %>%
 
 test_positive_cases <- cases_deaths %>%
   dplyr::select(date, region = areaName, cases = newCasesBySpecimenDate) %>%
-  dplyr::filter(!is.na(cases))
+  dplyr::filter(!is.na(cases)) %>%
+  dplyr::group_by(region) %>%
+  dplyr::filter(date <= max(date) - case_truncation)
 
 saveRDS(test_positive_cases, here::here("data/test_positive_cases.rds"))
 
