@@ -1,4 +1,4 @@
-git add -A
+git add -A data delays format-forecast format-rt
 git commit -m"Update $(date)"
 git pull -Xours
 git push -v
