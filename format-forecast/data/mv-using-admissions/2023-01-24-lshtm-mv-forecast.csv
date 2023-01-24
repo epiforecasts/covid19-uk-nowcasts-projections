@@ -1,0 +1,851 @@
+Group,Creation Day,Creation Month,Creation Year,Day of Value,Month of Value,Year of Value,Geography,ValueType,Model,Scenario,ModelType,Version,Value,AgeBand,Quantile 0.05,Quantile 0.1,Quantile 0.15,Quantile 0.2,Quantile 0.25,Quantile 0.3,Quantile 0.35,Quantile 0.4,Quantile 0.45,Quantile 0.5,Quantile 0.55,Quantile 0.6,Quantile 0.65,Quantile 0.7,Quantile 0.75,Quantile 0.8,Quantile 0.85,Quantile 0.9,Quantile 0.95
+LSHTM,24,1,2023,24,1,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,5,All,1,1,2,2,3,3,3,4,4,5,5,6,6,7,7,8,9,10,12
+LSHTM,24,1,2023,25,1,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,4,All,0,1,1,1,2,2,3,3,4,4,5,5,6,6,7,8,8,10,11
+LSHTM,24,1,2023,26,1,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,3,All,0,1,1,1,2,2,2,3,3,3,4,4,5,6,6,7,8,9,10
+LSHTM,24,1,2023,27,1,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,1,2,2,2,3,3,4,4,5,6,7,8,9,11
+LSHTM,24,1,2023,28,1,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,2.5,All,0,0,0,1,1,1,1,2,2,2.5,3,3,4,5,5,6,7,8,10
+LSHTM,24,1,2023,29,1,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,2,2,2,2,3,4,4,5,6,7,8,10.05
+LSHTM,24,1,2023,30,1,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,1,2,2,2,3,3,4,4,6,7,8,10
+LSHTM,24,1,2023,31,1,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,2,2,2,3,3,4,4,5,6,8,10
+LSHTM,24,1,2023,1,2,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,1,2,2,2,3,3,4,5,6,7,9
+LSHTM,24,1,2023,2,2,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,1,2,2,2,3,3,4,5,6,7,9
+LSHTM,24,1,2023,3,2,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,1,1,1,1,2,2,2,3,3,4,5,7,8.04999999999996
+LSHTM,24,1,2023,4,2,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,1,1,1,1,2,2,2,3,4,5,7,8
+LSHTM,24,1,2023,5,2,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,4,5,7,9
+LSHTM,24,1,2023,6,2,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,4,5,6,9
+LSHTM,24,1,2023,7,2,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,1,1,1,1,1,2,2,2.25,3,4,6,8
+LSHTM,24,1,2023,8,2,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,4,6,8
+LSHTM,24,1,2023,9,2,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3,3,4,5,8
+LSHTM,24,1,2023,10,2,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3,4,6,8
+LSHTM,24,1,2023,11,2,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3,5,8
+LSHTM,24,1,2023,12,2,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3.14999999999998,5,8
+LSHTM,24,1,2023,13,2,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,0.550000000000011,1,1,1,1,2,2,3,3,5,8
+LSHTM,24,1,2023,14,2,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,3,5,8
+LSHTM,24,1,2023,15,2,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3,5,7
+LSHTM,24,1,2023,16,2,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3,5,7
+LSHTM,24,1,2023,17,2,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,3,5,7
+LSHTM,24,1,2023,18,2,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,3,4,7
+LSHTM,24,1,2023,19,2,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,4,7
+LSHTM,24,1,2023,20,2,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,3,4,7
+LSHTM,24,1,2023,21,2,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,3,4,7
+LSHTM,24,1,2023,22,2,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,4,6.04999999999996
+LSHTM,24,1,2023,23,2,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,4,6
+LSHTM,24,1,2023,24,2,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,4,7
+LSHTM,24,1,2023,25,2,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,3,6.04999999999996
+LSHTM,24,1,2023,26,2,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,3,7
+LSHTM,24,1,2023,27,2,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,4,7
+LSHTM,24,1,2023,28,2,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,4,6
+LSHTM,24,1,2023,1,3,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,3,6
+LSHTM,24,1,2023,2,3,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,4,6
+LSHTM,24,1,2023,3,3,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,6
+LSHTM,24,1,2023,4,3,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,6
+LSHTM,24,1,2023,5,3,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,4,6
+LSHTM,24,1,2023,6,3,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,3,6
+LSHTM,24,1,2023,7,3,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,6
+LSHTM,24,1,2023,8,3,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,6
+LSHTM,24,1,2023,9,3,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,6
+LSHTM,24,1,2023,10,3,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,6
+LSHTM,24,1,2023,11,3,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,6
+LSHTM,24,1,2023,12,3,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,6
+LSHTM,24,1,2023,13,3,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,5.04999999999996
+LSHTM,24,1,2023,14,3,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,5
+LSHTM,24,1,2023,15,3,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,6
+LSHTM,24,1,2023,16,3,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,6
+LSHTM,24,1,2023,17,3,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,6
+LSHTM,24,1,2023,18,3,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,6
+LSHTM,24,1,2023,19,3,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,5.04999999999996
+LSHTM,24,1,2023,20,3,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,5.04999999999996
+LSHTM,24,1,2023,21,3,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,6
+LSHTM,24,1,2023,22,3,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,5
+LSHTM,24,1,2023,23,3,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,6
+LSHTM,24,1,2023,24,3,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,5
+LSHTM,24,1,2023,25,3,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,5
+LSHTM,24,1,2023,26,3,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,5
+LSHTM,24,1,2023,27,3,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,6
+LSHTM,24,1,2023,28,3,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,5
+LSHTM,24,1,2023,29,3,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,5
+LSHTM,24,1,2023,30,3,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,5
+LSHTM,24,1,2023,31,3,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,5
+LSHTM,24,1,2023,1,4,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5
+LSHTM,24,1,2023,2,4,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,6
+LSHTM,24,1,2023,3,4,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,5
+LSHTM,24,1,2023,4,4,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,5
+LSHTM,24,1,2023,5,4,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,5.04999999999996
+LSHTM,24,1,2023,6,4,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5
+LSHTM,24,1,2023,7,4,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,5
+LSHTM,24,1,2023,8,4,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5.04999999999996
+LSHTM,24,1,2023,9,4,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,6
+LSHTM,24,1,2023,10,4,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5
+LSHTM,24,1,2023,11,4,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,6
+LSHTM,24,1,2023,12,4,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5
+LSHTM,24,1,2023,13,4,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5
+LSHTM,24,1,2023,14,4,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,6
+LSHTM,24,1,2023,15,4,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5.04999999999996
+LSHTM,24,1,2023,16,4,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5
+LSHTM,24,1,2023,17,4,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,6
+LSHTM,24,1,2023,18,4,2023,East of England,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5
+LSHTM,24,1,2023,24,1,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,54,All,38,41,44,46,47,49,50,52,53,54,56,57,59,60,62,64,66,68,72
+LSHTM,24,1,2023,25,1,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,53,All,36,40,42,45,46,48,49,51,52,53,54,56,57,59,61,63,65,67.1,71
+LSHTM,24,1,2023,26,1,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,52,All,33.95,37,40,43,44,46,48,49,51,52,54,56,57,58,60,62,63,66,70
+LSHTM,24,1,2023,27,1,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,50,All,31,36,38,40,43,44,45,47,49,50,52,54,56,57,59,61,63,66,70
+LSHTM,24,1,2023,28,1,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,49,All,29,33,35,38,40,42.7,44,46,47,49,51,52,54,55,57,59,62,65,69
+LSHTM,24,1,2023,29,1,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,48,All,26,31,34,37,39,41,43,44,46,48,50,52,53,55,56,59,61,64,68
+LSHTM,24,1,2023,30,1,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,46,All,23,29,32,35,38,40,42,43,45,46,48,50,51,53,55,58,61,64,68
+LSHTM,24,1,2023,31,1,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,45,All,22,28,31,34,36,38,40,42,43,45,47,48.4,50,52,54,56,59,62.1,67.05
+LSHTM,24,1,2023,1,2,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,45,All,22,27,30,32,35,37,39,41,43,45,47,48.4,50,52,54,57,60,62,67.05
+LSHTM,24,1,2023,2,2,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,44,All,19,25,29,31,34,36,38,40,42,44,46,47.4,50,52,54,56,59,62,66
+LSHTM,24,1,2023,3,2,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,43,All,18,23,27,30,32.75,35,37,39,41,43,45,47,49,51,53,55,58,62,65
+LSHTM,24,1,2023,4,2,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,42,All,16,22,26,29,32,34,36,37.6,40,42,44,46,48,50,53,56,58,61,65
+LSHTM,24,1,2023,5,2,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,41,All,14.95,20,24.85,28,30,33,34,37,39,41,43,45,47,49,52,54,56.15,60,64.05
+LSHTM,24,1,2023,6,2,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,40,All,13,19,23,26,29,31,33,36,38,40,42,44,46,48,50,53,56,60,65
+LSHTM,24,1,2023,7,2,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,39,All,11,17,21,25.8,28,31,33,35,37,39,41,43,46,48,50,53,56,60,65
+LSHTM,24,1,2023,8,2,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,38,All,11,16.9,21,24,26,29,32,33,36,38,40,42,44,47.3,50,52,55,59,64
+LSHTM,24,1,2023,9,2,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,39,All,9,16,20,23.8,26,29,31,34.6,36.55,39,41,43,45,47,50,53,56,60,64
+LSHTM,24,1,2023,10,2,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,37,All,9,14,18,22,25,28.7,30.65,33,35,37,40,42,44,46,49,52,55,59,64.05
+LSHTM,24,1,2023,11,2,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,37,All,7,13,18,22,25,27,30,32,34,37,39,41,44,46.3,49,52,55,59,63
+LSHTM,24,1,2023,12,2,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,36,All,5.95,13,17.85,21,24,26,29,31.6,34,36,38,41,43,46,48,51,54,57,63
+LSHTM,24,1,2023,13,2,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,35,All,5,11,16,20,23,25,27,30,33,35,37,40,42,45,48,51,54,58,63.05
+LSHTM,24,1,2023,14,2,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,35,All,4,10.9,16,19.8,23,25,28,30,33,35,38,40,42,45,47,51,53,58,63
+LSHTM,24,1,2023,15,2,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,34,All,3,10.9,15,19.8,23,25,27,29,32,34,36.4500000000001,39,42,45,48,50,54,57,63
+LSHTM,24,1,2023,16,2,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,33,All,2,10,15,19,22,24,26,29,31,33,36,38.4,41,44,46,50,52,56,62
+LSHTM,24,1,2023,17,2,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,33,All,2,9,13,17,21,23,26,28,31,33,36,39,41,44,47,50,53,58,64.05
+LSHTM,24,1,2023,18,2,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,33,All,1,7,13,16.8,20,23,25,27,31,33,36,39,41,43.3,46,49,52,56,63
+LSHTM,24,1,2023,19,2,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,32,All,1,7,13,16,20,23,25,27,30,32,35,38,41,43,46,49,53,57,63
+LSHTM,24,1,2023,20,2,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,32,All,1,6.90000000000001,12,16,20,23,25,27,30,32,35,38,41,43.3,46,49,53,57,62
+LSHTM,24,1,2023,21,2,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,32,All,1,5,11,15,18,21,24,27,29,32,34,36,39,42,45,48,51,55,61.05
+LSHTM,24,1,2023,22,2,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,31,All,1,5,11,14,18,20,23,26,28,31,34,37,40,43,46,48,51,55,61
+LSHTM,24,1,2023,23,2,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,31,All,1,5,11,14.8,19,22,24,26,28,31,34,36,40,42,45,49,52,56,62.05
+LSHTM,24,1,2023,24,2,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,31,All,1,4,10,14,17,21,23.65,26,28,31,34,36,39,41,44,47,51,56,62.05
+LSHTM,24,1,2023,25,2,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,31,All,0,4.90000000000001,9,14,17,20,23,26,28,31,34,37,39,42,45,48,51,55,61
+LSHTM,24,1,2023,26,2,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,30,All,0,3,9,13,16,20,23,25,28,30,33,36,39,42,44,48,51,56,62
+LSHTM,24,1,2023,27,2,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,30,All,0,4,9,13,17,19.7,23,25,27,30,33,35.4,38,41,44,47,51,55,62
+LSHTM,24,1,2023,28,2,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,29,All,0,3,8,12,16,19,21,24,27,29,32,35,38,41,44,47,51,55,60
+LSHTM,24,1,2023,1,3,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,29,All,0,2,7,12.8,16.75,19,21,23,26,29,32,35,38,40,43,46,51,55,62
+LSHTM,24,1,2023,2,3,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,29,All,0,2,7.84999999999999,11.8,15,19,21,23,26,29,32,36,39,41,44,47,50,55,62
+LSHTM,24,1,2023,3,3,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,30,All,0,2,7,12,16,19,21,24,26,30,33,35,38,41,44,47,50,55,61
+LSHTM,24,1,2023,4,3,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,29,All,0,2,6,11,15,18,20,23,26,29,32,35,38,40,43,47,50,55,61
+LSHTM,24,1,2023,5,3,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,28,All,0,2,6,12,16,18,21,23,25.55,28,31,34,37,40,43,47,51,55.1,62.05
+LSHTM,24,1,2023,6,3,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,28,All,0,1,6,11.8,15,18,20,22,25,28,31,35,37,40,43.25,47,51,55.1,61
+LSHTM,24,1,2023,7,3,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,28,All,0,1,6.84999999999999,12,15,17,20,22,25,28,31,34.4,37,40,43,46,50,54,60
+LSHTM,24,1,2023,8,3,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,29,All,0,2,6,11,14.75,17,20,22,25,29,31.4500000000001,34,36,39,41.25,45.2000000000001,50,54.1,60
+LSHTM,24,1,2023,9,3,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,28,All,0,1,6,11,14,17,20,22,25,28,31,34,37,39,42,45,50,54,60
+LSHTM,24,1,2023,10,3,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,28,All,0,1,6,10,14,17,19,22,25,28,32,34,37,40,43,46,50,54,61
+LSHTM,24,1,2023,11,3,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,28,All,0,1,5.84999999999999,10,13,16,19,22,25.55,28,31,34,37,40,42,46,50,55,62
+LSHTM,24,1,2023,12,3,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,28,All,0,1,5,9,14,17,19,22,25,28,31,34,37,39,43,46,51,54,60
+LSHTM,24,1,2023,13,3,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,27,All,0,1,4,10,14,17,19,22,25,27,31,34,37,40,42,46,49,54,60
+LSHTM,24,1,2023,14,3,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,28,All,0,1,5,10,14,16,18.65,22,24,28,30,33,36,38,41,45,49,53,60.05
+LSHTM,24,1,2023,15,3,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,27,All,0,1,5,9.80000000000001,13,16,19,22,25,27,30,33,36,39,41,44,49,54,60
+LSHTM,24,1,2023,16,3,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,26.5,All,0,1,4,9,13,16,19,20.6,23,26.5,30,34,36,39,43,46,49.15,54,60
+LSHTM,24,1,2023,17,3,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,27,All,0,0,5,9,13,16,19,21,24,27,30,33,36,40,42,46,49.15,54,60
+LSHTM,24,1,2023,18,3,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,27.5,All,0,0,4,9,13,16,18,21,24,27.5,31,34,37,39,42,45,48,53,60
+LSHTM,24,1,2023,19,3,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,26,All,0,0,4,9,13,16.7,19,21,24,26,30,33,36,39,42,46,50,54,61
+LSHTM,24,1,2023,20,3,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,27,All,0,0,4,9,13,16,18,21,24,27,30,33,36,39,42,45,49,55,60
+LSHTM,24,1,2023,21,3,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,27,All,0,0,3.84999999999999,9,12,16,18,21,24,27,30,33,36,39,42.25,46,50,54,60
+LSHTM,24,1,2023,22,3,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,26,All,0,1,4,8,13,16,18,20.6,23,26,30,33,36,39,42,45,50,55,61
+LSHTM,24,1,2023,23,3,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,26,All,0,0,4,8,12,15,18,20,23,26,30,32,35,38,41.25,45,49,54,60
+LSHTM,24,1,2023,24,3,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,26,All,0,0,4,9,12.75,15,18,20,23,26,29,32,35,38,41,44,48,54,62
+LSHTM,24,1,2023,25,3,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,26,All,0,0,3,8,12,15,18,20,23,26,29,32,36,39,42,45,48,53,61
+LSHTM,24,1,2023,26,3,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,26,All,0,0,4,7.80000000000001,12,14,17,20,23.55,26,30,33,36,39,42,45,48,54,60.05
+LSHTM,24,1,2023,27,3,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,26,All,0,0,3,9,12,16,18,20,23,26,29,32,35,38,41,44,49,54,60.05
+LSHTM,24,1,2023,28,3,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,26,All,0,0,3,8,12,15,17,20,23,26,29,32,35,39,42.25,46,50,55,61
+LSHTM,24,1,2023,29,3,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,26,All,0,0,3,8,12,15,18,20,23,26,30,32,35,38.3,41,45,49,54,61.05
+LSHTM,24,1,2023,30,3,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,25,All,0,0,3.84999999999999,8,12,15,18,20,23,25,29,33,36,39,42,45,48.15,53,60
+LSHTM,24,1,2023,31,3,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,26,All,0,0,3,8,12,15,18,20,23,26,29,33,36,39,42,45,48,54,59
+LSHTM,24,1,2023,1,4,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,26,All,0,0,3,7.80000000000001,12,15,17,20,23,26,29,32,35,38,41,44.2,48,53,61
+LSHTM,24,1,2023,2,4,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,26,All,0,0,2,8,12,15,17,20,23,26,29,32,36,39,41.25,44,49,53,60
+LSHTM,24,1,2023,3,4,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,26,All,0,0,3,7,11.75,15,18,20,22,26,29,32,35,38,41,45,49,53.1,59.05
+LSHTM,24,1,2023,4,4,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,25.5,All,0,0,3,8,11,14,16,19,22,25.5,29,32,35,38,41,44,48,52,59
+LSHTM,24,1,2023,5,4,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,25,All,0,0,3,8,12,14.7,17,20,22,25,29,32,35,39,42,45,49,54,61
+LSHTM,24,1,2023,6,4,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,26,All,0,0,3,8,11,15,17,20,23,26,30,33,35.35,38,41,44,48,53,61
+LSHTM,24,1,2023,7,4,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,26,All,0,0,3,7,11,15,17,20,23,26,29,32,36,38,42,45,49,53,61.05
+LSHTM,24,1,2023,8,4,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,26,All,0,0,2,7,11,14,17,19,22,26,29,32,35,38,41,44.2,49,54,60.05
+LSHTM,24,1,2023,9,4,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,26,All,0,0,3,8,12,15,18,20,23,26,28,31,35,39,41,45,48,54,60
+LSHTM,24,1,2023,10,4,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,26,All,0,0,3,7,11,14,16,19.6,23,26,29,32,35,38,41,45,49,52.1,59
+LSHTM,24,1,2023,11,4,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,25,All,0,0,2,7,11,14,17,20,23,25,29,32,35,38,42,45,49,53.1,60
+LSHTM,24,1,2023,12,4,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,25,All,0,0,3,7,12,15,17,20,22,25,29,32,35,37,41,45,49,53,60
+LSHTM,24,1,2023,13,4,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,25,All,0,0,2,7,11,14,17,20,23,25,28,32,35,38,41,45,49,54,60
+LSHTM,24,1,2023,14,4,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,25,All,0,0,2.84999999999999,7,11,14,17,19,21,25,29,32,36,38,41,44,49,53.1,60
+LSHTM,24,1,2023,15,4,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,25,All,0,0,2.84999999999999,7,11,14,16,19,22,25,28,31,35,37,41,45,49,53.1,61
+LSHTM,24,1,2023,16,4,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,25.5,All,0,0,2,7,11,14,16,19,22,25.5,28,31,34,38,41,44,48,54,61
+LSHTM,24,1,2023,17,4,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,25,All,0,0,2,7,11.75,14,16,19,22,25,29,32,35,38,42,44,47.15,53,61
+LSHTM,24,1,2023,18,4,2023,London,mv_prev,EpiNow,MTP,Cases,2.0,25,All,0,0,2,7,11,15,17,19,23,25,28,32,36,39,41.25,45,48.15,53,60.05
+LSHTM,24,1,2023,24,1,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,7,All,2,2,3,3.80000000000001,4,5,5,6,6,7,7,8,9,9,10,11,12,13,15
+LSHTM,24,1,2023,25,1,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,6,All,1,2,2,3,4,4,4,5,5,6,7,7,8,8,9,10,11,12,14
+LSHTM,24,1,2023,26,1,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,5,All,1,1,2,2,3,3,4,4,5,5,6,6,7,8,8,9,10,11.1,13
+LSHTM,24,1,2023,27,1,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,4,All,0,1,1,2,2,2,3,3,4,4,5,5.39999999999998,6,7,8,8,10,11,13
+LSHTM,24,1,2023,28,1,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,2,2,2,3,3,4,4,5,5,6,7,8,10,11
+LSHTM,24,1,2023,29,1,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,1,2,2,2,3,3,4,4,5,5,6,7,8.10000000000002,11
+LSHTM,24,1,2023,30,1,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,3,All,0,1,1,1,1,2,2,2,3,3,3,4,4,5,5,6,7,8,10
+LSHTM,24,1,2023,31,1,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,2,All,0,0,1,1,1,2,2,2,2,2,3,3,4,4,5,5,6,8,10
+LSHTM,24,1,2023,1,2,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,2,All,0,0,1,1,1,2,2,2,2,2,3,3,3,4,4,5,6,7,10
+LSHTM,24,1,2023,2,2,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,2,All,0,0,1,1,1,1,1,2,2,2,2,3,3,3,4,5,5,7,9
+LSHTM,24,1,2023,3,2,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,1,2,2,2,2,3,3,3,4,5,6,8.04999999999996
+LSHTM,24,1,2023,4,2,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,1,1,1,1,1,1,2,2,2,3,3,4,5,8
+LSHTM,24,1,2023,5,2,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,1,1,1,1,1,1,2,2,2,2,3,3,4,5,8
+LSHTM,24,1,2023,6,2,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0.800000000000011,1,1,1,1,1,2,2,2,2,3,3,3,4,5,7
+LSHTM,24,1,2023,7,2,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,1,1,1,1,1,1,2,2,2,3,3,3,4,5,7
+LSHTM,24,1,2023,8,2,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,1,1,1,1,1,1,2,2,2,2,3,3,4,5,7
+LSHTM,24,1,2023,9,2,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0.75,1,1,1,1,1,2,2,2,2,3,3,4,4,6
+LSHTM,24,1,2023,10,2,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,2,3,4,6
+LSHTM,24,1,2023,11,2,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,3,3,5
+LSHTM,24,1,2023,12,2,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,3,3,5
+LSHTM,24,1,2023,13,2,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,2,3,3.10000000000002,5
+LSHTM,24,1,2023,14,2,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0.649999999999977,1,1,1,1,1,1,2,2,2,3,3,5
+LSHTM,24,1,2023,15,2,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,2,3,4,5
+LSHTM,24,1,2023,16,2,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,2.14999999999998,3,4
+LSHTM,24,1,2023,17,2,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,3,4
+LSHTM,24,1,2023,18,2,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,2,4
+LSHTM,24,1,2023,19,2,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,3,4
+LSHTM,24,1,2023,20,2,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,3,4
+LSHTM,24,1,2023,21,2,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,3,4
+LSHTM,24,1,2023,22,2,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,3,4
+LSHTM,24,1,2023,23,2,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,3,4
+LSHTM,24,1,2023,24,2,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3
+LSHTM,24,1,2023,25,2,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,3
+LSHTM,24,1,2023,26,2,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3
+LSHTM,24,1,2023,27,2,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,3
+LSHTM,24,1,2023,28,2,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0.5,All,0,0,0,0,0,0,0,0,0,0.5,1,1,1,1,1,2,2,2,3
+LSHTM,24,1,2023,1,3,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3
+LSHTM,24,1,2023,2,3,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,3
+LSHTM,24,1,2023,3,3,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,3
+LSHTM,24,1,2023,4,3,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2
+LSHTM,24,1,2023,5,3,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2
+LSHTM,24,1,2023,6,3,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3
+LSHTM,24,1,2023,7,3,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3
+LSHTM,24,1,2023,8,3,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,3
+LSHTM,24,1,2023,9,3,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2
+LSHTM,24,1,2023,10,3,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2
+LSHTM,24,1,2023,11,3,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+LSHTM,24,1,2023,12,3,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2
+LSHTM,24,1,2023,13,3,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2
+LSHTM,24,1,2023,14,3,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2
+LSHTM,24,1,2023,15,3,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2
+LSHTM,24,1,2023,16,3,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2
+LSHTM,24,1,2023,17,3,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+LSHTM,24,1,2023,18,3,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+LSHTM,24,1,2023,19,3,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+LSHTM,24,1,2023,20,3,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+LSHTM,24,1,2023,21,3,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+LSHTM,24,1,2023,22,3,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2
+LSHTM,24,1,2023,23,3,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+LSHTM,24,1,2023,24,3,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+LSHTM,24,1,2023,25,3,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+LSHTM,24,1,2023,26,3,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+LSHTM,24,1,2023,27,3,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+LSHTM,24,1,2023,28,3,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1
+LSHTM,24,1,2023,29,3,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+LSHTM,24,1,2023,30,3,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1.04999999999995
+LSHTM,24,1,2023,31,3,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+LSHTM,24,1,2023,1,4,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+LSHTM,24,1,2023,2,4,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+LSHTM,24,1,2023,3,4,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+LSHTM,24,1,2023,4,4,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+LSHTM,24,1,2023,5,4,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+LSHTM,24,1,2023,6,4,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+LSHTM,24,1,2023,7,4,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.149999999999977,1,1
+LSHTM,24,1,2023,8,4,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LSHTM,24,1,2023,9,4,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+LSHTM,24,1,2023,10,4,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+LSHTM,24,1,2023,11,4,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+LSHTM,24,1,2023,12,4,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+LSHTM,24,1,2023,13,4,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LSHTM,24,1,2023,14,4,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LSHTM,24,1,2023,15,4,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LSHTM,24,1,2023,16,4,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LSHTM,24,1,2023,17,4,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LSHTM,24,1,2023,18,4,2023,Midlands,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+LSHTM,24,1,2023,24,1,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,9,All,3,4,5,6,6,7,8,8,9,9,10,11,11,12,13,13,14,15,17
+LSHTM,24,1,2023,25,1,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,9,All,2,3,4,5,6,7,7,8,8,9,9,10,11,11,12,13,14,15,17
+LSHTM,24,1,2023,26,1,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,8,All,2,3,4,5,5,6,6,7,8,8,9,10,10,11,12,13,14,15,17
+LSHTM,24,1,2023,27,1,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,8,All,1,2,3,3,4,5,6,6,7,8,8,9,10,10,11,12,13,14,16
+LSHTM,24,1,2023,28,1,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,7,All,1,1,2,3,4,4,5,5,6,7,7,8,9,9.29999999999995,10,11,13,14,16
+LSHTM,24,1,2023,29,1,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,6,All,0.950000000000003,1,2,2,3,4,4,5,6,6,7,8,9,10,10,11,12,14,16
+LSHTM,24,1,2023,30,1,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,6,All,0,1,1,2,2.75,3,4,4.60000000000002,5,6,7,8,8,9,10,11,12,14,16
+LSHTM,24,1,2023,31,1,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,5,All,0,1,1,2,2,3,4,4,5,5,6,7,8,9,10,11,12,13,15
+LSHTM,24,1,2023,1,2,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,5,All,0,1,1,2,2,2,3,4,4,5,6,7,8,8,9,10,11,13,15
+LSHTM,24,1,2023,2,2,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,5,All,0,1,1,1,2,2,3,3,4,5,6,6,7,8,9,10,11,13,15
+LSHTM,24,1,2023,3,2,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,4,All,0,0,1,1,1,2,2,3,3,4,5,6,7,8,9,10,11,13,15
+LSHTM,24,1,2023,4,2,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,4,All,0,0,0,1,1,1,2,2,3,4,4,5,6,7,8,9.20000000000005,11,13,14.05
+LSHTM,24,1,2023,5,2,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,3,3,4,5,6,7,8.25,10,10.15,12,14
+LSHTM,24,1,2023,6,2,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,2,3,4,5,6,7,8,9,10,12,14.05
+LSHTM,24,1,2023,7,2,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,2,3,4,5,6,7,8,9,10,12,14
+LSHTM,24,1,2023,8,2,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,1,2,2,3,3,4,5,6,7,9,10,12,14
+LSHTM,24,1,2023,9,2,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,1,2,2,3,3,4,5,6,8,9,10,11,13
+LSHTM,24,1,2023,10,2,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,2,2,3,4,5,6,7,8,10,12,15
+LSHTM,24,1,2023,11,2,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,1,1,1,1,2,2,3,4,5,6.25,8,9,11.1,14
+LSHTM,24,1,2023,12,2,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,1,2,2,3,4,5,6,8,10,11,14
+LSHTM,24,1,2023,13,2,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,1,2,2,3,4,5,6,8,9,11,13
+LSHTM,24,1,2023,14,2,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,1,1,1,1,2,2,3,4,5,6,8,9,11,14
+LSHTM,24,1,2023,15,2,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,1.5,All,0,0,0,0,0,1,1,1,1,1.5,2,2.39999999999998,3,5,6,8,10,12,15
+LSHTM,24,1,2023,16,2,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,1.5,All,0,0,0,0,0,0,1,1,1,1.5,2,2,3,4,6,7,9,11,13
+LSHTM,24,1,2023,17,2,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,1,1,1,1,2,2,3,4,6,7,9,11,13
+LSHTM,24,1,2023,18,2,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,1,1,1,1,2,2,4,5,7,9,11,14
+LSHTM,24,1,2023,19,2,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,1,1,1,1,2,3,4,5,7,8,10,13
+LSHTM,24,1,2023,20,2,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0.649999999999977,1,1,1,1,2,2.35000000000002,3,5,7,8,10,14
+LSHTM,24,1,2023,21,2,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,1,1,1,1,2,2.35000000000002,4,5,6,8,10,13
+LSHTM,24,1,2023,22,2,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,1,1,1,1,2,2,3,5,7,8,10,13
+LSHTM,24,1,2023,23,2,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,1,1,1,1,2,2,3.29999999999995,5,6,8,10,13
+LSHTM,24,1,2023,24,2,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,1,1,1,1,2,3,5,6,8,10,12
+LSHTM,24,1,2023,25,2,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,0,1,1,1,2,3,4,6,8,10,14
+LSHTM,24,1,2023,26,2,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,1,1,1,1,2,3,4,6,8,10,13
+LSHTM,24,1,2023,27,2,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,1,1,1,1,2,3,4,6,7,10,13
+LSHTM,24,1,2023,28,2,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,1,1,1,1,2,3,4,5,8,10,13
+LSHTM,24,1,2023,1,3,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,1,1,1,1,2,2,3.25,5,7,9,12
+LSHTM,24,1,2023,2,3,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,1,1,1,1,2,3,4,6,7,10,13
+LSHTM,24,1,2023,3,3,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,0,1,1,1,2,2,4,5,7,10,13
+LSHTM,24,1,2023,4,3,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,2,4,6,8,10,13
+LSHTM,24,1,2023,5,3,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,0,1,1,1,1,2,3,5,8,10,13
+LSHTM,24,1,2023,6,3,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,0,1,1,1,1,2,3,5,7,10,12
+LSHTM,24,1,2023,7,3,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,0,1,1,1,1,2,4,5,7,10,13.05
+LSHTM,24,1,2023,8,3,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,0,1,1,1,1,2,3,4.20000000000005,7,10,13
+LSHTM,24,1,2023,9,3,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,5,7,10,12
+LSHTM,24,1,2023,10,3,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0.450000000000045,1,1,2,3,5,7,10,13
+LSHTM,24,1,2023,11,3,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,5,7,10,13
+LSHTM,24,1,2023,12,3,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,1,3,5,7,9.10000000000002,13
+LSHTM,24,1,2023,13,3,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,5,7,10,13
+LSHTM,24,1,2023,14,3,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,5,7,10,13
+LSHTM,24,1,2023,15,3,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,5,7,9,12
+LSHTM,24,1,2023,16,3,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,5,7,10,12
+LSHTM,24,1,2023,17,3,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,4,7,9,13
+LSHTM,24,1,2023,18,3,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0.399999999999977,1,1,3,4,7,9,12
+LSHTM,24,1,2023,19,3,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,4,7,9,12
+LSHTM,24,1,2023,20,3,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,4,7,9,12
+LSHTM,24,1,2023,21,3,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2.25,4,6,9,12
+LSHTM,24,1,2023,22,3,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,4,6,9,13
+LSHTM,24,1,2023,23,3,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,4,6.14999999999998,9,12
+LSHTM,24,1,2023,24,3,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,4,6,8.10000000000002,12.05
+LSHTM,24,1,2023,25,3,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,4,6,9,11.05
+LSHTM,24,1,2023,26,3,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,4,6,9,12
+LSHTM,24,1,2023,27,3,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,4,6,9,12
+LSHTM,24,1,2023,28,3,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,4,6,9,12
+LSHTM,24,1,2023,29,3,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,4,6,9,13
+LSHTM,24,1,2023,30,3,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,4,6,9,12
+LSHTM,24,1,2023,31,3,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,4,6,9,13
+LSHTM,24,1,2023,1,4,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,6,9,12
+LSHTM,24,1,2023,2,4,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3.20000000000005,6,9,12
+LSHTM,24,1,2023,3,4,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,4,6,9,12
+LSHTM,24,1,2023,4,4,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,4,6,9,12
+LSHTM,24,1,2023,5,4,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,4,6,9,12
+LSHTM,24,1,2023,6,4,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3.20000000000005,6,9,12
+LSHTM,24,1,2023,7,4,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,6,9,12
+LSHTM,24,1,2023,8,4,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,6,9,12
+LSHTM,24,1,2023,9,4,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,6,9,11
+LSHTM,24,1,2023,10,4,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,6,9,12
+LSHTM,24,1,2023,11,4,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,4,6,9,12
+LSHTM,24,1,2023,12,4,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,6,9,12.05
+LSHTM,24,1,2023,13,4,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,6.14999999999998,9,12
+LSHTM,24,1,2023,14,4,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,6,9,12
+LSHTM,24,1,2023,15,4,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,6,9,12
+LSHTM,24,1,2023,16,4,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,6,9,13
+LSHTM,24,1,2023,17,4,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,6,9,12.05
+LSHTM,24,1,2023,18,4,2023,North East and Yorkshire,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,6,8,11
+LSHTM,24,1,2023,24,1,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,14,All,6,8,9,10,11,11,12,13,13,14,14,15,15,16,17,17.2,18,20,21
+LSHTM,24,1,2023,25,1,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,13,All,6,8,8.84999999999999,9,10,11,11,12,12,13,13,14,15,15,16,17,18,19,21
+LSHTM,24,1,2023,26,1,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,13,All,5,7,8,9,10,10,11,12,12,13,13,14,15,15,16,17,18,19,21
+LSHTM,24,1,2023,27,1,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,12,All,5,6,7,8,9,10,10,11,12,12,13,13,14,15,15,16,17,18,21
+LSHTM,24,1,2023,28,1,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,11,All,3,5,6,7,8,9,9,10,11,11,12,13,13,14,15,16,16,18,20
+LSHTM,24,1,2023,29,1,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,11,All,3,4,6,7,7,8,9,10,10,11,11,12,12,13,14,15,15,17,19
+LSHTM,24,1,2023,30,1,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,11,All,2,4,5,6,7,8,9,9,10,11,11,12,13,13,14,15,16,18,20
+LSHTM,24,1,2023,31,1,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,11,All,2,3,5,6,7,8,8,9,10,11,11,12,13,14,14,15,16.15,18,20
+LSHTM,24,1,2023,1,2,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,10,All,2,3,4,5,6,7,8,8,9,10,11,11,12,13,14,15,16,18,19.05
+LSHTM,24,1,2023,2,2,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,10,All,2,3,4,5,6,7,8,8,9,10,10,11,12,12,13,14,15,17,19
+LSHTM,24,1,2023,3,2,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,9,All,1,2,3,4,5,6,7,8,8,9,10,11,11,12,13,14,15,16,18
+LSHTM,24,1,2023,4,2,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,8,All,1,2,3,3,4,5,6,7,8,8,9,10,11,11,13,13,15,16,19
+LSHTM,24,1,2023,5,2,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,8,All,0,1,2,3,4,5,6,7,7,8,9,10,11,12,13,14,15,16,18
+LSHTM,24,1,2023,6,2,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,8,All,1,1,2,3,4,5,6,7,7,8,9,10,10,11,12,14,15,16,18
+LSHTM,24,1,2023,7,2,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,8,All,0,1,2,3,4,4,5,6,7,8,9,9,10,11,12,13,14,15,17
+LSHTM,24,1,2023,8,2,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,7,All,0,1,2,2,3,4,5,6,7,7,8,9,10,11,12,13,14,16,18
+LSHTM,24,1,2023,9,2,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,7,All,0,1,1,2,3,4,5,6,6,7,8,9,10,11,12,13,14,16,18
+LSHTM,24,1,2023,10,2,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,7,All,0,0,1,2,2,3,4,5,6,7,7,8,9,10,11,12,13.15,15,17
+LSHTM,24,1,2023,11,2,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,6,All,0,0,1,1,2,3,4,5,5,6,7,8,9,10,11,12,13,15,17
+LSHTM,24,1,2023,12,2,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,6,All,0,0,1,1,2,2,3,4,5,6,7,8,9,10,11,11,12,14,17
+LSHTM,24,1,2023,13,2,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,6,All,0,1,1,1,2,2,3,4,5,6,7,8,9,10,11,12,13,15,17
+LSHTM,24,1,2023,14,2,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,6,All,0,0,1,1,2,2,3,4,5,6,7,8,9,10,11,12,13,15,17
+LSHTM,24,1,2023,15,2,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,5,All,0,0,1,1,1,2,3,4,4,5,6,7,8,9,10,11,13,14,16
+LSHTM,24,1,2023,16,2,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,5,All,0,0,1,1,1,2,3,4,4,5,6,7,8,9,10,12,13,14,17
+LSHTM,24,1,2023,17,2,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,5,All,0,0,0,1,1,1,2,3,4,5,6,7,8,9,10,11,12,14,16
+LSHTM,24,1,2023,18,2,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,4,All,0,0,0,0,1,1,2,2.60000000000002,3,4,5,6,7,8,10,11,12,14,16
+LSHTM,24,1,2023,19,2,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,4,All,0,0,0,1,1,1,2,2,3,4,5,6,7,8,9,11,12,14,17
+LSHTM,24,1,2023,20,2,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,4,All,0,0,0,1,1,1,2,2,3,4,5,6,7,8,10,11,12,14,16
+LSHTM,24,1,2023,21,2,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,4,All,0,0,0,1,1,1,1,2,3,4,5,6,7,8,9,10,12,14,16
+LSHTM,24,1,2023,22,2,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,4,All,0,0,0,1,1,1,2,2,3,4,5,6,7,8,9,10,11,13,16
+LSHTM,24,1,2023,23,2,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,4,All,0,0,0,0,1,1,1,2,3,4,5,5,6,7.29999999999996,9,10,12,13,15
+LSHTM,24,1,2023,24,2,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,3,All,0,0,0,0,0,1,1,2,3,3,4,6,6,7,9,10,12,13,15
+LSHTM,24,1,2023,25,2,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,3,All,0,0,0,0,0,1,1,1,2,3,4,5,6,7,8,10,11,13,16
+LSHTM,24,1,2023,26,2,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,3,All,0,0,0,0,0,1,1,1,2,3,4,5,6,7,9,10,12,14,16
+LSHTM,24,1,2023,27,2,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,3,All,0,0,0,0,1,1,1,2,2,3,4,5,6,7,8,10,11,13,15
+LSHTM,24,1,2023,28,2,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,3,All,0,0,0,0,0,1,1,1,2,3,4,5,6,7,8,9,11,13,15
+LSHTM,24,1,2023,1,3,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,3,All,0,0,0,0,0,1,1,1,2,3,3,5,6,7,8,9,11,13,16
+LSHTM,24,1,2023,2,3,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,2.5,All,0,0,0,0,0,1,1,1,2,2.5,3,4,6,7,8,9,11,12,15
+LSHTM,24,1,2023,3,3,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,0,1,1,1,2,3,4,6,7,8,9,11,13,15
+LSHTM,24,1,2023,4,3,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,0,1,1,1,2,3,4,5,7,8,9,11,13,16
+LSHTM,24,1,2023,5,3,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,0,1,1,1,2,3,4,5,6,7,9,11,12,14
+LSHTM,24,1,2023,6,3,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,0,1,1,1,2,3,4,5,6,8,9,11,13,15
+LSHTM,24,1,2023,7,3,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,0,1,1,1,2,3,4,5,6,8,9,10,12,15
+LSHTM,24,1,2023,8,3,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,0,1,1,1,2,3,4,5,6,7,9,10,12,15
+LSHTM,24,1,2023,9,3,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,0,1,1,1,2,2,4,5,6,8,9,11,12,15
+LSHTM,24,1,2023,10,3,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,1,1,1,2,3,5,6,7,8,10,12,15
+LSHTM,24,1,2023,11,3,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,1,1,1,2,3,5,6,7,9,10,12,14
+LSHTM,24,1,2023,12,3,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,1,1,1,2,3,4,5,7,8,10,12,14
+LSHTM,24,1,2023,13,3,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,1,1,1,2,3,4,6,7,9,10,11,14
+LSHTM,24,1,2023,14,3,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,1,1,1,2,3,4,5,7,8,10,12,15
+LSHTM,24,1,2023,15,3,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0.649999999999977,1,1,1,2,3,4,5,7,9,10,12,14
+LSHTM,24,1,2023,16,3,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,1,1,1,2,3,4,5,7,8.20000000000005,10,12,14
+LSHTM,24,1,2023,17,3,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,1,1,2,3,4,5,7,8,9.14999999999998,12,14
+LSHTM,24,1,2023,18,3,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,1,1,1,2,4,5,7,8,9,11,14
+LSHTM,24,1,2023,19,3,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,1,1,2,2,4,5,6,8,9,12,14
+LSHTM,24,1,2023,20,3,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,1,1,1,2,3,4,5,7,9,10,12,15
+LSHTM,24,1,2023,21,3,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,1,1,2,2,4,5,7,8,10,11,14.05
+LSHTM,24,1,2023,22,3,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,1,1,1,3,4,5,7,8,10,12,14
+LSHTM,24,1,2023,23,3,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,1,1,2,2,3,5,6,8,10,12,15
+LSHTM,24,1,2023,24,3,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,1,1,1,2,3,4,6,8,10,12,14
+LSHTM,24,1,2023,25,3,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,0,1,1,2,4,5,7,8,9,12,14
+LSHTM,24,1,2023,26,3,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,1,1,1,2,4,5,6,8,10,11,14
+LSHTM,24,1,2023,27,3,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,1,1,1,2,3,5,6,8,10,11.1,14
+LSHTM,24,1,2023,28,3,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,0,1,1,2,3,5,6,8,9,11,14
+LSHTM,24,1,2023,29,3,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,0,1,1,2,3,5,6,7,9,11,14
+LSHTM,24,1,2023,30,3,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,0,1,1,2,3,5,6,7,9,12,15
+LSHTM,24,1,2023,31,3,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,0,1,1,2,3,5,6,7,9,12,14
+LSHTM,24,1,2023,1,4,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,0,1,1,2,3,4,6,8,9,11,14
+LSHTM,24,1,2023,2,4,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,0,1,1,2,3,4,6,7,9,11,14
+LSHTM,24,1,2023,3,4,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,0,1,1,2,3,4,6,7,9,11,13.05
+LSHTM,24,1,2023,4,4,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,0,1,1,2,3,4,6,7,9,11,14
+LSHTM,24,1,2023,5,4,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,0,1,1,2,3,4,6,7,9,11,14
+LSHTM,24,1,2023,6,4,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,0,1,1,1,3,4,6,7,9.14999999999998,11,15
+LSHTM,24,1,2023,7,4,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,1,3,4,6,7,9,11,14
+LSHTM,24,1,2023,8,4,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,1,3,4,6,8,10,11,14
+LSHTM,24,1,2023,9,4,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,1,2,4,5.25,7,9,11,14
+LSHTM,24,1,2023,10,4,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,0.5,All,0,0,0,0,0,0,0,0,0,0.5,1,1,3,4,5.25,7,9,11,14
+LSHTM,24,1,2023,11,4,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,2,3,4,6,7,9,11,13
+LSHTM,24,1,2023,12,4,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,2,3,4,5,7,9,11,14
+LSHTM,24,1,2023,13,4,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,0.5,All,0,0,0,0,0,0,0,0,0,0.5,1,2,3,4,5,7,9,11,14
+LSHTM,24,1,2023,14,4,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,1,3,4,6,7,9,11,14
+LSHTM,24,1,2023,15,4,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,1,2,4,5,7,9,11,13
+LSHTM,24,1,2023,16,4,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,1,2,4,5.25,7,9,11,14
+LSHTM,24,1,2023,17,4,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,1,2.35000000000002,4,6,7,9,11.1,14
+LSHTM,24,1,2023,18,4,2023,North West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,1.39999999999998,3,4,5,7,9,11,14
+LSHTM,24,1,2023,24,1,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,2,All,0,0,1,1,1,1,1,2,2,2,2,2,3,3,3,3,4,4,5.04999999999996
+LSHTM,24,1,2023,25,1,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,1,2,2,2,2,2,3,3,3,4,4,5
+LSHTM,24,1,2023,26,1,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,1,1,2,2,2,2,3,3,3,4,4.10000000000002,6
+LSHTM,24,1,2023,27,1,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,1,2,2,2,2,2,3,3,3,4,4,5
+LSHTM,24,1,2023,28,1,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,1,1,2,2,2,2,2,3,3,4,4,5
+LSHTM,24,1,2023,29,1,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,1,1,1,1,1,1,2,2,2,2,3,3,3,4,5
+LSHTM,24,1,2023,30,1,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,1,1,1,1,1,1,2,2,2,2,3,3,3,4,5
+LSHTM,24,1,2023,31,1,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,1,1,1,1,1,1,2,2,2,2,2,3,3,4,5
+LSHTM,24,1,2023,1,2,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,1,1,1,1,1,1,2,2,2,2.25,3,3,4,4
+LSHTM,24,1,2023,2,2,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,1,1,1,1,1,1,2,2,2,2,3,3,3.10000000000002,5
+LSHTM,24,1,2023,3,2,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,1,1,1,1,1,1,2,2,2,2,3,3,4,4
+LSHTM,24,1,2023,4,2,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,2,3,3,4
+LSHTM,24,1,2023,5,2,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,2,3,3,4
+LSHTM,24,1,2023,6,2,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,3,3,4
+LSHTM,24,1,2023,7,2,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,3,3,4
+LSHTM,24,1,2023,8,2,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,3,3,4
+LSHTM,24,1,2023,9,2,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,2,3,4
+LSHTM,24,1,2023,10,2,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,3,4
+LSHTM,24,1,2023,11,2,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,0.550000000000011,1,1,1,1,1,2,2,2,3,4
+LSHTM,24,1,2023,12,2,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3,3
+LSHTM,24,1,2023,13,2,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,3
+LSHTM,24,1,2023,14,2,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,3,3
+LSHTM,24,1,2023,15,2,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,2.10000000000002,3
+LSHTM,24,1,2023,16,2,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3
+LSHTM,24,1,2023,17,2,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3,3
+LSHTM,24,1,2023,18,2,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3
+LSHTM,24,1,2023,19,2,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3
+LSHTM,24,1,2023,20,2,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3
+LSHTM,24,1,2023,21,2,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,3
+LSHTM,24,1,2023,22,2,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,3
+LSHTM,24,1,2023,23,2,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,3
+LSHTM,24,1,2023,24,2,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,3
+LSHTM,24,1,2023,25,2,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2.04999999999995
+LSHTM,24,1,2023,26,2,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2.04999999999995
+LSHTM,24,1,2023,27,2,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,3
+LSHTM,24,1,2023,28,2,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2
+LSHTM,24,1,2023,1,3,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0.299999999999955,1,1,1,2,2
+LSHTM,24,1,2023,2,3,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2
+LSHTM,24,1,2023,3,3,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2
+LSHTM,24,1,2023,4,3,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2
+LSHTM,24,1,2023,5,3,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2
+LSHTM,24,1,2023,6,3,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+LSHTM,24,1,2023,7,3,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+LSHTM,24,1,2023,8,3,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+LSHTM,24,1,2023,9,3,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+LSHTM,24,1,2023,10,3,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+LSHTM,24,1,2023,11,3,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+LSHTM,24,1,2023,12,3,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+LSHTM,24,1,2023,13,3,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1
+LSHTM,24,1,2023,14,3,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+LSHTM,24,1,2023,15,3,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+LSHTM,24,1,2023,16,3,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+LSHTM,24,1,2023,17,3,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+LSHTM,24,1,2023,18,3,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+LSHTM,24,1,2023,19,3,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+LSHTM,24,1,2023,20,3,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+LSHTM,24,1,2023,21,3,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+LSHTM,24,1,2023,22,3,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+LSHTM,24,1,2023,23,3,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+LSHTM,24,1,2023,24,3,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+LSHTM,24,1,2023,25,3,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+LSHTM,24,1,2023,26,3,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LSHTM,24,1,2023,27,3,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LSHTM,24,1,2023,28,3,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+LSHTM,24,1,2023,29,3,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.149999999999977,1,1
+LSHTM,24,1,2023,30,3,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LSHTM,24,1,2023,31,3,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LSHTM,24,1,2023,1,4,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LSHTM,24,1,2023,2,4,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.149999999999977,1,1
+LSHTM,24,1,2023,3,4,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LSHTM,24,1,2023,4,4,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LSHTM,24,1,2023,5,4,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LSHTM,24,1,2023,6,4,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LSHTM,24,1,2023,7,4,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LSHTM,24,1,2023,8,4,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LSHTM,24,1,2023,9,4,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.100000000000023,1
+LSHTM,24,1,2023,10,4,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LSHTM,24,1,2023,11,4,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LSHTM,24,1,2023,12,4,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LSHTM,24,1,2023,13,4,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LSHTM,24,1,2023,14,4,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LSHTM,24,1,2023,15,4,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LSHTM,24,1,2023,16,4,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LSHTM,24,1,2023,17,4,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LSHTM,24,1,2023,18,4,2023,Northern Ireland,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LSHTM,24,1,2023,24,1,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,13,All,5,7,8,9,9,10,11,12,12,13,13,14,14,15,16,17,18,19,21
+LSHTM,24,1,2023,25,1,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,12,All,4,6,7,8,9,10,10,11,12,12,13,13,14,15,15,16,17,18,20
+LSHTM,24,1,2023,26,1,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,12,All,4,6,7,8,8,9,10,11,11,12,12,13,14,15,15,16,17,19,21
+LSHTM,24,1,2023,27,1,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,11,All,2,4,6,7,8,8,9,10,10,11,12,12,13,14,15,16,17,18,20
+LSHTM,24,1,2023,28,1,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,10,All,2,4,5,6,7,7,8,9,9,10,11,11,12,13,14,15,16,17,19
+LSHTM,24,1,2023,29,1,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,10,All,2,3,4,5.80000000000001,6,7,8,9,9,10,11,11,12,13,14,15,16,18,20
+LSHTM,24,1,2023,30,1,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,9,All,1,2,4,5,6,7,7,8,9,9,10,11,12,12,13,14,16,17,19
+LSHTM,24,1,2023,31,1,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,10,All,1,2,3,4,5,6,7,8,9,10,10,11,12,12,13,14,16,17,19
+LSHTM,24,1,2023,1,2,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,9,All,1,2,3,4,5,6,7,7,8,9,10,11,11,12,13,14,15,16.1,19
+LSHTM,24,1,2023,2,2,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,9,All,1,1,2,3,4,5,6,7,8,9,9,10,11,12,13,14,15,16,18.05
+LSHTM,24,1,2023,3,2,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,8,All,0,1,2,3,4,5,6,7,7,8,9,10,11,11,13,14,15,16,18
+LSHTM,24,1,2023,4,2,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,8,All,0,1,1,2,3,4,5,6,7,8,9,9,10,11,12,13,15,16,19
+LSHTM,24,1,2023,5,2,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,7,All,0,1,1,2,3,4,5,6,6,7,8,9,10,11,12,13,14,16,18
+LSHTM,24,1,2023,6,2,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,7,All,0,1,1,2,2,3,4,5,6,7,8,9,9,10,12,13,14,16,18
+LSHTM,24,1,2023,7,2,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,7,All,0,1,1,1.80000000000001,2,3,4,5,6,7,8,8,9,10,11,13,14,15.1,18
+LSHTM,24,1,2023,8,2,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,7,All,0,0,1,1,2,3,4,4,5,7,7,8,9,10,11,12,13.15,15,18
+LSHTM,24,1,2023,9,2,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,6,All,0,0,1,1,2,2,3,4,5,6,7,8,9,10,11,12,14,15,18
+LSHTM,24,1,2023,10,2,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,6,All,0,0,0,1,1,2,3,4,5,6,7,8,9,10,11,12,14,15,17.05
+LSHTM,24,1,2023,11,2,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,5,All,0,0,0,1,1,2,2,3,4,5,6,7,8,9,10,12,13,15,17
+LSHTM,24,1,2023,12,2,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,5,All,0,0,0,1,1,2,3,3,4,5,6,7,8,9,11,12,13,15,18
+LSHTM,24,1,2023,13,2,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,5,All,0,0,0,1,1,1,2,3,4,5,6,7,8,9,10,12,13,14,17
+LSHTM,24,1,2023,14,2,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,5,All,0,0,0,1,1,1,2,3,3,5,6,7,8,9,10,12,13,14,17
+LSHTM,24,1,2023,15,2,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,5,All,0,0,0,0,1,1,2,3,3,5,6,7,8,9,10,11,12,14.1,17
+LSHTM,24,1,2023,16,2,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,4,All,0,0,0,0,1,1,2,2,3,4,5,6,7,8,10,11,13,15,18
+LSHTM,24,1,2023,17,2,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,4,All,0,0,0,0,1,1,1,2,3,4,5,6,7,9,10,11,13,15,18
+LSHTM,24,1,2023,18,2,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,4,All,0,0,0,0,0,1,1,2,3,4,5,6,7,8,10,11,13,14,17
+LSHTM,24,1,2023,19,2,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,3,All,0,0,0,0,1,1,1,2,2,3,5,6,7,8,10,11,12,14,17
+LSHTM,24,1,2023,20,2,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,3,All,0,0,0,0,1,1,1,1,2,3,4,5,7,8,9,11,12,14,17
+LSHTM,24,1,2023,21,2,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,3,All,0,0,0,0,0,1,1,2,2,3,4,6,7,8,9,11,12,14,17
+LSHTM,24,1,2023,22,2,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,3,All,0,0,0,0,0,1,1,1,2,3,4,5,7,8,9,10,12,14,17
+LSHTM,24,1,2023,23,2,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,3,All,0,0,0,0,0,1,1,1,2,3,4,5,6,8,9,10,12,14,16
+LSHTM,24,1,2023,24,2,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,3,All,0,0,0,0,0,0,1,1,2,3,4,5,6,8,9,10,12,14,17
+LSHTM,24,1,2023,25,2,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,0,1,1,2,2,4,5,6,7,9,10,11,13,16
+LSHTM,24,1,2023,26,2,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,0,1,1,1.55000000000001,2,3,5,6,7,9,10,12,14,17
+LSHTM,24,1,2023,27,2,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,0,1,1,1,2,3,4,6,7.29999999999996,9,10,12,14,16
+LSHTM,24,1,2023,28,2,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,0,1,1,1,2,3,4.39999999999998,6,7,8,10,12,13,16
+LSHTM,24,1,2023,1,3,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,0,1,1,1,2,3,4,5,7,8.25,10,12,14,17
+LSHTM,24,1,2023,2,3,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,0,0,1,1,2,3,4,6,7,9,10,12,14,16
+LSHTM,24,1,2023,3,3,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,0,0,1,1,2,3,4,5,7,8,10,11,13,16
+LSHTM,24,1,2023,4,3,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,0,0,1,1,2,2,4,5,6.29999999999996,8,10,11,14,16
+LSHTM,24,1,2023,5,3,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,1,1,1,2,4,5,6,8,9,11,13,16
+LSHTM,24,1,2023,6,3,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,1,1,1,2,4,5,6,8,10,11,13,16
+LSHTM,24,1,2023,7,3,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,1,1,1,2,4,5,6,8,9,11,13,16.05
+LSHTM,24,1,2023,8,3,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,0,0,1,1,2,2,4,5,7,8,9.20000000000005,12,13,16
+LSHTM,24,1,2023,9,3,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,0,0,1,1,2,3,3.39999999999998,5,6.29999999999996,8,9,11,13,16
+LSHTM,24,1,2023,10,3,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,1,1,2,3,5,6,8,10,11,13,16
+LSHTM,24,1,2023,11,3,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,1,1,2,3,5,6,8,10,11,13,17
+LSHTM,24,1,2023,12,3,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,1,1,2,3,5,6,7,9,10,12,16
+LSHTM,24,1,2023,13,3,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,1,1,2,3,4,6,7,9,11,13,16
+LSHTM,24,1,2023,14,3,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,1,1,2,3,5,6,7,9,11,13,16
+LSHTM,24,1,2023,15,3,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,1,1,2,3,5,6,8,9,11,13,16
+LSHTM,24,1,2023,16,3,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,1,1,2,3,4,6,7,9,10,12,15.05
+LSHTM,24,1,2023,17,3,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,0,1,2,3,4,6,7,9,10,13,15
+LSHTM,24,1,2023,18,3,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,0,1,1,3,4,5.29999999999996,7,9,10,12.1,15
+LSHTM,24,1,2023,19,3,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,1,1,2,3,4,6,7,8,10,13,15
+LSHTM,24,1,2023,20,3,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,1,1,1,2,4,5,7,9,11,13,16
+LSHTM,24,1,2023,21,3,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,0,1,1,3,4,6,7,9,10,12,15
+LSHTM,24,1,2023,22,3,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,1,1,1,3,4,6,7,9,10,12,15
+LSHTM,24,1,2023,23,3,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,0,1,1,2,4,5,7,9,11,13,16
+LSHTM,24,1,2023,24,3,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,0,1,1,2,4,5,6.25,8,10,13,16
+LSHTM,24,1,2023,25,3,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,0,1,1,2,4,6,7,9,10,12,15
+LSHTM,24,1,2023,26,3,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,0,1,1,2,4,5,7,9,11,13,16
+LSHTM,24,1,2023,27,3,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,0,1,1,2,4,5,7,9,10,13,16
+LSHTM,24,1,2023,28,3,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,0,1,1,2,4,5,7,9,11,13,15
+LSHTM,24,1,2023,29,3,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,0,1,1,2,4,5,6,8,10,12,15
+LSHTM,24,1,2023,30,3,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,0,1,1,2,4,5,7,9,10,12,16
+LSHTM,24,1,2023,31,3,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,0,1,1,2,4,5,7,9,11,13,15
+LSHTM,24,1,2023,1,4,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,2,4,5,6.25,8,10,13,15
+LSHTM,24,1,2023,2,4,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,0,1,1,2,4,5,7,8,10,12,15
+LSHTM,24,1,2023,3,4,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,0,1,1,2,4,5,7,8,10,13,15.05
+LSHTM,24,1,2023,4,4,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,2,4,5,6,8,10,13,16
+LSHTM,24,1,2023,5,4,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,2,4,5,6,8,10,12,16
+LSHTM,24,1,2023,6,4,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,2,4,5,7,9,10,12,16
+LSHTM,24,1,2023,7,4,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,2,3,5,7,8.20000000000005,10,12,14
+LSHTM,24,1,2023,8,4,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,2,3,5,6,8,10,12,15.05
+LSHTM,24,1,2023,9,4,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,2,3,5,7,8.20000000000005,10,12,15
+LSHTM,24,1,2023,10,4,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,2,3,5,7,8.20000000000005,11,13,15
+LSHTM,24,1,2023,11,4,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,2,4,5,7,9,10,12,15
+LSHTM,24,1,2023,12,4,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,2,3,5,7,8,10,12,15
+LSHTM,24,1,2023,13,4,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,2,3.35000000000002,5,7,8,10,12,15
+LSHTM,24,1,2023,14,4,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,2,3,5,7,8,10,12,16
+LSHTM,24,1,2023,15,4,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,2,3,5,7,8,10,12.1,15.05
+LSHTM,24,1,2023,16,4,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,2,3,5,6,8,10,12,15
+LSHTM,24,1,2023,17,4,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,2,3,5,7,9,10,12,16
+LSHTM,24,1,2023,18,4,2023,South East,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,2,3,5,7,8.20000000000005,11,13,15
+LSHTM,24,1,2023,24,1,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,4,All,1,1,2,2,2,2,3,3,3,4,4,4,5,5,5,6,6,7,8
+LSHTM,24,1,2023,25,1,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,4,All,0,1,1,2,2,2,3,3,3,4,4,4,4,5,5,6,6,7,8
+LSHTM,24,1,2023,26,1,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,3,All,0,1,1,2,2,2,2,3,3,3,4,4,4,5,5,5,6,7,7
+LSHTM,24,1,2023,27,1,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,2,2,2,2,3,3,3,4,4,4,5,5,6,7,7
+LSHTM,24,1,2023,28,1,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,2,2,2,2,3,3,3,4,4,4,5,6,6,7
+LSHTM,24,1,2023,29,1,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,2,3,3,3,4,4,4,5,5,6,7
+LSHTM,24,1,2023,30,1,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,2,2,2,3,3,3,4,4,5,5,6,7
+LSHTM,24,1,2023,31,1,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,2,2,2,3,3,3,4,4,5,5,6,7
+LSHTM,24,1,2023,1,2,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,2,2,2,2,3,3,4,4,5,5,6,7
+LSHTM,24,1,2023,2,2,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,2,2,2,3,3,3,4,4,5,5.10000000000002,7
+LSHTM,24,1,2023,3,2,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,1,1,1,1.55000000000001,2,2,3,3,3,4,4,5,6,7
+LSHTM,24,1,2023,4,2,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,0,1,1,1,2,2,2,3,3,4,4,5,6,7
+LSHTM,24,1,2023,5,2,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,0,1,1,1,2,2,2,3,3,3.25,4,5,5,7
+LSHTM,24,1,2023,6,2,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,1,1,1,1,2,2,2,3,3,4,4,5,7
+LSHTM,24,1,2023,7,2,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,1,1,1,1,2,2,3,3,4,4,5,5,7
+LSHTM,24,1,2023,8,2,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,1,1,1,2,2,2,3,3,4,5,5,7
+LSHTM,24,1,2023,9,2,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,1,1,1,2,2,2,3,3,4,4,5,6
+LSHTM,24,1,2023,10,2,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,1,1,1,2,2,3,3,4,4,5,6
+LSHTM,24,1,2023,11,2,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,1,1,1,2,2,3,3,3,4,5,6
+LSHTM,24,1,2023,12,2,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,1,1,1,2,2,3,3,4,4,5,6
+LSHTM,24,1,2023,13,2,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,1,1,1,2,2,2,3,4,4,5,6
+LSHTM,24,1,2023,14,2,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,1,1,1,2,2,2,3,3,4,5,6
+LSHTM,24,1,2023,15,2,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,0,1,1,1,2,2,3,3,4,5,7
+LSHTM,24,1,2023,16,2,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,0,1,1,1,2,2,3,3,4,5,6
+LSHTM,24,1,2023,17,2,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,1,2,2,3,3,4,5,7
+LSHTM,24,1,2023,18,2,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,0,1,1,1,2,2,3,3,4,5,6
+LSHTM,24,1,2023,19,2,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,3,4,5,6
+LSHTM,24,1,2023,20,2,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,0,0,1,1,1,2,2,3,4,4,5,6
+LSHTM,24,1,2023,21,2,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,1,2,2,3,3,4,5,6
+LSHTM,24,1,2023,22,2,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,3,4,5,6
+LSHTM,24,1,2023,23,2,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,1,2,2,2,3,4,5,6
+LSHTM,24,1,2023,24,2,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,3,4,4,6
+LSHTM,24,1,2023,25,2,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2,3,4,4.10000000000002,6
+LSHTM,24,1,2023,26,2,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2,3,4,4,6
+LSHTM,24,1,2023,27,2,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2,3,3.14999999999998,4,6
+LSHTM,24,1,2023,28,2,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,3,3,5,6
+LSHTM,24,1,2023,1,3,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2,3,4,5,6
+LSHTM,24,1,2023,2,3,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2,3,4,5,6
+LSHTM,24,1,2023,3,3,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,3,4,5,6
+LSHTM,24,1,2023,4,3,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,3,4,6
+LSHTM,24,1,2023,5,3,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,3,4,5,6
+LSHTM,24,1,2023,6,3,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,3,4,4,6
+LSHTM,24,1,2023,7,3,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,3,4,4,6
+LSHTM,24,1,2023,8,3,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,4,5,6
+LSHTM,24,1,2023,9,3,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,3,4.10000000000002,6
+LSHTM,24,1,2023,10,3,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,3,3,4,6
+LSHTM,24,1,2023,11,3,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,3,4,6
+LSHTM,24,1,2023,12,3,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,3,4,4,6
+LSHTM,24,1,2023,13,3,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,3,4,4,6
+LSHTM,24,1,2023,14,3,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,3,4,6
+LSHTM,24,1,2023,15,3,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,4,4,6
+LSHTM,24,1,2023,16,3,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,3,3,4,5
+LSHTM,24,1,2023,17,3,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,4,5,6
+LSHTM,24,1,2023,18,3,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,3,4,6
+LSHTM,24,1,2023,19,3,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0.399999999999977,1,1,2,3,4,4,6
+LSHTM,24,1,2023,20,3,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,3,4,5
+LSHTM,24,1,2023,21,3,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,4,4,6
+LSHTM,24,1,2023,22,3,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,4,4,6
+LSHTM,24,1,2023,23,3,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,4,4,6
+LSHTM,24,1,2023,24,3,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,3,4,6
+LSHTM,24,1,2023,25,3,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,3,4,6
+LSHTM,24,1,2023,26,3,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,3,4,6
+LSHTM,24,1,2023,27,3,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,3,4,6
+LSHTM,24,1,2023,28,3,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,3,4,5
+LSHTM,24,1,2023,29,3,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,3,4,5
+LSHTM,24,1,2023,30,3,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,3,4,5
+LSHTM,24,1,2023,31,3,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,4,5,6
+LSHTM,24,1,2023,1,4,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,3,4,5
+LSHTM,24,1,2023,2,4,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,3,4,6
+LSHTM,24,1,2023,3,4,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,3,4,5
+LSHTM,24,1,2023,4,4,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0.350000000000023,1,2,2,3,4,5
+LSHTM,24,1,2023,5,4,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,3,4,6
+LSHTM,24,1,2023,6,4,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,3,4,6
+LSHTM,24,1,2023,7,4,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,3,4,6
+LSHTM,24,1,2023,8,4,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,3,4,5.04999999999996
+LSHTM,24,1,2023,9,4,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,3,4,5
+LSHTM,24,1,2023,10,4,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,3,4.10000000000002,6
+LSHTM,24,1,2023,11,4,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,4,4,6
+LSHTM,24,1,2023,12,4,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,3,4,5
+LSHTM,24,1,2023,13,4,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,3,4,6
+LSHTM,24,1,2023,14,4,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,3,4,6
+LSHTM,24,1,2023,15,4,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,3,4,6
+LSHTM,24,1,2023,16,4,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,3,4,5
+LSHTM,24,1,2023,17,4,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,3,4,5
+LSHTM,24,1,2023,18,4,2023,South West,mv_prev,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,3,4,5
+LSHTM,24,1,2023,24,1,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,13,All,6,7,8,9,10,11,12,12,13,13,14,14,15,16,17,17,18,20,21.05
+LSHTM,24,1,2023,25,1,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,13,All,6,7,8,9,10,11,11,12,13,13,14,14,15,16,16,17,18,20,21
+LSHTM,24,1,2023,26,1,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,13,All,5,7,8,9,10,10,11,12,12,13,14,14,15,16,16,17,18,19,22
+LSHTM,24,1,2023,27,1,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,13,All,5,6.90000000000001,8,9,10,10,11,12,12,13,13,14,15,16,17,18,18,20,22
+LSHTM,24,1,2023,28,1,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,13,All,4,6,7,8,9,10,11,11,12,13,13,14,15,16,16,17,18,20,22.05
+LSHTM,24,1,2023,29,1,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,12,All,3.95,5,7,8,9,10,10,11,12,12,13,14,14,15,16,17,18,20,22
+LSHTM,24,1,2023,30,1,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,12,All,3,5,6,7,8,9,10,11,11,12,12,13,14,15,15,16,17,19,21
+LSHTM,24,1,2023,31,1,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,12,All,2,4,6,7,8,9,10,11,11,12,13,13,14,15,16,16,18,19,21
+LSHTM,24,1,2023,1,2,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,12,All,2,4,6,7,8,9,10,10,11,12,12,13,14,15,16,16,18,19,21
+LSHTM,24,1,2023,2,2,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,12,All,2,4,6,7,8,8,9,10,11,12,12,13,14,14,15,16,17,19,21
+LSHTM,24,1,2023,3,2,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,12,All,2,3,5,6.80000000000001,8,9,9,10,11,12,12,13,14,14,15,17,18,19,21
+LSHTM,24,1,2023,4,2,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,11,All,1.95,3,5,6,7,8,9,10,11,11,12,13,14,14,16,17,18,19,21
+LSHTM,24,1,2023,5,2,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,11,All,1,3,4,6,7,8,9,10,10,11,12,13,14,14,15,16,17,19,22
+LSHTM,24,1,2023,6,2,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,11,All,1,2.90000000000001,4,5,6,7,9,9,10,11,12,12,13,14,15,16,17,19,21
+LSHTM,24,1,2023,7,2,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,11,All,1,3,4,5,7,8,9,9,10,11,12,12,13,14,15,16,17,19,21
+LSHTM,24,1,2023,8,2,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,10,All,1,2,4,5,6,7,8,9,10,10,11,12,13,14,15,16,17,18,21
+LSHTM,24,1,2023,9,2,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,11,All,1,2,4,5,6,7,8,9,10,11,11,12,13,14,14,16,17,19,21
+LSHTM,24,1,2023,10,2,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,10,All,0,2,4,5,6,7,8,9,10,10,11,12,13,13,14,16,17,18,21
+LSHTM,24,1,2023,11,2,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,10,All,0,2,4,5,6,7,8,8,9,10,11,12,13,14,14,15,16,18,21
+LSHTM,24,1,2023,12,2,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,10,All,0,1,3,4,6,7,7,8,9,10,11,11,12,13,14,15,16,19,21
+LSHTM,24,1,2023,13,2,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,9,All,0,1,3,4,5,6,7,8,9,9,10,11,12,13,14,15,16,18,20
+LSHTM,24,1,2023,14,2,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,10,All,0,1,2,4,5,6,7,8,9,10,11,11,12,13,14,15,17,18,20
+LSHTM,24,1,2023,15,2,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,10,All,0,1,2,3,5,6,7,8,9,10,11,11,12,13,14,15,17,18,21
+LSHTM,24,1,2023,16,2,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,10,All,0,1,2,4,5,6,7,8,9,10,11,11,12,13,14,15,16,18,21
+LSHTM,24,1,2023,17,2,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,9,All,0,1,2,3,5,6,7,8,9,9,10,11,12,13,14,15,16,18,21.05
+LSHTM,24,1,2023,18,2,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,9,All,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,18,20
+LSHTM,24,1,2023,19,2,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,9,All,0,0,1.84999999999999,3,4,5,6,7,8,9,10,11,11,13,14,15,16,18,21
+LSHTM,24,1,2023,20,2,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,9,All,0,0,1,3,4,5,6,7,8,9,10,11,12,12,14,15,16,18,21
+LSHTM,24,1,2023,21,2,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,9,All,0,1,1,3,4,5,6,7,8,9,9,10,11,12,13,14,15.15,17,20
+LSHTM,24,1,2023,22,2,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,9,All,0,0,1,2,4,5,5,7,8,9,10,11,12,12,13,14.2,16,17,20
+LSHTM,24,1,2023,23,2,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,9,All,0,0,1,2,4,5,6,7,8,9,9,10,11,12,14,15,16,18,21
+LSHTM,24,1,2023,24,2,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,9,All,0,0,1,2,3,5,6,7,8,9,9,10,11,12,13,14,16,17.1,21
+LSHTM,24,1,2023,25,2,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,8,All,0,0,1,2,3,4,6,7,8,8,9,10,11,12,13,14,15.15,17,20
+LSHTM,24,1,2023,26,2,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,8,All,0,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,20
+LSHTM,24,1,2023,27,2,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,8,All,0,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,16,18,20
+LSHTM,24,1,2023,28,2,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,8,All,0,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,18,20
+LSHTM,24,1,2023,1,3,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,8,All,0,0,1,1,2.75,4,5,6,7,8,9,10,11,12,13,14,15,17,20
+LSHTM,24,1,2023,2,3,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,8,All,0,0,1,1,3,4,5,6,7,8,9,10,10,12,13,14,15,17.1,21
+LSHTM,24,1,2023,3,3,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,8,All,0,0,1,1,3,4,5,6,7,8,9,10,11,12,13,14,16,18,20
+LSHTM,24,1,2023,4,3,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,8,All,0,0,1,1,2,4,5,6,7,8,9,10,11,12,13,14,16,17,21
+LSHTM,24,1,2023,5,3,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,8,All,0,0,0,1,2,4,5,6,7,8,9,10,10,11,12,14,15,17,20
+LSHTM,24,1,2023,6,3,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,7,All,0,0,0,1,2,3,4,5,6,7,8,9,10,11,12,13,15,17,20
+LSHTM,24,1,2023,7,3,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,7,All,0,0,0,1,2,3,4,5,6,7,8,9,10,11,12,14,15,17,20
+LSHTM,24,1,2023,8,3,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,8,All,0,0,0,1,2,3,4.64999999999998,5.60000000000002,7,8,9,9,10,12,13,14,15,17,19
+LSHTM,24,1,2023,9,3,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,7,All,0,0,0,1,2,3,4,5,6,7,8,9,10,11,12,14,15,17,20
+LSHTM,24,1,2023,10,3,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,7,All,0,0,0,1,2,3,4,5,6,7,8,9,10,11,12,13,15,17,20
+LSHTM,24,1,2023,11,3,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,7.5,All,0,0,0,1,2,3,4,5,6,7.5,9,9,10,11,12,14,15,17,20
+LSHTM,24,1,2023,12,3,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,7,All,0,0,0,1,2,3,4,5,6,7,8,9,10,11,12,13,15,17,21
+LSHTM,24,1,2023,13,3,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,7,All,0,0,0,1,2,3,4,5,6,7,8,9,10,11,12,13,15,17,20
+LSHTM,24,1,2023,14,3,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,7,All,0,0,0,1,2,3,4,5,6,7,8,9,10,10,12,13,15,16,20
+LSHTM,24,1,2023,15,3,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,7,All,0,0,0,1,2,3,4,5,6,7,8,9,10,11,12,13,15,17,20
+LSHTM,24,1,2023,16,3,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,7,All,0,0,0,1,2,3,4,5,6,7,8,9,10,11,12,13,15,17,20
+LSHTM,24,1,2023,17,3,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,7,All,0,0,0,1,1,2,3,4.60000000000002,6,7,8,9,10,11,12,13,15,17,20
+LSHTM,24,1,2023,18,3,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,7,All,0,0,0,1,1,3,4,5,6,7,8,9,10,11,12,13,15,17,20
+LSHTM,24,1,2023,19,3,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,6.5,All,0,0,0,0,1,2,3,4,5,6.5,8,9,10,11,12,13,15,16,20
+LSHTM,24,1,2023,20,3,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,7,All,0,0,0,1,1,2,3,4,6,7,7,8,9,10,11,12,14,16,19.05
+LSHTM,24,1,2023,21,3,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,6,All,0,0,0,0,1,2,3,4,5,6,7,8,9,10,11,13,15,17,20
+LSHTM,24,1,2023,22,3,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,6,All,0,0,0,0,1,2,3,4,5,6,7,8,9,10,12,13,14,17,20
+LSHTM,24,1,2023,23,3,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,6,All,0,0,0,0,1,2,3,5,5,6,7,8,9,11,12,13,15,17,21
+LSHTM,24,1,2023,24,3,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,7,All,0,0,0,0,1,2,3,5,5.55000000000001,7,8,8,9,10,12,13,15,17,20
+LSHTM,24,1,2023,25,3,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,6,All,0,0,0,0,1,2,3,4,5,6,7,8,9,10,12,13,14,16,20
+LSHTM,24,1,2023,26,3,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,6,All,0,0,0,0,1,2,3,4,5,6,7,8,9,10,12,13,14,16,20
+LSHTM,24,1,2023,27,3,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,6,All,0,0,0,0,1,2,3,4,5,6,7,8,9,10,11,13,14,16,19
+LSHTM,24,1,2023,28,3,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,6,All,0,0,0,0,1,2,3,4,5,6,7,8,9,10,11.25,13,15,17,20
+LSHTM,24,1,2023,29,3,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,6,All,0,0,0,0,1,2,3,4,5,6,7,8,9,10,11,13,14,16,20
+LSHTM,24,1,2023,30,3,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,6,All,0,0,0,0,1,2,3,4,5,6,7,8,9,10,11,12,14,16,20
+LSHTM,24,1,2023,31,3,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,6,All,0,0,0,0,1,2,3,4,5,6,7,8,10,11,12,13,14.15,16,19
+LSHTM,24,1,2023,1,4,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,6,All,0,0,0,0,1,1,3,4,5,6,7,8,9,10,11,13,15,17,21
+LSHTM,24,1,2023,2,4,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,6,All,0,0,0,0,1,2,3,4,5,6,7,8,9,10,11,13,14,17,20
+LSHTM,24,1,2023,3,4,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,6,All,0,0,0,0,1,2,3,4,5,6,7,8,9,10,11,12,14,16,20
+LSHTM,24,1,2023,4,4,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,6,All,0,0,0,0,1,2,3,3,5,6,7,8,9,10,11,13,14,16,19
+LSHTM,24,1,2023,5,4,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,6,All,0,0,0,0,1,1,2,4,5,6,7,8,9,10,11,12,14,16,20
+LSHTM,24,1,2023,6,4,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,6,All,0,0,0,0,1,1,2,4,5,6,7,8,9,10,11,12,14,16,19.05
+LSHTM,24,1,2023,7,4,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,6,All,0,0,0,0,1,2,2,4,5,6,7,8,9,10,11,12,14,16,20
+LSHTM,24,1,2023,8,4,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,5,All,0,0,0,0,1,1,2,4,4,5,6.45000000000005,8,9,10,11,12,14,16,19
+LSHTM,24,1,2023,9,4,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,6,All,0,0,0,0,1,1,2,3,5,6,7,7,8,10,11,12,14,16,19
+LSHTM,24,1,2023,10,4,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,5,All,0,0,0,0,1,1,2,3,4,5,7,8,9,10,11,12,14,16,19
+LSHTM,24,1,2023,11,4,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,5,All,0,0,0,0,1,1,2.64999999999998,3,4,5,6,7,8,10,11,12,14,16,20
+LSHTM,24,1,2023,12,4,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,5,All,0,0,0,0,1,1,2,3,4,5,6,7,8,9,11,12,14,16,20
+LSHTM,24,1,2023,13,4,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,5,All,0,0,0,0,1,1,2,3,4,5,6,7,8,10,11,12,14,15.1,20
+LSHTM,24,1,2023,14,4,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,6,All,0,0,0,0,1,1,2,3,4,6,7,8,9,10,11,12,14,16,19
+LSHTM,24,1,2023,15,4,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,5.5,All,0,0,0,0,1,1,2,3,4.55000000000001,5.5,6,7,9,10,11,12,14,16,19.05
+LSHTM,24,1,2023,16,4,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,6,All,0,0,0,0,1,1,2,3,4,6,7,7,8,10,11,12.2,14,16,20
+LSHTM,24,1,2023,17,4,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,5.5,All,0,0,0,0,1,1,2,3,4,5.5,6,7,8,10,11,12,13.15,15,19
+LSHTM,24,1,2023,18,4,2023,Wales,mv_prev,EpiNow,MTP,Cases,2.0,5,All,0,0,0,0,0,1,2,3,4,5,6,7.39999999999998,9,10,11,12,14,15,19
+LSHTM,24,1,2023,24,1,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,106,All,56,64,73,78.8,82,87,92,98,100,106,109,115,119,124,130,136.2,143,152,166
+LSHTM,24,1,2023,25,1,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,101,All,49,61,65.85,73,79,84,87,93,96,101,105,109,115,119,125,133,139,148.1,162
+LSHTM,24,1,2023,26,1,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,96,All,45.95,56,63,70,74,78,83,89,93,96,102,107,112,118,122,129,136,146.1,159
+LSHTM,24,1,2023,27,1,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,91,All,39,49,57,62,69,72,77,81,87,91,96,101.4,107,112,119,125,134,143,158
+LSHTM,24,1,2023,28,1,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,85.5,All,35,43,50,57,62,67.7,71,76,80,85.5,91,94,101,105.3,111,119,128,138,152
+LSHTM,24,1,2023,29,1,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,83,All,31.95,39,47,54.8,58,63,69,74,77,83,87,93,98,104,108,117,123,135.1,151.05
+LSHTM,24,1,2023,30,1,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,79,All,26,37,43,51,56.75,62,66,69.6,76,79,84,91,94,100,105,115,124,135,150
+LSHTM,24,1,2023,31,1,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,77,All,25,34,41,47,53,59,63,68,73,77,82,87.4,93,99,104,111,120.15,132.1,148.05
+LSHTM,24,1,2023,1,2,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,75,All,25,33,39,44,51,56,61,65,69,75,81,85.4,90,96,102,111,119,129.1,146.1
+LSHTM,24,1,2023,2,2,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,74,All,22,30,37,41,49,53,58,62,68,74,77,82.4,89,93,101,108,116,127.1,143.05
+LSHTM,24,1,2023,3,2,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,69,All,19,26,33,39,43.75,50,55,60,63.55,69,75,81,86,91,98,105,114,126,139.1
+LSHTM,24,1,2023,4,2,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,66,All,17,25,30,35,40,45,51,55.6,61,66,70,76,82,86,96,102.2,113,124,140.05
+LSHTM,24,1,2023,5,2,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,63,All,14.95,22,27.85,34,39,44,50,55,58,63,69,75,81,86,94.5,102,109.3,121,138.05
+LSHTM,24,1,2023,6,2,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,62,All,14,21,26,32.8,37,41,48,53,56,62,68,74,77,84,91,100,108,120,138.05
+LSHTM,24,1,2023,7,2,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,60,All,11,19,24,31.6,36,40,46,51,55,60,67,70,78,84,90.25,98,107,118.1,136
+LSHTM,24,1,2023,8,2,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,58,All,11,17.9,24,28,33,38,43,48,53,58,63,68,74,81.3,88,96,105.15,118,136
+LSHTM,24,1,2023,9,2,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,58,All,9,17,22,27.8,32.75,37,41,49.6,52.55,58,64,69,75,81,90,97,106,116,133
+LSHTM,24,1,2023,10,2,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,55,All,9,14,19,25,29,34.7,39.65,44,51,55,60,66,72,79,85,93,103.15,116,133.1
+LSHTM,24,1,2023,11,2,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,53,All,7,13,19,24,28,33,37,41,46,53,57,63,69,75.3,83.25,91,100,113.1,130
+LSHTM,24,1,2023,12,2,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,52,All,5.95,13,18.85,23,28,31,36,40.6,46,52,56,63,68,76,83,90,99.15,110,131
+LSHTM,24,1,2023,13,2,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,51,All,5,12,17,22,27,29,34,39,45.55,51,55,62,68,75,82,92,99,111.1,129.05
+LSHTM,24,1,2023,14,2,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,51,All,4,10.9,17,21.8,26,29,34.65,39,45,51,56,62,67,74,81,90,98,111,130
+LSHTM,24,1,2023,15,2,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,48.5,All,3,10.9,16,20.8,25,29,34,38,41,48.5,53.4500000000001,58.4,66,73,81,87,99,111.1,130
+LSHTM,24,1,2023,16,2,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,46.5,All,2,10,16,20,24,27,32,37,40,46.5,52,56.4,63,69,79,87,96.15,109,127
+LSHTM,24,1,2023,17,2,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,44,All,2,9,13,18,23,25,30,34,40,44,52,57,63,70,80,86,96,111,129.05
+LSHTM,24,1,2023,18,2,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,43,All,1,7,13,16.8,21,25,28,32.6,38,43,50,56,61,67.3,76,85,95,106,127
+LSHTM,24,1,2023,19,2,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,41,All,1,7,13,17,22,25,28,32,37,41,48,55,61,67,75,85,93,107,127
+LSHTM,24,1,2023,20,2,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,42,All,1,6.90000000000001,12,17,22,25,28.65,31,37,42,48,54,61.35,66.3,76,86,94,107,126
+LSHTM,24,1,2023,21,2,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,41,All,1,5,11,16,19,23,26,32,36,41,47,53,59.35,66,74,82,92,105,124.05
+LSHTM,24,1,2023,22,2,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,40,All,1,5,11,15,19,22,26,30,35,40,46,53,59,66,75,82,90,104,123.05
+LSHTM,24,1,2023,23,2,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,40,All,1,5,11,14.8,20,24,26,30,35,40,46,51,58,64.5999999999999,72,82,92,105,122.05
+LSHTM,24,1,2023,24,2,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,38,All,1,4,10,14,17,22,25.65,29,34,38,45,50,56,63,72,79,91,103,122.05
+LSHTM,24,1,2023,25,2,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,37,All,0,4.90000000000001,9,14,17,21,25,28,32,37,44,50,56,63,70,79,88,100.1,122.05
+LSHTM,24,1,2023,26,2,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,36,All,0,3,9,13,16,21,25,27,32.55,36,42,49,56,63,70,79,91,103,124
+LSHTM,24,1,2023,27,2,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,36,All,0,4,9,13,18,20.7,25,28,31,36,43,48.4,55,62.3,69,78,88.15,102,122
+LSHTM,24,1,2023,28,2,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,35.5,All,0,3,8,12,16,20,23,26,31,35.5,41,47.4,55,62,68,77,89,102,119
+LSHTM,24,1,2023,1,3,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,35,All,0,2,7,12.8,16.75,20,23,25,30,35,41,47,54,60,66.5,76,89,101,122
+LSHTM,24,1,2023,2,3,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,34.5,All,0,2,7.84999999999999,11.8,15,20,22,25,30,34.5,41,47,56,62,69,77,88,102,121
+LSHTM,24,1,2023,3,3,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,35,All,0,2,7,12,16,19,22,26,28,35,40,46,53,61,68,76,86,101,120
+LSHTM,24,1,2023,4,3,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,33,All,0,2,6,11,15,18,21,25,28,33,38,45,50,58.3,67,77,86,100,120
+LSHTM,24,1,2023,5,3,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,32,All,0,2,6,12,16,18,22,25,27.55,32,37,44,50,58,65,75,88,101.1,119.05
+LSHTM,24,1,2023,6,3,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,32,All,0,1,6,11.8,15,18,21,24,27,32,37,46,51,58,66.25,76,88,100.1,119
+LSHTM,24,1,2023,7,3,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,32,All,0,1,6.84999999999999,12,15,17,21,24,27,32,37,45.4,50,58,67,74,86,98,119.1
+LSHTM,24,1,2023,8,3,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,34,All,0,2,6,11,14.75,17,21,24,27,34,37.45,45,49,57,63.25,72.6000000000001,86,99.1,119
+LSHTM,24,1,2023,9,3,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,32,All,0,1,6,11,14,17,21,24,27,32,37,43.4,50,56.3,65,73,85,98.1,117
+LSHTM,24,1,2023,10,3,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,30,All,0,1,6,10,14,17,19,23,27,30,36.4500000000001,42,50,57,65,74,84,97,119
+LSHTM,24,1,2023,11,3,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,30,All,0,1,5.84999999999999,10,13,16,19,23,27.55,30,35,42,49,55,64,75,83,98,120
+LSHTM,24,1,2023,12,3,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,30,All,0,1,5,9,14,17,19,23,27,30,36,42,48,54,64,73,84,95.1,117
+LSHTM,24,1,2023,13,3,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,29,All,0,1,4,10,14,17,19,23,27,29,36,42,48,57,63,74,84,97,116.05
+LSHTM,24,1,2023,14,3,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,30,All,0,1,5,10,14,16,18.65,23,26,30,35,41,47,53,62,72,82,97,117.05
+LSHTM,24,1,2023,15,3,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,29,All,0,1,5,9.80000000000001,13,16,19.65,23,27,29,34,40,47,54,63,72,83,97,116
+LSHTM,24,1,2023,16,3,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,28.5,All,0,1,4,9,13,16,19,21.6,25,28.5,34,41,46,54,64,73.2000000000001,81.15,95,114.05
+LSHTM,24,1,2023,17,3,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,29,All,0,0,5,9,13,16,19,21,25,29,34,40,46,53,62,72,81.3,97,116
+LSHTM,24,1,2023,18,3,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,29.5,All,0,0,4,9,13,16,18,21,25,29.5,33,39.4,47,51.3,61,71,79,93.1,115
+LSHTM,24,1,2023,19,3,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,28,All,0,0,4,9,13,16.7,19,21,26,28,34,39.4,46,53,61,71,82,95,115.05
+LSHTM,24,1,2023,20,3,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,29,All,0,0,4,9,13,16,18,22,26,29,33,39,46,51,62,72,82,97,115.05
+LSHTM,24,1,2023,21,3,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,29,All,0,0,3.84999999999999,9,12,16,18,21,25,29,33,39,46,52,61.5,72,82,94,115.05
+LSHTM,24,1,2023,22,3,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,28,All,0,1,4,8,13,16,18,20.6,25,28,32,40,46,53,62,71,82,95,116
+LSHTM,24,1,2023,23,3,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,28,All,0,0,4,8,12,15,18,20,24,28,33,37,44,50,60.25,71,82.15,95,117
+LSHTM,24,1,2023,24,3,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,28,All,0,0,4,9,12.75,15,18,20,24,28,31,36,44,49,57.25,69,79,94.1,117.05
+LSHTM,24,1,2023,25,3,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,28,All,0,0,3,8,12,15,18,20,23,28,31,36,46,52,60,71,78,93,114.05
+LSHTM,24,1,2023,26,3,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,28,All,0,0,4,7.80000000000001,12,14,17,20,24.55,28,32,37,46,51,59,71,80,94,115.05
+LSHTM,24,1,2023,27,3,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,28,All,0,0,3,9,12,16,18,20,24,28,31,36,44,50,58,70,80,94.1,116.05
+LSHTM,24,1,2023,28,3,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,28,All,0,0,3,8,12,15,17,20,23,28,31,36,44,51,59.25,71,81,96,113
+LSHTM,24,1,2023,29,3,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,28,All,0,0,3,8,12,15,18,20,23,28,32,36,44,50.3,57,69,79,93,115.05
+LSHTM,24,1,2023,30,3,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,27,All,0,0,3.84999999999999,8,12,15,18,20,23,27,31,37,45,51,59,69,78.15,94,114.05
+LSHTM,24,1,2023,31,3,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,28,All,0,0,3,8,12,15,18,20,23,28,31,37,45,51,59,69,80,96,113
+LSHTM,24,1,2023,1,4,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,27,All,0,0,3,7.80000000000001,12,15,17,20,23,27,31,36,43,49,57.25,67.2000000000001,78,93,113
+LSHTM,24,1,2023,2,4,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,28,All,0,0,2,8,12,15,17,20,23,28,31,36,45,50,58.25,66.2000000000001,79,92,114
+LSHTM,24,1,2023,3,4,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,28,All,0,0,3,7,11.75,15,18,20,22,28,31,36,44,49,58,68,79,93.1,110.15
+LSHTM,24,1,2023,4,4,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,26.5,All,0,0,3,8,11,14,16,19,22,26.5,31,36,43.35,49,57,66,78,92,112
+LSHTM,24,1,2023,5,4,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,26,All,0,0,3,8,12,14.7,17,20,22,26,31,36,44,50,58,68,79,93,115.05
+LSHTM,24,1,2023,6,4,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,27,All,0,0,3,8,11,15,17,20,23,27,32,36,44.35,49,58,66.2000000000001,78.15,92,116
+LSHTM,24,1,2023,7,4,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,26,All,0,0,3,7,11,15,17,20,23,26,31,35,43,49,59,68.2000000000001,78.15,92,113.05
+LSHTM,24,1,2023,8,4,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,26,All,0,0,2,7,11,14,17,19,22,26,31,35,42,49,57,67.2000000000001,79,93,112.2
+LSHTM,24,1,2023,9,4,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,26,All,0,0,3,8,12,15,18,20,23,26,30,34,41,50,57.25,65.2000000000001,78,93,112
+LSHTM,24,1,2023,10,4,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,26.5,All,0,0,3,7,11,14,16,19.6,23,26.5,31,35,42,49,57.25,67.2000000000001,80,92.2,112
+LSHTM,24,1,2023,11,4,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,25,All,0,0,2,7,11,14,17,20,23,25,31,36,44,49,59,68,80,92.1,113
+LSHTM,24,1,2023,12,4,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,25,All,0,0,3,7,12,15,17,20,22,25,31,36,42,48,57,67,79,92,112.05
+LSHTM,24,1,2023,13,4,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,25.5,All,0,0,2,7,11,14,17,20,23,25.5,30,36,42.35,49,56,66,78.15,93,113
+LSHTM,24,1,2023,14,4,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,25,All,0,0,2.84999999999999,7,11,14,17,19,21,25,31,35,43,49,58,66,78,92.1,115
+LSHTM,24,1,2023,15,4,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,25,All,0,0,2.84999999999999,7,11,14,16,19,22,25,30,34,41,48,56,67,78,92.2,113.1
+LSHTM,24,1,2023,16,4,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,25.5,All,0,0,2,7,11,14,16,19,22,25.5,30,34,40,49,55.25,65,77,93,114
+LSHTM,24,1,2023,17,4,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,25,All,0,0,2,7,11.75,14,16,19,22,25,31,35,41.35,49,58,66,76.15,92.1,115.05
+LSHTM,24,1,2023,18,4,2023,England,mv_prev,EpiNow,MTP,Cases,2.0,25,All,0,0,2,7,11,15,17,19,23,25,30,35.4,43,50,57.25,67.2000000000001,79.15,92,111.05
