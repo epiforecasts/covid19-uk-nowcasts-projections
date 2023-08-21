@@ -26,7 +26,7 @@ plot_nots <- function(obs) {
   plot <- ggplot2::ggplot(obs) +
     ggplot2::aes(x = date, y = cases, col = `Data source`) +
     ggplot2::geom_point(size = 1.2) +
-    ggplot2::geom_line(size = 1.1, alpha = 0.8) +
+    ggplot2::geom_line(linewidth = 1.1, alpha = 0.8) +
     ggplot2::labs(x = "Date", y = "Notifications") +
     ggplot2::theme_bw() +
     ggplot2::scale_x_date(date_breaks = "2 week", date_labels = "%b %d") +
