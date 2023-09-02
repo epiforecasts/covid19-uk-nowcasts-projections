@@ -141,10 +141,10 @@ last_estimate <- last_estimate[, Model := ifelse(
 linerange <-
   ggplot(last_estimate, aes(x = Model, y = Value, col = Model)) +
   geom_linerange(aes(ymin = `Quantile 0.05`, ymax = `Quantile 0.95`),
-    alpha = 0.4, size = 5
+    alpha = 0.4, linewidth = 5
   ) +
   geom_linerange(aes(ymin = `Quantile 0.25`, ymax = `Quantile 0.75`),
-    alpha = 0.4, size = 5
+    alpha = 0.4, linewidth = 5
   ) +
   facet_grid(ValueType ~ Geography, scales = "free_y") +
   scale_color_brewer(palette = "Dark2") +
@@ -176,7 +176,7 @@ plot_timeseries <- function(combined, var = "R", mark_date = NULL) {
       aes(x = date, y = Value, col = Model, fill = Model)
     ) +
     geom_ribbon(aes(ymin = `Quantile 0.05`, ymax = `Quantile 0.95`),
-      alpha = 0.1, size = 0.1
+      alpha = 0.1, linewidth = 0.1
     ) +
     geom_ribbon(aes(col = NULL, ymin = `Quantile 0.25`, ymax = `Quantile 0.75`),
       alpha = 0.2
