@@ -11,7 +11,7 @@ library(devtools, quietly = TRUE, warn.conflicts = FALSE)
 library(lubridate, quietly = TRUE, warn.conflicts = FALSE)
 
 # load the prototype regional_secondary function
-source("https://raw.githubusercontent.com/seabbs/regional-secondary/master/regional-secondary.R")
+source("https://raw.githubusercontent.com/sbfnk/regional-secondary/master/regional-secondary.R")
 
 # load formatting
 source(here("format-forecast/utils/format-forecast.R"))
