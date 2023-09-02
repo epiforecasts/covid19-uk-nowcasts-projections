@@ -31,10 +31,11 @@ args <- list(
   forecast_name = "occupancy-using-admissions",
   return_output = FALSE,
   fit_args = list(
-    delays = delay_opts(list(
+    delays = dist_spec(
       mean = 2.5, mean_sd = 1,
-      sd = 0.5, sd_sd = 0.5, max = 30
-    )),
+      sd = 0.5, sd_sd = 0.5, max = 30,
+      prior_weight = 1
+    ),
     secondary = secondary_opts(type = "prevalence"),
     obs = obs_opts(
       family = "poisson",

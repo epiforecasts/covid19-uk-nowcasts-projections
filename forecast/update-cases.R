@@ -50,7 +50,7 @@ no_cores <- setup_future(cases)
 regional_epinow(
   reported_cases = cases,
   generation_time = generation_time,
-  delays = delay_opts(incubation_period, reporting_delay),
+  delays = incubation_period + reporting_delay,
   horizon = 7 * 12,
   rt = rt_opts(prior = list(mean = 1, sd = 0.1)),
   obs = obs_opts(scale = list(mean = 0.497, sd = 0.01)),
