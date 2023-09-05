@@ -1,0 +1,936 @@
+Group,Creation Day,Creation Month,Creation Year,Day of Value,Month of Value,Year of Value,Geography,ValueType,Model,Scenario,ModelType,Version,Value,AgeBand,Quantile 0.05,Quantile 0.1,Quantile 0.15,Quantile 0.2,Quantile 0.25,Quantile 0.3,Quantile 0.35,Quantile 0.4,Quantile 0.45,Quantile 0.5,Quantile 0.55,Quantile 0.6,Quantile 0.65,Quantile 0.7,Quantile 0.75,Quantile 0.8,Quantile 0.85,Quantile 0.9,Quantile 0.95
+LSHTM,5,9,2023,5,9,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,1,1,2,2,3,3,3,4,4,4,5,5,6,6,7,8,8,9,12
+LSHTM,5,9,2023,6,9,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,1,1,2,2,2,3,3,4,4,4,5,5,6,7,7,8,9,10,12
+LSHTM,5,9,2023,7,9,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,1,1,2,2,3,3,3,4,4,4,5,5,6,6,7,8,9,10,13
+LSHTM,5,9,2023,8,9,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,1,1,1.84999999999999,2,2,3,3,3,4,4,5,5,5.35000000000002,6,7,7,8,10,12
+LSHTM,5,9,2023,9,9,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,1,1,2,2,2,3,3,3,4,4,5,5,6,6,7,8,9,10,13
+LSHTM,5,9,2023,10,9,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,1,1,2,2,2,2,3,3,4,4,4,5,5,6,6,7,8,9,11
+LSHTM,5,9,2023,11,9,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,1,1,2,2,3,3,3,4,4,5,5,6,6,7,7,8,9,11,12.05
+LSHTM,5,9,2023,12,9,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0.950000000000003,1,1,2,2,3,3,3,4,4,5,5,6,6,7,8,9,10,13
+LSHTM,5,9,2023,13,9,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,1,1,2,2,3,3,3,4,4,5,5,6,6,7,8,9,9.14999999999998,11,15
+LSHTM,5,9,2023,14,9,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,1,1,2,2,3,3,3,4,4,5,5,6,6,7,7,8,10,11,14
+LSHTM,5,9,2023,15,9,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,1,1,2,2,2,3,3,4,4,5,5,5,6,7,7,8,9,11,13
+LSHTM,5,9,2023,16,9,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,1,2,2,2,3,3,3,4,4,5,5,6,6,7,8,9,11,13
+LSHTM,5,9,2023,17,9,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,1,2,2,2,3,3,3,4,4,5,5,6,6,7,8,9,11,14
+LSHTM,5,9,2023,18,9,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,1,1,1,2,2,3,3,4,4,4,5,5,6,7,8,8,9,12,14.05
+LSHTM,5,9,2023,19,9,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,1,1,2,2,3,3,3,4,4,5,5,6,6,7,8,9,10,12,16
+LSHTM,5,9,2023,20,9,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,1,1,2,2,3,3,3,4,4,5,5,6,7,7,8,9,11,13,16
+LSHTM,5,9,2023,21,9,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,1,1,2,2,3,3,4,4,4,5,5,6,7,7,8,9.20000000000005,11,13,17
+LSHTM,5,9,2023,22,9,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,1,1,2,2,2,3,3,4,4,5,5,6,6,7,8,9,10,13,16
+LSHTM,5,9,2023,23,9,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,1,1,2,2,3,3,4,4,4,5,5,6,7,7.25,9,10,12,16
+LSHTM,5,9,2023,24,9,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,1,1,2,2,3,3,3,4,4,5,5,6,6,7,8,9,12,15
+LSHTM,5,9,2023,25,9,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,1,1,2,2,3,3,4,4,4,5,6,7,7,8,9,11,12.1,15
+LSHTM,5,9,2023,26,9,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,1,1,2,2,3,3,3,4,4,5,5,6,6,7,8,10,11,14,18
+LSHTM,5,9,2023,27,9,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,2,2,2,3,3,4,5,5,6,6,7,8,9,10,12,14,19
+LSHTM,5,9,2023,28,9,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,1,1,2,2,3,3,4,4,5,5,6,6,7,8,9,11,12,14.1,18
+LSHTM,5,9,2023,29,9,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,1,1,1,2,2,3,3,4,4,5,6,6,7,8,9,10,12,14,18
+LSHTM,5,9,2023,30,9,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,1,2,2,3,3,4,4,5,5,6,7,7,8,9.20000000000005,11,14,18
+LSHTM,5,9,2023,1,10,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,1,2,2,3,3,4,4,5,5,5,6,7,8,9,11,13,18
+LSHTM,5,9,2023,2,10,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,1,2,2,3,3,4,4,5,6,6,7,8,9,10,11.15,14,18.05
+LSHTM,5,9,2023,3,10,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,1,1,1,2,2,3,3,4,5,5,6,6,7,8,9,10,12,15,19
+LSHTM,5,9,2023,4,10,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,2,2,3,3,4,4,4,5,6,6,7,8,9,11,13,16,21
+LSHTM,5,9,2023,5,10,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,2,2,3,3,3,4,5,5,6,7,8,9,10,12,14,16,21
+LSHTM,5,9,2023,6,10,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,1,2,2,3,3,4,5,5,6,6.39999999999998,7,8,9,10,12,15,19
+LSHTM,5,9,2023,7,10,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,1,2,2,3,3,3.60000000000002,4,5,5,6,7,7,8,10,12,15,19
+LSHTM,5,9,2023,8,10,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,1,2,2,3,3,4,4,5,5,6,7,7,9,10,12,15,22
+LSHTM,5,9,2023,9,10,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,1,2,2,3,3,4,4,5,6,6,7,8,10,11,13,15.1,22
+LSHTM,5,9,2023,10,10,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,1,2,2,3,3,4,4,5,6,6,7,8,9,11,13,17,22
+LSHTM,5,9,2023,11,10,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,6,All,1,1,2,2,3,3,4,4,5,6,6,7,8,9,10,12,14,17,22
+LSHTM,5,9,2023,12,10,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,1,2,2,3,4,4,5,5,6,7,8,9,10,12,13,16,24.05
+LSHTM,5,9,2023,13,10,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,1,2,2,3,3,4,4,5,6,6,7,8,9,11,13,17,20
+LSHTM,5,9,2023,14,10,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,1,2,2,3,3,4,4,5,5,6,7,8,9,11,13,16,22
+LSHTM,5,9,2023,15,10,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,1,2,2,3,3,4,4,5,6,6,7,8,10,11,13,17,25
+LSHTM,5,9,2023,16,10,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,1,2,2,3,3,4,4,5,6,7,8,9,10,12,14,17.1,23.05
+LSHTM,5,9,2023,17,10,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,1,2,2,3,3,4,5,5,6,7,8,9,10,12,15,18,25
+LSHTM,5,9,2023,18,10,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,2,2,3,3,4,4,5,5,6,7,8,9,11,12,16,20,27
+LSHTM,5,9,2023,19,10,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,6,All,0,1,1,2,2.75,3,4,4,5,6,6,7,8,9,11,13,15,19,27
+LSHTM,5,9,2023,20,10,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,1,2,2,3,3,4,5,5,6,7,8,9,10,12,15,18,26
+LSHTM,5,9,2023,21,10,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,1,2,2,3,3,4,4,5,6,7,8,9,10,11,14,18,27
+LSHTM,5,9,2023,22,10,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,1,2,2,3,3,4,4,5,5,6,7,8,9,11,14,18,25
+LSHTM,5,9,2023,23,10,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,1,2,2,2,3,3,4,5,6,6,7.35000000000002,9,11,13,15,19,27
+LSHTM,5,9,2023,24,10,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,1,2,2,3,3,4,4,5,6,7,8,9.29999999999995,11,13,15,19,28
+LSHTM,5,9,2023,25,10,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,6,All,0,1,1,2,2,3,4,4,5,6,6,7,9,10,11,14,17,21,31
+LSHTM,5,9,2023,26,10,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,1,2,2,3,3,4,5,5,6,7,9,10,11,13,15,21,31
+LSHTM,5,9,2023,27,10,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,1,2,2,3,3,4,5,5,6,7,8,9,11,13,16,20,31
+LSHTM,5,9,2023,28,10,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,0,1,1,2,2,3,4,4,5,6,7,8,9,11,13,15,19,30
+LSHTM,5,9,2023,29,10,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,1,1.80000000000001,2,2,3,4,4,5,6,6,8,9,11,13,15,19.1,29
+LSHTM,5,9,2023,30,10,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,1,2,2,3,3,4,5,5,6,7,8,9,11,12.2,16,19,30.05
+LSHTM,5,9,2023,31,10,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,1,2,2,3,3,4,5,5,6.45000000000005,7.39999999999998,9,10,11,14,18,22,34
+LSHTM,5,9,2023,1,11,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,6,All,0,1,1,2,2,3,4,4,5,6,7,8,9,10,12,14,18,22.1,33
+LSHTM,5,9,2023,2,11,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,6,All,0,1,1,2,2,3,3,4,5,6,7,8,9,11,13,15,18,22,33.05
+LSHTM,5,9,2023,3,11,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,6,All,0,1,1,1,2,3,3,4,5,6,7,8,9,11,13,14.2,18,22,32
+LSHTM,5,9,2023,4,11,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,0,1,1,2,2,3,3.60000000000002,4,5,6,6,8,9,11,13,17,22.1,33.05
+LSHTM,5,9,2023,5,11,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,1,1,2,2,3,3,4,5,6,7,8,10,11,14,17,21,29.05
+LSHTM,5,9,2023,6,11,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,1,2,2,3,3,4,5,5,6,7,9,10,12,15,18,22,32.05
+LSHTM,5,9,2023,7,11,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,6,All,0,1,1,2,2,3,3,4,5,6,6,8,9,10,12,15,18,21,33.05
+LSHTM,5,9,2023,8,11,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,6,All,0,1,1,1,2,3,3,4,5,6,7,8,9,11,12,15,19,26,38
+LSHTM,5,9,2023,9,11,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,6,All,0,1,1,2,2,3,3,4,5,6,7,8,9,10.3,12,15,20,24,37
+LSHTM,5,9,2023,10,11,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,1,1,2,2,3,4,5,5,6,7,9,10,13,15,18,24,35
+LSHTM,5,9,2023,11,11,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,0,1,1,2,3,3,4,4,5,6,7,8,10,11,14,18,23.1,34
+LSHTM,5,9,2023,12,11,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,0,1,1,2,2,3,4,4,5,6,7,8,10,11,13,16,21,32
+LSHTM,5,9,2023,13,11,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,1,1,2,2,3,4,5,5,6,7,8,10,12,14,17,22.1,36
+LSHTM,5,9,2023,14,11,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,0,1,1,2,3,3,4,4.55000000000001,5,6,7,8,10,12,15,19,25,36
+LSHTM,5,9,2023,15,11,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,6,All,0,0.900000000000006,1,2,2,3,3,4,5,6,7,8,9,11,14,16,19,25,35
+LSHTM,5,9,2023,16,11,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,6,All,0,1,1,2,2,3,3,4,5,6,7,8,9,11,13,15.2,20,27,37
+LSHTM,5,9,2023,17,11,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5.5,All,0,0,1,1,2,2,3,4,5,5.5,6,7,9,11,13,15,19,25,36.05
+LSHTM,5,9,2023,18,11,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,0,1,1,2,2,3,3,4,5,6,7,8,10,12,14,17,24,35
+LSHTM,5,9,2023,19,11,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,0,1,1,2,2,3,4,4,5,6,7,8,10,12,15,19,25,37
+LSHTM,5,9,2023,20,11,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,0,1,1,2,2,3,4,4,5,6,7,9,10,12,15,18,24,34
+LSHTM,5,9,2023,21,11,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,6,All,0,0,1,1,2,3,3,4,5,6,7,8,9,11,13,16,20,25,36
+LSHTM,5,9,2023,22,11,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,6,All,0,1,1,1,2,3,3,4,5,6,7,8,9,11.3,13,16,19,25,38.05
+LSHTM,5,9,2023,23,11,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,6,All,0,0.900000000000006,1,1,2,3,3,4,5,6,7,8,10,11,13,16,21,26.1,38
+LSHTM,5,9,2023,24,11,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,6,All,0,0,1,1,2,2,3,4,5,6,7,8,10,11,13,16,21,26,35
+LSHTM,5,9,2023,25,11,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,0,1,1,2,2,3,3,4,5,6,7,9,10,12,15,18,23,34
+LSHTM,5,9,2023,26,11,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,0,1,1,2,2,3,3,4,5,6,7,8,10,12,15,18,24,34
+LSHTM,5,9,2023,27,11,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,0,1,1,2,2,3,4,4,5,6,7,9,10,12,15,20,26,35
+LSHTM,5,9,2023,28,11,2023,East of England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,0,1,1,2,2,3,3,4,5,6,8,9,11,13,16,19,27,36.05
+LSHTM,5,9,2023,5,9,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,6,All,1,2,3,3,4,4,5,5,5,6,6,7,7,8,9,9,10,12,15
+LSHTM,5,9,2023,6,9,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,6,All,1,2,3,3,4,4,5,5,5,6,6,7,7,8,9,10,11,12,14
+LSHTM,5,9,2023,7,9,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,6,All,1,2,3,3,4,4,5,5,6,6,7,7,8,8,9,10,11,13,15
+LSHTM,5,9,2023,8,9,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,6,All,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,10,12,14
+LSHTM,5,9,2023,9,9,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,6,All,1,2,3,3,4,4,4,5,5,6,6,7,7,8,9,9,11,12,14
+LSHTM,5,9,2023,10,9,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,1,2,2,3,3,4,4,5,5,5,6,6,7,8,8,9,10,12,14
+LSHTM,5,9,2023,11,9,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,6,All,1,2,3,3,4,4,5,5,6,6,7,7,8,9,10,10,12,13,16
+LSHTM,5,9,2023,12,9,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,7,All,2,3,3,4,4,5,5,6,6,7,7,8,8,9,10,11,13,14,18
+LSHTM,5,9,2023,13,9,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,7,All,2,3,3,4,4,5,6,6,7,7,8,9,9,10,11,12,14,16,19.05
+LSHTM,5,9,2023,14,9,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,8,All,2,3,3,4,5,5,6,6,7,8,8,9,10,11,12,13,14,16,20
+LSHTM,5,9,2023,15,9,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,7,All,2,3,3,4,4,5,5,6,7,7,8,8,9,10,11,12,14,16,20
+LSHTM,5,9,2023,16,9,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,7,All,2,2,3,3,4,5,5,6,6,7,7,8,9,10,10,12,13,15,18
+LSHTM,5,9,2023,17,9,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,7,All,1,2,3,3,4,5,5,6,6,7,8,8,9,10,11,12,13,15,18
+LSHTM,5,9,2023,18,9,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,7,All,2,3,3,4,5,5,6,6,7,7,8,9,10,10,12,13,15,17,21
+LSHTM,5,9,2023,19,9,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,8,All,2,3,4,4.80000000000001,5,6,6,7,8,8,9,10,11,11.3,13,14,16,18,22
+LSHTM,5,9,2023,20,9,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,9,All,2,3,4,5,5.75,6,7,8,8,9,10,10,11,12,14,15,17,19.1,23
+LSHTM,5,9,2023,21,9,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,9,All,2,3,4,5,5,6,7,7,8,9,9,10,11,13,14,15.2,18,21,25
+LSHTM,5,9,2023,22,9,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,8,All,2,3,4,4,5,6,7,7,8,8,9,10,11,12,13,15,17,19,23
+LSHTM,5,9,2023,23,9,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,8,All,2,3,4,4,5,6,6,7,8,8,9,10,11,11,13,14,16,18,22
+LSHTM,5,9,2023,24,9,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,8,All,2,3,4,4,5,6,6,7,7,8,9,10,11,12,13,14,16,19,23
+LSHTM,5,9,2023,25,9,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,9,All,2,4,4,5,6,7,7,8,8,9,10,10,11,12,14,15,17,20,25
+LSHTM,5,9,2023,26,9,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,10,All,2,3,5,5,6,7,8,8,9,10,11,12,13,14,16,17,20,23.1,30
+LSHTM,5,9,2023,27,9,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,11,All,3,4,5,6,7,7,8,9,10,11,12,13,14,15,17,18,21,25,32
+LSHTM,5,9,2023,28,9,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,11,All,3,4,5,6,7,8,9,9,10,11,12,13,14,16,17,19,22,25,31.05
+LSHTM,5,9,2023,29,9,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,10,All,2,4,4,5,6,7,8,9,10,10,11,12,14,15,17,18,21,24,30
+LSHTM,5,9,2023,30,9,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,10,All,2,3,4,5,6,7,7,8,9,10,10,11,12,14,15,16,18,21,26
+LSHTM,5,9,2023,1,10,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,10,All,2,3,4,5,5,6,7,8,9,10,11,12,12,13,15,17,19.15,22,29
+LSHTM,5,9,2023,2,10,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,11,All,2,4,5,6,6,7,8,9,10,11,12,13,14,15,17,19,21,25.1,33
+LSHTM,5,9,2023,3,10,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,12,All,3,4,5,6,7,8,9,10,11,12,13,14,15,17,19,22,24,29,37
+LSHTM,5,9,2023,4,10,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,12.5,All,3,4.90000000000001,6,7,8,9,10,10,11,12.5,14,16,17,18,20,22,26,30,38
+LSHTM,5,9,2023,5,10,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,13,All,3,4,6,7,8,9,10,11,12,13,14,15,16,18,21,22,25,30,37.05
+LSHTM,5,9,2023,6,10,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,12,All,3,4,5,7,7,8,9,10,11,12,13,14,15,17,19,21,25,30,38.05
+LSHTM,5,9,2023,7,10,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,11,All,3,4,5,6,7,8,8,9,10,11,12,13,14,16,18,20,24,29,38
+LSHTM,5,9,2023,8,10,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,12,All,2,3,5,6,7,8,9,9,11,12,13,14,15,17,19,21,24,28,37
+LSHTM,5,9,2023,9,10,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,13,All,3,5,6,7,8,9,10,11,12,13,14,16,17.35,20,22,25,27,32,42
+LSHTM,5,9,2023,10,10,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,14,All,3.95,5,6,7,8,9,10,11,13,14,16,17,19,20,22,24.2000000000001,28,32.1,40.05
+LSHTM,5,9,2023,11,10,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,15,All,4,5,6,7,8,9,11,12,14,15,16,18,20,21.3,24,27,31.15,38,49
+LSHTM,5,9,2023,12,10,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,15,All,4,5,7,8,9,10,11,13,14,15,17,18,20,22,24,26,30,37,47.05
+LSHTM,5,9,2023,13,10,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,15,All,3,5,6,7,9,10,11,12,14,15,16,18,19,21,23,26,29.15,34,43
+LSHTM,5,9,2023,14,10,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,13,All,3,4,5,7,8,8,10,11,12,13,14,16,17,19,21,25,28,33,41
+LSHTM,5,9,2023,15,10,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,13,All,3,4,5,7,8,9,10,11,12,13,15,16,18,20,21,25,30,35,45.05
+LSHTM,5,9,2023,16,10,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,15,All,3,5,6,7,9,10,11,12,14,15,17,19,20,22,25,28,32,38,49
+LSHTM,5,9,2023,17,10,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,16,All,3,6,7,8,9,10.7,12,13,14,16,17,19,21,24,26,29,34,43,57.05
+LSHTM,5,9,2023,18,10,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,17,All,4,6,7,8,10,11,12,14,15,17,18,20,23,25,28,32,36,44,59.05
+LSHTM,5,9,2023,19,10,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,18,All,3,5,7,9,10,12,13,14,16,18,19.45,21,23.35,26,29,33,39,46,61
+LSHTM,5,9,2023,20,10,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,16,All,4,5,7,8,10,11,12,13,15,16,18,20,21,24,27,30,35,41,54
+LSHTM,5,9,2023,21,10,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,15,All,3,5,6,8,9,10,11,12.6,14,15,17,19,20.35,23,26,29,33,39,48
+LSHTM,5,9,2023,22,10,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,15,All,3,4,6,7,9,10,11,13,14,15,17,19,20,23,25.25,28.2,33,40,52
+LSHTM,5,9,2023,23,10,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,17,All,3,5,7,8,10,11,13,14,15,17,19,20,22,25,28,31,37,43,55
+LSHTM,5,9,2023,24,10,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,18,All,4,6,7,9,10,12,14,15,17,18,20,22,24,27,31,34,39,48,65.05
+LSHTM,5,9,2023,25,10,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,19,All,4,6,8,9.80000000000001,11,12,14,15,17,19,21,24,26.35,29,32,37,43,52,66
+LSHTM,5,9,2023,26,10,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,20,All,4,6,8,10,11,12,14,16,18,20,22,24,26,29,33,37,42,49,65
+LSHTM,5,9,2023,27,10,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,18,All,4,6,8,9,11,12,13,15,17,18,21,23,25,27,31,35,41,47,61
+LSHTM,5,9,2023,28,10,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,18,All,3,5,7,8,10,11,13,14,16,18,19.45,22,24,26,28,33,39,46.1,59.05
+LSHTM,5,9,2023,29,10,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,18,All,4,6,7,8,10,12,13,14,16,18,19,21,23,25,29,32,36,43.1,59
+LSHTM,5,9,2023,30,10,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,19,All,4,6,8,9,11,12,14,15,17.55,19,21,23,25,28,32,35,41,48,65
+LSHTM,5,9,2023,31,10,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,20,All,4,6,8,10,12,13,15,16.6,18,20,23,25,28,31,34,39.2000000000001,46,55,71
+LSHTM,5,9,2023,1,11,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,22,All,5,7,8,10,12,14,16,18,20,22,24,26,29,33,36,40,47,56,72
+LSHTM,5,9,2023,2,11,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,22,All,5,8,9,11,13,14,16,18,20,22,24,26,29,32,36,41.2,47,58,73.05
+LSHTM,5,9,2023,3,11,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,20,All,4,6,8,10,12,13,15,17,19,20,22,24,27,30,34,38,45,52,67
+LSHTM,5,9,2023,4,11,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,20,All,3,6,8,10,11,12,14,16,18,20,21.45,23,26,29,32,37,42,49,64
+LSHTM,5,9,2023,5,11,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,19,All,4,6,7,9,10,12,14,15,17,19,22,24,26,30,33,38,43,52,65
+LSHTM,5,9,2023,6,11,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,20,All,4,6,8,9,11,12,15,16,18,20,22.45,25,28,30,35,39,45,53.1,68
+LSHTM,5,9,2023,7,11,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,22,All,4,7,9,11,12,14,16,17.6,20,22,24,27,29,33,37,43,49,58.1,76.05
+LSHTM,5,9,2023,8,11,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,24,All,5,7,9,11,13,15,17,19,21,24,26,28,32,36,41,45.2000000000001,51,61,79
+LSHTM,5,9,2023,9,11,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,24,All,5,7,9,11,14,15,17,20,21,24,26,28,32,34,39,44,50,61,84.05
+LSHTM,5,9,2023,10,11,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,22,All,4,6,9,11,13,15,16,18,20,22,24,26.4,29,32,36,42,49,59,78
+LSHTM,5,9,2023,11,11,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,21,All,4,6,8,10,11,13,15,17,19,21,23,24,27,31,35,40,44,53.1,70.05
+LSHTM,5,9,2023,12,11,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,21,All,4,6,8,10,11,13,15,17,19,21,23.45,26,29,32,35,41,47,55,71
+LSHTM,5,9,2023,13,11,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,23,All,4,6,8,10,12,14,16,17.6,20,23,25,27,31,34,38,42,49,56,73.05
+LSHTM,5,9,2023,14,11,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,24,All,4,7,9,12,13,15,17,19,21.55,24,26,30,33,37,41,47,54,63,83.05
+LSHTM,5,9,2023,15,11,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,24,All,5,8,10,12,14,16,18,20,22,24,27,29,32,37.3,41,46.2000000000001,53.15,65,83
+LSHTM,5,9,2023,16,11,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,25,All,5,8,10,12,14,16,19,21,23,25,27,30,33,36,40,45,54,60.1,80.05
+LSHTM,5,9,2023,17,11,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,23,All,4,7,10,12,13,14,17,19,22,23,26,28,30,35,38.25,43.2,50,59.1,73
+LSHTM,5,9,2023,18,11,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,21.5,All,4,7,9,11,12,14,16,18,19,21.5,24,26,28,31.3,36,40,47,55.1,69
+LSHTM,5,9,2023,19,11,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,20.5,All,4,7,9,11,12,14,15,17,18,20.5,22.45,25,28,31,34,38,44,55,66.05
+LSHTM,5,9,2023,20,11,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,24,All,5,7,10,12,14,16,18,20,22,24,26,29,31,36,40,46,52,64,84
+LSHTM,5,9,2023,21,11,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,24,All,5,7.90000000000001,10,13,14,16,18,20,22,24,27,30,33,37,41.25,46.2000000000001,54,65.1,86
+LSHTM,5,9,2023,22,11,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,25,All,5,7,10,12,13,16,18,20,22,25,28,30,34,38,42.25,48,56,66,82.05
+LSHTM,5,9,2023,23,11,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,24,All,5,8,10,13,14,16,18,20,22,24,27,30,33,37,40,46,53,62,83.05
+LSHTM,5,9,2023,24,11,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,24,All,5,8,9,11,14,17,18,20,22,24,27,30,33,36,39,44,50,61.1,74.05
+LSHTM,5,9,2023,25,11,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,22,All,4,7,9,11,12,14,16,18,19,22,24,26,30,32.3,36,41,46,55,71.05
+LSHTM,5,9,2023,26,11,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,22,All,4,6,8,11,12,14,16,17,20,22,24,27,29,32,35,40,45,54,67
+LSHTM,5,9,2023,27,11,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,24,All,4,7,9,11,13,15,17,19,21.55,24,26,29,32,35,39,45,51.15,58.1,72
+LSHTM,5,9,2023,28,11,2023,London,type28_death_inc_line,EpiNow,MTP,Cases,2.0,25,All,5,8,10,12,14,16,19,21,23,25,28,30,33,37,41,46,53,61,79.05
+LSHTM,5,9,2023,5,9,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,8,All,3,4,4,5,5,6,6,7,7,8,8,9,9,10,11,11,12,14,16
+LSHTM,5,9,2023,6,9,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,8,All,2,3,4,4.80000000000001,5,5,6,6,7,8,8,9,9,10,10,11,12,14,16
+LSHTM,5,9,2023,7,9,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,7,All,3,3,4,4,5,6,6,6,7,7,8,8,9,10,10,11,12,14,17
+LSHTM,5,9,2023,8,9,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,7,All,2,3,4,5,5,6,6,6,7,7,8,9,9,10,11,12,13,14,16
+LSHTM,5,9,2023,9,9,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,7,All,2,3,4,4,5,5,6,6,7,7,8,8,9,10,11,11.2,13,14.1,17
+LSHTM,5,9,2023,10,9,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,7,All,2,3,4,4,5,6,6,7,7,7,8,8,9,10,11,12,12,14,16
+LSHTM,5,9,2023,11,9,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,7,All,2,3,4,4,4,5,6,6,7,7,8,8,9,9,10,11,12,14,16
+LSHTM,5,9,2023,12,9,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,7,All,2,3,4,4,5,5,6,6,7,7,8,8,9,10,10,11,12,14,16
+LSHTM,5,9,2023,13,9,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,7,All,2,3,4,4,5,5,6,6,7,7,8,8,9,10,11,12,12,14,16
+LSHTM,5,9,2023,14,9,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,7,All,2,3,4,4,4,5,5,6,6.55000000000001,7,8,8,9,10,10,11,12,14,17
+LSHTM,5,9,2023,15,9,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,7,All,2,3,4,4,4,5,6,6,7,7,8,8,9,9,10,11,12,14,17
+LSHTM,5,9,2023,16,9,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,7,All,2,3,3,4,4,5,5,6,6,7,7,8,9,9,10,11,13,14,17
+LSHTM,5,9,2023,17,9,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,7,All,2,3,3,4,4,5,5,6,6,7,7,8,9,10,10,11,13,14,18
+LSHTM,5,9,2023,18,9,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,7,All,2,2,3,4,4,5,5,6,6,7,7,8,9,9,10,11,12,14,18
+LSHTM,5,9,2023,19,9,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,7,All,2,2,3,3,4,4,5,6,6,7,7,8,8,9,10,11,12,14,17
+LSHTM,5,9,2023,20,9,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,7,All,2,2,3,3,4,5,5,6,6,7,7,8,8,9,10,11,12,14,17
+LSHTM,5,9,2023,21,9,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,7,All,2,2,3,3,4,5,5,5.60000000000002,6,7,7,8,9,10,10,11,13,15,18
+LSHTM,5,9,2023,22,9,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,7,All,2,2,3,4,4,5,5,6,6,7,7,8,9,9,10,11,12,14,17.05
+LSHTM,5,9,2023,23,9,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,7,All,2,2,3,4,4,4,5,5.60000000000002,6,7,7,8,9,10,11,12,13,15,19
+LSHTM,5,9,2023,24,9,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,7,All,1,2,3,3,4,4,5,6,6,7,7,8,9,9,10,11,13,15,17
+LSHTM,5,9,2023,25,9,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,6,All,1.95,2,3,3,4,4,5,5,6,6,7,8,8,9,10,11,12,14.1,18
+LSHTM,5,9,2023,26,9,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,6.5,All,1,2,3,3,4,4,5,5,6,6.5,7,8,9,9,10,11,13,15,18
+LSHTM,5,9,2023,27,9,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,6,All,1,2,2,3,3,4,5,5,6,6,7,8,9,9,10,11,13,15,18
+LSHTM,5,9,2023,28,9,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,6,All,1,2,3,3,4,4,4,5,6,6,7,7,8,9,10,11,13,16,20
+LSHTM,5,9,2023,29,9,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,6,All,1,2,3,3,4,4,5,5,6,6,7,7.39999999999998,8,9,10,11,13,15,19.05
+LSHTM,5,9,2023,30,9,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,6,All,1,2,3,3,4,4,5,5,6,6,7,8,8,9,10,11,13,15,19
+LSHTM,5,9,2023,1,10,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,6,All,1,2,2,3,4,4,5,5,6,6,7,8,8,9,10,11,13,16,19
+LSHTM,5,9,2023,2,10,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,6,All,1,2,2,3,3,4,4,5,5,6,6.45000000000005,7,8,9,10,11,12,14,18
+LSHTM,5,9,2023,3,10,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,6,All,1,2,2,3,3,4,5,5,5,6,6,7,8,9,10,11,13,15,20
+LSHTM,5,9,2023,4,10,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,6,All,1,2,2,3,3,4,4,5,5,6,7,7,8,9,10,11,13,16,20
+LSHTM,5,9,2023,5,10,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,6,All,1,2,2,3,3,4,4,5,6,6,7,8,8,9,10,11,13,16,20
+LSHTM,5,9,2023,6,10,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,6,All,1,2,2,3,3,4,4,5,6,6,7,7,8,9,10,12,13,15.1,20
+LSHTM,5,9,2023,7,10,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,6,All,1,1,2,3,3,4,4,5,5,6,7,7,8,9,10,11,13,15,20
+LSHTM,5,9,2023,8,10,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,6,All,1,1,2,3,3,4,4,5,5,6,7,7,8,9,10,12,13,16,20
+LSHTM,5,9,2023,9,10,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,6,All,1,1,2,3,3,4,4,5,5,6,6,7,8,9,10,11,13,15.1,19
+LSHTM,5,9,2023,10,10,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,1,1,2,2,3,3,4,4,5,5,6,7,7,8,9,11,13,15,19
+LSHTM,5,9,2023,11,10,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,6,All,1,1,2,2,3,3,4,4,5,6,6,7,8,9,10,11,13,16,22
+LSHTM,5,9,2023,12,10,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,6,All,1,1,2,2,3,3,4,4,5,6,6,7,8,9,10,11,14,17,22
+LSHTM,5,9,2023,13,10,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,6,All,1,1,2,2,3,3,4,4,5,6,6,7,8,9,10,12,13,16,22
+LSHTM,5,9,2023,14,10,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,1,1,2,2,3,3,4,4,5,5,6,7,8,9,10,11,13,16,22
+LSHTM,5,9,2023,15,10,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,6,All,1,1,2,2,3,3,4,5,5,6,6,7,8,9,10,11.2,13,16,20
+LSHTM,5,9,2023,16,10,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,2,2,3,3,4,4,5,5,6,6,7,8,9,11,13,15,22
+LSHTM,5,9,2023,17,10,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,2,2,3,3,3,4,5,5,6,7,8,9,10,11,13,16,21
+LSHTM,5,9,2023,18,10,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,1,1,2,2,3,3,4,4,5,5,6,7,7,8,9,11,12.15,16,22
+LSHTM,5,9,2023,19,10,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,2,2,3,3,4,4,5,5,6,7,8,9,9,11,13,16,23
+LSHTM,5,9,2023,20,10,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,2,2,3,3,4,4,4,5,6,7,7,8.29999999999996,10,11.2,14,17,23
+LSHTM,5,9,2023,21,10,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,1,2,2,3,3,4,5,5,6,7,8,9,10,12,14,17,22
+LSHTM,5,9,2023,22,10,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,2,2,2,3,3,4,4,5,6,7,7,8,10,11,14,16.1,21.05
+LSHTM,5,9,2023,23,10,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,1,2,2,3,3,4,4,5,6,7,7,8,10,11,13,15,20.05
+LSHTM,5,9,2023,24,10,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,1,2,2,3,3,4,4,5,5,6,7,8,10,11,13,16,22
+LSHTM,5,9,2023,25,10,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,1,2,2,3,3,4,4,5,6,6,7,8,10,11,13,17,24.05
+LSHTM,5,9,2023,26,10,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,1,2,2,3,3,4,4,5,6,6,7,8,10,11,13,17,23
+LSHTM,5,9,2023,27,10,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,1,2,2,3,3,4,4,5,5,6,7,8,10,11.2,14,17,23
+LSHTM,5,9,2023,28,10,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,1,2,2,3,3,4,4,5,5,6,7,8,10,11.2,14,17,23
+LSHTM,5,9,2023,29,10,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,1,2,2,3,3,4,4,5,5.45000000000005,6,7,8,9,11,13,17,24
+LSHTM,5,9,2023,30,10,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,1,2,2,3,3,4,4,5,5,6,7,8,9,11,13,17,23
+LSHTM,5,9,2023,31,10,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,1,1,2,2,3,3,3,4,4,5,6,7,8,9,10,13,16,23
+LSHTM,5,9,2023,1,11,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,1,2,2,3,3,4,4,5,5,6,7,8,10,11,13.15,17.1,25
+LSHTM,5,9,2023,2,11,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,1,2,2,3,3,4,4,5,5,6,7,8,10,11,13,17,26.05
+LSHTM,5,9,2023,3,11,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,1,1,2,2,3,3,4,5,5.45000000000005,6,7,8.29999999999996,10,12,14,17,23.05
+LSHTM,5,9,2023,4,11,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,1,1,2,2,2,3,3,4,5,5,6,7,8,9,11,13,16,23.05
+LSHTM,5,9,2023,5,11,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,1,1,1,2,2,3,3,4,4,5,6,7,8,9,12,14,18,24
+LSHTM,5,9,2023,6,11,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,0,1,1,2,2,3,3,4,5,5,6,7,8,9,11,13,17,25.05
+LSHTM,5,9,2023,7,11,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,0,1,1,2,2,3,3,4,4,5,6,7,8,9,11,13,17,25
+LSHTM,5,9,2023,8,11,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,0,1,1,2,2,3,3,4,4,5,6,7,8,10,11,13,17,25.05
+LSHTM,5,9,2023,9,11,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,5,All,0,0.900000000000006,1,1,2,2,3,3,4,5,5,6,7,8,9,11,14,17.1,26
+LSHTM,5,9,2023,10,11,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,0,1,1,2,2,3,3,4,4,5,6,7,8,9,11,13,18,25.05
+LSHTM,5,9,2023,11,11,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,0,1,1,2,2,3,3,4,4,5,6,7,8,9.25,11,14,18,25.05
+LSHTM,5,9,2023,12,11,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,0,1,1,2,2,2,3,3,4,5,6,6.35000000000002,8,9,11,14,18,25
+LSHTM,5,9,2023,13,11,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,0,1,1,1,2,2,3,3,4,5,6,6,8,9,11,13,17,26
+LSHTM,5,9,2023,14,11,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,0,1,1,2,2,2,3,4,4,5,6,6.35000000000002,7,9,11,13.15,17,26
+LSHTM,5,9,2023,15,11,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,0,1,1,1,2,2,3,3,4,5,5,6,7,9,10,13,17,26
+LSHTM,5,9,2023,16,11,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,0,1,1,1,2,2,3,3,4,5,5,6,8,9,11,13,18,26
+LSHTM,5,9,2023,17,11,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,0,1,1,2,2,2,3,4,4,5,6,6,8,9,11,13,18,25.05
+LSHTM,5,9,2023,18,11,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,0,1,1,2,2,3,3,4,4,5,6,6,8,9,12,14,18,26
+LSHTM,5,9,2023,19,11,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,0,1,1,1,2,2,3,3,4,5,5.39999999999998,6.35000000000002,8,9,11,14,17,25
+LSHTM,5,9,2023,20,11,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,0,1,1,1,2,2,3,3,4,5,5,6,7.29999999999996,9,11,14,17,25
+LSHTM,5,9,2023,21,11,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,0,1,1,1,2,2,3,3,4,4,5,6,7,9,11,14,19,26
+LSHTM,5,9,2023,22,11,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,0,1,1,1,2,2,3,3,4,4,5,6,7,8,10,13,18,26
+LSHTM,5,9,2023,23,11,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,0,1,1,1,2,2,3,3,4,4,5,6,7,8.25,10,13,18,27
+LSHTM,5,9,2023,24,11,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,0,1,1,1,2,2,3,3,4,5,5,7,7,9,11,14,18,26
+LSHTM,5,9,2023,25,11,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,0,0,1,1,1,2,2,3,4,4,5,6,7,8,10,13,17,28
+LSHTM,5,9,2023,26,11,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,0,0,1,1,2,2,3,3,4,4,5,6,8,9,11,14,19,28
+LSHTM,5,9,2023,27,11,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,0,0.849999999999994,1,1,2,2,3,3,4,4,5,6,7,9,11,14,17,27.05
+LSHTM,5,9,2023,28,11,2023,Midlands,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,3,3,3,4,5,5.35000000000002,7,8,10,13,18,27
+LSHTM,5,9,2023,5,9,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,11,All,4,5,6,6,7,8,8,9,10,11,11,12,13,14,15,16,18,20,23.05
+LSHTM,5,9,2023,6,9,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,11,All,3,5,6,7,7,8,9,9,10,11,12,12,13,14,15,17,18,20.1,25
+LSHTM,5,9,2023,7,9,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,11,All,3,5,6,7,7,8,9,9,10,11,12,13,13,14,15,17,18,20,23
+LSHTM,5,9,2023,8,9,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,11,All,4,5,6,7,8,8,9,10,10,11,12,12.4,13,14.3,16,17,18,21,26
+LSHTM,5,9,2023,9,9,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,11,All,4,5,6,7,8,8,9,10,10,11,12,13,13,14,15,16,18,20,24
+LSHTM,5,9,2023,10,9,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,11,All,4,5,6,7,7,8,9,10,10,11,12,12,13,14,16,17,19,21,25
+LSHTM,5,9,2023,11,9,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,11,All,3,4,5,6,7,8,9,10,10,11,12,13,14,15,16,17,19,22,26
+LSHTM,5,9,2023,12,9,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,11,All,4,5,6,7,8,8,9,10,11,11,12,13,14,16,17,19,21,23,27
+LSHTM,5,9,2023,13,9,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,12,All,4,5,6,7,8,9,10,10,11,12,13,14,15,16,18,20,21,24,28
+LSHTM,5,9,2023,14,9,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,13,All,4,5,6,7,8,9,10,11,12,13,13,14,15,17,18,20,22,25,30
+LSHTM,5,9,2023,15,9,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,13,All,4,6,7,8,8,9,10,11,12,13,13,14,16,17,18,20,21,24,28
+LSHTM,5,9,2023,16,9,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,12,All,4,5,6,7,8,9,10,10,11,12,13,14,15,16,17,19,20,23,28
+LSHTM,5,9,2023,17,9,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,11.5,All,3,5,6,7,8,8,9,10,11,11.5,12,13.4,15,16,17.25,19,21,24,28
+LSHTM,5,9,2023,18,9,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,12,All,4,5,6,7,8,9,10,10,11,12,13,14,16,17,18,20,22,25,31.05
+LSHTM,5,9,2023,19,9,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,13,All,4,5,6,7,8,9,10,11,12,13,14,15,17,18,20,21,24,27,34
+LSHTM,5,9,2023,20,9,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,13,All,4,6,7,8,9,10,11,11,12,13,14,15,17,19,21,23,25,28,33
+LSHTM,5,9,2023,21,9,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,14,All,4,6,7,8,9,10,11,12,13,14,15,16,18,19,21,23,25,28,36
+LSHTM,5,9,2023,22,9,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,14,All,4,6,7,8,9,10,11,12,13,14,15,16,18,19,20,22.2,25,29,36
+LSHTM,5,9,2023,23,9,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,13,All,4,5,6,8,9,10,11,12,13,13,15,16,17,18,19.25,22,24,27,34
+LSHTM,5,9,2023,24,9,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,13,All,4,6,7,8,9,10,11,11,12,13,14,16,17,19,20,22,24,27,33
+LSHTM,5,9,2023,25,9,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,13,All,4,5,6,8,9,10,10.65,12,12,13,15,16,17,19,20,22,24,28,36
+LSHTM,5,9,2023,26,9,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,14,All,4,6,7,8,9,10,11,12,13,14,15,16,17,19,21,23,26,32,39
+LSHTM,5,9,2023,27,9,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,15,All,4,6,7.84999999999999,8,10,11,12,13,14,15,16,17.4,19,21,22,24,27,32,40.05
+LSHTM,5,9,2023,28,9,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,15,All,5,6,8,9,10,11,12,13,14,15,16,17,19,21,23,25,29,32,40
+LSHTM,5,9,2023,29,9,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,15,All,4,6,7,9,9,11,12,13,14,15,16,17,19,21,23,26,28,33,39.05
+LSHTM,5,9,2023,30,9,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,14,All,4,6,7,8,9,10,11,12,13,14,16,17,19,21,23,25.2000000000001,29,33.1,41
+LSHTM,5,9,2023,1,10,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,15,All,4,5,7,8,9.75,11,11,13,14,15,16,17,19,21,23,25,28,33,40
+LSHTM,5,9,2023,2,10,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,15,All,4,6,7,8,9,10,11,12,13,15,16,17,19,21,23,25,29,33,41
+LSHTM,5,9,2023,3,10,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,15,All,4,6,7,9,9,10.7,12,13,14,15,17,18,20,21,24,26,30,35.1,45
+LSHTM,5,9,2023,4,10,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,16,All,4,6,7,9,10,11,13,14,15,16,17,18,20,22,24,27,30,35,45
+LSHTM,5,9,2023,5,10,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,17,All,4,6,8,9,11,12,13,14,16,17,18,20,22,24,26,28.2,32,37.1,46.05
+LSHTM,5,9,2023,6,10,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,17,All,5,6,8,9,10,12,13,14,15,17,18,19,21,23,26,28,32,36.1,49
+LSHTM,5,9,2023,7,10,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,16,All,4,6,7,9,10,11,12,13,15,16,17,19,20.35,23,25,28,32,37,48.05
+LSHTM,5,9,2023,8,10,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,16,All,4,6,8,9,10,11,12,14,15,16,17,19,20,22,25,28,32,37,44.05
+LSHTM,5,9,2023,9,10,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,16,All,4,6,7,8,9,11,12,13,14,16,17,19,21,23,25,27.2,33,38,48
+LSHTM,5,9,2023,10,10,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,17,All,4,6,7,9,10,11,13,15,16,17,19,20,22,24,27,30,34,40,55
+LSHTM,5,9,2023,11,10,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,17,All,4,6,8,9,11,12,13,14,15,17,19,21,22,25,28,31,35,43,60
+LSHTM,5,9,2023,12,10,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,18,All,5,6,8,9,10,12,13,15,16,18,19,21.4,23,26,29,32,36.15,43.1,57
+LSHTM,5,9,2023,13,10,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,18,All,4,6,8,9,11,12,13,15,16,18,19,21,24,26,29,32,36,43,54
+LSHTM,5,9,2023,14,10,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,17,All,4,6,7,9,10,11,13,14,15,17,19,20,22.35,24,27,30,34,40,52.05
+LSHTM,5,9,2023,15,10,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,17,All,4,6,8,9,10,11,13,14,15,17,18,20,22,24,27,29.2000000000001,34,40,50.05
+LSHTM,5,9,2023,16,10,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,17,All,4,5,7,8,10,11,12.65,14,15,17,19,21,23,26,28,31,35.15,42,56
+LSHTM,5,9,2023,17,10,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,17,All,4,6,7,9,10,12,13,14,16,17,19,21,24,26,29,32,37,46,56
+LSHTM,5,9,2023,18,10,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,19,All,5,7,8,10,11,13,14,15,17,19,20,22,24,27,29,33,37,45,58
+LSHTM,5,9,2023,19,10,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,18,All,4,6,8,9,11,12,13,15,16,18,20,22,24.35,28,31,34.2000000000001,40,49,61
+LSHTM,5,9,2023,20,10,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,18.5,All,4,6,8,10,11,13,14,15,17,18.5,20,22,25,27,31,34,39,44,59
+LSHTM,5,9,2023,21,10,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,18,All,4,6,8,9,10,11,13,15,16,18,20,21.4,23,26,29,33,38,44,57.05
+LSHTM,5,9,2023,22,10,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,18,All,4,6,7,9,10,11,12.65,14,16,18,20,22,25,27,30,32,36,42,53
+LSHTM,5,9,2023,23,10,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,18,All,4,6,8,9,10,12,13,15,16.55,18,20.45,22,24,26,29,33,37.15,46,58
+LSHTM,5,9,2023,24,10,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,18,All,4,6,7,9,10,12,13,15,16,18,20,22,24,27,30,34,39,46,60
+LSHTM,5,9,2023,25,10,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,19,All,4,6,8,9,11,13,14,16,18,19,21,23,25,27,30,34,40.15,49,62.05
+LSHTM,5,9,2023,26,10,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,19,All,4,6,8,9,11,13,14,16,18,19,21,23,25,29,32,36,41,48.1,65.05
+LSHTM,5,9,2023,27,10,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,19,All,4,6,8,10,11,12,14,16,17,19,21,24,26,29.3,32.25,36,41,48,62
+LSHTM,5,9,2023,28,10,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,19,All,4,6,8,9,11,12,13,15,16,19,20,22.4,24,27,30,34,39,46,61
+LSHTM,5,9,2023,29,10,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,17,All,4,6,8,9,11,12,13,15,16,17,19,22,24,27,30,34,39,48.1,62
+LSHTM,5,9,2023,30,10,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,19,All,3,5,7,9,11,12,14,15,17,19,21,23,25,28,31,35,39,45,59.05
+LSHTM,5,9,2023,31,10,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,19,All,4,6,8,10,11,12,14,15.6,17,19,21,23,26,28,31,35,39,49,60.05
+LSHTM,5,9,2023,1,11,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,20,All,4,6,8,9,11,13,14,17,18,20,22,24,27,30,33,37,42,51,63
+LSHTM,5,9,2023,2,11,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,20,All,4,7,8,9.80000000000001,11,13,15,17,18.55,20,22,24,27,30,32,36,43.15,50.1,64
+LSHTM,5,9,2023,3,11,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,19,All,4,6,8,9,11,12,14,16,17,19,21,23,25,28,32,36,41,51,68
+LSHTM,5,9,2023,4,11,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,19,All,4,6,8,9,10,12,14,16,18,19,21.45,23,26,29,32,35,40,48,61.05
+LSHTM,5,9,2023,5,11,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,19,All,4,5,7,8,10,11,13,15,17,19,21,23,25,28,31,35,40,47.1,60
+LSHTM,5,9,2023,6,11,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,19,All,3,5,7,9,11,12,14,15,17,19,20.45,23,25,28,32,36,42,49,65
+LSHTM,5,9,2023,7,11,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,20,All,3,5,7,8,10,12,14,16,18,20,22,24,26,29,32,37,44,52,69.0999999999999
+LSHTM,5,9,2023,8,11,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,20,All,4,6,8,10,12,13,14,16,18,20,22,25,27,30,35,40,47.15,56,72.05
+LSHTM,5,9,2023,9,11,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,20,All,4,7,8,10,12,13,14,16,18,20,22,24,27,30,34,38,43,51,69
+LSHTM,5,9,2023,10,11,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,20,All,4,6,8,10,11.75,13,14,15,18,20,22,24,27,30,32,37,43,51,67
+LSHTM,5,9,2023,11,11,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,19,All,4,5,7,8,10,12,14,15,17,19,21,23,26,29,32,36.2,41,50,64
+LSHTM,5,9,2023,12,11,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,19,All,3,5,7,9,10,12,14,15,17,19,20,23,25,28,32,36,42,51,62.0999999999999
+LSHTM,5,9,2023,13,11,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,19,All,4,5,7,9,10,12,13,15,17,19,21,23,25,28,31,34,40,46,60.05
+LSHTM,5,9,2023,14,11,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,20,All,4,5,7,9,10,12,14,16,18,20,22,24,26,28,32,37,43,51,64
+LSHTM,5,9,2023,15,11,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,20,All,4,6,8,9,11,12,14,16,18,20,22,24,27,30,34,39,45,52,67
+LSHTM,5,9,2023,16,11,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,20,All,4,6,8,10,11,13,14,16,18,20,23,25,27,30,34,38,43,50,66
+LSHTM,5,9,2023,17,11,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,20,All,4,6,7,9,11,12,14,15.6,18,20,22,24,26,29,32,36,41,48.1,61
+LSHTM,5,9,2023,18,11,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,19,All,3,5,7,8,10,11,13,15,17,19,21,23,25.35,29,32,35,40,46,57.05
+LSHTM,5,9,2023,19,11,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,17.5,All,3,5,7,8,10,11,13,14,16,17.5,19.45,21,25,27,30,34,40,48,59
+LSHTM,5,9,2023,20,11,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,19,All,3,5,7,8,10,11.7,14,15,17,19,21,23,25,27,31,35,40,49,60.05
+LSHTM,5,9,2023,21,11,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,19,All,3,5,7,8,10,12,13,15,17,19,21,23,26,29,32,36,41,49,62
+LSHTM,5,9,2023,22,11,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,19,All,3,5,7,9,11,12,14,15,17,19,21,24,27,30,33,38,43,52,63
+LSHTM,5,9,2023,23,11,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,20,All,3,5,7,9,11,13,14,16,18,20,22,25,27,30,33,38,43,51,67
+LSHTM,5,9,2023,24,11,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,19,All,3,5,7,8,10,12,14,15,17.55,19,22,24,27,30,33,37,44,52,68
+LSHTM,5,9,2023,25,11,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,18,All,3,5,7,8,10,11,13,14,16,18,20,22,24,27,30,35,39,46,58
+LSHTM,5,9,2023,26,11,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,18,All,3,5,7,8,10,11,13,14,16,18,20,21.4,24,26,29,32,38,44,58
+LSHTM,5,9,2023,27,11,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,17,All,3,5,7,8,10,11,13,14,15,17,18,20,23.35,26.3,30,34,39,45,56.05
+LSHTM,5,9,2023,28,11,2023,North East and Yorkshire,type28_death_inc_line,EpiNow,MTP,Cases,2.0,18,All,3,4,6,7,9,11,12.65,14,16,18,20,22,25,28,31,35,40,47.1,60.05
+LSHTM,5,9,2023,5,9,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,1,1,2,2,2,3,3,3,4,4,4,5,5,6,6,7,7,9,10
+LSHTM,5,9,2023,6,9,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,1,1,2,2,2,3,3,4,4,4,5,5,5,6,6,7,8,8,10
+LSHTM,5,9,2023,7,9,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,1,1,2,2,2,3,3,3,4,4,4,5,5,6,6,7,7,8,10
+LSHTM,5,9,2023,8,9,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,1,2,2,2,3,3,3,4,4,4,5,5,6,6,6,7,8,10
+LSHTM,5,9,2023,9,9,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,1,1,2,2,2,3,3,3,4,4,4,5,5,5,6,6,7,8,10
+LSHTM,5,9,2023,10,9,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,1,1,2,2,2,3,3,3,4,4,4,5,5,5,6,6,7,8,9
+LSHTM,5,9,2023,11,9,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,1,1,1,2,2,2,3,3,3,4,4,4,5,5,6,6,7,8,10
+LSHTM,5,9,2023,12,9,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,1,1,2,2,2,2.69999999999999,3,3,3,4,4,5,5,5,6,6,7,8,10
+LSHTM,5,9,2023,13,9,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,1,1,1,2,2,2,3,3,3,4,4,5,5,5,6,7,8,8,10
+LSHTM,5,9,2023,14,9,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,1,1,1,2,2,2,3,3,3,4,4,4,5,5,6,7,7,9,10.05
+LSHTM,5,9,2023,15,9,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,1,1,1,2,2,2,3,3,3,4,4,4,5,5,6,6,7,8,10
+LSHTM,5,9,2023,16,9,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,1,1,2,2,2,3,3,3,4,4,4,5,5,6,6,7,8,9
+LSHTM,5,9,2023,17,9,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,1,1,2,2,2,3,3,3,3,4,4,5,5,6,6,7,8,10
+LSHTM,5,9,2023,18,9,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,1,1,1,2,2,2,3,3,3,4,4,4.35000000000002,5,5,6,7,8,10
+LSHTM,5,9,2023,19,9,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,1,1,1,2,2,2,3,3,3,4,4,5,5,6,6,7,8,10
+LSHTM,5,9,2023,20,9,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,1,1,1,2,2,2,3,3,4,4,4,5,5,6,6,7,8,10
+LSHTM,5,9,2023,21,9,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,1,1,1,2,2,2,3,3,3,4,4,4,5,6,6,7,8,10
+LSHTM,5,9,2023,22,9,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,1,1,1,2,2,2,3,3,3,4,4,5,5,6,6,7,8,10
+LSHTM,5,9,2023,23,9,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,1,1,1,2,2,2,3,3,3,3,4,4,5,5,6,7,8,10
+LSHTM,5,9,2023,24,9,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,1,1,1,2,2,2,3,3,3,4,4,4,5,5,6,7,8,9
+LSHTM,5,9,2023,25,9,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,1,1,1,2,2,2,2,3,3,4,4,4,5,5,6,7,8,10
+LSHTM,5,9,2023,26,9,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,1,1,1,2,2,2,3,3,3,4,4,4,5,5,6,7,8,10
+LSHTM,5,9,2023,27,9,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,1,1,1,2,2,2,3,3,3,4,4,4,5,5,6,7,8,10
+LSHTM,5,9,2023,28,9,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,1,1,1,2,2,2,3,3,3,4,4,4,5,6,6,7,9,11
+LSHTM,5,9,2023,29,9,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,1,1,1,2,2,2,2,3,3,3,4,4,5,6,6,7,8,11
+LSHTM,5,9,2023,30,9,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,1,1,1,2,2,2,2,3,3,3,4,4,4.29999999999995,5,6,6,8,9
+LSHTM,5,9,2023,1,10,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,2,2,2,3,3,3,4,4,5,5,6,7,8,10
+LSHTM,5,9,2023,2,10,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,2,2,2,3,3,3,4,4,5,5,6,7,8,9.04999999999995
+LSHTM,5,9,2023,3,10,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,2,2,2,3,3,3,4,4,5,5,6,7,8,10
+LSHTM,5,9,2023,4,10,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,2,2,2,3,3,3,4,4,5,5,6,7,8,10
+LSHTM,5,9,2023,5,10,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,1.69999999999999,2,2,2,3,3,4,4,5,5,6,7,8,10
+LSHTM,5,9,2023,6,10,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,1.69999999999999,2,2,3,3,3,3,4,4,5,6,7,8,10
+LSHTM,5,9,2023,7,10,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,2,2,2,2,3,3,3.39999999999998,4,5,5,6,7,8,10
+LSHTM,5,9,2023,8,10,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,2,2,2,2,3,3,3,4,4,5,6,6,7,10
+LSHTM,5,9,2023,9,10,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,1,2,2,2,3,3,3,4,4,5,6,7,8,10
+LSHTM,5,9,2023,10,10,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,1,2,2,2,3,3,4,4,4,5,6,7,8,11
+LSHTM,5,9,2023,11,10,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,1,2,2,2,3,3,3,4,4,5,5,6,7,10
+LSHTM,5,9,2023,12,10,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,1,2,2,2,3,3,3,4,4,5,6,6,9,10.05
+LSHTM,5,9,2023,13,10,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,1,1,1,1,2,2,2,2,3,3,4,4,5,5,6,8,10
+LSHTM,5,9,2023,14,10,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,1,2,2,2,3,3,3,4,4,5,6,7,8,10
+LSHTM,5,9,2023,15,10,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2.5,All,0,0,1,1,1,1,2,2,2,2.5,3,3,4,4,5,5,6,7,9
+LSHTM,5,9,2023,16,10,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,2,2,2,3,3,4,4,5,5,6,8,11
+LSHTM,5,9,2023,17,10,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,2,2,2,3,3,4,4,5,6,7,8,10
+LSHTM,5,9,2023,18,10,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,2,2,2,3,3,3,4,4,5,6,7.10000000000002,10
+LSHTM,5,9,2023,19,10,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,1,1,1,1,1,2,2,2,3,3,4,4,5,5,7,8,11
+LSHTM,5,9,2023,20,10,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,2,2,2,3,3,4,4,5,5,6,8,10.05
+LSHTM,5,9,2023,21,10,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,2,2,2,3,3,3,4,4,5,6,7,10
+LSHTM,5,9,2023,22,10,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,2,2,2,3,3,3,4,4,5,6,7,11
+LSHTM,5,9,2023,23,10,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,2,2,2,3,3,3,4,5,5,6,8,10
+LSHTM,5,9,2023,24,10,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,2,2,2,3,3,4,4,4,5,6,8,11
+LSHTM,5,9,2023,25,10,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,2,2,2,3,3,3,4,4,5,6,8,11
+LSHTM,5,9,2023,26,10,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,2,2,2,2,3,3,4,5,6,7,8,11
+LSHTM,5,9,2023,27,10,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0.800000000000011,1,1,1,2,2,2,3,3,4,4,5,5,6,8,11
+LSHTM,5,9,2023,28,10,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,2,2,2,3,3,4,5,6,6,9,11
+LSHTM,5,9,2023,29,10,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,2,2,2,3,3,4,4,5,6,8,11
+LSHTM,5,9,2023,30,10,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,2,2,2,3,3,4,5,5,6,8,11
+LSHTM,5,9,2023,31,10,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,2,2,2,3,3,4,4,5,6.14999999999998,8,11
+LSHTM,5,9,2023,1,11,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,2,2,2,3,3,4,4,5,6,7.10000000000002,10
+LSHTM,5,9,2023,2,11,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,2,2,2,2,3,3,4,4,5,6,7,10
+LSHTM,5,9,2023,3,11,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,2,2,2,3,3,4,4,5,6,7,10.05
+LSHTM,5,9,2023,4,11,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,2,2,2,3,3,4,4,5,6,7.10000000000002,10
+LSHTM,5,9,2023,5,11,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,2,2,2,3,3,4,4,5,6,7,10
+LSHTM,5,9,2023,6,11,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,1,2,2,3,3,4,4,5,6,7,11
+LSHTM,5,9,2023,7,11,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,1,1,1,1,2,2,2,3,3,4,5,6,8,11
+LSHTM,5,9,2023,8,11,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,1,2,2,2,3,4,4,5,6,8,12
+LSHTM,5,9,2023,9,11,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,2,2,2,3,3,4,4,5,6,8,11
+LSHTM,5,9,2023,10,11,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,1,1,1,1,2,2,2.39999999999998,3,3,4,5,6,7,11
+LSHTM,5,9,2023,11,11,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,1,1,1,2,2,2,2,3,4,4,5,6,7,10
+LSHTM,5,9,2023,12,11,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,1,1,1,1,2,2,2,3,3,4,5,6,8,11
+LSHTM,5,9,2023,13,11,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,1,1,1,1,2,2,2,3,3,4,5,6,8,10.05
+LSHTM,5,9,2023,14,11,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,1.5,All,0,0,0,0,0,1,1,1,1,1.5,2,2,3,3,4,4,5,7,11
+LSHTM,5,9,2023,15,11,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,1,1,1,1,2,2,2,3,3,4,5,6,7,10
+LSHTM,5,9,2023,16,11,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,1,1,1,1,2,2,2,3,3,4,5,6,7,10
+LSHTM,5,9,2023,17,11,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,1,1,1,1,2,2,2,3,3,4,5,6,7,12
+LSHTM,5,9,2023,18,11,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,1,1,1,1,2,2,2,3,3,4,5,6,8,11
+LSHTM,5,9,2023,19,11,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,1,1,1,1,2,2,2,3,3,4,4,6,7,10
+LSHTM,5,9,2023,20,11,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,1,1,1,1,1,2,2,3,3,4,5,6,7,10
+LSHTM,5,9,2023,21,11,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,1,1,1,1,2,2,2,3,3,4,5,6,8,11
+LSHTM,5,9,2023,22,11,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,1,1,1,1,1,2,2,3,3,4,5,6,8,11
+LSHTM,5,9,2023,23,11,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,1,1,1,1,2,2,2,3,3,4,5,6,8,11
+LSHTM,5,9,2023,24,11,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,1,1,1,1,2,2,2,3,4,5,6,7,10.05
+LSHTM,5,9,2023,25,11,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,1,1,1,1,2,2,2,3,4,5,6,8,11
+LSHTM,5,9,2023,26,11,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,1,1,1,1,2,2,2,3,4,4,5,7,10
+LSHTM,5,9,2023,27,11,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,1,1,1,1,2,2,2,3,4,4.20000000000005,5,7,10
+LSHTM,5,9,2023,28,11,2023,North West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,1,1,1,1,2,2,2,3,3.25,4,5,7,10.05
+LSHTM,5,9,2023,5,9,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,1,2,2,2,2,2,3,3,3,4,5,5.04999999999996
+LSHTM,5,9,2023,6,9,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,1,2,2,2,2,3,3,3,4,4,5,6
+LSHTM,5,9,2023,7,9,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,1,2,2,2,2,3,3,3,4,4,5,6
+LSHTM,5,9,2023,8,9,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,1,2,2,2,2,3,3,3,4,4,5,6
+LSHTM,5,9,2023,9,9,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,1,2,2,2,2,3,3,3,4,4,5,6
+LSHTM,5,9,2023,10,9,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,1,2,2,2,2,2,3,3,3,4,5,6
+LSHTM,5,9,2023,11,9,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,1,2,2,2,2,3,3,3,4,4,5,7
+LSHTM,5,9,2023,12,9,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,1,2,2,2,2,3,3,3,4,4,5,7
+LSHTM,5,9,2023,13,9,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,1,1,1,1,1,2,2,2,2,3,3,3,4,4,4,5,7
+LSHTM,5,9,2023,14,9,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,2,2,2,2,3,3,3,4,4,5,6,7
+LSHTM,5,9,2023,15,9,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,2,2,2,2,3,3,3,4,4,5,6,7
+LSHTM,5,9,2023,16,9,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,1,2,2,2,2.39999999999998,3,3,4,4,5,6,8
+LSHTM,5,9,2023,17,9,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,1,2,2,2,3,3,3,4,4,5,5.10000000000002,7
+LSHTM,5,9,2023,18,9,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,2,2,2,2,3,3,3,4,4,5,6,7
+LSHTM,5,9,2023,19,9,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,2,2,2,2,3,3,3,4,4,5,6,8
+LSHTM,5,9,2023,20,9,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,2,2,2,2,3,3,3,4,4,5,6,8
+LSHTM,5,9,2023,21,9,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,2,2,2,2,3,3,4,4,5,5,7,8
+LSHTM,5,9,2023,22,9,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,2,3,3,3,4,4,5,5,6,7,9
+LSHTM,5,9,2023,23,9,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,2,2,2,2,3,3,4,4,5,5,6.10000000000002,8
+LSHTM,5,9,2023,24,9,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,2,2,2,3,3,3,4,4,5,6,7,9
+LSHTM,5,9,2023,25,9,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,2,2,2,3,3,3,4,4,5,6,7,9
+LSHTM,5,9,2023,26,9,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,1,1,1,1,1,2,2,2,3,3,3,4,5,5,6,7,9
+LSHTM,5,9,2023,27,9,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,2,2,2,3,3,3,4,4.25,5,6,7.10000000000002,10
+LSHTM,5,9,2023,28,9,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,2,2,2,2,3,3,4,4,5,6,7,8,11.05
+LSHTM,5,9,2023,29,9,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,1,2,2,2,3,3,3,4,4,5,5,6,8,10
+LSHTM,5,9,2023,30,9,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,2,2,2,3,3,4,4,5,5,6,8,10
+LSHTM,5,9,2023,1,10,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,1,2,2,3,3,3,4,4,5,6,7,8,10
+LSHTM,5,9,2023,2,10,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,2,3,3,3,4,4,5,6,7,9,11
+LSHTM,5,9,2023,3,10,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,1,2,2,2,3,3,3,4,4,5,6,7,8,11
+LSHTM,5,9,2023,4,10,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,2,2,2,3,3,4,4.29999999999995,5,6,7,8,11
+LSHTM,5,9,2023,5,10,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,2,3,3,3,4,4,5,6,7,10,13
+LSHTM,5,9,2023,6,10,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,2,3,3,4,4,5,5,6,7,9,12
+LSHTM,5,9,2023,7,10,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,1,2,2,2,3,3,3,4,4,5,6,7,9,12
+LSHTM,5,9,2023,8,10,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,2,3,3,3,4,5,5,6,8,9,13
+LSHTM,5,9,2023,9,10,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,2,3,3,4,4,5,5,6,7,10,13
+LSHTM,5,9,2023,10,10,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,1,2,2,2,3,3,4,4,5,6,6.20000000000005,8,10,13
+LSHTM,5,9,2023,11,10,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,2,3,3,4,4,5,6,7,8,11,14
+LSHTM,5,9,2023,12,10,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,2,3,3,4,4,5,6,7,8,10,13
+LSHTM,5,9,2023,13,10,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,2,3,3,4,4,5,6,7,8,10.1,14
+LSHTM,5,9,2023,14,10,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,2,3,3,4,4,5,6,7,8,11.1,15
+LSHTM,5,9,2023,15,10,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,2,3,3,4,4.35000000000002,5,6,7,9,11,14
+LSHTM,5,9,2023,16,10,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,2,3,3,4,4,5,6,7,8,10,14.05
+LSHTM,5,9,2023,17,10,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,2,3,3,4,4,5,6,7,9,12,16
+LSHTM,5,9,2023,18,10,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,2,2,2,3,3,4,4,5,6,7,8,10,12,16
+LSHTM,5,9,2023,19,10,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,2,3,3,4,5,6,6,8,9,11,16
+LSHTM,5,9,2023,20,10,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,1,2,2,3,3,4,4,5,6,7,8,10,12,16
+LSHTM,5,9,2023,21,10,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,2,2,2,3,3,4,4,5,5,6,8,10,12,16
+LSHTM,5,9,2023,22,10,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,3,3,3,4,5,6,6.25,8,10,12,16
+LSHTM,5,9,2023,23,10,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,2,3,3,4,5,6,7,8,9,12,17
+LSHTM,5,9,2023,24,10,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,3,3,3,4,5,5,7,8,9,12,16
+LSHTM,5,9,2023,25,10,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,3,3,4,4,5,6,7,8,10,13,18.05
+LSHTM,5,9,2023,26,10,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,1,2,2,3,3,4,4,5,6,7,9,10,13,18
+LSHTM,5,9,2023,27,10,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,3,3,4,4,5,6,7,9,11,13.1,18
+LSHTM,5,9,2023,28,10,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,3,3,4,4,5,6,7,9,11,14,18
+LSHTM,5,9,2023,29,10,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,3,3,4,4,5,6,7,9,11,13,18
+LSHTM,5,9,2023,30,10,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,1,2,2,3,3,4,5,5,6,7,9,11,14,17
+LSHTM,5,9,2023,31,10,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,3,3,4,4,5.35000000000002,6,7,10,11,14,18.05
+LSHTM,5,9,2023,1,11,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,3,3,4,4,5,6,7,9,11,15,19
+LSHTM,5,9,2023,2,11,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,3,3,4,5,6,7,8,10,12,14,19
+LSHTM,5,9,2023,3,11,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,3,3,4,4,5,7,8,10,12,15,20
+LSHTM,5,9,2023,4,11,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,2,2,2,3,3,4,5,5,6,7,9,11,14.1,20
+LSHTM,5,9,2023,5,11,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,2,3,4,4,5,6,7,9,12,15,21
+LSHTM,5,9,2023,6,11,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,3,3,4,5,6,7,8,9,11,14,19.05
+LSHTM,5,9,2023,7,11,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,3,3,4,5,6,7,8,10,11,15,20
+LSHTM,5,9,2023,8,11,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,2,2,3,3,3,4,5,6,7,8,10,11,15,21
+LSHTM,5,9,2023,9,11,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,0,0,1,1,1,2,2,3,4,4,5,6,7,8,10,12,15,20
+LSHTM,5,9,2023,10,11,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,0,0,1,1,1,2,2,3,4,4,5,6,7,8,10,12,16,21
+LSHTM,5,9,2023,11,11,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,3,3,4,5,5,6,8,9,12,15,21
+LSHTM,5,9,2023,12,11,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,3,3,4,5,5,6,7,9,12,16,22
+LSHTM,5,9,2023,13,11,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,3,3,4,5,6,7,8,10,13,16,23
+LSHTM,5,9,2023,14,11,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,3,3,4,4.39999999999998,6,7,8,10,12,16,21.05
+LSHTM,5,9,2023,15,11,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,3,3,4,5,6,7,8,10,12,15,22.05
+LSHTM,5,9,2023,16,11,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,0,0,1,1,1,2,2,3,4,4,5,6,7,9,11,13,16,23
+LSHTM,5,9,2023,17,11,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,3,3,4,5,6,7,9,11,12.15,15,20
+LSHTM,5,9,2023,18,11,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,1,2,2,3,3,4,5,6,7,8,11,12.15,15,22
+LSHTM,5,9,2023,19,11,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,0,0,1,1,1,2,2,3,4,4,5,6,7,8,10,12,15,21
+LSHTM,5,9,2023,20,11,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,3,3,4,5,6,7,9,10,12,16,21
+LSHTM,5,9,2023,21,11,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,3,3,4,5,6,7,8,10,12,16,23
+LSHTM,5,9,2023,22,11,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3.5,All,0,0,0,1,1,1,2,2,3,3.5,4,5,6,7,9,10,13,17,23
+LSHTM,5,9,2023,23,11,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,0,0,1,1,1,2,3,3,4,4,5,6,7,9,11,13,16,22
+LSHTM,5,9,2023,24,11,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,0,0,1,1,1,2,2,3,4,4,5,6,7,8,10,12,17,22
+LSHTM,5,9,2023,25,11,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,3,3,4,5,6,7,8,10,12,15,21.05
+LSHTM,5,9,2023,26,11,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,3,3,4,5,6,7,8,10,12,16,21.05
+LSHTM,5,9,2023,27,11,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,2,3,4,5,5,6,8,10,12,16,21
+LSHTM,5,9,2023,28,11,2023,Northern Ireland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,3,3,4,5,6,7,8,10,12,14,20
+LSHTM,5,9,2023,5,9,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,6,9,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,7,9,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,8,9,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,9,9,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,10,9,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,11,9,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,12,9,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,13,9,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,14,9,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,15,9,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,16,9,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,17,9,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,18,9,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,19,9,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,20,9,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,21,9,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,22,9,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,23,9,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,24,9,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,25,9,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,26,9,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,27,9,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,28,9,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,29,9,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,30,9,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,1,10,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,2,10,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,3,10,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,4,10,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,5,10,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,6,10,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,7,10,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,8,10,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,9,10,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,10,10,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,11,10,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,12,10,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,13,10,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,14,10,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,15,10,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,16,10,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,17,10,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,18,10,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,19,10,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,20,10,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,21,10,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,22,10,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,23,10,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,24,10,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,25,10,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,26,10,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,27,10,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,28,10,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,29,10,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,30,10,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,31,10,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,1,11,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,2,11,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,3,11,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,4,11,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,5,11,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,6,11,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,7,11,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,8,11,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,9,11,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,10,11,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,11,11,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,12,11,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,13,11,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,14,11,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,15,11,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,16,11,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,17,11,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,18,11,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,19,11,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,20,11,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,21,11,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,22,11,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,23,11,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,24,11,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,25,11,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,26,11,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,27,11,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,28,11,2023,Scotland,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSHTM,5,9,2023,5,9,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,1,1,2,2,2,3,3,3,3,4,4,4,5,5,6,6,7,8,9
+LSHTM,5,9,2023,6,9,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,1,2,2,2,2,3,3,3,4,4,4,5,5,6,6,7,8,10
+LSHTM,5,9,2023,7,9,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,1,1,2,2,2,3,3,3,4,4,4,5,5,5,6,7,7,8,9
+LSHTM,5,9,2023,8,9,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,1,1,2,2,2,3,3,3,4,4,4,5,5,5,6,6,7,8,10
+LSHTM,5,9,2023,9,9,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,1,1,2,2,2,3,3,3,4,4,4,5,5,5,6,6,7,8,10
+LSHTM,5,9,2023,10,9,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,1,1,2,2,2,2.69999999999999,3,3,3,4,4,5,5,5,6,6,7,8,9
+LSHTM,5,9,2023,11,9,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,1,1,1,2,2,2,3,3,3,4,4,4,5,5,6,7,7,8,10
+LSHTM,5,9,2023,12,9,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,1,1,2,2,2,2,3,3,3,4,4,4,5,5,6,6,7,8,10
+LSHTM,5,9,2023,13,9,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,1,1,2,2,2,3,3,3,4,4,4,5,5,5,6,7,8,9.04999999999995
+LSHTM,5,9,2023,14,9,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,1,1,2,2,2,3,3,3,4,4,5,5,5,6,7,8,9,10
+LSHTM,5,9,2023,15,9,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,1,1,1,2,2,2,3,3,3,4,4,4,5,5,6,6,7,8,10
+LSHTM,5,9,2023,16,9,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,1,1,1,2,2,2,3,3,3,4,4,4,5,5,6,6,7,8,10
+LSHTM,5,9,2023,17,9,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,1,1,1,2,2,2,3,3,3,4,4,4,5,5,6,7,8,9,10
+LSHTM,5,9,2023,18,9,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,1,1,2,2,2,3,3,3,4,4,5,5,6,6,7,8,9,11
+LSHTM,5,9,2023,19,9,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,1,1,2,2,2,3,3,3,4,4,4,5,5,6,7,8,9,10
+LSHTM,5,9,2023,20,9,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,1,1,2,2,2,3,3,3,4,4,4,5,5,6,7,7,9,10
+LSHTM,5,9,2023,21,9,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,1,1,2,2,2,3,3,3,4,4,4,5,5,6,7,8,9,11
+LSHTM,5,9,2023,22,9,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,1,1,1,2,2,2,3,3,4,4,4,5,5,6,6,7,8,11
+LSHTM,5,9,2023,23,9,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3.5,All,0,1,1,1,2,2,2,3,3,3.5,4,4,5,5,6,7,7,9,11
+LSHTM,5,9,2023,24,9,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,1,1,1,2,2,3,3,3,4,4,4,5,5,6,7,8,9,11
+LSHTM,5,9,2023,25,9,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,1,1,1,2,2,2,3,3,3,4,4,5,5,6,6,8,9,11
+LSHTM,5,9,2023,26,9,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,1,1,1,2,2,2,3,3,3,4,4,5,5,6,7,7,8,11
+LSHTM,5,9,2023,27,9,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,1,1,1,2,2,2,3,3,4,4,4,5,5,6,6,7,9,11
+LSHTM,5,9,2023,28,9,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,1,1,1,2,2,2,3,3,3,4,4,5,5,6,7,8,9,12
+LSHTM,5,9,2023,29,9,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,1,1,1,2,2,2,3,3,3,4,4,5,5,6,7,7.14999999999998,9,11
+LSHTM,5,9,2023,30,9,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,4,All,0,1,1,1,2,2,2,3,3,4,4,4,5,6,6,7,8,10,12
+LSHTM,5,9,2023,1,10,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,1,1,1,2,2,2,3,3,3,4,4,5,5,6,7,8,10,12
+LSHTM,5,9,2023,2,10,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1.75,2,2,2,3,3,4,4,5,5,6,6,8,10,13
+LSHTM,5,9,2023,3,10,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,1,1,1,2,2,2,2,3,3,4,4,4,5,6,6,8,9,11
+LSHTM,5,9,2023,4,10,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,2,2,2,3,3,4,4,5,5,6,7,8,10,13
+LSHTM,5,9,2023,5,10,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,1,1,1,1,2,2,2,3,3,4,4,5,5,6,7,8,10,12
+LSHTM,5,9,2023,6,10,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,2,2,2,3,3,3,4,4,5,6,7,8,10,14
+LSHTM,5,9,2023,7,10,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,2,2,2,3,3,3,4,5,5,6,7,8,10,13
+LSHTM,5,9,2023,8,10,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,2,2,2.60000000000002,3,3,4,4,5,5,6,7,8,10,13
+LSHTM,5,9,2023,9,10,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,2,2,2,3,3,3,4,5,5,6,7,9,10,14
+LSHTM,5,9,2023,10,10,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,2,2,2,3,3,3,4,4,5,6,7,8,9,12
+LSHTM,5,9,2023,11,10,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,2,2,2,3,3,3,4,4,5,6,7,8,10,13.05
+LSHTM,5,9,2023,12,10,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,2,2,2,3,3,3,4,4,5,6,7,8,10,14
+LSHTM,5,9,2023,13,10,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,2,2,2,3,3,3.45000000000005,4,5,5,6,7,8,10,13.05
+LSHTM,5,9,2023,14,10,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,2,2,2,3,3,4,4,5,5,6,7,9,11,15
+LSHTM,5,9,2023,15,10,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,2,2,2,3,3,4,4,5,5,6,7,9,11,14
+LSHTM,5,9,2023,16,10,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,2,2,2,3,3,3,4,4,5,6,7,8,10,14
+LSHTM,5,9,2023,17,10,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,2,3,3,4,4,5,6,7,8,10,13
+LSHTM,5,9,2023,18,10,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,1,2,2,2,3,3,4,4,5,6,7,8.14999999999998,10,14.05
+LSHTM,5,9,2023,19,10,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,2,3,3,4,4,5,6,7.20000000000005,9,11,15
+LSHTM,5,9,2023,20,10,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,2,2,2,2.55000000000001,3,3,4,4,5,6,7,9,10.1,15
+LSHTM,5,9,2023,21,10,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,2,3,3,4,4,5,6,7,9,12,16
+LSHTM,5,9,2023,22,10,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,1,2,2,2,3,3,4,5,6,6,8,8.14999999999998,11,16
+LSHTM,5,9,2023,23,10,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,2,3,3,4,4,5,6,7,9,11,16
+LSHTM,5,9,2023,24,10,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,1,2,2,2,3,3,4,4,5,6,7,8,10,14
+LSHTM,5,9,2023,25,10,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,2,3,3,4,4,5,6,7,9,11,16
+LSHTM,5,9,2023,26,10,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,2,3,3,4,4,5,6,7,9,11,16
+LSHTM,5,9,2023,27,10,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,1,2,2,3,3,4,4,5,6,7,9,11,17
+LSHTM,5,9,2023,28,10,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,2,3,3,4,4,5,6,7,9,11.1,16
+LSHTM,5,9,2023,29,10,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,2,3,3,4,4,5,6,7,9,11,17
+LSHTM,5,9,2023,30,10,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,1,2,2,3,3,3,4,5,6,7,9,12,17
+LSHTM,5,9,2023,31,10,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,0,1,1,1,2,2,3,3,3,4,5,6,7,9,11,16
+LSHTM,5,9,2023,1,11,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,2,2,2,3,3,4,5,6,7,9,12,17
+LSHTM,5,9,2023,2,11,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,0.800000000000011,1,1,1,2,2,3,3,4,4,5,6,7,9,12,17
+LSHTM,5,9,2023,3,11,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,1,2,2,3,3,4,4,5,6,8,9.14999999999998,12.1,19
+LSHTM,5,9,2023,4,11,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,1,2,2,3,3,3,4,5,6,7,9,13,18.05
+LSHTM,5,9,2023,5,11,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,0,1,1,1,2,2,3,3,4,4,5,6,7,9,12,18
+LSHTM,5,9,2023,6,11,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,0,1,1,1,2,2,3,3,4,4,5,6,7,9,12,18
+LSHTM,5,9,2023,7,11,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,2,2,2,3,4,4,5,6,7,9,12,18
+LSHTM,5,9,2023,8,11,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,2,2,2,3,3,4,5,6,7,9,12,16
+LSHTM,5,9,2023,9,11,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,2,2,2,3,3,4,5,6,7,9,12,18
+LSHTM,5,9,2023,10,11,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,2,2,2,3,3,4,5,6,7,9,12,19
+LSHTM,5,9,2023,11,11,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,2,2,3,3,4,5,6,7,9,12,18
+LSHTM,5,9,2023,12,11,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,2,2,2,3,3,4,5,6,8,10,13,19
+LSHTM,5,9,2023,13,11,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,2,2,3,3,4,5,6,7,9,13,20
+LSHTM,5,9,2023,14,11,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,2,2,3,3,4,5,6,7,9.14999999999998,13,18.05
+LSHTM,5,9,2023,15,11,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,2,2,2,3,3,4,4.29999999999995,6,7,9,11.1,18
+LSHTM,5,9,2023,16,11,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,2,2,3,3,4,5,6,7,9,12,19
+LSHTM,5,9,2023,17,11,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,2,2,2,3,3,4,5,6,7,9,13.1,19
+LSHTM,5,9,2023,18,11,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,2,2,2,3,3,4,5,6,8,10,13,21
+LSHTM,5,9,2023,19,11,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,1,1,1,2,2,3,3,4,5,6,8,9,13,21.05
+LSHTM,5,9,2023,20,11,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,2,2,3,3,4,5,6,7,10,13,19
+LSHTM,5,9,2023,21,11,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,1,1,1,2,2,3,3,4,5,6,8,10,13,19.05
+LSHTM,5,9,2023,22,11,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,2,2,3,3,4,5,6,7,9.14999999999998,13,19
+LSHTM,5,9,2023,23,11,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,2,2,3,3,4,5,6,7,10,13,21
+LSHTM,5,9,2023,24,11,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,1,1,1,2,2,3,3,4,5,6,7,9,13,20
+LSHTM,5,9,2023,25,11,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,2,2,3,3,4,5,6,8,10,14,21
+LSHTM,5,9,2023,26,11,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,1,1,1,2,2,2,3,4,5,6,7,9.14999999999998,14,20
+LSHTM,5,9,2023,27,11,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,1,1,1,2,2,2,3,4,5,6,8,10,13,20
+LSHTM,5,9,2023,28,11,2023,South East,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,1,1,1,2,2,2,3,4,4,6,7,10,13,21
+LSHTM,5,9,2023,5,9,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,1,1,1,2,2,2,3,3,3,4,4,4,5,5,6,6,7,8
+LSHTM,5,9,2023,6,9,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,1,1,1,2,2,2,3,3,3,3,4,4,4,5,6,6,7,10
+LSHTM,5,9,2023,7,9,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,1,1,1,2,2,2,2,3,3,3,4,4,4,5,5,6,7,9
+LSHTM,5,9,2023,8,9,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0.900000000000006,1,1,1.75,2,2,2,2,3,3,3,4,4,5,5,6,6,8
+LSHTM,5,9,2023,9,9,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,1,1,1,1,2,2,2,2,3,3,3,4,4,5,5,6,8
+LSHTM,5,9,2023,10,9,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,1,1,1,1,2,2,2,2,3,3,3,4,4,5,5,6,7,9
+LSHTM,5,9,2023,11,9,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,1,1,1,2,2,2,3,3,3,3,4,4,5,5,6,7,8,10
+LSHTM,5,9,2023,12,9,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,1,1,1,2,2,2,2,3,3,3,4,4,5,5,6,6,8,10
+LSHTM,5,9,2023,13,9,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,1,1,1,1,2,2,2,3,3,3,4,4,4,5,5.20000000000005,6,7,9
+LSHTM,5,9,2023,14,9,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,2,2,2,3,3,3,3,4,4,5,5,6,7,9
+LSHTM,5,9,2023,15,9,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,2,2,2,2,3,3,3,4,4,4,5,5,7,8
+LSHTM,5,9,2023,16,9,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,1,1,1,1,2,2,2,2,3,3,3,4,4,5,5,6,8
+LSHTM,5,9,2023,17,9,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,2,2,2,2,3,3,3,4,4,5,5,6,7,9
+LSHTM,5,9,2023,18,9,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,2,2,2,2,3,3,3,4,4,5,5,6,7,8,10
+LSHTM,5,9,2023,19,9,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,2,2,2,3,3,3,4,4,4,5,6,7,8,10
+LSHTM,5,9,2023,20,9,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,2,2,2,3,3,3,4,4,5,5,6,7,8,10
+LSHTM,5,9,2023,21,9,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,2,2,2,2,3,3,3,4,4,5,5,6,7,9
+LSHTM,5,9,2023,22,9,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,1,1,1,1,2,2,2,2,3,3,3,4,4,5,6,7,9
+LSHTM,5,9,2023,23,9,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,2,2,2,3,3,3,4,4,5,5,6.10000000000002,9
+LSHTM,5,9,2023,24,9,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,1,1,1,1,2,2,2,2,3,3,4,4,4.25,5,6,8,10
+LSHTM,5,9,2023,25,9,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,2,2,2,2,3,3,4,4,4,5,6,7,8,10.05
+LSHTM,5,9,2023,26,9,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,1,2,2,2,3,3,4,4,4,5,6,7,8,10
+LSHTM,5,9,2023,27,9,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,1,2,2,2,3,3,3,4,4,5,6,7,8,11
+LSHTM,5,9,2023,28,9,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,1,2,2,2,3,3,3,4,4,5,6,6,8,11
+LSHTM,5,9,2023,29,9,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,2,2,2,3,3,3,4,4,5,6,7,10
+LSHTM,5,9,2023,30,9,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,1,2,2,2,3,3,3,4,5,5,7,9
+LSHTM,5,9,2023,1,10,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,1,1,1,1,1,2,2,2,3,3,3,4,5,5,6,8,11
+LSHTM,5,9,2023,2,10,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,2,3,3,3,4,4,5,6,7,8,11
+LSHTM,5,9,2023,3,10,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,1,2,2,2,3,3,3,4,4,5,6,7,9,12
+LSHTM,5,9,2023,4,10,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,1,2,2,2,3,3,3,4,4,5,6,7,9,11
+LSHTM,5,9,2023,5,10,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,1,1,1,1,2,2,2,3,3,3,4,4,5,6,7,9,11.05
+LSHTM,5,9,2023,6,10,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0.800000000000011,1,1,1,1,2,2,2,3,3,3,4,5,6,7,10
+LSHTM,5,9,2023,7,10,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,1,2,2,2,3,3,3,4,4,5,6.10000000000002,9
+LSHTM,5,9,2023,8,10,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,2,2,2,3,3,3,4,4,5,6,8,10.05
+LSHTM,5,9,2023,9,10,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,2,3,3,3,4,5,5,6,7,9,12
+LSHTM,5,9,2023,10,10,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,3,All,0,0,0,1,1,1,2,2,2,3,3,3,4,4,5,6,7,9,13
+LSHTM,5,9,2023,11,10,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,2,2,2,2,3,3,4,4,5,6,7,8.10000000000002,12
+LSHTM,5,9,2023,12,10,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,2,2,2,3,3,3,4,5,6,7,8.10000000000002,11
+LSHTM,5,9,2023,13,10,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,2,2,2,2,3,3,4,4,5,6,8,11
+LSHTM,5,9,2023,14,10,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,2,2,2,3,3,3,4,5,5,6,9
+LSHTM,5,9,2023,15,10,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,2,2,2,3,3,4,4,5,6,7,12
+LSHTM,5,9,2023,16,10,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,2,2,2,3,3,4,4,5,6,7,10,15
+LSHTM,5,9,2023,17,10,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,2,2,2,3,3,4,4,5,6,7,8,12
+LSHTM,5,9,2023,18,10,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,2,2,2,3,3,3,4,5,5,7,9,12
+LSHTM,5,9,2023,19,10,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,2,2,2,3,3,4,4,5,6,7,9,12
+LSHTM,5,9,2023,20,10,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,1,2,2,3,3,4,4,5,6,7,11.05
+LSHTM,5,9,2023,21,10,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,1,1,1,1,2,2,2,3,3,4,5,6,8,11
+LSHTM,5,9,2023,22,10,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,2,2,2,3,3,4,4,5,6,8,12
+LSHTM,5,9,2023,23,10,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,1,1,1,1,2,2,2,2,3,3,4,5,6,7,9,12
+LSHTM,5,9,2023,24,10,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,2,2,2,3,3,4,4,5,5.20000000000005,7,9,14
+LSHTM,5,9,2023,25,10,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,2,2,2,3,3,4,4,5.20000000000005,7,9,13
+LSHTM,5,9,2023,26,10,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,2,2,2,3,3,4,5,6,7,9,13
+LSHTM,5,9,2023,27,10,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0.75,1,1,1,1,2,2,2,3,3,4,5,6,9,12
+LSHTM,5,9,2023,28,10,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,1,1,1,1,2,2,2,3,3,4,5,6,8,11
+LSHTM,5,9,2023,29,10,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,2,2,2,2,3,3,4,5,7,9,12
+LSHTM,5,9,2023,30,10,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,2,2,2,3,3,4,5,6,7,9,14
+LSHTM,5,9,2023,31,10,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,2,2,2,3,3,4,5,6,7,9,14
+LSHTM,5,9,2023,1,11,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,2,2,2,3,3,4,5,6,7,9,14
+LSHTM,5,9,2023,2,11,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,2,2,2,3,3,4,4,6,7,9,13
+LSHTM,5,9,2023,3,11,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,1,1,1,1,2,2,2,3,3,4,5,6,8,12
+LSHTM,5,9,2023,4,11,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,0,1,1,1,2,2,2,3,3,4,4.20000000000005,6,7.10000000000002,12
+LSHTM,5,9,2023,5,11,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,1,1,1,1,2,2,2,3,3,4,5,6,8,12
+LSHTM,5,9,2023,6,11,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,2,2,2,3,3,4,5,6,7,9.10000000000002,16
+LSHTM,5,9,2023,7,11,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,1,1,1,1,2,2,2,3,3,4,5,6,7,10,15.05
+LSHTM,5,9,2023,8,11,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,1,1,1,2,2,2,3,3,4,4,5,6,8,13
+LSHTM,5,9,2023,9,11,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,1,1,1,1,2,2,3,3,4,4,5,7,9,14
+LSHTM,5,9,2023,10,11,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,1,1,1,1,2,2,2,3,3,4,5,6,8,13
+LSHTM,5,9,2023,11,11,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,1,1,1,1,2,2,2,3,4,4,6,7,12
+LSHTM,5,9,2023,12,11,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,1,1,1,1,1,2,2,3,3,4,5,6,8,13
+LSHTM,5,9,2023,13,11,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,1,1,1,1,2,2,3,3,4,4,6,7,9,15
+LSHTM,5,9,2023,14,11,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,1,1,1,1,2,2,2,3,4,5,5.20000000000005,7,10,15
+LSHTM,5,9,2023,15,11,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,1,1,1,1,2,2,3,3,4,5,6,7,9,14.05
+LSHTM,5,9,2023,16,11,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,1,1,1,1,2,2,3,3,4,4,5,7,9,15
+LSHTM,5,9,2023,17,11,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,1,1,1,1,2,2,3,3,4,5,6,8,13
+LSHTM,5,9,2023,18,11,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,1,1,1,1,2,2,2,3,4,5,6,8,13
+LSHTM,5,9,2023,19,11,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,0,1,1,1,2,2,2,3,3,4,5,7,9,14
+LSHTM,5,9,2023,20,11,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,1,1,1,1,2,2,2,3,3,4,6,7,10.1,15.05
+LSHTM,5,9,2023,21,11,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,0,1,1,1,2,2,2,3,4,4,5,7,10,14
+LSHTM,5,9,2023,22,11,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,2,All,0,0,0,0,0,1,1,1,1,2,2,2,3,3,4,5,7,9,14
+LSHTM,5,9,2023,23,11,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,1,1,1,1,1,2,2,3,3,4,5,7,9,14
+LSHTM,5,9,2023,24,11,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,1,1,1,1,2,2,3,3,4,5,6,8,13
+LSHTM,5,9,2023,25,11,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,0,1,1,1,1,2,2,3,3,4,5,8,12
+LSHTM,5,9,2023,26,11,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,1,1,1,1,2,2,2,3,4,5,7,9,14
+LSHTM,5,9,2023,27,11,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,1,1,1,1,1,2,2,3,3,4,5,7,10,14
+LSHTM,5,9,2023,28,11,2023,South West,type28_death_inc_line,EpiNow,MTP,Cases,2.0,1,All,0,0,0,0,0,0,1,1,1,1,2,2,3,3,4,5,7,9,14.05
+LSHTM,5,9,2023,5,9,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2
+LSHTM,5,9,2023,6,9,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+LSHTM,5,9,2023,7,9,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2
+LSHTM,5,9,2023,8,9,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2.04999999999995
+LSHTM,5,9,2023,9,9,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3
+LSHTM,5,9,2023,10,9,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3
+LSHTM,5,9,2023,11,9,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3
+LSHTM,5,9,2023,12,9,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2
+LSHTM,5,9,2023,13,9,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3
+LSHTM,5,9,2023,14,9,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3
+LSHTM,5,9,2023,15,9,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2
+LSHTM,5,9,2023,16,9,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3
+LSHTM,5,9,2023,17,9,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4
+LSHTM,5,9,2023,18,9,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3
+LSHTM,5,9,2023,19,9,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3
+LSHTM,5,9,2023,20,9,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3
+LSHTM,5,9,2023,21,9,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3
+LSHTM,5,9,2023,22,9,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4
+LSHTM,5,9,2023,23,9,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3
+LSHTM,5,9,2023,24,9,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4
+LSHTM,5,9,2023,25,9,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3.04999999999995
+LSHTM,5,9,2023,26,9,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4
+LSHTM,5,9,2023,27,9,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3
+LSHTM,5,9,2023,28,9,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4.04999999999995
+LSHTM,5,9,2023,29,9,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4
+LSHTM,5,9,2023,30,9,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5
+LSHTM,5,9,2023,1,10,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4
+LSHTM,5,9,2023,2,10,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.149999999999977,1,4
+LSHTM,5,9,2023,3,10,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3.04999999999995
+LSHTM,5,9,2023,4,10,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5
+LSHTM,5,9,2023,5,10,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6
+LSHTM,5,9,2023,6,10,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4
+LSHTM,5,9,2023,7,10,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4
+LSHTM,5,9,2023,8,10,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4
+LSHTM,5,9,2023,9,10,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6.04999999999996
+LSHTM,5,9,2023,10,10,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,7
+LSHTM,5,9,2023,11,10,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5
+LSHTM,5,9,2023,12,10,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6
+LSHTM,5,9,2023,13,10,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,6
+LSHTM,5,9,2023,14,10,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,10.05
+LSHTM,5,9,2023,15,10,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6
+LSHTM,5,9,2023,16,10,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6
+LSHTM,5,9,2023,17,10,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6
+LSHTM,5,9,2023,18,10,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,7
+LSHTM,5,9,2023,19,10,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,7.04999999999996
+LSHTM,5,9,2023,20,10,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,9
+LSHTM,5,9,2023,21,10,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,8
+LSHTM,5,9,2023,22,10,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,8
+LSHTM,5,9,2023,23,10,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1.10000000000002,10
+LSHTM,5,9,2023,24,10,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.149999999999977,1,8.04999999999996
+LSHTM,5,9,2023,25,10,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,7
+LSHTM,5,9,2023,26,10,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,10.05
+LSHTM,5,9,2023,27,10,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,9
+LSHTM,5,9,2023,28,10,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,12.05
+LSHTM,5,9,2023,29,10,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,9.04999999999995
+LSHTM,5,9,2023,30,10,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.149999999999977,1,8
+LSHTM,5,9,2023,31,10,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,12
+LSHTM,5,9,2023,1,11,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,10.05
+LSHTM,5,9,2023,2,11,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,14
+LSHTM,5,9,2023,3,11,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,12.0999999999999
+LSHTM,5,9,2023,4,11,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,10.0999999999999
+LSHTM,5,9,2023,5,11,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,15.05
+LSHTM,5,9,2023,6,11,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,11.05
+LSHTM,5,9,2023,7,11,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,11.05
+LSHTM,5,9,2023,8,11,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,11.05
+LSHTM,5,9,2023,9,11,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,10
+LSHTM,5,9,2023,10,11,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,10.05
+LSHTM,5,9,2023,11,11,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,11
+LSHTM,5,9,2023,12,11,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,12.05
+LSHTM,5,9,2023,13,11,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,12.05
+LSHTM,5,9,2023,14,11,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,15
+LSHTM,5,9,2023,15,11,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,11.05
+LSHTM,5,9,2023,16,11,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,19.05
+LSHTM,5,9,2023,17,11,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,15.05
+LSHTM,5,9,2023,18,11,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,17
+LSHTM,5,9,2023,19,11,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,14
+LSHTM,5,9,2023,20,11,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,14
+LSHTM,5,9,2023,21,11,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,21.05
+LSHTM,5,9,2023,22,11,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,13.05
+LSHTM,5,9,2023,23,11,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,12
+LSHTM,5,9,2023,24,11,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,19
+LSHTM,5,9,2023,25,11,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,19
+LSHTM,5,9,2023,26,11,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,15.05
+LSHTM,5,9,2023,27,11,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,17
+LSHTM,5,9,2023,28,11,2023,Wales,type28_death_inc_line,EpiNow,MTP,Cases,2.0,0,All,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,17.0999999999999
+LSHTM,5,9,2023,5,9,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,40,All,11,15,20,21,25,29,30,34,36,40,42,46,49,54,59,63,68,79,93.05
+LSHTM,5,9,2023,6,9,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,40,All,8,14,20,21.8,24,27,31,34,36,40,43,46,49,54,58,65,71,79.1,97
+LSHTM,5,9,2023,7,9,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,39,All,10,14,20,21,25,29,31,32,38,39,43,47,50,53,58,65,70,80,96
+LSHTM,5,9,2023,8,9,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,39,All,9,13.9,18.85,22,23.75,29,30,32,36,39,42,46.4,48.35,53.3,59,62,69,79,96
+LSHTM,5,9,2023,9,9,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,38,All,10,13,20,21,24,27,30,32,36,38,42,46,48,52,58,61.2000000000001,70,78.1,96
+LSHTM,5,9,2023,10,9,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,38,All,10,14,19,21,22,27.7,30,33,35,38,41,44,48,52,58,62,69,79,93
+LSHTM,5,9,2023,11,9,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,40,All,9,13,17,20,24,26,31,34,36,40,43,46,51,55,60,65,73,84,100.05
+LSHTM,5,9,2023,12,9,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,40,All,10.95,15,19,22,25,27.7,31,33,37,40,43,47,51,56,61,67,75,85,104
+LSHTM,5,9,2023,13,9,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,42,All,10,15,18,22,25,28,33,34,38,42,45,50,53,57,64,71.2000000000001,77.15,88,106.1
+LSHTM,5,9,2023,14,9,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,44,All,10,14,18,22,25,28,32,35,38.55,44,45,49,54,59,64,71,79,91,110.05
+LSHTM,5,9,2023,15,9,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,43,All,11,15,19,23,23,28,32,35,38,43,45,46,54,57,62,68,75,88,106
+LSHTM,5,9,2023,16,9,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,40,All,9,13,17,21,23,27,31,33,35,40,43,46,52,55,60,67,74,85,103
+LSHTM,5,9,2023,17,9,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,39.5,All,7,13,17,21,23,27,30,33,35,39.5,43,45.4,53,56,62.25,68,77,88,107
+LSHTM,5,9,2023,18,9,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,40,All,9,13,16,21,25,28,31,34,37,40,44,49,54.35,59,64,71,80,93,115.1
+LSHTM,5,9,2023,19,9,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,43,All,9,13,18,20.8,25,28,31,36,39,43,46,51,56,59.3,68,74,84,96,119
+LSHTM,5,9,2023,20,9,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,45,All,9,14,19,22,26.75,30,33,37,39,45,47,51,57,62,70,77,86,99.1,119
+LSHTM,5,9,2023,21,9,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,45,All,9,14,19,22,26,30,34,36.6,39,45,47,51,58,63,70,76.4000000000001,88,101,126
+LSHTM,5,9,2023,22,9,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,43,All,9,14,19,21,25,29,32,37,39,43,47,51,57,61,67,74.2000000000001,84,98,122.05
+LSHTM,5,9,2023,23,9,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,40.5,All,8,13,16,21,25,28,30,36.6,39,40.5,46,50,55,60,65.5,75,82,95.1,121
+LSHTM,5,9,2023,24,9,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,41,All,7,14,18,20,25,28,32,35,37,41,46,50,56,60,65.25,73,83,98,118
+LSHTM,5,9,2023,25,9,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,41,All,7.95,14,17,21,26,30,31.65,36,38,41,48,52,56,61,68,75,86,99.2000000000001,125.05
+LSHTM,5,9,2023,26,9,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,44.5,All,8,14,20,21,27,29,33,37,40,44.5,49,54,58,63,71,80,91,108.1,136
+LSHTM,5,9,2023,27,9,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,47,All,8,15,19.85,22,27,30,34,39,43,47,52,55.4,62,67,74,81,94,111,141.05
+LSHTM,5,9,2023,28,9,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,46,All,10,15,21,23,29,31,35,39,43,46,52,54,61,68,76,85,97,113.1,143.05
+LSHTM,5,9,2023,29,9,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,44,All,8,15,17,22,26,30,33,38,42,44,50,53.4,60,67,75,83,94.15,110,138.1
+LSHTM,5,9,2023,30,9,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,44,All,7,14,17,21,26,29,31,35,40,44,47,53,58,64.3,71,79.4000000000001,90,108.1,134
+LSHTM,5,9,2023,1,10,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,44,All,7,12,17,21,24.75,29,31,37,41,44,49,53,57,64,72,80,92.15,110,139
+LSHTM,5,9,2023,2,10,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,46,All,7,13,17,22,23.75,29,32,36,40,46,50.4500000000001,54,61,67,75,83,95.15,112.1,143.1
+LSHTM,5,9,2023,3,10,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,47,All,9,14,18,23,25,30.7,35,38,43,47,52,56,62,69,78,87,101,120.1,154
+LSHTM,5,9,2023,4,10,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,48.5,All,8,13.9,20,24,27,32,37,39,43,48.5,54,58,65,71,79,90,104,124,158
+LSHTM,5,9,2023,5,10,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,50,All,8,14,21,24,28,32.7,36,40,46,50,55,61,67,74,83,92.2,106,126.1,157.15
+LSHTM,5,9,2023,6,10,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,48,All,9,13,18,23.8,25,31.7,34,38,45,48,52,56.4,62,69,79,89,103,121.2,160.05
+LSHTM,5,9,2023,7,10,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,46,All,8,12,17,23,25,31,32,35.6,41,46,49,55.4,61.35,68,76,86,101,120.1,157.05
+LSHTM,5,9,2023,8,10,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,47,All,7,11,18,23,25,31,33,38.6,42,47,52,56,62,68,78,89,101,121,156.1
+LSHTM,5,9,2023,9,10,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,49,All,8,13,18,23,25,31,35,39,42,49,52,58,66.35,74,83,93.2000000000001,109,127.2,167
+LSHTM,5,9,2023,10,10,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,50,All,8.95,13,18,23,26,30,36,40,45,50,56,61,67,73,83,95.2,110,130.1,172.05
+LSHTM,5,9,2023,11,10,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,52,All,10,13,20,23,28,31,38,40,46,52,56,63,70,77.3,88,99,114.15,139.1,188.05
+LSHTM,5,9,2023,12,10,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,52,All,10,13,20,24,27,32,37,42,47,52,57,63.4,70,79,89,100,114.15,140.2,185.15
+LSHTM,5,9,2023,13,10,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,51,All,8,13,19,23,28,32,36,41,46,51,55.4500000000001,62,70,77,86,98,111.15,136,173.05
+LSHTM,5,9,2023,14,10,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,48,All,8,12,17,22,26,29,35,38,43,48,53,59,66.35,72,82,95,109,130,171.05
+LSHTM,5,9,2023,15,10,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,48.5,All,8,12,18,22,26,30,35,39,43,48.5,54,59,67,74,83,93.4000000000001,111,133,175.1
+LSHTM,5,9,2023,16,10,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,49,All,7,12,17,22,27,31,34.65,40,45,49,57,63,70,78,88,100,115.15,140.1,190.05
+LSHTM,5,9,2023,17,10,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,50,All,7,14,17,24,27,31.7,35,41,46,50,57,64,73,81,91,103,121,149,194.05
+LSHTM,5,9,2023,18,10,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,53,All,10,15,20,25,30,33,38,43,48,53,59,66,72,82,92,105,122.3,151.1,202.1
+LSHTM,5,9,2023,19,10,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,54,All,7,13,19,25,29.75,33,38,43,48,54,60.4500000000001,67,75.7000000000001,85,96,109.4,130,158,210
+LSHTM,5,9,2023,20,10,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,51.5,All,8,13,19,24,29,34,37,41,46.55,51.5,58,66,72,81.3,93,104.2,124,145.1,198.1
+LSHTM,5,9,2023,21,10,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,50,All,7,13,16,23,25,30,34,40.6,44,50,57,63.4,69.35,79,89,102,120,145,191.05
+LSHTM,5,9,2023,22,10,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,50,All,7,12,17,22,26,30,33.65,40,44,50,56,64,70,80,88.25,100.2,117.15,142.1,190.05
+LSHTM,5,9,2023,23,10,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,52,All,7,13,17,24,27,31,36,42,45.55,52,59.4500000000001,65,70.35,81,94,106,124.15,151,198.05
+LSHTM,5,9,2023,24,10,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,53,All,8,14,17,24,27,33,37,44,47,53,60,67,75,84.3,97,109.2,127,156,214.05
+LSHTM,5,9,2023,25,10,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,56,All,8,14,18,24.8,29,34,39,44,50,56,62,70,77.35,87,97,113.2,135.15,167,223.1
+LSHTM,5,9,2023,26,10,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,56,All,8,14,18,25,29,34,38,45,51,56,62,70,77,89,102,116,134,163.1,224.05
+LSHTM,5,9,2023,27,10,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,54,All,8,14,18,24.8,28.75,33,36,44,48,54,61,69,77,85.3,99.25,112.2,133,160,217
+LSHTM,5,9,2023,28,10,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,54,All,7,12,17,21,27,31,36,41,45,54,57.4500000000001,66.4,73,82,94,109.2,128,156.2,211.05
+LSHTM,5,9,2023,29,10,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,52,All,8,14,17,21.8,28,32,36,41,46,52,56.4500000000001,64,72,81,93,107,125,155.3,214
+LSHTM,5,9,2023,30,10,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,55,All,7,13,17,23,29,33,37,42,49.55,55,60,68,75,86,99,111.2,131,158,219.1
+LSHTM,5,9,2023,31,10,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,55,All,8,14,18,24,30,34,38,43.2,50,55,62.4500000000001,70.4,80,90,100,116.2,138.15,170,229.05
+LSHTM,5,9,2023,1,11,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,59,All,9,15,18,24,30,36,40,47,53,59,65,73,82,94,106,120,142.15,174.3,234
+LSHTM,5,9,2023,2,11,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,60,All,9,17,19,25.6,31,36,40,48,53.55,60,65,74,82,94,105,121.2,143.15,175.1,236.15
+LSHTM,5,9,2023,3,11,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,57,All,8,14,18,22,29,33,38,44,50,57,62.4500000000001,70,78,89.3,103,118.2,139.15,169.1,231.1
+LSHTM,5,9,2023,4,11,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,56,All,7,13,18,23,27,30,37,42.6,49,56,60.9000000000001,66,77,87,98,112.2,133,162.3,221.2
+LSHTM,5,9,2023,5,11,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,54,All,8,13,16,19,26,30,36,40,47,54,61,69,76,88,98,116,135,165.1,218.05
+LSHTM,5,9,2023,6,11,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,56,All,7,12,17,21,29,32,38,42,49,56,60.9000000000001,71,79,89,103,119,140,169.2,235.1
+LSHTM,5,9,2023,7,11,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,58,All,7,13,18,23,28,34,39,44.6,52,58,64,74,81,92,105,124,146,178.1,247.25
+LSHTM,5,9,2023,8,11,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,60,All,9,14,19,23,31,36,40,46,53,60,67,75,85,98,112,128.2,151.15,188,255.1
+LSHTM,5,9,2023,9,11,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,61,All,9,15.9,19,25,32,36,40,47,53,61,67,75,85,95.3,108,125,149,182.1,259.05
+LSHTM,5,9,2023,10,11,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,57,All,8,13,19,23,29.75,35,39,44,51,57,64,70.8,82,91,104,122,144,179,248.05
+LSHTM,5,9,2023,11,11,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,54,All,8,11,17,20,26,32,38,42,49,54,62,67,77,90,101.25,117.2,138,170.2,233.1
+LSHTM,5,9,2023,12,11,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,54,All,7,11,17,22,26,32,37,43,47,54,61.4500000000001,69,78.35,89,101,119,141,174,233.1
+LSHTM,5,9,2023,13,11,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,57,All,8,12,17,21,26,33,37,42.6,49,57,64,71,80,92,104,119,141,171.1,240.15
+LSHTM,5,9,2023,14,11,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,58.5,All,8,12,18,23,28,35,39,45,52.1,58.5,66,74,83.35,94,109,126.2,150.3,186,253.1
+LSHTM,5,9,2023,15,11,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,60,All,9,14.9,20,24,29,36,40,47,52,60,68,74,84,96.5999999999999,113,129.2,152.15,186.1,253.05
+LSHTM,5,9,2023,16,11,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,61,All,9,15,20,25,29,37,41,47,53,61,69,76,85,97,110,126.2,152,183.1,253.05
+LSHTM,5,9,2023,17,11,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,57.5,All,8,13,19,23,29,32,39,45.6,53,57.5,66,72,81,94,106.25,122.2,144,178.3,239.1
+LSHTM,5,9,2023,18,11,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,54.5,All,7,12,18,21,27,31,38,43,48,54.5,63,69,76.35,89.3,103,119,140,172.1,232.05
+LSHTM,5,9,2023,19,11,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,53,All,7,12,18,21,25,31,36,41,45,53,59.9000000000001,65.4,77.35,87,99,115,139,174,232.1
+LSHTM,5,9,2023,20,11,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,57,All,8,12,19,22,28,34.7,40,45,50,57,65,71,81,91.3,106,125,147,184.1,247.1
+LSHTM,5,9,2023,21,11,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,59,All,8,12.9,19,23,27,35,39,45,51,59,66,73,84,96,109.25,127.2,152,189.1,254.05
+LSHTM,5,9,2023,22,11,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,59,All,8,13,19,23,28,36,40,45,51,59,67,74,86,97.3,110.25,129,153.15,191,253.1
+LSHTM,5,9,2023,23,11,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,59,All,8,13.9,19,24,29,37,40,46,52,59,67,75,86,96,108.25,127,153,187.1,261.05
+LSHTM,5,9,2023,24,11,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,57,All,8,13,18,21,27,34,40,45,51.55,57,68,74,86,95,108,125,150,185.1,246.1
+LSHTM,5,9,2023,25,11,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,53,All,7,12,17,21,26,29,36,40,46,53,60,67,77,87.3,99,118,137,171,235.05
+LSHTM,5,9,2023,26,11,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,53,All,7,11,16,21,25,30,37,40,47,53,60,67.4,75,87,99,114,136.15,171,231
+LSHTM,5,9,2023,27,11,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,54,All,7,12,17.85,21,26,32,38,43,47.55,54,60,68,79.35,89.3,104,122.2,146.15,176.1,234.1
+LSHTM,5,9,2023,28,11,2023,England,type28_death_inc_line,EpiNow,MTP,Cases,2.0,55,All,8,12,17,21,26,31,39.65,44,50,55,64,72,81.35,93,106.25,123,147,182.1,247.25
