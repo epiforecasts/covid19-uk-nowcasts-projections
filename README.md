@@ -1,6 +1,8 @@
 
 # Nowcasts and Projections for COVID-19 in the UK
 
+> **Archived.** No longer maintained; last updated November 2023.
+
 This repository contains the code required to: 
 
 - Download and clean public COVID-19 surveillance data.
